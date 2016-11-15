@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Akshay Rajhans</title>
+</head>
+<body>
+<div id="layout-content">
+<div id="toptitle">
+<h1>Akshay Rajhans</h1>
+</div>
+<table class="imgtable"><tr><td>
+<img src="files/akshay.jpeg" alt="Akshay Rajhans" />&nbsp;</td>
+<td align="left"><p>Akshay Rajhans, Ph.D. <br />
+Senior Research Scientist,<br /> MathWorks Advanced Research & Technology Office <br /><br />
+email: Akshay (dot) Rajhans (at) mathworks (dot) com<br />
+office phone: 508-647-8021<br />
+mail: 3 Apple Hill Drive, Natick, MA 01760</p>
+</td></tr></table>
+<h2>Bio and Technical Interests</h2>
+<p>I currently work at MathWorks as a Senior Research Scientist focused on <a href="http://www.mathworks.com/discovery/cyber-physical-systems.html"><i>cyber-physical systems</i></a> (CPS). Earlier, at MathWorks, I used to be a software engineer working on core semantics of Simulink. I have worked at <a href="http://www.cumminsindia.com/">Cummins India Limited</a> on the development and application engineering of electronic control systems for diesel-engine applications. As an intern at <a href="http://www.bosch.us/content/language1/html/rtc.htm">Bosch Research and Technology Center</a> in Pittsburgh, I developed a model-based approach to non-intrusive load monitoring. </p>
+<p>I have a Ph.D. in <a href="https://www.ece.cmu.edu/">Electrical and Computer Engineering</a> from <a href="http://www.cmu.edu/">Carnegie Mellon University</a> advised by <a href="https://www.ece.cmu.edu/directory/department/faculty/K/Bruce_Krogh_89.html">Prof. Bruce Krogh</a>, and an M.S. in <a href="www.ese.upenn.edu/">Electrical Engineering</a> from the <a href="www.ese.upenn.edu/">University of Pennsylvania</a> advised by <a href="https://www.seas.upenn.edu/~pappasg">Prof. George Pappas</a>. My academic research in graduate school was based in CPS domain, particularly their mathematical representations called <i>hybrid systems</i>, the use of <i>software architecture</i> principles towards CPS design and disciplined engineering, and the use of <i>formal methods</i> for providing system-level guarantees. </p>
+<p><a href="files/docs/AkshayRajhansCV.pdf">More&hellip;</a></p>
+<h2>Professional Service</h2>
+<h3>Thesis Committee</h3>
+<ul>
+<li><p>Yi Deng, <a href="https://www.ecse.rpi.edu/">ECSE Department</a>, <a href="http://rpi.edu/">Rensselaer Polytechnic Institute</a>. Thesis title: &ldquo;The Application of Trajectory-Based Analysis for Hybrid Systems,&rdquo; defended July 2015. <b>Thesis Advisor</b>: Prof. <a href="https://www.ecse.rpi.edu/homepages/agung/">A. Agung Julius</a>.</p>
+</li>
+</ul>
+<h3>Conference Program Committee</h3>
+<ul>
+<li><p>Hybrid Systems: Computation and Control (HSCC): <a href="http://hscc2017.ece.illinois.edu/">2017</a> | <a href="http://www.cs.ox.ac.uk/conferences/hscc2016/">2016</a> | 2014 (<a href="https://sites.google.com/site/hscc2014repeatability/">Repeatability Evaluation Committee</a>) </p>
+</li>
+<li><p>IFAC Conference on Analysis and Design of Hybrid Systems (ADHS): <a href="http://adhs15.gatech.edu/">2015</a></p>
+</li>
+<li><p>International Conference on Cyber-Physical Systems (ICCPS): <a href="http://iccps.acm.org/2015/">2015</a> </p>
+</li>
+<li><p>Summer Simulation Multiconference (<a href="http://www.scs.org/summersim">SummerSim</a>): 2015 | 2014 
+
+</p>
+</li>
+</ul>
+<h2>Patents</h2>
+<ul>
+<li><p>Andrews, B., Benitez, D., Raghunathan, B., Rajhans, A., &ldquo;<i>Method for Non-Intrusive Load Monitoring using a Hybrid System State Estimation Approach</i>&rdquo;, Patent No. 8209062. : <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=/netahtml/PTO/search-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN/8209062">USPTO</a> | <a href="http://www.google.com/patents/US8209062?dq=info:kNjIEMTwpFgJ:scholar.google.com">Google Scholar</a></p>
+</li>
+</ul>
+<h2>Publications </h2>
+<p>See also: <a href="http://scholar.google.com/citations?user=522zploAAAAJ&amp;hl=en">Google Scholar</a> | <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html">DBLP</a></p>
+<h3>Theses</h3>
+<ul>
+<li><p>A. Rajhans, &ldquo;<i>Multi-Model Heterogeneous Verification of Cyber-Physical Systems</i>,&rdquo; PhD Thesis, Carnegie Mellon University, 2013. <b>Thesis Advisor</b>: <a href="https://www.ece.cmu.edu/directory/department/faculty/K/Bruce_Krogh_89.html">Prof. Bruce Krogh</a>. : <a href="http://repository.cmu.edu/dissertations/251/">Research Showcase @ CMU</a></p>
+</li>
+<li><p>A. Rajhans, “<i>Development of Robust Testing Toolbox for Hybrid Systems</i>,” MSE Thesis, University of Pennsylvania, 2007. <b>Thesis Advisor</b>: <a href="https://www.seas.upenn.edu/~pappasg">Prof. George Pappas</a>.</p>
+</li>
+</ul>
+<h3>Papers</h3>
+<ul>
+<li><p>A. Rajhans, A. Bhave, I. Ruchkin, B. Krogh, D. Garlan, A. Platzer and B. Schmerl, &ldquo;<i>Supporting Heterogeneity in Cyber-Physical System Architectures</i>&rdquo;, IEEE Transactions on Automatic Control's Special Issue on Control of Cyber-Physical Systems, Vol. 59, Issue 12, pages 3178-3193. : <a href="files/papers/RajhansBR+_TAC14.pdf">Preprint</a></p>
+</li>
+<li><p>M. Althoff, A. Rajhans, B. Krogh, S. Yaldiz, X. Li and L. Pileggi, &ldquo;<i>Formal Verification of Phase-Locked Loops Using Reachability Analysis and Continuization</i>&rdquo;, Communications of the ACM, Vol. 56, Issue 10, pages: 97-104. <i><b>Research Highlight</b></i>. : <a href="files/papers/AlthoffRK+_CACM13.pdf">Preprint</a> | <a href="http://cacm.acm.org/magazines/2013/10/168175-technical-perspective-can-we-verify-cyber-physical-systems">Technical Perspective</a> by <a href="https://www.cis.upenn.edu/~alur">Prof. Rajeev Alur</a></p>
+</li>
+<li><p>Y. Deng, A. Rajhans, A. A. Julius, &ldquo;<i>STRONG: A Trajectory-Based Verification Toolbox for Hybrid Systems</i>,&rdquo; 10th International Conference on Quantitative Evaluation of SysTems (QEST 2013). : <a href="files/papers/DengRJ_QEST13.pdf">Preprint</a> | <a href="http://dengy3.myrpi.org/strong_webpage/">STRONG Tool</a></p>
+</li>
+<li><p>A. Rajhans and B. H. Krogh, “<i>Compositional heterogeneous abstraction</i>,” 16th International Conference on Hybrid Systems: Computation and Control, 2013. : <a href="files/papers/RajhansK_HSCC13.pdf">Preprint</a></p>
+</li>
+<li><p>A. Rajhans and B. H. Krogh, “<i>Heterogeneous verification of cyber-physical systems using behavior relations</i>,” 15th International Conference on Hybrid Systems: Computation and Control, 2012. : <a href="files/papers/RajhansK_HSCC12.pdf">Preprint</a></p>
+</li>
+<li><p>M. Althoff, A. Rajhans, B. H. Krogh, S. Yaldiz, X. Li and L. Pileggi, “<i>Formal Verification of Phase-Locked Loops Using Reachability Analysis and Continuization</i>,” IEEE/ACM 2011 International Conference on Computer-Aided Design (ICCAD), Nov 2011. <b><i> William J. McCalla Best Paper Award</i></b>. : <a href="files/papers/AlthoffRK+_ICCAD11.pdf">Preprint</a></p>
+</li>
+<li><p>A. Rajhans, A. Bhave, S. Loos, B. H. Krogh, A. Platzer and D. Garlan, “<i>Using Parameters in Architectural Views to Support Heterogeneous Design and Verification</i>,” 50th IEEE Conference on Decision and Control, Dec 2011. : <a href="files/papers/RajhansBL+_CDC11.pdf">Preprint</a></p>
+</li>
+<li><p>A. Bhave, D. Garlan, B. Krogh, B. Schmerl and A. Rajhans, “<i>Architectural Modeling and Analysis of Cyber-Physical Systems</i>,” Unpublished Manuscript, 2010. : <a href="files/papers/BhaveGK+_Manuscript10.pdf">Preprint</a></p>
+</li>
+<li><p>A. Bhave, D. Garlan, B. Krogh, A. Rajhans and B. Schmerl, “<i>Augmenting Software Architectures with Physical Components</i>,” Embedded Real Time Software and Systems (ERTS^2), 19-21 May 2010. : <a href="files/papers/BhaveGK+_ERTS210.pdf">Preprint</a></p>
+</li>
+<li><p>A. Rajhans, S.-W. Cheng, B. Schmerl, D. Garlan, B. H. Krogh, C. Agbi and A. Bhave, “<i>An Architectural Approach to the Design and Analysis of Cyber-Physical Systems</i>,” Third International Workshop on Multi-Paradigm Modeling, Oct 2009. : <a href="files/papers/RajhansCS+_MPM09.pdf">Preprint</a></p>
+</li>
+<li><p>A. Donzé, B. H. Krogh and A. Rajhans, “<i>Parameter Synthesis for Hybrid Systems with an Application to Simulink Models</i>,” 12th International Conference on Hybrid Systems: Computation and Control, 2009. : <a href="files/papers/DonzeKR_HSCC09.pdf">Preprint</a></p>
+</li>
+</ul>
+<h3>Peer-Reviewed Abstracts</h3>
+<ul>
+<li><p>M. Althoff, A. Rajhans, B. H. Krogh, S. Yaldiz, X. Li, L. Pileggi, &ldquo;<i>Using Continuization in Rechability Analysis for the Verification of a Phase-Locked Loop</i>&rdquo;, Frontiers in Analog Circuit (FAC) Synthesis and Verification, co-located with Computer-Aided Verification (CAV) 2011, Snowbird, UT. : <a href="files/abstracts/AlthoffRK+_FAC11.pdf">Abstract</a></p>
+</li>
+<li><p>A. Bhave, D. Garlan, B. H. Krogh, S. Loos, A. Platzer, A. Rajhans, B. Schmerl, &ldquo;<i>Multi-View Consistency in Architectures for Cyber-Physical Systems</i>,&rdquo; Safe and Secure Systems &amp; Software Symposium (S5) 2011, Beavercreek, OH. : <a href="files/abstracts/BhaveGK+_S511.pdf">Abstract</a></p>
+</li>
+</ul>
+<h3>Posters</h3>
+<ul>
+<li><p>I. Ruchkin, S. Mitsch, A. Rajhans, B. H. Krogh, D. Garlan, A. Platzer, B. Schmerl, J. Kapinski, P. Ramachandra and K. Butts, “<i>An Architectural Approach to Heterogeneous Modeling and Verification of Cyber-Physical Systems</i>”, NSF CPS PI Meeting, Arlington, VA, October 16-18, 2013. : <a href="files/posters/RuchkinMR+_CPSPI13_Poster.pdf">Poster</a> | <a href="files/posters/RuchkinMR+_CPSPI13_Abstract.pdf">Abstract</a></p>
+</li>
+<li><p>Y. Deng, A. Rajhans and A. A. Julius, &ldquo;<i>STRONG: A Trajectory-Based Verification Toolbox for Hybrid Systems</i>&rdquo;, 16th ACM International Conference on Hybrid Systems: Computation and Control (HSCC 2013), Philadelphia PA, April 8-11, 2013. : <a href="files/posters/DengRJ_HSCC13_Abstract.pdf">Abstract</a></p>
+</li>
+<li><p>A. Rajhans, &ldquo;<i>Addressing Heterogeneity in Model-Based Development of Cyber-Physical Systems</i>&rdquo;, Innovation with Impact, Carnegie Mellon University, Pittsburgh PA, April 4, 2013. : <a href="files/posters/Rajhans_InnovationWithImpact13_PosterSlides.pdf">Poster Slides</a></p>
+</li>
+<li><p>A. Rajhans, &ldquo;<i>Addressing Heterogeneity in Model-Based Development of Cyber-Physical Systems</i>&rdquo;, Google Regional PhD Summit, Google Pittsburgh, Mar 21, 2013. : <a href="files/posters/Rajhans_GooglePhDSummit13_PosterSlides.pdf">Poster Slides</a></p>
+</li>
+<li><p>A. Rajhans and B. H. Krogh, &ldquo;<i>Heterogeneous Verification of Cyber-Physical Systems using Behavior Semantics</i>&rdquo;, NSF CPS PI Meeting, National Harbor, MD, October 3-5, 2012. : <a href="files/posters/CPS-PI12.pdf">Poster</a> | <a href="files/posters/RajhansK_CPSPI12.pdf">Abstract</a></p>
+</li>
+<li><p>A. Bhave, K. Butts, D. Caveney, D. Garlan, B. Krogh, S. Loos, A. Platzer, A. Rajhans, P. Ramachandra, B. Schmerl, &ldquo;<i>An Architecture Approach to Heterogeneous Verification of Cyber-Physical Systems</i>&rdquo;, NSF CPS PI Meeting, Annapolis, MD, August 1-2, 2011. : <a href="files/posters/BhaveBC+_CPSPI11_Poster.pdf">Poster</a> | <a href="files/posters/BhaveBC+_CPSPI11_Abstract.pdf">Abstract</a></p>
+</li>
+<li><p>A. Rajhans, M. Althoff, B. Krogh, L. Pileggi, X. Li, &ldquo;<i>Investigation of Formal Verification Methods for Self-Healing Analog/RF Systems</i>&rdquo;, C2S2 Annual Review 2010, Atlanta, GA. <a href="files/posters/RajhansAK+_C2S210_Poster.pdf">Poster</a> </p>
+</li>
+<li><p>S.-W. Cheng, D. Garlan, B. Krogh, A. Rajhans, B. Schmerl and B. Sinopoli, &ldquo;<i>Design and Analysis of Cyber-Physical Architectures</i>&rdquo;, CPS Forum, co-located with the CPSWeek 2009, San Francisco, CA. : <a href="Poster">Poster</a> | <a href="files/posters/ChengGK+_CPSForum09_Abstract.pdf">Abstract</a></p>
+</li>
+</ul>
+<h2>Invited Talks </h2>
+<ul>
+<li><p><i>Recent Advancements in MathWorks Verification and Validation Tools and Techniques</i>, <a href="http://www.ls.cs.cmu.edu/CPSVVIF-2016/">CPS V&amp;V I&amp;F Workshop 2016</a>, May 2016, Carnegie Mellon University. : <a href="http://www.ls.cs.cmu.edu/CPSVVIF-2016/Participants.html#Rajhans">Talk Abstract</a> </p>
+</li>
+<li><p><i>Robustness of Temporal Logic Specifications for Testing of Signals</i>, <a href="http://www.cs.cmu.edu/~svc/">Specification and Verification Center</a> Seminar, August 2008, Carnegie Mellon University. : <a href="http://www.cs.cmu.edu/~svc/talks/20080821-rajhans.html">Talk Abstract</a> </p>
+</li>
+<li><p><i>Verification of Systems Using Robust Temporal Logic Testing</i>, <a href="http://www.cs.cmu.edu/~svc/">Specification and Verification Center</a> Seminar, August 2008, Carnegie Mellon University. : <a href="http://www.cs.cmu.edu/~svc/talks/20080829-rajhans.html">Talk Abstract</a> </p>
+</li>
+</ul>
+<div id="footer">
+<div id="footer-text">
+<<<<<<< HEAD
+Page generated 2016-08-17 16:47:17 EDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+=======
+Page generated 2016-08-17 16:53:25 EDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+>>>>>>> local
+</div>
+</div>
+</div>
+</body>
+</html>
