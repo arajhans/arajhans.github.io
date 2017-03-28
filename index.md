@@ -4,12 +4,9 @@
 ![Akshay Rajhans](files/akshay.jpeg) 
 
 ## Contact
-Akshay Rajhans, Ph.D. 
-Senior Research Scientist
-MathWorks
-3 Apple Hill Drive, Natick, MA 01760.
+Akshay Rajhans, Ph.D. \| Senior Research Scientist \| MathWorks
 
-**Email**: Akshay (dot) Rajhans (at) mathworks (dot) com \| **Office Phone**: 508-647-8021
+**Mail**: 3 Apple Hill Drive, Natick, MA 01760 | **Email**: Akshay (dot) Rajhans (at) mathworks (dot) com \| **Office Phone**: 508-647-8021
 
 ## Biographical Sketch
 I currently work at MathWorks as a Senior Research Scientist focused on cyber-physical systems (CPS). Earlier, at MathWorks, I used to be a software engineer working on core semantics of Simulink. I have worked at Cummins India Limited on the development and application engineering of electronic control systems for diesel-engine applications. As an intern at Bosch Research and Technology Center in Pittsburgh, I developed a model-based approach to non-intrusive load monitoring.
