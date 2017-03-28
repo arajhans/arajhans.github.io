@@ -18,7 +18,7 @@
 - A. Donzé, B. H. Krogh and A. Rajhans, “*Parameter Synthesis for Hybrid Systems with an Application to Simulink Models*,” 12th International Conference on Hybrid Systems: Computation and Control, 2009. \[[Preprint](files/papers/DonzeKR_HSCC09.pdf)\]
 ## Unpublished Manuscripts and Technical Reports
 - A. Bhave, D. Garlan, B. Krogh, B. Schmerl and A. Rajhans, “*Architectural Modeling and Analysis of Cyber-Physical Systems*,” Unpublished Manuscript, 2010. \[[PDF](files/papers/BhaveGK+_Manuscript10.pdf)\]
-- A. Rajhans, “*Movement Decoding for Brain Computer Interfaces*”, Project Report, 18-660: Numerical Methods for Engineering Design and Optimization, ECE Department, Carnegie Mellon University, Fall 2010. \[[PDF](files/papers/Rajhans_18660BCIReport10.pdf)\]
+- A. Rajhans, “*Movement Decoding for Brain Computer Interfaces*”, Project Report, 18-660: Numerical Methods for Engineering Design and Optimization, ECE Department, Carnegie Mellon University, Fall 2010. \[[PDF](files/papers/Rajhans_18660BCIReport.pdf)\]
 - A. Rajhans, “*Image Recovery*”, Project Report, 18-660: Numerical Methods for Engineering Design and Optimization, ECE Department, Carnegie Mellon University, Fall 2010. \[[PDF](files/papers/Rajhans_18660IRReport10.pdf)\]
 - A. Rajhans, “*2-D Thermal Analysis*”, Project Report, 18-660: Numerical Methods for Engineering Design and Optimization, ECE Department, Carnegie Mellon University, Fall 2010. \[[PDF](files/papers/Rajhans_18660TAReport10.pdf)\]
 - A. Rajhans, “*Verification of Hybrid Dynamic Systems Using Linear Hybrid Automata*”, Qualifying Examination Paper, ECE Department, Carnegie Mellon University, 2010. \[[PDF](files/papers/Rajhans_Qual10.pdf)\]
