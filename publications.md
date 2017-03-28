@@ -1,5 +1,5 @@
 # Publications
-
+===============
 [home](index.html) \| [cv](docs/AkshayRajhansCV.pdf) \| [publications](publications.html) \| [patents](patents.html) \| [talks](talks.html) \| [personal](personal.html)
 
 ## Theses
@@ -21,10 +21,11 @@
 - A. Rajhans, S.-W. Cheng, B. Schmerl, D. Garlan, B. H. Krogh, C. Agbi and A. Bhave, “An Architectural Approach to the Design and Analysis of Cyber-Physical Systems,” Third International Workshop on Multi-Paradigm Modeling (MPM), 2009. [Preprint]
 - A. Donzé, B. H. Krogh and A. Rajhans, “Parameter Synthesis for Hybrid Systems with an Application to Simulink Models,” 12th International Conference on Hybrid Systems: Computation and Control, 2009. [Preprint]
 ## Peer-Reviewed Abstracts
-----
+--------------------------
 - M. Althoff, A. Rajhans, B. H. Krogh, S. Yaldiz, X. Li, L. Pileggi, “Using Continuization in Rechability Analysis for the Verification of a Phase-Locked Loop”, Frontiers in Analog Circuit (FAC) Synthesis and Verification, co-located with Computer-Aided Verification (CAV) 2011, Snowbird, UT. [Abstract]
 - A. Bhave, D. Garlan, B. H. Krogh, S. Loos, A. Platzer, A. Rajhans, B. Schmerl, “Multi-View Consistency in Architectures for Cyber-Physical Systems,” Safe and Secure Systems & Software Symposium (S5) 2011, Beavercreek, OH. [Abstract]
 ## Posters
+----------
 - I. Ruchkin, S. Mitsch, A. Rajhans, B. H. Krogh, D. Garlan, A. Platzer, B. Schmerl, J. Kapinski, P. Ramachandra and K. Butts, “An Architectural Approach to Heterogeneous Modeling and Verification of Cyber-Physical Systems”, NSF CPS PI Meeting, Arlington, VA, October 16-18, 2013. [Poster \| Abstract]
 - Y. Deng, A. Rajhans and A. A. Julius, “STRONG: A Trajectory-Based Verification Toolbox for Hybrid Systems”, 16th ACM International Conference on Hybrid Systems: Computation and Control (HSCC 2013), Philadelphia PA, April 8-11, 2013. [Abstract]
 - A. Rajhans, “Addressing Heterogeneity in Model-Based Development of Cyber-Physical Systems”, Innovation with Impact, Carnegie Mellon University, Pittsburgh PA, April 4, 2013. [Poster Slides]
