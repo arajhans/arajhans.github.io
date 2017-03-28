@@ -26,4 +26,4 @@
 - A. Rajhans and B. H. Krogh, “Heterogeneous Verification of Cyber-Physical Systems using Behavior Semantics”, NSF CPS PI Meeting, National Harbor, MD, October 3-5, 2012. [Poster | Abstract]
 - A. Bhave, K. Butts, D. Caveney, D. Garlan, B. Krogh, S. Loos, A. Platzer, A. Rajhans, P. Ramachandra, B. Schmerl, “An Architecture Approach to Heterogeneous Verification of Cyber-Physical Systems”, NSF CPS PI Meeting, Annapolis, MD, August 1-2, 2011. [Poster | Abstract]
 - A. Rajhans, M. Althoff, B. Krogh, L. Pileggi, X. Li, “Investigation of Formal Verification Methods for Self-Healing Analog/RF Systems”, C2S2 Annual Review 2010, Atlanta, GA. [Poster]
-- S.-W. Cheng, D. Garlan, B. Krogh, A. Rajhans, B. Schmerl and B. Sinopoli, “Design and Analysis of Cyber-Physical Architectures”, CPS Forum, co-located with the CPSWeek 2009, San Francisco, CA. [Poster | Abstract]
+- S.-W. Cheng, D. Garlan, B. Krogh, A. Rajhans, B. Schmerl and B. Sinopoli, “Design and Analysis of Cyber-Physical Architectures”, CPS Forum, co-located with the CPSWeek 2009, San Francisco, CA. [Poster \| Abstract]
