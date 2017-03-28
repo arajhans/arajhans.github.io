@@ -1,7 +1,7 @@
 # Akshay Rajhans
 [home](index.html) \| [cv](files/docs/AkshayRajhansCV.pdf) \| [service](service.html) \| [publications](publications.html) \| [patents](patents.html) \| [talks](talks.html) \| [personal](personal.html)
 
-![Akshay Rajhans](files/akshay.jpeg) 
+![Akshay Rajhans](files/akshay.jpeg) |
 
 ## Contact
 Akshay Rajhans, Ph.D. <br/>
