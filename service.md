@@ -8,6 +8,7 @@
 - **CPS Track Chair**, [50th Winter Simulation Conference (WinterSim) 2017](http://meetings2.informs.org/wordpress/wsc2017/)
 - **Program Committee Chair**, MathWorks Research Summit 2017
 - **Poster and Demo Chair**, [Hybrid Systems: Computation and Control (HSCC) 2017](http://hscc2017.ece.illinois.edu/)
+- [First International Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) 2017](https://sites.google.com/view/cosimcps17/home)
 - [Computational Intelligence Techniques for Testing and Validating Complex CPSs (CITest_CPS 2017)](http://paris.utdallas.edu/CITest_CPS17)
 - [Summer Simulation Multiconference (SummerSim)](http://www.scs.org/summersim) [2017 \| 2015 \| 2014]
 - [International Conference on Informatics in Control Automation and Robotics (ICINCO) 2017](http://www.icinco.org/)
