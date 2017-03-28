@@ -2,8 +2,8 @@
 [home](index.html) \| [cv](files/docs/AkshayRajhansCV.pdf) \| [service](service.html) \| [publications](publications.html) \| [patents](patents.html) \| [talks](talks.html) \| [personal](personal.html)
 
 ## Theses
-- A. Rajhans, “Multi-Model Heterogeneous Verification of Cyber-Physical Systems,” PhD Thesis, Carnegie Mellon University, 2013. Thesis Advisor: Prof. Bruce Krogh. [Research Showcase @ CMU](http://repository.cmu.edu/dissertations/251/)
-- A. Rajhans, “Development of Robust Testing Toolbox for Hybrid Systems,” MSE Thesis, University of Pennsylvania, 2007. Thesis Advisor: Prof. George Pappas. \[[Penn Libraries Franklin Catalog](http://dla.library.upenn.edu/dla/franklin/record.html?filter.author_creator_facet.val=Rajhans%2C%20Akshay&id=FRANKLIN_4283783&)\]
+- A. Rajhans, “Multi-Model Heterogeneous Verification of Cyber-Physical Systems,” PhD Thesis, Carnegie Mellon University, 2013. Thesis Advisor: [Prof. Bruce Krogh](https://www.ece.cmu.edu/directory/department/faculty/K/Bruce_Krogh_89.html). \[[Research Showcase @ CMU](http://repository.cmu.edu/dissertations/251/)\]
+- A. Rajhans, “Development of Robust Testing Toolbox for Hybrid Systems,” MSE Thesis, University of Pennsylvania, 2007. *Thesis Advisor*: [Prof. George Pappas](https://www.seas.upenn.edu/~pappasg). \[[Penn Libraries Franklin Catalog](http://dla.library.upenn.edu/dla/franklin/record.html?filter.author_creator_facet.val=Rajhans%2C%20Akshay&id=FRANKLIN_4283783&)\]
 ## Papers
 - A. Rajhans, A. Bhave, I. Ruchkin, B. Krogh, D. Garlan, A. Platzer and B. Schmerl, “Supporting Heterogeneity in Cyber-Physical System Architectures”, IEEE Transactions on Automatic Control's Special Issue on Control of Cyber-Physical Systems, Vol. 59, Issue 12, pages 3178-3193. [Preprint]
 - M. Althoff, A. Rajhans, B. Krogh, S. Yaldiz, X. Li and L. Pileggi, “Formal Verification of Phase-Locked Loops Using Reachability Analysis and Continuization”, Communications of the ACM, Vol. 56, Issue 10, pages: 97-104. Research Highlight. [Preprint \| Technical Perspective by Prof. Rajeev Alur]
