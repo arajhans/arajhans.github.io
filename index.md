@@ -4,8 +4,8 @@
 ![Akshay Rajhans](files/akshay.jpeg) 
 
 ## Contact
-Akshay Rajhans, Ph.D. 
-Senior Research Scientist 
+Akshay Rajhans, Ph.D. <br/>
+Senior Research Scientist <br/>
 MathWorks
 
 **Mail**: 3 Apple Hill Drive, Natick, MA 01760 | **Email**: Akshay (dot) Rajhans (at) mathworks (dot) com \| **Office Phone**: 508-647-8021
