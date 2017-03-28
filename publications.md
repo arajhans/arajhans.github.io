@@ -3,10 +3,11 @@
 [home](index.html) \| [cv](docs/AkshayRajhansCV.pdf) \| [publications](publications.html) \| [patents](patents.html) \| [talks](talks.html) \| [personal](personal.html)
 
 ## Theses
+---------
 - A. Rajhans, “Multi-Model Heterogeneous Verification of Cyber-Physical Systems,” PhD Thesis, Carnegie Mellon University, 2013. Thesis Advisor: Prof. Bruce Krogh. [Research Showcase @ CMU](http://repository.cmu.edu/dissertations/251/)
-- A. Rajhans, “Development of Robust Testing Toolbox for Hybrid Systems,” MSE Thesis, University of Pennsylvania, 2007. Thesis Advisor: Prof. George Pappas. [Penn Libraries Franklin Catalog](http://dla.library.upenn.edu/dla/franklin/record.html?filter.author_creator_facet.val=Rajhans%2C%20Akshay&id=FRANKLIN_4283783&)
-====
+- A. Rajhans, “Development of Robust Testing Toolbox for Hybrid Systems,” MSE Thesis, University of Pennsylvania, 2007. Thesis Advisor: Prof. George Pappas. \[[Penn Libraries Franklin Catalog](http://dla.library.upenn.edu/dla/franklin/record.html?filter.author_creator_facet.val=Rajhans%2C%20Akshay&id=FRANKLIN_4283783&)\]
 ## Papers
+---------
 - A. Rajhans, A. Bhave, I. Ruchkin, B. Krogh, D. Garlan, A. Platzer and B. Schmerl, “Supporting Heterogeneity in Cyber-Physical System Architectures”, IEEE Transactions on Automatic Control's Special Issue on Control of Cyber-Physical Systems, Vol. 59, Issue 12, pages 3178-3193. [Preprint]
 - M. Althoff, A. Rajhans, B. Krogh, S. Yaldiz, X. Li and L. Pileggi, “Formal Verification of Phase-Locked Loops Using Reachability Analysis and Continuization”, Communications of the ACM, Vol. 56, Issue 10, pages: 97-104. Research Highlight. [Preprint \| Technical Perspective by Prof. Rajeev Alur]
 - Y. Deng, A. Rajhans, A. A. Julius, “STRONG: A Trajectory-Based Verification Toolbox for Hybrid Systems,” 10th International Conference on Quantitative Evaluation of SysTems (QEST), 2013. [Preprint \| STRONG Toolbox]
@@ -20,6 +21,7 @@
 - A. Rajhans, S.-W. Cheng, B. Schmerl, D. Garlan, B. H. Krogh, C. Agbi and A. Bhave, “An Architectural Approach to the Design and Analysis of Cyber-Physical Systems,” Third International Workshop on Multi-Paradigm Modeling (MPM), 2009. [Preprint]
 - A. Donzé, B. H. Krogh and A. Rajhans, “Parameter Synthesis for Hybrid Systems with an Application to Simulink Models,” 12th International Conference on Hybrid Systems: Computation and Control, 2009. [Preprint]
 ## Peer-Reviewed Abstracts
+
 - M. Althoff, A. Rajhans, B. H. Krogh, S. Yaldiz, X. Li, L. Pileggi, “Using Continuization in Rechability Analysis for the Verification of a Phase-Locked Loop”, Frontiers in Analog Circuit (FAC) Synthesis and Verification, co-located with Computer-Aided Verification (CAV) 2011, Snowbird, UT. [Abstract]
 - A. Bhave, D. Garlan, B. H. Krogh, S. Loos, A. Platzer, A. Rajhans, B. Schmerl, “Multi-View Consistency in Architectures for Cyber-Physical Systems,” Safe and Secure Systems & Software Symposium (S5) 2011, Beavercreek, OH. [Abstract]
 ## Posters
