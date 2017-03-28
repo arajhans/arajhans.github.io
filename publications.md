@@ -21,7 +21,7 @@
 - A. Rajhans, S.-W. Cheng, B. Schmerl, D. Garlan, B. H. Krogh, C. Agbi and A. Bhave, “An Architectural Approach to the Design and Analysis of Cyber-Physical Systems,” Third International Workshop on Multi-Paradigm Modeling (MPM), 2009. [Preprint]
 - A. Donzé, B. H. Krogh and A. Rajhans, “Parameter Synthesis for Hybrid Systems with an Application to Simulink Models,” 12th International Conference on Hybrid Systems: Computation and Control, 2009. [Preprint]
 ## Peer-Reviewed Abstracts
-
+----
 - M. Althoff, A. Rajhans, B. H. Krogh, S. Yaldiz, X. Li, L. Pileggi, “Using Continuization in Rechability Analysis for the Verification of a Phase-Locked Loop”, Frontiers in Analog Circuit (FAC) Synthesis and Verification, co-located with Computer-Aided Verification (CAV) 2011, Snowbird, UT. [Abstract]
 - A. Bhave, D. Garlan, B. H. Krogh, S. Loos, A. Platzer, A. Rajhans, B. Schmerl, “Multi-View Consistency in Architectures for Cyber-Physical Systems,” Safe and Secure Systems & Software Symposium (S5) 2011, Beavercreek, OH. [Abstract]
 ## Posters
