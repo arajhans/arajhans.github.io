@@ -8,4 +8,4 @@
 - 2009-2011: Board of Directors, [Maharashtra Mandal of Greater Pittsburgh](www.mmpgh.org).
 - 2009: Volunteer Instructor, [Summer Engineering Experience for Girls (SEE)](https://www.cmu.edu/ices/outreach/see/), Carnegie Mellon University.
 - 2009: Student Volunteer, Cyber-Physical Systems (CPS) Week, San Francisco, CA. 
-- 2002: Volunteer Instructor, *Mobile Communications*, Social Educational Activity by [IEEE Bombay Section](http://ieeebombay.org).
+- 2002: Volunteer Instructor, Social Educational Activity by [IEEE Bombay Section](http://ieeebombay.org), **_Topic_**: *Mobile Communications*.
