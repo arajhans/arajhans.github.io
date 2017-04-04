@@ -3,7 +3,7 @@
 
 - 2017-2018: Committee Member, [New England Marathi Mandal](http://www.nemm.org/index.php/aboutus/committee).
 - 2012: Master of Ceremonies, [*Rasa: A Bharatanatyam Dance Performance and Carnatic Music*](http://www.andrew.cmu.edu/user/macay/events/rasa.jpg), Society for Promotion of Indian Classical Music and Culture Amongst Youth (SPICMACAY), Pittsburgh. 
-- 2010-2012: Editor, [EGO Insider's Guide](https://www.ece.cmu.edu/~ego/files/insiders/guide2012.pdf), [ECE Graduate Organization (EGO)](https://www.ece.cmu.edu/~ego/), Carnegie Mellon University.
+- 2010-2012: Editor, [EGO Insider's Guide](http://www.ece.cmu.edu/~ego/files/insiders/guide2012.pdf), [ECE Graduate Organization (EGO)](https://www.ece.cmu.edu/~ego/), Carnegie Mellon University.
 - 2009-2011: Board of Directors, [Maharashtra Mandal of Greater Pittsburgh](http://www.mmpgh.org/committee1011.shtml).
 - 2009: Volunteer Instructor, [Summer Engineering Experience for Girls (SEE)](https://www.cmu.edu/ices/outreach/see/), Carnegie Mellon University.
 - 2009: Student Volunteer, Cyber-Physical Systems (CPS) Week, San Francisco, CA. 
