@@ -1,10 +1,10 @@
 # Outside of Work
 [home](index.html) \| [cv](files/docs/AkshayRajhansCV.pdf) \| [service](service.html) \| [publications](publications.html) \| [patents](patents.html) \| [talks](talks.html) \| [personal](personal.html)
 
-- 2017-2018: Committee Member, [New England Marathi Mandal](https://www.nemm.org).
+- 2017-2018: Committee Member, [New England Marathi Mandal](http://www.nemm.org).
 - 2012: Master of Ceremonies, [*Rasa: A Bharatanatyam Dance Performance and Carnatic Music*](http://www.andrew.cmu.edu/user/macay/events/rasa.jpg), Society for Promotion of Indian Classical Music and Culture Amongst Youth (SPICMACAY), Pittsburgh. 
 - 2010-2012: Editor, [EGO Insider's Guide](https:www.ece.cmu.edu/~ego/files/insiders/guide2012.pdf), [ECE Graduate Organization (EGO)](https://www.ece.cmu.edu/~ego/), Carnegie Mellon University.
-- 2009-2011: Board of Directors, [Maharashtra Mandal of Greater Pittsburgh](https://www.mmpgh.org).
+- 2009-2011: Board of Directors, [Maharashtra Mandal of Greater Pittsburgh](http://www.mmpgh.org).
 - 2009: Volunteer Instructor, [Summer Engineering Experience for Girls (SEE)](https://www.cmu.edu/ices/outreach/see/), Carnegie Mellon University.
 - 2009: Student Volunteer, Cyber-Physical Systems (CPS) Week, San Francisco, CA. 
 - 2002: Volunteer Instructor, Social Educational Activity by [IEEE Bombay Section](http://ieeebombay.org), **_Topic_**: *Mobile Communications*.
