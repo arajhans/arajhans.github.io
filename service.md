@@ -15,3 +15,6 @@
 - Hybrid Systems: Computation and Control (HSCC) \[[2016](http://www.cs.ox.ac.uk/conferences/hscc2016/) \| 2014 [Repeatability Evaluation Committee](https://sites.google.com/site/hscc2014repeatability/)\]
 - [IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2015](http://adhs15.gatech.edu/)
 - [International Conference on Cyber-Physical Systems (ICCPS) 2015](http://iccps.acm.org/2015/)
+
+## Panel
+- Panel on Safe Control of Connected and Autonomous Vehicles, with [Prof. Philip Koopman](https://users.ece.cmu.edu/~koopman/), [Prof. Raj Rajkumar](https://users.ece.cmu.edu/~raj/) and [Prof. Dan Work](https://publish.illinois.edu/dbwork/), [1st Workshop on Safe Control of Connected and Autonomous Vehicles (SCAV)](https://scav.in.tum.de/), affiliated with [Cyber-Physical Systems Week (CPS Week) 2017](https://cpsweek2017.ece.cmu.edu/). 
