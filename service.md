@@ -3,6 +3,7 @@
 
 ## PhD Thesis Committee
 - Yi Deng, ECSE Department, Rensselaer Polytechnic Institute. Thesis Title: “*The Application of Trajectory-Based Analysis for Hybrid Systems.*” **Thesis Advisor**: [Prof. A. Agung Julius](). \[[Rensselaer Digital Collections]()\]
+
 ## Conference Program Committee
 - **Industry Vice Chair**, IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2018
 - **CPS Track Chair**, [50th Winter Simulation Conference (WinterSim) 2017](http://meetings2.informs.org/wordpress/wsc2017/)
@@ -17,4 +18,4 @@
 - [International Conference on Cyber-Physical Systems (ICCPS) 2015](http://iccps.acm.org/2015/)
 
 ## Panel
-- Panel on Safe Control of Connected and Autonomous Vehicles, with [Prof. Philip Koopman](https://users.ece.cmu.edu/~koopman/), [Prof. Raj Rajkumar](https://users.ece.cmu.edu/~raj/) and [Prof. Dan Work](https://publish.illinois.edu/dbwork/), [1st Workshop on Safe Control of Connected and Autonomous Vehicles (SCAV)](https://scav.in.tum.de/), affiliated with [Cyber-Physical Systems Week (CPS Week) 2017](https://cpsweek2017.ece.cmu.edu/). 
+- Panelist on Safe Control of Connected and Autonomous Vehicles, with [Prof. Philip Koopman](https://users.ece.cmu.edu/~koopman/), [Prof. Raj Rajkumar](https://users.ece.cmu.edu/~raj/) and [Prof. Dan Work](https://publish.illinois.edu/dbwork/), [1st Workshop on Safe Control of Connected and Autonomous Vehicles (SCAV)](https://scav.in.tum.de/), affiliated with [Cyber-Physical Systems Week (CPS Week) 2017](https://cpsweek2017.ece.cmu.edu/). 
