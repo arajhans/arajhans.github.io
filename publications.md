@@ -4,6 +4,7 @@
 ## Theses
 - A. Rajhans, “*Multi-Model Heterogeneous Verification of Cyber-Physical Systems*,” PhD Thesis, Carnegie Mellon University, 2013. **Thesis Advisor**: [Prof. Bruce Krogh](https://www.ece.cmu.edu/directory/department/faculty/K/Bruce_Krogh_89.html). \[[Research Showcase @ CMU](http://repository.cmu.edu/dissertations/251/)\]
 - A. Rajhans, “*Development of Robust Testing Toolbox for Hybrid Systems*,” MSE Thesis, University of Pennsylvania, 2007. **Thesis Advisor**: [Prof. George Pappas](https://www.seas.upenn.edu/~pappasg). \[[Penn Libraries Franklin Catalog](http://dla.library.upenn.edu/dla/franklin/record.html?filter.author_creator_facet.val=Rajhans%2C%20Akshay&id=FRANKLIN_4283783&)\]
+
 ## Papers
 \[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) | [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
 - A. Rajhans, A. Bhave, I. Ruchkin, B. Krogh, D. Garlan, A. Platzer and B. Schmerl, “*Supporting Heterogeneity in Cyber-Physical System Architectures*”, IEEE Transactions on Automatic Control's Special Issue on Control of Cyber-Physical Systems, Vol. 59, Issue 12, pages 3178-3193. \[[Preprint](files/papers/RajhansBR+_TAC14.pdf)\]
@@ -16,6 +17,7 @@
 - A. Bhave, D. Garlan, B. Krogh, A. Rajhans and B. Schmerl, “*Augmenting Software Architectures with Physical Components*,” Embedded Real Time Software and Systems (ERTS^2), 2010. \[[Preprint](files/papers/BhaveGK+_ERTS210.pdf)\]
 - A. Rajhans, S.-W. Cheng, B. Schmerl, D. Garlan, B. H. Krogh, C. Agbi and A. Bhave, “*An Architectural Approach to the Design and Analysis of Cyber-Physical Systems*,” Third International Workshop on Multi-Paradigm Modeling (MPM), 2009. \[[Preprint](files/papers/RajhansCS+_MPM09.pdf)\]
 - A. Donzé, B. H. Krogh and A. Rajhans, “*Parameter Synthesis for Hybrid Systems with an Application to Simulink Models*,” 12th International Conference on Hybrid Systems: Computation and Control, 2009. \[[Preprint](files/papers/DonzeKR_HSCC09.pdf)\]
+
 ## Unpublished Manuscripts and Technical Reports
 - A. Bhave, D. Garlan, B. Krogh, B. Schmerl and A. Rajhans, “*Architectural Modeling and Analysis of Cyber-Physical Systems*,” Unpublished Manuscript, 2010. \[[PDF](files/papers/BhaveGK+_Manuscript10.pdf)\]
 - A. Rajhans, “*Movement Decoding for Brain Computer Interfaces*”, Project Report, 18-660: Numerical Methods for Engineering Design and Optimization, ECE Department, Carnegie Mellon University, Fall 2010. \[[PDF](files/papers/Rajhans_18660BCIReport.pdf)\]
@@ -27,9 +29,11 @@
 - A. Rajhans, "*Bistability in the lactose regulatory system of E. Coli: A discrete Markov chain approach to study the stochastically triggered induction*," Final Project Report, ESE 680: Advanced Topics in Electrical and Systems Engineering: Systems Biology, University of Pennsylvania, Spring 2007. \[[PDF](files/papers/Rajhans_ESE680Report07.pdf)\]
 - A. Gupta, B. Jumanov and A. Rajhans, "*Noise cancellation using adaptive digital filtering*," Final Project Report, ESE 531: Digital Signal Processing, University of Pennsylvania, Fall 2006. \[[PDF](files/papers/GuptaJR_ESE531Report06.pdf)\]
 - A. Rajhans and N. Shaligram, "*Application of UPPAAL for Verifying a PennShuttle Routing Problem*," Final Project Report, ESE 601: Hybrid Systems, University of Pennsylvania, Spring 2006. \[[PDF](files/papers/RajhansS_ESE601Report06.pdf)\]
+
 ## Peer-Reviewed Abstracts
 - M. Althoff, A. Rajhans, B. H. Krogh, S. Yaldiz, X. Li, L. Pileggi, “*Using Continuization in Rechability Analysis for the Verification of a Phase-Locked Loop*”, Frontiers in Analog Circuit (FAC) Synthesis and Verification, co-located with Computer-Aided Verification (CAV) 2011, Snowbird, UT. \[[Abstract](files/abstracts/AlhoffRK+_FAC11.pdf)\]
 - A. Bhave, D. Garlan, B. H. Krogh, S. Loos, A. Platzer, A. Rajhans, B. Schmerl, “*Multi-View Consistency in Architectures for Cyber-Physical Systems*,” Safe and Secure Systems & Software Symposium (S5) 2011, Beavercreek, OH. \[[Abstract](files/abstracts/BhaveGK+_S511.pdf)\]
+
 ## Posters
 - I. Ruchkin, S. Mitsch, A. Rajhans, B. H. Krogh, D. Garlan, A. Platzer, B. Schmerl, J. Kapinski, P. Ramachandra and K. Butts, “*An Architectural Approach to Heterogeneous Modeling and Verification of Cyber-Physical Systems*”, NSF CPS PI Meeting, Arlington, VA, October 16-18, 2013. \[[Poster](files/posters/RuchkinMR+_CPSPI13_Poster.pdf) \| [Abstract](files/posters/RuchkinMR+_CPSPI13_Abstract.pdf)\]
 - Y. Deng, A. Rajhans and A. A. Julius, “*STRONG: A Trajectory-Based Verification Toolbox for Hybrid Systems*”, 16th ACM International Conference on Hybrid Systems: Computation and Control (HSCC 2013), Philadelphia PA, April 8-11, 2013. \[[Abstract](files/posters/DengRJ_HSCC13_Abstract.pdf)\]
