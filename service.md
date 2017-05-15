@@ -19,3 +19,7 @@
 
 ## Panel
 - Panelist on Safe Control of Connected and Autonomous Vehicles, alongside [Prof. Philip Koopman](https://users.ece.cmu.edu/~koopman/), [Prof. Raj Rajkumar](https://users.ece.cmu.edu/~raj/) and [Prof. Dan Work](https://publish.illinois.edu/dbwork/), [1st Workshop on Safe Control of Connected and Autonomous Vehicles (SCAV)](https://scav.in.tum.de/), affiliated with [Cyber-Physical Systems Week (CPS Week) 2017](https://cpsweek2017.ece.cmu.edu/). 
+
+## Judge
+- "[*CPS V&V Grand Prix,*](http://www.cs.cmu.edu/~aplatzer/course/fcps17-competition.html)", Final Project Competition for the Spring 2017 Course [15-424/15-624/15-824 Foundations of Cyber-Physical Systems](http://www.cs.cmu.edu/~aplatzer/course/fcps17.html), Carnegie Mellon University, May 2017. **Host**: [Prof. Andre' Platzer](http://www.cs.cmu.edu/~aplatzer/). 
+- "[*CPS V&V Grand Prix,*](http://www.cs.cmu.edu/~aplatzer/course/fcps16-competition.html)", Final Project Competition for the Spring 2016 Course [15-424/15-624/15-824 Foundations of Cyber-Physical Systems](http://www.cs.cmu.edu/~aplatzer/course/fcps16.html), Carnegie Mellon University, May 2016. **Host**: [Prof. Andre' Platzer](http://www.cs.cmu.edu/~aplatzer/). 
