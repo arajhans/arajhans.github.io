@@ -18,7 +18,7 @@
 - A. Rajhans, S.-W. Cheng, B. Schmerl, D. Garlan, B. H. Krogh, C. Agbi and A. Bhave, “*An Architectural Approach to the Design and Analysis of Cyber-Physical Systems*,” Third International Workshop on Multi-Paradigm Modeling (MPM), 2009. \[[Preprint](files/papers/RajhansCS+_MPM09.pdf)\]
 - A. Donzé, B. H. Krogh and A. Rajhans, “*Parameter Synthesis for Hybrid Systems with an Application to Simulink Models*,” 12th International Conference on Hybrid Systems: Computation and Control, 2009. \[[Preprint](files/papers/DonzeKR_HSCC09.pdf)\]
 
-## Unpublished Manuscripts and Technical Reports
+## Technical Reports and Unpublished Manuscripts 
 - A. Bhave, D. Garlan, B. Krogh, B. Schmerl and A. Rajhans, “*Architectural Modeling and Analysis of Cyber-Physical Systems*,” Unpublished Manuscript, 2010. \[[PDF](files/papers/BhaveGK+_Manuscript10.pdf)\]
 - A. Rajhans, “*Movement Decoding for Brain Computer Interfaces*”, Project Report, 18-660: Numerical Methods for Engineering Design and Optimization, ECE Department, Carnegie Mellon University, Fall 2010. \[[PDF](files/papers/Rajhans_18660BCIReport.pdf)\]
 - A. Rajhans, “*Image Recovery*”, Project Report, 18-660: Numerical Methods for Engineering Design and Optimization, ECE Department, Carnegie Mellon University, Fall 2010. \[[PDF](files/papers/Rajhans_18660IRReport10.pdf)\]
