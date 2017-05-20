@@ -12,6 +12,13 @@ MathWorks
 **Email**: Akshay (dot) Rajhans (at) mathworks (dot) com <br/>
 **Office Phone**: (508)-647-8021
 
+<dl>
+<a href="https://twitter.com/rajhans" class="twitter-follow-button">Follow @rajhans</a>
+<script>!function(d,s,id){var
+js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,
+'script', 'twitter-wjs');</script>
+</dl>
+
 ## Biographical Sketch
 I currently work at [MathWorks]() as a Senior Research Scientist focused on [cyber-physical systems](http://www.mathworks.com/discovery/cyber-physical-systems.html) (CPS). Earlier, at MathWorks, I used to be a software engineer working on core semantics of [Simulink](https://www.mathworks.com/products/simulink.html). I have worked at [Cummins India Limited](http://www.cumminsindia.com/) on the development and application engineering of electronic control systems for diesel-engine applications. As an intern at [Bosch Research and Technology Center](http://www.bosch.us/content/language1/html/rtc.htm) in Pittsburgh, I developed a model-based approach to non-intrusive load monitoring.
 
