@@ -1,5 +1,5 @@
 # Professional Service
-[home](index.html) \| [cv](files/docs/AkshayRajhansCV.pdf) \| [service](service.html) \| [publications](publications.html) \| [patents](patents.html) \| [talks](talks.html) \| [personal](personal.html)
+[home](index.html) \| [bio](bio.html) \| [service](service.html) \| [publications](publications.html) \| [patents](patents.html) \| [talks](talks.html) \| [personal](personal.html)
 
 ## PhD Thesis Committee
 - Yi Deng, ECSE Department, Rensselaer Polytechnic Institute. Thesis Title: “*The Application of Trajectory-Based Analysis for Hybrid Systems.*” **Thesis Advisor**: [Prof. A. Agung Julius](). \[[Rensselaer Digital Collections]()\]
