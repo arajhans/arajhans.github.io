@@ -1,5 +1,6 @@
 # Invited Talks
-[home](index.html) \| [cv](files/docs/AkshayRajhansCV.pdf) \| [service](service.html) \| [publications](publications.html) \| [patents](patents.html) \| [talks](talks.html) \| [personal](personal.html)
+[home](index.html) \| [bio](bio.html) \| [service](service.html) \| [publications](publications.html) \| [patents](patents.html) \| [talks](talks.html) \| [personal](personal.html)
+
 - "*Model-Based Design of Connected Autonomous Vehicles,*" [2nd IEEE Summer School on Connected and Autonomous Vehicles (ConAV)](https://www.nist.gov/news-events/events/2016/08/exploring-dimensions-trustworthiness-challenges-and-opportunities), Worcester Polytechnic Institute, Worcester, MA, May 2017. **Hosts**: Prof. Alexander Wyglinski and Prof. Raghvendra Cowlagi (Program Chairs). \[[Slides]()\] 
 <dl>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Great insights on <a href="https://twitter.com/hashtag/rural?src=hash">#rural</a> vs <a href="https://twitter.com/hashtag/urban?src=hash">#urban</a> road safety by <a href="https://twitter.com/rajhans">@rajhans</a> from <a href="https://twitter.com/MathWorks">@MathWorks</a> at <a href="https://twitter.com/hashtag/conav2017?src=hash">#conav2017</a> here at <a href="https://twitter.com/WPI">@WPI</a> <a href="https://twitter.com/IEEE_VTS">@IEEE_VTS</a> <a href="https://t.co/ThC3SKYj1j">pic.twitter.com/ThC3SKYj1j</a></p>&mdash; Alex Wyglinski (@AlexWyglinski) <a href="https://twitter.com/AlexWyglinski/status/865590917855662084">May 19, 2017</a></blockquote>
