@@ -35,4 +35,4 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Capped off <a href="https://twitter.com/hashtag/cpsweek2017?src=hash">#cpsweek2017</a> with a panel on safe autonomous vehicles alongside experts from academia <a href="https://twitter.com/hashtag/scav?src=hash">#scav</a> <a href="https://t.co/vnIxSoWu18">pic.twitter.com/vnIxSoWu18</a></p>&mdash; Akshay Rajhans (@rajhans) <a href="https://twitter.com/rajhans/status/856221543399137280">April 23, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </dl>
-- **April 2017**: **Poster and Demo Chair** for [Hybrid Systems: Computation and Control (HSCC) 2017](http://hscc2017.ece.illinois.edu/)
+- **April 2017**: **Poster and Demo Chair** for [Hybrid Systems: Computation and Control (HSCC) 2017](http://hscc2017.ece.illinois.edu/), part of [Cyber-Physical Systems Week (CPS Week) 2017](https://cpsweek2017.ece.cmu.edu/).
