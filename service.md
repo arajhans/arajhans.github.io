@@ -2,10 +2,10 @@
 [home](index.html) \| [bio](bio.html) \| [service](service.html) \| [publications](publications.html) \| [patents](patents.html) \| [talks](talks.html) \| [personal](personal.html)
 
 ## PhD Thesis Committee
-- Yi Deng, ECSE Department, Rensselaer Polytechnic Institute. Thesis Title: “*The Application of Trajectory-Based Analysis for Hybrid Systems.*” **Thesis Advisor**: [Prof. A. Agung Julius](). \[[Rensselaer Digital Collections]()\]
+- Yi Deng, ECSE Department, Rensselaer Polytechnic Institute. Thesis Title: “*The Application of Trajectory-Based Analysis for Hybrid Systems.*” **Thesis Advisor**: [Prof. A. Agung Julius](https://www.ecse.rpi.edu/homepages/agung/). \[[Rensselaer Digital Collections](http://digitool.rpi.edu:8881/R/Q7XRLHP737DNTBGS3YH8M9DPXMLHDTXV5QV63VM11NES8FQFQ2-01342?func=dbin-jump-full&object_id=176756&local_base=GEN01&pds_handle=GUEST)\]
 
 ## Conference Program Committee
-- **Industry Vice Chair**, IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2018
+- **Industry Vice Chair**, [IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2018](http://www.cs.ox.ac.uk/conferences/ADHS18/)
 - **CPS Track Chair**, [50th Winter Simulation Conference (WinterSim) 2017](http://meetings2.informs.org/wordpress/wsc2017/)
 - **Program Committee Chair**, MathWorks Research Summit 2017
 - **Poster and Demo Chair**, [Hybrid Systems: Computation and Control (HSCC) 2017](http://hscc2017.ece.illinois.edu/)
