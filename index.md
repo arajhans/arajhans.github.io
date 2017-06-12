@@ -20,7 +20,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 </dl>
 
 ## News
-- **June 2017**: Invited speaker at [Robotica 2017](http://auvsinewengland.org/events-3/robotica-2017/robotica-2017-agenda/robotica-2017-program.html)
+- **June 2017**: Invited speaker at [Robotica 2017](http://auvsinewengland.org/events-3/robotica-2017/robotica-2017-agenda/robotica-2017-program.html), Newton, MA.
 - **May 2017**: Gave an invited talk at the [2nd IEEE Summer School on Connected and Autonomous Vehicles (ConAV)](https://www.nist.gov/news-events/events/2016/08/exploring-dimensions-trustworthiness-challenges-and-opportunities), Worcester Polytechnic Institute, Worcester, MA. 
 - **May 2017**: Judge "[*CPS V&V Grand Prix 2017,*](http://www.cs.cmu.edu/~aplatzer/course/fcps17-competition.html)", Final Project Competition for the Spring 2017 Course [15-424/15-624/15-824 Foundations of Cyber-Physical Systems](http://www.cs.cmu.edu/~aplatzer/course/fcps17.html), Carnegie Mellon University, May 2017. **Host**: [Prof. Andre' Platzer](http://www.cs.cmu.edu/~aplatzer/). 
 - **April 2017**: Selected on the [ACM Global Practitioner Advisory Community (ACM GPAC)](https://www.acm.org/education/gpac), consisting of 100 computing practitioners worldwide who will guide ACM in enhancing and developing practitioner-oriented resources.
