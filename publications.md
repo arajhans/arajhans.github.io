@@ -31,7 +31,7 @@
 - A. Rajhans and N. Shaligram, "*Application of UPPAAL for Verifying a PennShuttle Routing Problem*," Final Project Report, ESE 601: Hybrid Systems, University of Pennsylvania, Spring 2006. \[[PDF](files/papers/RajhansS_ESE601Report06.pdf)\]
 
 ## Peer-Reviewed Abstracts
-- M. Althoff, A. Rajhans, B. H. Krogh, S. Yaldiz, X. Li, L. Pileggi, “*Using Continuization in Rechability Analysis for the Verification of a Phase-Locked Loop*”, Frontiers in Analog Circuit (FAC) Synthesis and Verification, co-located with Computer-Aided Verification (CAV) 2011, Snowbird, UT. \[[Abstract](files/abstracts/AlhoffRK+_FAC11.pdf)\]
+- M. Althoff, A. Rajhans, B. H. Krogh, S. Yaldiz, X. Li, L. Pileggi, “*Using Continuization in Rechability Analysis for the Verification of a Phase-Locked Loop*”, Frontiers in Analog Circuit (FAC) Synthesis and Verification, co-located with Computer-Aided Verification (CAV) 2011, Snowbird, UT. \[[Abstract](files/abstracts/AlthoffRK+_FAC11.pdf)\]
 - A. Bhave, D. Garlan, B. H. Krogh, S. Loos, A. Platzer, A. Rajhans, B. Schmerl, “*Multi-View Consistency in Architectures for Cyber-Physical Systems*,” Safe and Secure Systems & Software Symposium (S5) 2011, Beavercreek, OH. \[[Abstract](files/abstracts/BhaveGK+_S511.pdf)\]
 
 ## Posters
