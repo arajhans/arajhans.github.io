@@ -28,7 +28,8 @@
 - A. Rajhans, “*A Study of Compisitional Verification of Hybrid Systems*”, Project Report, 15-819: Hybrid Systems Analysis and Theorem Proving, School of Computer Science, Carnegie Mellon University, Spring 2009. \[[PDF](files/papers/Rajhans_17755Report09.pdf)\]
 - A. Rajhans, "*Bistability in the lactose regulatory system of E. Coli: A discrete Markov chain approach to study the stochastically triggered induction*," Final Project Report, ESE 680: Advanced Topics in Electrical and Systems Engineering: Systems Biology, University of Pennsylvania, Spring 2007. \[[PDF](files/papers/Rajhans_ESE680Report07.pdf)\]
 - A. Rajhans and N. Shaligram, "*Modeling and Simulation of a Roller Racer Robot*," Final Project Report, MEAM 620: Advanced Robotics, University of Pennsylvania, Spring 2007. \[[PDF](files/papers/RajhansS_MEAM620Report07.pdf)\]
-- A. Gupta, B. Jumanov and A. Rajhans, "*Noise cancellation using adaptive digital filtering*," Final Project Report, ESE 531: Digital Signal Processing, University of Pennsylvania, Fall 2006. \[[PDF](files/papers/GuptaJR_ESE531Report06.pdf)\]
+- A. Gupta, B. Jumanov, and A. Rajhans, "*Noise cancellation using adaptive digital filtering*," Final Project Report, ESE 531: Digital Signal Processing, University of Pennsylvania, Fall 2006. \[[PDF](files/papers/GuptaJR_ESE531Report06.pdf)\]
+- V. Karmalkar, S. Shah, and A. Rajhans, "*Bankruptcy Prediction on a Real-World Dataset Using Machine Learning Algorithms* ," Final Project Report, CIS 520: Artificial Intelligence and Machine Learning, University of Pennsylvania, Fall 2006. \[[PDF](files/papers/KarmalkarSR_CIS520Report06.pdf)\]
 - A. Rajhans and N. Shaligram, "*Application of UPPAAL for Verifying a PennShuttle Routing Problem*," Final Project Report, ESE 601: Hybrid Systems, University of Pennsylvania, Spring 2006. \[[PDF](files/papers/RajhansS_ESE601Report06.pdf)\]
 
 ## Peer-Reviewed Abstracts
