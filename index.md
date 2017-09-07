@@ -20,7 +20,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 </dl>
 
 ## News
-- **September 2017**: Invited speaker at an MIT workshop on *Rethinking Modeling, Simulations and Control for the Changing Electric Energy Industry*
+- **September 2017**: Invited speaker at an [MIT workshop](talks.html) on *Rethinking Modeling, Simulations and Control for the Changing Electric Energy Industry*
 - **August 2017**: On industrial committee of [ISCAS 2018](http://www.iscas2018.org)
 - **July 2017**: Website and call for papers up for [HSCC 2018](https://www.hscc2018.deib.polimi.it), a part of CPS Week 2018. Serving as Awards Chair and a PC member. 
 - **July 2017**: Website and call for papers up for [ADHS 2018](http://www.cs.ox.ac.uk/conferences/ADHS18/), a part of [CAV 2018](http://cavconference.org/2018/) and [FLoC 2018](http://www.floc2018.org). Serving as Industry Vice Chair. 
