@@ -20,7 +20,8 @@
 - [International Conference on Cyber-Physical Systems (ICCPS) 2015](http://iccps.acm.org/2015/)
 
 ## Panel
-- Panelist on Safe Control of Connected and Autonomous Vehicles, alongside [Prof. Philip Koopman](https://users.ece.cmu.edu/~koopman/), [Prof. Raj Rajkumar](https://users.ece.cmu.edu/~raj/) and [Prof. Dan Work](https://publish.illinois.edu/dbwork/), [1st Workshop on Safe Control of Connected and Autonomous Vehicles (SCAV)](https://scav.in.tum.de/), affiliated with [Cyber-Physical Systems Week (CPS Week) 2017](https://cpsweek2017.ece.cmu.edu/).
+- **September 2017**: Panelist on the topic **Why do we need holistic concern-driven engineering?** at the [NIST CPS Framework Open Source Workshop](https://www.nist.gov/news-events/events/2017/09/cps-framework-open-source-workshop) 
+- Panelist on Safe Control of Connected and Autonomous Vehicles, [1st Workshop on Safe Control of Connected and Autonomous Vehicles (SCAV)](https://scav.in.tum.de/), affiliated with [Cyber-Physical Systems Week (CPS Week) 2017](https://cpsweek2017.ece.cmu.edu/). \[[Picture](https://twitter.com/rajhans/status/856221543399137280)\]
 
 ## Judge
 - "[*CPS V&V Grand Prix 2017,*](http://www.cs.cmu.edu/~aplatzer/course/fcps17-competition.html)", Final Project Competition for the Spring 2017 Course [15-424/15-624/15-824 Foundations of Cyber-Physical Systems](http://www.cs.cmu.edu/~aplatzer/course/fcps17.html), Carnegie Mellon University, May 2017. **Host**: [Prof. Andre' Platzer](http://www.cs.cmu.edu/~aplatzer/). 
