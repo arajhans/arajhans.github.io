@@ -20,6 +20,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 </dl>
 
 ## News
+- **September 2017**: Panelist at the [NIST CPS Framework Open Source Workshop](https://www.nist.gov/news-events/events/2017/09/cps-framework-open-source-workshop) 
 - **September 2017**: Invited speaker at an [MIT workshop](talks.html) on *Rethinking Modeling, Simulations and Control for the Changing Electric Energy Industry*
 - **August 2017**: On industrial committee of [ISCAS 2018](http://www.iscas2018.org)
 - **July 2017**: Website and call for papers up for [HSCC 2018](https://www.hscc2018.deib.polimi.it), a part of CPS Week 2018. Serving as Awards Chair and a PC member. 
