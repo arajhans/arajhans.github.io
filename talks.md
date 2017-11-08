@@ -1,6 +1,7 @@
 # Invited Talks
 [home](index.html) \| [bio](bio.html) \| [service](service.html) \| [publications](publications.html) \| [patents](patents.html) \| [talks](talks.html) \| [personal](personal.html)
 
+- "*Heterogeneous Model-Based Design of Tomorrow's Cyber-Physical Systems,*" [ECE Department Colloquia Series](http://engineering.tufts.edu/ece/colloquia/), Tufts University, Medford, MA, November 2017. **Hosts**: Prof. Usman Khan. \[[Slides]()\]
 - "*Model-Based Design of Next Generation Cyber-Physical Systems,*" LIDS, IDSS, MITei, Lincoln Labs, NSF and IWR Workshop on *Rethinking Modeling, Simulations and Control for the Changing Electric Energy Industry*, Massachusetts Institute of Technology, Camridge, MA, September 2017. **Hosts**: Prof. Marija Ilic and Prof. Ekaterina Kostina. \[[Slides](files/slides/Rajhans_MIT2017.pdf)\]
 - "*Challenges and Opportunities for Intelligent Transportation Systems,*" [Robotica 2017](http://auvsinewengland.org/events-3/robotica-2017.html), Newton, MA, June 2017. **Host**: Dr. Waseem Naqvi, AUVSI New England Chapter President (Chair). \[[Slides](files/slides/Rajhans_Robotica2017.pdf)\] 
 - "*Model-Based Design of Connected Autonomous Vehicles,*" [2nd IEEE Summer School on Connected and Autonomous Vehicles (ConAV)](http://ecewp.ece.wpi.edu/wordpress/conav/program/), Worcester Polytechnic Institute, Worcester, MA, May 2017. **Hosts**: Prof. Alexander Wyglinski and Prof. Raghvendra Cowlagi (Program Chairs). \[[Slides](files/slides/Rajhans_ConAV2017.pdf)\] 
