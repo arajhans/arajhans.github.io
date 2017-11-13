@@ -11,13 +11,14 @@
 - **CPS Track Chair**, [50th Winter Simulation Conference (WinterSim) 2017](http://meetings2.informs.org/wordpress/wsc2017/)
 - **Program Committee Chair**, MathWorks Research Summit 2017
 - **Poster and Demo Chair**, [Hybrid Systems: Computation and Control (HSCC) 2017](http://hscc2017.ece.illinois.edu/)
-- [First International Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) 2017](https://sites.google.com/view/cosimcps17/home)
-- [Computational Intelligence Techniques for Testing and Validating Complex CPSs (CITest_CPS 2017)](http://paris.utdallas.edu/CITest_CPS17)
-- [Summer Simulation Multiconference (SummerSim)](http://www.scs.org/summersim) [2017 \| 2015 \| 2014]
-- [International Conference on Informatics in Control Automation and Robotics (ICINCO) 2017](http://www.icinco.org/)
-- Hybrid Systems: Computation and Control (HSCC) \[[2016](http://www.cs.ox.ac.uk/conferences/hscc2016/) \| 2014 [Repeatability Evaluation Committee](https://sites.google.com/site/hscc2014repeatability/)\]
-- [IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2015](http://adhs15.gatech.edu/)
-- [International Conference on Cyber-Physical Systems (ICCPS) 2015](http://iccps.acm.org/2015/)
+- **Program Committee Member**
+  - Hybrid Systems: Computation and Control (HSCC) \[[2018](https://www.hscc2018.deib.polimi.it/committees) \| [2017](http://hscc2017.ece.illinois.edu/) \| [2016](http://www.cs.ox.ac.uk/conferences/hscc2016/) \| 2014 [Repeatability Evaluation Committee](https://sites.google.com/site/hscc2014repeatability/)\]
+  - [International Conference on Informatics in Control Automation and Robotics (ICINCO)](http://www.icinco.org/) \[2018 \| 2017\]
+  - [Summer Simulation Multiconference (SummerSim)](http://www.scs.org/summersim) [2017 \| 2015 \| 2014]
+  - [First International Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) 2017](https://sites.google.com/view/cosimcps17/home)
+  - [Computational Intelligence Techniques for Testing and Validating Complex CPSs (CITest_CPS 2017)](http://paris.utdallas.edu/CITest_CPS17)
+  - [IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2015](http://adhs15.gatech.edu/)
+  - [International Conference on Cyber-Physical Systems (ICCPS) 2015](http://iccps.acm.org/2015/)
 
 ## Panel
 - Panelist on **Why do we need holistic concern-driven engineering?** at the [NIST CPS Framework Open Source Workshop](https://www.nist.gov/news-events/events/2017/09/cps-framework-open-source-workshop), September 2017. 
