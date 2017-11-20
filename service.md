@@ -24,10 +24,13 @@
 - Panelist on **Why do we need holistic concern-driven engineering?** at the [NIST CPS Framework Open Source Workshop](https://www.nist.gov/news-events/events/2017/09/cps-framework-open-source-workshop), September 2017. 
 - Panelist on **Safe Control of Connected and Autonomous Vehicles**, [1st Workshop on Safe Control of Connected and Autonomous Vehicles (SCAV)](https://scav.in.tum.de/), affiliated with [Cyber-Physical Systems Week (CPS Week) 2017](https://cpsweek2017.ece.cmu.edu/), April 2017. \[[Picture](https://twitter.com/rajhans/status/856221543399137280)\]
 
-## Judge
-- "[*CPS V&V Grand Prix 2017,*](http://www.cs.cmu.edu/~aplatzer/course/fcps17-competition.html)", Final Project Competition for the Spring 2017 Course [15-424/15-624/15-824 Foundations of Cyber-Physical Systems](http://www.cs.cmu.edu/~aplatzer/course/fcps17.html), Carnegie Mellon University, May 2017. **Host**: [Prof. Andre' Platzer](http://www.cs.cmu.edu/~aplatzer/). 
-- "[*CPS V&V Grand Prix 2016,*](http://www.cs.cmu.edu/~aplatzer/course/fcps16-competition.html)", Final Project Competition for the Spring 2016 Course [15-424/15-624/15-824 Foundations of Cyber-Physical Systems](http://www.cs.cmu.edu/~aplatzer/course/fcps16.html), Carnegie Mellon University, May 2016. **Host**: [Prof. Andre' Platzer](http://www.cs.cmu.edu/~aplatzer/). 
+## Editorial Board
+- Editorial Advisory Board Member, upcoming Springer book on Resilience in Cyber-Physical Systems.
 
 ## Technical and Professional Committees
 - Selected on the [ACM Global Practitioner Advisory Community (ACM GPAC)](https://www.acm.org/education/gpac), consisting of 100 computing practitioners worldwide who will guide ACM in enhancing and developing practitioner-oriented resources.
 - Member of the [IEEE Technical Committee on Homeland Security](http://www.ieeesmc.org/technical-activities/systems-science-and-engineering/homeland-security)
+
+## Judge
+- "[*CPS V&V Grand Prix 2017,*](http://www.cs.cmu.edu/~aplatzer/course/fcps17-competition.html)", Final Project Competition for the Spring 2017 Course [15-424/15-624/15-824 Foundations of Cyber-Physical Systems](http://www.cs.cmu.edu/~aplatzer/course/fcps17.html), Carnegie Mellon University, May 2017. **Host**: [Prof. Andre' Platzer](http://www.cs.cmu.edu/~aplatzer/). 
+- "[*CPS V&V Grand Prix 2016,*](http://www.cs.cmu.edu/~aplatzer/course/fcps16-competition.html)", Final Project Competition for the Spring 2016 Course [15-424/15-624/15-824 Foundations of Cyber-Physical Systems](http://www.cs.cmu.edu/~aplatzer/course/fcps16.html), Carnegie Mellon University, May 2016. **Host**: [Prof. Andre' Platzer](http://www.cs.cmu.edu/~aplatzer/). 
