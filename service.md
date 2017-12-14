@@ -26,6 +26,7 @@
 
 ## Editorial Board
 - Editorial Advisory Board Member, upcoming Springer book on Resilience in Cyber-Physical Systems.
+- Editor, [EGO Insider's Guide](http://www.ece.cmu.edu/~ego/files/insiders/guide2012.pdf), [ECE Graduate Organization (EGO)](https://www.ece.cmu.edu/~ego/), Carnegie Mellon University, 2010-2012.
 
 ## Technical and Professional Committees
 - Selected on the [ACM Global Practitioner Advisory Community (ACM GPAC)](https://www.acm.org/education/gpac), consisting of 100 computing practitioners worldwide who will guide ACM in enhancing and developing practitioner-oriented resources.
@@ -34,3 +35,16 @@
 ## Judge
 - "[*CPS V&V Grand Prix 2017,*](http://www.cs.cmu.edu/~aplatzer/course/fcps17-competition.html)", Final Project Competition for the Spring 2017 Course [15-424/15-624/15-824 Foundations of Cyber-Physical Systems](http://www.cs.cmu.edu/~aplatzer/course/fcps17.html), Carnegie Mellon University, May 2017. **Host**: [Prof. Andre' Platzer](http://www.cs.cmu.edu/~aplatzer/). 
 - "[*CPS V&V Grand Prix 2016,*](http://www.cs.cmu.edu/~aplatzer/course/fcps16-competition.html)", Final Project Competition for the Spring 2016 Course [15-424/15-624/15-824 Foundations of Cyber-Physical Systems](http://www.cs.cmu.edu/~aplatzer/course/fcps16.html), Carnegie Mellon University, May 2016. **Host**: [Prof. Andre' Platzer](http://www.cs.cmu.edu/~aplatzer/). 
+
+## Teaching Assistantship
+- 18-474: Embedded Control Systems, Electrical and Computer Engineering Department, Carnegie Mellon University, Spring 2011. 
+- 18-474: Embedded Control Systems, Electrical and Computer Engineering Department, Carnegie Mellon University, Spring 2010.
+- MATH 114: Calculus II, Mathematics Department, University of Pennsylvania, Spring 2008.
+- MATH 114: Calculus II, Mathematics Department, University of Pennsylvania, Fall 2007.
+- ESE 210: Introduction to Dynamic Systems, Electrical and Systems Engineering Department, University of Pennsylvania, Spring 2007.
+- ESE 301: Introduction to Probability, Electrical and Systems Engineering Department, University of Pennsylvania, Fall 2006.
+- (Grader) OPIM 101: Introduction to Computer as an Analysis Tool, Operations and Information Management Department, (now called the Operations, Information and Decisions Department), Wharton School, University of Pennsylvania, Spring 2006.
+
+## Other Voluntary Instruction
+- 2009: Volunteer Instructor, [Summer Engineering Experience for Girls (SEE)](https://www.cmu.edu/ices/outreach/see/), Carnegie Mellon University.
+- 2002: Volunteer Instructor, Social Educational Activity by [IEEE Bombay Section](http://ieeebombay.org), **_Topic_**: *Mobile Communications*.
