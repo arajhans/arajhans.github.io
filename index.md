@@ -26,7 +26,6 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
   - Invited talk at the [Tufts Univeristy ECE Department Colloquia Series](http://engineering.tufts.edu/ece/colloquia/), Fall 2017.
 - **September 2017** 
   - Panelist at the [NIST CPS Framework Open Source Workshop](https://www.nist.gov/news-events/events/2017/09/cps-framework-open-source-workshop) 
-- **September 2017** 
   - Invited talk at an [MIT workshop](talks.html) on *Rethinking Modeling, Simulations and Control for the Changing Electric Energy Industry*
 - **August 2017** 
   - On the Industrial Advisory Committee of [ISCAS 2018](http://www.iscas2018.org)
