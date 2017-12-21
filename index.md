@@ -30,7 +30,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 - **August 2017** 
   - On the Industrial Advisory Committee of [ISCAS 2018](http://www.iscas2018.org)
 - **July 2017**
-  - Serving as Awards Chair and a PC member for [HSCC 2018](https://www.hscc2018.deib.polimi.it), a part of CPS Week 2018. 
+  - Serving as Awards Chair and a PC member for [HSCC 2018](https://www.hscc2018.deib.polimi.it), a part of [CPS Week 2018](https://cister.isep.ipp.pt/cpsweek2018/). 
   - Serving as Industry Vice Chair for [ADHS 2018](http://www.cs.ox.ac.uk/conferences/ADHS18/), a part of [CAV 2018](http://cavconference.org/2018/) and [FLoC 2018](http://www.floc2018.org). 
 - **June 2017**
   - Invited speaker at [Robotica 2017](http://auvsinewengland.org/events-3/robotica-2017/robotica-2017-agenda/robotica-2017-program.html), Newton, MA.
