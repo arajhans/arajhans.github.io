@@ -4,7 +4,8 @@
 ## PhD Thesis Committee
 - Yi Deng, ECSE Department, Rensselaer Polytechnic Institute. 
   - **Thesis Title**: *The Application of Trajectory-Based Analysis for Hybrid Systems.* 
-  - **Thesis Advisor**: [Prof. A. Agung Julius](https://www.ecse.rpi.edu/homepages/agung/). \[[Rensselaer Digital Collections](http://digitool.rpi.edu:8881/R/Q7XRLHP737DNTBGS3YH8M9DPXMLHDTXV5QV63VM11NES8FQFQ2-01342?func=dbin-jump-full&object_id=176756&local_base=GEN01&pds_handle=GUEST)\]
+  - **Thesis Advisor**: [Prof. A. Agung Julius](https://www.ecse.rpi.edu/homepages/agung/). 
+  - **Thesis**: \[[Rensselaer Digital Collections](http://digitool.rpi.edu:8881/R/Q7XRLHP737DNTBGS3YH8M9DPXMLHDTXV5QV63VM11NES8FQFQ2-01342?func=dbin-jump-full&object_id=176756&local_base=GEN01&pds_handle=GUEST)\]
 
 ## Conference Program Committee
 - **Industry Advisory Board Member**, [IEEE International Symposium on Circuits and Systems (ISCAS) 2018](http://www.iscas2018.org/)
