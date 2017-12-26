@@ -34,8 +34,10 @@
 - Member of the [IEEE Technical Committee on Homeland Security](http://www.ieeesmc.org/technical-activities/systems-science-and-engineering/homeland-security)
 
 ## Judge
-- "[*CPS V&V Grand Prix 2017,*](http://www.cs.cmu.edu/~aplatzer/course/fcps17-competition.html)", Final Project Competition for the Spring 2017 Course [15-424/15-624/15-824 Foundations of Cyber-Physical Systems](http://www.cs.cmu.edu/~aplatzer/course/fcps17.html), Carnegie Mellon University, May 2017. **Host**: [Prof. Andre' Platzer](http://www.cs.cmu.edu/~aplatzer/). 
-- "[*CPS V&V Grand Prix 2016,*](http://www.cs.cmu.edu/~aplatzer/course/fcps16-competition.html)", Final Project Competition for the Spring 2016 Course [15-424/15-624/15-824 Foundations of Cyber-Physical Systems](http://www.cs.cmu.edu/~aplatzer/course/fcps16.html), Carnegie Mellon University, May 2016. **Host**: [Prof. Andre' Platzer](http://www.cs.cmu.edu/~aplatzer/). 
+- "*CPS V&V Grand Prix,*", Final Project Competition for the Course 15-424/15-624/15-824 Foundations of Cyber-Physical Systems, Carnegie Mellon University. **Host**: [Prof. Andre' Platzer](http://www.cs.cmu.edu/~aplatzer/). 
+  - \[[2017 Competition](http://www.cs.cmu.edu/~aplatzer/course/fcps17-competition.html) | [2017 Course](http://www.cs.cmu.edu/~aplatzer/course/fcps17.html)\], May 2017
+  - \[[2016 Competition](http://www.cs.cmu.edu/~aplatzer/course/fcps16-competition.html) | [2016 Course](http://www.cs.cmu.edu/~aplatzer/course/fcps16.html)\], May 2016
+
 
 ## Teaching Assistantship
 - 18-474: Embedded Control Systems, Electrical and Computer Engineering Department, Carnegie Mellon University, Spring 2011. 
