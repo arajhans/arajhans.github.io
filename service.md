@@ -40,10 +40,10 @@
 
 
 ## Teaching Assistantship
-- 18-474: Embedded Control Systems, Electrical and Computer Engineering Department, Carnegie Mellon University, Spring 2011. 
-- 18-474: Embedded Control Systems, Electrical and Computer Engineering Department, Carnegie Mellon University, Spring 2010.
-- MATH 114: Calculus II, Mathematics Department, University of Pennsylvania, Spring 2008.
-- MATH 114: Calculus II, Mathematics Department, University of Pennsylvania, Fall 2007.
+- 18-474: Embedded Control Systems, Electrical and Computer Engineering Department, Carnegie Mellon University 
+  - \[Spring 2011 | Spring 2010\]
+- MATH 114: Calculus II, Mathematics Department, University of Pennsylvania
+  - \[Spring 2008 | Fall 2007\]
 - ESE 210: Introduction to Dynamic Systems, Electrical and Systems Engineering Department, University of Pennsylvania, Spring 2007.
 - ESE 301: Introduction to Probability, Electrical and Systems Engineering Department, University of Pennsylvania, Fall 2006.
 - (Grader) OPIM 101: Introduction to Computer as an Analysis Tool, Operations and Information Management Department, (now called the Operations, Information and Decisions Department), Wharton School, University of Pennsylvania, Spring 2006.
