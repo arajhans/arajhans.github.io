@@ -40,9 +40,9 @@
 
 
 ## Teaching Assistantship
-- [18-474: Embedded Control Systems](https://www.ece.cmu.edu/courses/items/18474.html), Electrical and Computer Engineering Department, Carnegie Mellon University 
+- 18-474: Embedded Control Systems, Electrical and Computer Engineering Department, Carnegie Mellon University 
   - \[Spring 2011 | Spring 2010\]
-- [MATH 114: Calculus II](https://www.math.upenn.edu/undergraduate/calculus-homepages/calculus/mathematics-114), Mathematics Department, University of Pennsylvania
+- MATH 114: Calculus II, Mathematics Department, University of Pennsylvania
   - \[Spring 2008 | Fall 2007\]
 - ESE 210: Introduction to Dynamic Systems, Electrical and Systems Engineering Department, University of Pennsylvania, Spring 2007.
 - ESE 301: Introduction to Probability, Electrical and Systems Engineering Department, University of Pennsylvania, Fall 2006.
