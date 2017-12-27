@@ -38,15 +38,15 @@
 
 ## Judge
 - "*CPS V&V Grand Prix,*", Final Project Competition for the Course 15-424/15-624/15-824 Foundations of Cyber-Physical Systems, Carnegie Mellon University. **Host**: [Prof. Andre' Platzer](http://www.cs.cmu.edu/~aplatzer/). 
-  - \[[2017 Competition](http://www.cs.cmu.edu/~aplatzer/course/fcps17-competition.html) | [2017 Course](http://www.cs.cmu.edu/~aplatzer/course/fcps17.html)\], May 2017
-  - \[[2016 Competition](http://www.cs.cmu.edu/~aplatzer/course/fcps16-competition.html) | [2016 Course](http://www.cs.cmu.edu/~aplatzer/course/fcps16.html)\], May 2016
+  - \[[2017 Competition](http://www.cs.cmu.edu/~aplatzer/course/fcps17-competition.html) \| [2017 Course](http://www.cs.cmu.edu/~aplatzer/course/fcps17.html)\], May 2017
+  - \[[2016 Competition](http://www.cs.cmu.edu/~aplatzer/course/fcps16-competition.html) \| [2016 Course](http://www.cs.cmu.edu/~aplatzer/course/fcps16.html)\], May 2016
 
 
 ## Teaching Assistantship
 - 18-474: Embedded Control Systems, Electrical and Computer Engineering Department, Carnegie Mellon University 
-  - \[Spring 2011 | Spring 2010\]
+  - \[Spring 2011 \| Spring 2010\]
 - MATH 114: Calculus II, Mathematics Department, University of Pennsylvania
-  - \[Spring 2008 | Fall 2007\]
+  - \[Spring 2008 \| Fall 2007\]
 - ESE 210: Introduction to Dynamic Systems, Electrical and Systems Engineering Department, University of Pennsylvania, Spring 2007.
 - ESE 301: Introduction to Probability, Electrical and Systems Engineering Department, University of Pennsylvania, Fall 2006.
 - (Grader) OPIM 101: Introduction to Computer as an Analysis Tool, Operations and Information Management Department, (now called the Operations, Information and Decisions Department), Wharton School, University of Pennsylvania, Spring 2006.
