@@ -14,7 +14,7 @@
 - **Awards Chair**, [Hybrid Systems: Computation and Control (HSCC) 2018](https://www.hscc2018.deib.polimi.it/committees)
 - **Industry Vice Chair**, [IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2018](http://www.cs.ox.ac.uk/conferences/ADHS18/)
 - **Program Committee Member**
-  - Numerical Software Verification (NSV) Workshop [2018](https://nsv-2018.github.io/nsv2018/)
+  - Numerical Software Verification Workshop ([NSV 2018](https://nsv-2018.github.io/nsv2018/))
 
 ### Past
 - **CPS Track Chair**, [50th Winter Simulation Conference (WinterSim) 2017](http://meetings2.informs.org/wordpress/wsc2017/)
