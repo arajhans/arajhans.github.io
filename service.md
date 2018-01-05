@@ -9,7 +9,7 @@
 
 ## Conference Program Committee
 ### Upcoming
-- **Program Committee Chair**, MathWorks Research Summit 2018
+- **Program Committee Co-Chair**, MathWorks Research Summit 2018
 - **Industry Advisory Board Member**, [IEEE International Symposium on Circuits and Systems (ISCAS) 2018](http://www.iscas2018.org/)
 - **Awards Chair**, [Hybrid Systems: Computation and Control (HSCC) 2018](https://www.hscc2018.deib.polimi.it/committees)
 - **Industry Vice Chair**, [IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2018](http://www.cs.ox.ac.uk/conferences/ADHS18/)
@@ -17,8 +17,8 @@
   - [Numerical Software Verification Workshop (NSV) 2018](https://nsv-2018.github.io/nsv2018/)
 
 ### Past
-- **CPS Track Chair**, [50th Winter Simulation Conference (WinterSim) 2017](http://meetings2.informs.org/wordpress/wsc2017/)
-- **Program Committee Chair**, MathWorks Research Summit 2017, MathWorks Asia Research Summit 2017
+- **CPS Track Co-Chair**, [50th Winter Simulation Conference (WinterSim) 2017](http://meetings2.informs.org/wordpress/wsc2017/)
+- **Program Committee Co-Chair**, MathWorks Research Summit 2017, MathWorks Asia Research Summit 2017
 - **Poster and Demo Chair**, [Hybrid Systems: Computation and Control (HSCC) 2017](http://hscc2017.ece.illinois.edu/)
 - **Program Committee Member**
   - [Hybrid Systems: Computation and Control (HSCC)](http://www.hscc-conference.org/) \[[2017](http://hscc2017.ece.illinois.edu/) \| [2016](http://www.cs.ox.ac.uk/conferences/hscc2016/) \| 2014 [Repeatability Evaluation Committee](https://sites.google.com/site/hscc2014repeatability/)\]
