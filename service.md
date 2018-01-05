@@ -21,7 +21,7 @@
 - **Program Committee Chair**, MathWorks Research Summit 2017, MathWorks Asia Research Summit 2017
 - **Poster and Demo Chair**, [Hybrid Systems: Computation and Control (HSCC) 2017](http://hscc2017.ece.illinois.edu/)
 - **Program Committee Member**
-- Hybrid Systems: Computation and Control (HSCC) \[[2017](http://hscc2017.ece.illinois.edu/) \| [2016](http://www.cs.ox.ac.uk/conferences/hscc2016/) \| 2014 [Repeatability Evaluation Committee](https://sites.google.com/site/hscc2014repeatability/)\]
+  - Hybrid Systems: Computation and Control (HSCC) \[[2017](http://hscc2017.ece.illinois.edu/) \| [2016](http://www.cs.ox.ac.uk/conferences/hscc2016/) \| 2014 [Repeatability Evaluation Committee](https://sites.google.com/site/hscc2014repeatability/)\]
   - [International Conference on Informatics in Control Automation and Robotics (ICINCO)](http://www.icinco.org/) \[2018 \| 2017\]
   - [Summer Simulation Multiconference (SummerSim)](http://www.scs.org/summersim) [2017 \| 2015 \| 2014]
   - [First International Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) 2017](https://sites.google.com/view/cosimcps17/home)
