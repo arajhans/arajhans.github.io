@@ -18,17 +18,16 @@ MathWorks
 **Email**: Akshay (dot) Rajhans (at) mathworks (dot) com <br/>
 **Office Phone**: (508)-647-8021
 
-<dl>
+| <dl>
 <a href="https://twitter.com/rajhans" class="twitter-follow-button">Follow @rajhans</a>
 <script>!function(d,s,id){var
 js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,
 'script', 'twitter-wjs');</script>
-</dl>
-
+</dl> | 
 <dl>
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
   <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="rajhans"><a class="LI-simple-link" href='https://www.linkedin.com/in/rajhans?trk=profile-badge'>Akshay Rajhans</a></div>
-  </dl>
+  </dl> |
 
 ## News
 - **December 2017** 
