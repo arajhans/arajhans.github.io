@@ -25,6 +25,11 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 'script', 'twitter-wjs');</script>
 </dl>
 
+<dl>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="rajhans"><a class="LI-simple-link" href='https://www.linkedin.com/in/rajhans?trk=profile-badge'>Akshay Rajhans</a></div>
+  </dl>
+
 ## News
 - **December 2017** 
   - Paper accepted at [HSCC 2018](https://www.hscc2018.deib.polimi.it).
