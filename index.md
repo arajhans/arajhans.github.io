@@ -7,7 +7,7 @@ I currently work at [MathWorks](https://www.mathworks.com) as a Senior Research 
 
 I have a Ph.D. in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) from [Carnegie Mellon University](https://www.cmu.edu/) advised by [Prof. Bruce Krogh](https://www.ece.cmu.edu/directory/department/faculty/K/Bruce_Krogh_89.html), and an M.S. in [Electrical Engineering](https://www.ese.upenn.edu/) from the [University of Pennsylvania](https://www.ese.upenn.edu/) advised by [Prof. George Pappas](https://www.seas.upenn.edu/~pappasg). 
 
-\[[Short Resume (1-page PDF)](files/docs/AkshayRajhansResume.pdf) \| [Long CV (6-page PDF)](files/docs/AkshayRajhansCV.pdf)\]
+[Short Resume (1-page PDF)](files/docs/AkshayRajhansResume.pdf) \| [Long CV (6-page PDF)](files/docs/AkshayRajhansCV.pdf)
 
 ## Contact
 Akshay Rajhans, Ph.D. <br/>
