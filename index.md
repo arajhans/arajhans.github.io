@@ -18,7 +18,7 @@ MathWorks
 **Email**: Akshay (dot) Rajhans (at) mathworks (dot) com <br/>
 **Office Phone**: (508)-647-8021
 
-[![Twitter](files/Twitter.png)](https://https://twitter.com/rajhans) | [![LinkedIn](files/LinkedIn.png)](https://www.linkedin.com/in/rajhans) | [![Google Scholar](files/GoogleScholar.png)](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao)
+[Twitter](https://https://twitter.com/rajhans) | [LinkedIn](https://www.linkedin.com/in/rajhans) | [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao)
 
 ## News
 - **December 2017** 
