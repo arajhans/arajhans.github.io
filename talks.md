@@ -1,5 +1,5 @@
 # Invited Talks
-[home](index.html) \| [talks](talks.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
+[home](index.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
 - "*Heterogeneous Model-Based Design of Tomorrow's Cyber-Physical Systems,*" [ECE Department Colloquia Series](http://engineering.tufts.edu/ece/colloquia/), Tufts University, Medford, MA, November 2017. **Host**: Prof. Usman Khan. \[[Slides]()\]
 - "*Model-Based Design of Next Generation Cyber-Physical Systems,*" LIDS, IDSS, MITei, Lincoln Labs, NSF and IWR Workshop on *Rethinking Modeling, Simulations and Control for the Changing Electric Energy Industry*, Massachusetts Institute of Technology, Camridge, MA, September 2017. **Hosts**: Prof. Marija Ilic and Prof. Ekaterina Kostina. \[[Slides](files/slides/Rajhans_MIT2017.pdf)\]
