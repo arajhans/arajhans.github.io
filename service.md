@@ -1,5 +1,5 @@
 # Professional Service
-[home](index.html) \| [talks](talks.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
+[home](index.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
 ## PhD Thesis Committee
 - *Yi Deng*, ECSE Department, Rensselaer Polytechnic Institute. 
