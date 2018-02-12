@@ -1,5 +1,5 @@
 # Akshay Rajhans
-[home](index.html) \| [talks](talks.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
+[home](index.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
 ![Akshay Rajhans](files/akshay.jpeg)
 
