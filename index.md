@@ -21,6 +21,8 @@ MathWorks
 [Twitter](https://twitter.com/rajhans) \| [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao)
 
 ## News
+- **February 2018**
+  - Demo accepted at [HSCC 2018](https://www.hscc2018.deib.polimi.it).
 - **December 2017** 
   - Paper accepted at [HSCC 2018](https://www.hscc2018.deib.polimi.it).
 - **November 2017** 
