@@ -22,9 +22,10 @@ MathWorks
 
 ## News
 - **February 2018**
-  - Demo accepted at [HSCC 2018](https://www.hscc2018.deib.polimi.it).
+  - Demo accepted at [HSCC 2018](https://www.hscc2018.deib.polimi.it)
 - **December 2017** 
-  - Paper accepted at [HSCC 2018](https://www.hscc2018.deib.polimi.it).
+  - On the Program Committee of [NSV 2018](https://nsv-2018.github.io/nsv2018/)
+  - Paper accepted at [HSCC 2018](https://www.hscc2018.deib.polimi.it)
 - **November 2017** 
   - Invited talk at the [Tufts Univeristy ECE Department Colloquia Series](http://engineering.tufts.edu/ece/colloquia/), Fall 2017.
 - **September 2017** 
