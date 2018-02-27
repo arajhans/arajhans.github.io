@@ -1,6 +1,11 @@
 # Publications
 [home](index.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
+<a><img src="files/pictures/defense.jpg" 
+alt="Akshay Rajhans" width="950" height="550" border="10" /></a>
+
+\[Above: PhD Thesis Defense, Carnegie Mellon University, 2013. Picture Credit: Ivan Ruchkin.\]
+
 ## Theses
 - A. Rajhans, “*Multi-Model Heterogeneous Verification of Cyber-Physical Systems*,” PhD Thesis, Carnegie Mellon University, 2013. **Thesis Advisor**: [Prof. Bruce Krogh](https://www.ece.cmu.edu/directory/department/faculty/K/Bruce_Krogh_89.html). \[[Research Showcase @ CMU](http://repository.cmu.edu/dissertations/251/)\]
 - A. Rajhans, “*Development of Robust Testing Toolbox for Hybrid Systems*,” MSE Thesis, University of Pennsylvania, 2007. **Thesis Advisor**: [Prof. George Pappas](https://www.seas.upenn.edu/~pappasg). \[[Penn Libraries Franklin Catalog](http://dla.library.upenn.edu/dla/franklin/record.html?filter.author_creator_facet.val=Rajhans%2C%20Akshay&id=FRANKLIN_4283783&)\]
