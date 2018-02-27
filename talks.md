@@ -1,6 +1,9 @@
 # Invited Talks
 [home](index.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
+<a><img src="files/pictures/talk.png" 
+alt="Akshay Rajhans" width="900" height="340" border="10" /></a>
+
 - "*Heterogeneous Model-Based Design of Tomorrow's Cyber-Physical Systems,*" [ECE Department Colloquia Series](http://engineering.tufts.edu/ece/colloquia/), Tufts University, Medford, MA, November 2017. **Host**: Prof. Usman Khan. \[[Slides]()\]
 - "*Model-Based Design of Next Generation Cyber-Physical Systems,*" LIDS, IDSS, MITei, Lincoln Labs, NSF and IWR Workshop on *Rethinking Modeling, Simulations and Control for the Changing Electric Energy Industry*, Massachusetts Institute of Technology, Camridge, MA, September 2017. **Hosts**: Prof. Marija Ilic and Prof. Ekaterina Kostina. \[[Slides](files/slides/Rajhans_MIT2017.pdf)\]
 - "*Challenges and Opportunities for Intelligent Transportation Systems,*" [Robotica 2017](http://auvsinewengland.org/events-3/robotica-2017.html), Newton, MA, June 2017. **Host**: Dr. Waseem Naqvi, AUVSI New England Chapter President (Chair). \[[Slides](files/slides/Rajhans_Robotica2017.pdf)\] 
