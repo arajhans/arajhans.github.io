@@ -6,7 +6,7 @@ alt="Akshay Rajhans" width="950" height="350" border="10" /></a>
 
 \[Above: Invited Lecture at the 2nd IEEE Summer School on Connected and Autonomous Vehicles (ConAV) at Worcester Polytechic Institue. Pitcure Credit: Prof. Alex Wyglinski.\]
 
-## Invited Lectures and Talks
+## Invited Talks
 - "*Heterogeneous Model-Based Design of Tomorrow's Cyber-Physical Systems,*" [ECE Department Colloquia Series](http://engineering.tufts.edu/ece/colloquia/), Tufts University, Medford, MA, November 2017. **Host**: Prof. Usman Khan. \[[Slides]()\]
 - "*Model-Based Design of Next Generation Cyber-Physical Systems,*" LIDS, IDSS, MITei, Lincoln Labs, NSF and IWR Workshop on *Rethinking Modeling, Simulations and Control for the Changing Electric Energy Industry*, Massachusetts Institute of Technology, Camridge, MA, September 2017. **Hosts**: Prof. Marija Ilic and Prof. Ekaterina Kostina. \[[Slides](files/slides/Rajhans_MIT2017.pdf)\]
 - "*Challenges and Opportunities for Intelligent Transportation Systems,*" [Robotica 2017](http://auvsinewengland.org/events-3/robotica-2017.html), Newton, MA, June 2017. **Host**: Dr. Waseem Naqvi, AUVSI New England Chapter President (Chair). \[[Slides](files/slides/Rajhans_Robotica2017.pdf)\] 
