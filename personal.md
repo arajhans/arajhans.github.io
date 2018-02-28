@@ -2,7 +2,7 @@
 [home](index.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
 <a><img src="files/pictures/rasa.jpg" 
-alt="Akshay Rajhans" width="250" height="375" border="10" /></a>
+alt="Akshay Rajhans" width="300" border="10" /></a>
 
 \[Above: Master of Ceremonies at RASA: A Bharatanatyam Dance Performance and Carnatic Music, a SPICMACAY Concert, Pittsburgh, 2012.\]
 
