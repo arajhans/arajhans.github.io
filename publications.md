@@ -2,7 +2,7 @@
 [home](index.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
 <a><img src="files/pictures/defense.png" 
-alt="Akshay Rajhans" width="950" height="550" border="10" /></a>
+alt="Akshay Rajhans" width="950" border="10" /></a>
 
 \[Above: PhD Thesis Defense, Carnegie Mellon University, 2013. Picture Credit: Ivan Ruchkin.\]
 
