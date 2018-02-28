@@ -2,7 +2,7 @@
 [home](index.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
 <a><img src="files/pictures/talk.png" 
-alt="Akshay Rajhans" width="950" height="350" border="10" /></a>
+alt="Akshay Rajhans" width="950" border="10" /></a>
 
 \[Above: Invited Lecture at the 2nd IEEE Summer School on Connected and Autonomous Vehicles (ConAV) at Worcester Polytechic Institue. Pitcure Credit: Prof. Alex Wyglinski.\]
 
