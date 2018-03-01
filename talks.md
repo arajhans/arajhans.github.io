@@ -4,7 +4,7 @@
 <a><img src="files/pictures/talk.png" 
 alt="Akshay Rajhans" width="950" border="10" /></a>
 
-\[Above: Invited Lecture at the 2nd IEEE Summer School on Connected and Autonomous Vehicles (ConAV) at Worcester Polytechic Institue. Pitcure Credit: Prof. Alex Wyglinski.\]
+\[Above: Invited Lecture at the 2nd IEEE Summer School on Connected and Autonomous Vehicles (ConAV) at Worcester Polytechnic Institute. Pitcure Credit: Prof. Alex Wyglinski.\]
 
 ## Invited Talks
 - "*Heterogeneous Model-Based Design of Tomorrow's Cyber-Physical Systems,*" [ECE Department Colloquia Series](http://engineering.tufts.edu/ece/colloquia/), Tufts University, Medford, MA, November 2017. **Host**: Prof. Usman Khan. \[[Slides]()\]
