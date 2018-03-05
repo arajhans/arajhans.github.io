@@ -1,8 +1,24 @@
 # Akshay Rajhans
 [home](index.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
-<a><img src="files/pictures/arajhans.jpg" 
-alt="Akshay Rajhans" width="240" border="10" /></a>
+<table>
+  <tr>
+    <td><a><img src="files/pictures/arajhans.jpg" 
+alt="Akshay Rajhans" width="240" border="10" /></a></td>
+    <td> Akshay Rajhans, Ph.D. <br/>
+Senior Research Scientist <br/>
+MathWorks <br/><br/>
+
+**Mail**: 3 Apple Hill Drive, Natick, MA 01760 <br/>
+**Email**: Akshay (dot) Rajhans (at) mathworks (dot) com <br/>
+**Office Phone**: (508)-647-8021<br/>
+
+[Twitter](https://twitter.com/rajhans) \| [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao)
+</td>
+  </tr>
+</table>
+
+
 
 ## About Me
 I currently work at [MathWorks](https://www.mathworks.com) as a Senior Research Scientist focused on [cyber-physical systems](http://www.mathworks.com/discovery/cyber-physical-systems.html) (CPS). Earlier, at MathWorks, I used to be a software engineer working on core semantics of [Simulink](https://www.mathworks.com/products/simulink.html). As an intern at [Bosch Research and Technology Center](http://www.bosch.us/content/language1/html/rtc.htm) in Pittsburgh, I developed a model-based approach to non-intrusive load monitoring. At [Cummins](http://www.cumminsindia.com/), I worked on the development and application engineering of electronic control systems for diesel-engine applications. 
@@ -10,17 +26,6 @@ I currently work at [MathWorks](https://www.mathworks.com) as a Senior Research 
 I have a Ph.D. in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) from [Carnegie Mellon University](https://www.cmu.edu/) advised by [Prof. Bruce Krogh](https://www.ece.cmu.edu/directory/department/faculty/K/Bruce_Krogh_89.html), and an M.S. in [Electrical Engineering](https://www.ese.upenn.edu/) from the [University of Pennsylvania](https://www.ese.upenn.edu/) advised by [Prof. George Pappas](https://www.seas.upenn.edu/~pappasg). 
 
 [Short Resume (1-page PDF)](files/docs/AkshayRajhansResume.pdf) \| [Long CV (6-page PDF)](files/docs/AkshayRajhansCV.pdf)
-
-## Contact
-Akshay Rajhans, Ph.D. <br/>
-Senior Research Scientist <br/>
-MathWorks
-
-**Mail**: 3 Apple Hill Drive, Natick, MA 01760 <br/>
-**Email**: Akshay (dot) Rajhans (at) mathworks (dot) com <br/>
-**Office Phone**: (508)-647-8021
-
-[Twitter](https://twitter.com/rajhans) \| [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao)
 
 ## News
 - **February 2018**
