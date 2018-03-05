@@ -32,6 +32,7 @@ alt="Akshay Rajhans" width="950" border="10" /></a>
 - A. Rajhans, “*Verification of Hybrid Dynamic Systems Using Linear Hybrid Automata*”, Qualifying Examination Paper, ECE Department, Carnegie Mellon University, 2010. \[[PDF](files/papers/Rajhans_Qual10.pdf)\]
 
 ## Peer-Reviewed Abstracts
+- A. Rajhans, S. Avadhanula, A. Chutinan, P. J. Mosterman, and F. Zhang, “*Graphical Hybrid Automata with Simulink and Stateflow*,” 21st International Conference on Hybrid Systems: Computation and Control, 2018, **Accepted**. \[[Preprint](files/abstracts/RajhansAC+_HSCC2018_demo.pdf)\]
 - M. Althoff, A. Rajhans, B. H. Krogh, S. Yaldiz, X. Li, and L. Pileggi, “*Using Continuization in Rechability Analysis for the Verification of a Phase-Locked Loop*”, Frontiers in Analog Circuit (FAC) Synthesis and Verification, co-located with Computer-Aided Verification (CAV) 2011, Snowbird, UT. \[[Abstract](files/abstracts/AlthoffRK+_FAC11.pdf)\]
 - A. Bhave, D. Garlan, B. H. Krogh, S. Loos, A. Platzer, A. Rajhans, and B. Schmerl, “*Multi-View Consistency in Architectures for Cyber-Physical Systems*,” Safe and Secure Systems & Software Symposium (S5) 2011, Beavercreek, OH. \[[Abstract](files/abstracts/BhaveGK+_S511.pdf)\]
 
