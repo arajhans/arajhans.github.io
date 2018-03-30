@@ -1,5 +1,5 @@
 # Outside of Work
-[home](index.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
+[home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
 <a><img src="files/pictures/rasa.jpg" 
 alt="Akshay Rajhans" width="300" border="10" /></a>
