@@ -1,5 +1,5 @@
 # Biographical Sketch
-[home](index.html) \| [bio](bio.html) \| [service](service.html) \| [publications](publications.html) \| [patents](patents.html) \| [talks](talks.html) \| [personal](personal.html)
+[home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
 ## Biography
 
