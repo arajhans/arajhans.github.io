@@ -16,6 +16,12 @@ MathWorks <br/>
 [Twitter](https://twitter.com/rajhans) \| [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao)
 
 ## News
+- **April 2018**
+  - Invited speaker at the NSF Visioning Workshop on International Networks for Advancing CPS Research, Development, and Education Worldwide, part of CPS Week 2018.
+  - Panelist on the [Joint HSCC-ICCPS Panel at CPS Week 2018](/panels.html#panelist).
+  - Panelist on the [MCIAAS Panel at SpringSim 2018](/panels.html#panelist).
+- **March 2018** 
+  - Abstract accepted at the NSF Visioning Workshop on International Networks for Advancing CPS Research, Development, and Education Worldwide, part of CPS Week 2018.
 - **February 2018**
   - Demo accepted at [HSCC 2018](https://www.hscc2018.deib.polimi.it)
 - **December 2017** 
