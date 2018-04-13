@@ -21,7 +21,7 @@ MathWorks <br/>
   - [Panelist](/panels.html#panelist) on the Joint HSCC-ICCPS Panel at CPS Week 2018.
   - [Panelist](/panels.html#panelist) on the MSCIAAS Panel at SpringSim 2018.
 - **March 2018** 
-  - [Abstract](/publications.html#abstracts) accepted at the NSF Visioning Workshop on International Networks for Advancing CPS Research, Development, and Education Worldwide, part of CPS Week 2018.
+  - [Abstract](/publications.html#peer-reviewed-abstracts) accepted at the NSF Visioning Workshop on International Networks for Advancing CPS Research, Development, and Education Worldwide, part of CPS Week 2018.
 - **February 2018**
   - Demo accepted at [HSCC 2018](https://www.hscc2018.deib.polimi.it)
 - **December 2017** 
