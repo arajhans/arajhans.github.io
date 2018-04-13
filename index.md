@@ -21,7 +21,7 @@ MathWorks <br/>
   - [Panelist](/panels.html#panelist) on the Joint HSCC-ICCPS Panel at CPS Week 2018.
   - [Panelist](/panels.html#panelist) on the MSCIAAS Panel at SpringSim 2018.
 - **March 2018** 
-  - Abstract accepted at the NSF Visioning Workshop on International Networks for Advancing CPS Research, Development, and Education Worldwide, part of CPS Week 2018.
+  - [Abstract](/publications.html#abstracts) accepted at the NSF Visioning Workshop on International Networks for Advancing CPS Research, Development, and Education Worldwide, part of CPS Week 2018.
 - **February 2018**
   - Demo accepted at [HSCC 2018](https://www.hscc2018.deib.polimi.it)
 - **December 2017** 
@@ -42,7 +42,3 @@ MathWorks <br/>
 - **May 2017**
   - Invited lecture at the [2nd IEEE Summer School on Connected and Autonomous Vehicles (ConAV)](https://www.nist.gov/news-events/events/2016/08/exploring-dimensions-trustworthiness-challenges-and-opportunities), Worcester Polytechnic Institute, Worcester, MA. 
   - Judge "[*CPS V&V Grand Prix 2017,*](http://www.cs.cmu.edu/~aplatzer/course/fcps17-competition.html)", Final Project Competition for the Spring 2017 Course [15-424/15-624/15-824 Foundations of Cyber-Physical Systems](http://www.cs.cmu.edu/~aplatzer/course/fcps17.html), Carnegie Mellon University, May 2017. **Host**: [Prof. Andre' Platzer](http://www.cs.cmu.edu/~aplatzer/). 
-- **April 2017**
-  - Selected on the [ACM Global Practitioner Advisory Community (ACM GPAC)](https://www.acm.org/education/gpac), consisting of 100 computing practitioners worldwide who will guide ACM in enhancing and developing practitioner-oriented resources.
-  - Panelist alongside [Prof. Philip Koopman](https://users.ece.cmu.edu/~koopman/), [Prof. Raj Rajkumar](https://users.ece.cmu.edu/~raj/), and [Prof. Dan Work](https://publish.illinois.edu/dbwork/), [1st Workshop on Safe Control of Connected and Autonomous Vehicles (SCAV)](https://scav.in.tum.de/), affiliated with [Cyber-Physical Systems Week (CPS Week) 2017](https://cpsweek2017.ece.cmu.edu/).
-  - Poster and Demo Chair for [Hybrid Systems: Computation and Control (HSCC) 2017](http://hscc2017.ece.illinois.edu/), part of [Cyber-Physical Systems Week (CPS Week) 2017](https://cpsweek2017.ece.cmu.edu/).
