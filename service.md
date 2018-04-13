@@ -8,9 +8,7 @@
 ## Conference Program Committee
 ### Upcoming
 - **Program Committee Co-Chair**, MathWorks Research Summit 2018
-- **Industry Advisory Board Member**, [IEEE International Symposium on Circuits and Systems (ISCAS) 2018](http://www.iscas2018.org/)
 - **Awards Chair**, [Hybrid Systems: Computation and Control (HSCC) 2018](https://www.hscc2018.deib.polimi.it/committees)
-- **Industry Vice Chair**, [IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2018](http://www.cs.ox.ac.uk/conferences/ADHS18/)
 - **Program Committee Member**
   - [Winter Simulation Conference 2018, CPS Track]()
   - [Numerical Software Verification Workshop (NSV) 2018](https://nsv-2018.github.io/nsv2018/)
@@ -29,7 +27,12 @@
   - [IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2015](http://adhs15.gatech.edu/)
   - [International Conference on Cyber-Physical Systems (ICCPS) 2015](http://iccps.acm.org/2015/)
 
-## Editorial Board
+## Industry Advisory Committees and Boards
+- **Industry Advisory Committee Member**, Autonomous Systems Specialization Coursework in [Robotics Engineering](https://www.wpi.edu/academics/departments/robotics-engineering), [Worcester Polytechnic Institute](https://www.wpi.edu/).
+- **Industry Vice Chair**, [IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2018](http://www.cs.ox.ac.uk/conferences/ADHS18/)
+- **Industry Advisory Board Member**, [IEEE International Symposium on Circuits and Systems (ISCAS) 2018](http://www.iscas2018.org/)
+
+## Editorial Boards
 - Editorial Advisory Board Member, upcoming Springer book on Resilience in Cyber-Physical Systems.
 - Editor, [EGO Insider's Guide](http://www.ece.cmu.edu/~ego/files/insiders/guide2012.pdf), [ECE Graduate Organization (EGO)](https://www.ece.cmu.edu/~ego/), Carnegie Mellon University, 2010-2012.
 
