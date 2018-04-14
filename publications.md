@@ -29,7 +29,7 @@ alt="Akshay Rajhans" width="950" border="10" /></a>
 
 ## Peer-Reviewed Abstracts
 - A. Rajhans and P. J. Mosterman, "*A Vision for Application-Focused International Collaboration Networks in CPS*", [NSF Visioning Workshop for International Collaborations for Advancing CPS Research, Development, and Education Worldwide](https://cps-vo.org/group/cpsweek2018-intlwksp), part of [CPS Week 2018](https://cister.isep.ipp.pt/cpsweek2018/). \[[Abstract](files/abstracts/RajhansM_VisioningWorkshop_CPSWeek2018.pdf)\]
-- A. Rajhans, S. Avadhanula, A. Chutinan, P. J. Mosterman, and F. Zhang, “*Graphical Hybrid Automata with Simulink and Stateflow*,” 21st International Conference on Hybrid Systems: Computation and Control, 2018, **Accepted**. \[[Preprint](files/abstracts/RajhansAC+_HSCC2018_demo.pdf)\]
+- A. Rajhans, S. Avadhanula, A. Chutinan, P. J. Mosterman, and F. Zhang, “*Graphical Hybrid Automata with Simulink and Stateflow*,” 21st International Conference on Hybrid Systems: Computation and Control, 2018. \[[Preprint](files/abstracts/RajhansAC+_HSCC2018_demo.pdf)\]
 - M. Althoff, A. Rajhans, B. H. Krogh, S. Yaldiz, X. Li, and L. Pileggi, “*Using Continuization in Rechability Analysis for the Verification of a Phase-Locked Loop*”, Frontiers in Analog Circuit (FAC) Synthesis and Verification, co-located with Computer-Aided Verification (CAV) 2011, Snowbird, UT. \[[Abstract](files/abstracts/AlthoffRK+_FAC11.pdf)\]
 - A. Bhave, D. Garlan, B. H. Krogh, S. Loos, A. Platzer, A. Rajhans, and B. Schmerl, “*Multi-View Consistency in Architectures for Cyber-Physical Systems*,” Safe and Secure Systems & Software Symposium (S5) 2011, Beavercreek, OH. \[[Abstract](files/abstracts/BhaveGK+_S511.pdf)\]
 
