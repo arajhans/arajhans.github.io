@@ -17,6 +17,7 @@ MathWorks <br/>
 
 ## News
 - **April 2018**
+  - [HSCC 2018 Paper](/publications.html#papers) selected as a Best Repeatability Evaluation Award Finalist.
   - [Invited speaker](/talks.html#invited-talks-1) at the NSF Visioning Workshop on International Networks for Advancing CPS Research, Development, and Education Worldwide, part of CPS Week 2018.
   - [Panelist](/panels.html#panelist) on the Joint HSCC-ICCPS Panel at CPS Week 2018.
   - [Panelist](/panels.html#panelist) on the MSCIAAS Panel at SpringSim 2018.
