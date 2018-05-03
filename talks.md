@@ -1,7 +1,7 @@
 # Invited Talks
 [home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
-<a><img src="files/pictures/cpsweek.png" 
+<a><img src="files/pictures/cpsweek.jpg" 
 alt="Akshay Rajhans" width="450" border="10" /></a>
 
 \[Pitcure Credit: CPS Week 2018 organizers.\]
