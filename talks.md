@@ -1,10 +1,10 @@
 # Invited Talks
 [home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
-<a><img src="files/pictures/talk.png" 
-alt="Akshay Rajhans" width="950" border="10" /></a>
+<a><img src="files/pictures/cpsweek.png" 
+alt="Akshay Rajhans" width="450" border="10" /></a>
 
-\[Above: Invited Lecture at the 2nd IEEE Summer School on Connected and Autonomous Vehicles (ConAV) at Worcester Polytechnic Institute. Pitcure Credit: Prof. Alex Wyglinski.\]
+\[Pitcure Credit: CPS Week 2018 organizers.\]
 
 ## Invited Talks
 - "*A Vision for Application-Focused International Collaboration Networks in Cyber-Physical Systems,*", an [NSF Visioning Workshop on International Networks for Advancing CPS Research, Development, and Education Worldwide](https://cps-vo.org/group/cpsweek2018-intlwksp), part of [CPS Week 2018](https://cister.isep.ipp.pt/cpsweek2018/), Porto, Portugal, April 2018. **Hosts**: Seta Bogosyan (NSF), Frankie King (Vanderbilt University), Ralph Wachter (NSF), Workshop Organizers.
