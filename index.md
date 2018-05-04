@@ -16,6 +16,8 @@ MathWorks <br/>
 [Twitter](https://twitter.com/rajhans) \| [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao)
 
 ## News
+- **May 2018**
+  - CPS Track Chair for Spring Simulation Multi-Conference (SpringSim) 2019
 - **April 2018**
   - [HSCC 2018 Paper](/publications.html#papers) selected as a Best Repeatability Evaluation Award Finalist.
   - [Invited speaker](/talks.html#invited-talks-1) at the NSF Visioning Workshop on International Networks for Advancing CPS Research, Development, and Education Worldwide, part of CPS Week 2018.
@@ -34,7 +36,7 @@ MathWorks <br/>
   - Panelist at the [NIST CPS Framework Open Source Workshop](https://www.nist.gov/news-events/events/2017/09/cps-framework-open-source-workshop) 
   - Invited talk at an [MIT workshop](talks.html) on *Rethinking Modeling, Simulations and Control for the Changing Electric Energy Industry*
 - **August 2017** 
-  - On the Industrial Advisory Committee of [ISCAS 2018](http://www.iscas2018.org)
+  - On the [Industrial Board](http://www.iscas2018.org/industrial-board/) of [ISCAS 2018](http://www.iscas2018.org)
 - **July 2017**
   - Awards Chair and a PC member for [HSCC 2018](https://www.hscc2018.deib.polimi.it), a part of [CPS Week 2018](https://cister.isep.ipp.pt/cpsweek2018/). 
   - Industry Vice Chair for [ADHS 2018](http://www.cs.ox.ac.uk/conferences/ADHS18/), a part of [CAV 2018](http://cavconference.org/2018/) and [FLoC 2018](http://www.floc2018.org). 
