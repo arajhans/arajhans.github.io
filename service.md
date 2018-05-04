@@ -7,7 +7,10 @@
 
 ## Conference Program Committee
 ### Upcoming
-- **Program Committee Co-Chair**, MathWorks Research Summit 2018
+- **CPS Track Chair**, Spring Simulation Multi-Conference (SpringSim) 2019
+- **Program Committee Co-Chair** 
+  - MathWorks Asia Research Summit 2018
+  - MathWorks Research Summit 2018
 - **Awards Chair**, [Hybrid Systems: Computation and Control (HSCC) 2018](https://www.hscc2018.deib.polimi.it/committees)
 - **Program Committee Member**
   - [Winter Simulation Conference 2018, CPS Track]()
@@ -15,7 +18,7 @@
   - [Second Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) 2018](https://sites.google.com/view/cosimcps18)
 
 ### Past
-- **CPS Track Co-Chair**, [50th Winter Simulation Conference (WinterSim) 2017](http://meetings2.informs.org/wordpress/wsc2017/)
+- **CPS Track Co-Chair**, [50th Winter Simulation Conference (WinterSim) 2017](http://meetings2.informs.org/wordpress/wsc2017/tracks/#cyPhySys)
 - **Program Committee Co-Chair**, MathWorks Research Summit 2017, MathWorks Asia Research Summit 2017
 - **Poster and Demo Chair**, [Hybrid Systems: Computation and Control (HSCC) 2017](http://hscc2017.ece.illinois.edu/)
 - **Program Committee Member**
