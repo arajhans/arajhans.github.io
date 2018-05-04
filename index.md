@@ -17,7 +17,7 @@ MathWorks <br/>
 
 ## News
 - **May 2018**
-  - CPS Track Chair for Spring Simulation Multi-Conference (SpringSim) 2019
+  - [CPS Track Chair](service.html#upcoming) for Spring Simulation Multi-Conference (SpringSim) 2019
 - **April 2018**
   - [HSCC 2018 Paper](/publications.html#papers) selected as a Best Repeatability Evaluation Award Finalist.
   - [Invited speaker](/talks.html#invited-talks-1) at the NSF Visioning Workshop on International Networks for Advancing CPS Research, Development, and Education Worldwide, part of CPS Week 2018.
