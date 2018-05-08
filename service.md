@@ -13,7 +13,7 @@
   - MathWorks Research Summit 2018
 - **Awards Chair**, [Hybrid Systems: Computation and Control (HSCC) 2018](https://www.hscc2018.deib.polimi.it/committees)
 - **Program Committee Member**
-  - [Winter Simulation Conference 2018, CPS Track]()
+  - [Winter Simulation Conference 2018, CPS Track](http://meetings2.informs.org/wordpress/wsc2018/tracks/#cyPhySys)
   - [Numerical Software Verification Workshop (NSV) 2018](https://nsv-2018.github.io/nsv2018/)
   - [Second Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) 2018](https://sites.google.com/view/cosimcps18)
 
