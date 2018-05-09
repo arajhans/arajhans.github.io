@@ -1,7 +1,7 @@
 # Professional Service
 [home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
-<a><img src="files/pictures/CPSWeekHSCC2018.png" 
+<a><img src="files/pictures/CPSWeekHSCC2018.jpg" 
 alt="Akshay Rajhans" width="950" border="10" /></a>
 
 \[Above (L to R): Akshay with CPS Week 2018 Co-Chairs Prof. Eduardo Tovar and Prof. Luis Almeida, and HSCC 2018 Co-Chairs Prof. Jyo Deshmokh and Prof. Maria Prandini, CPS Week 2018. Picture Credit: CPS Week 2018 organizers.\]
