@@ -17,13 +17,13 @@ alt="Akshay Rajhans" width="950" border="10" /></a>
 - **Program Committee Co-Chair** 
   - MathWorks Asia Research Summit 2018
   - MathWorks Research Summit 2018
-- **Awards Chair**, [Hybrid Systems: Computation and Control (HSCC) 2018](https://www.hscc2018.deib.polimi.it/committees)
 - **Program Committee Member**
   - [Winter Simulation Conference 2018, CPS Track](http://meetings2.informs.org/wordpress/wsc2018/tracks/#cyPhySys)
   - [Numerical Software Verification Workshop (NSV) 2018](https://nsv-2018.github.io/nsv2018/)
   - [Second Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) 2018](https://sites.google.com/view/cosimcps18)
 
 ### Past
+- **Awards Chair**, [Hybrid Systems: Computation and Control (HSCC) 2018](https://www.hscc2018.deib.polimi.it/committees)
 - **CPS Track Co-Chair**, [50th Winter Simulation Conference (WinterSim) 2017](http://meetings2.informs.org/wordpress/wsc2017/tracks/#cyPhySys)
 - **Program Committee Co-Chair**, MathWorks Research Summit 2017, MathWorks Asia Research Summit 2017
 - **Poster and Demo Chair**, [Hybrid Systems: Computation and Control (HSCC) 2017](http://hscc2017.ece.illinois.edu/)
