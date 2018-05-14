@@ -19,7 +19,7 @@ alt="Akshay Rajhans" width="950" border="10" /></a>
   - MathWorks Research Summit 2018
 - **Program Committee Member**
   - Winter Simulation Conference 2018, \[[CPS Track](http://meetings2.informs.org/wordpress/wsc2018/tracks/#cyPhySys) \| [CIAAS Track](http://meetings2.informs.org/wordpress/wsc2018/tracks/#ciass)\]
-  - [Summer Computer Simulation Conference (SummerSim) 2018](), 
+  - [Summer Computer Simulation Conference (SummerSim) 2018](http://scs.org/summersim/), 
   - [Numerical Software Verification Workshop (NSV) 2018](https://nsv-2018.github.io/nsv2018/)
   - [Second Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) 2018](https://sites.google.com/view/cosimcps18)
 
