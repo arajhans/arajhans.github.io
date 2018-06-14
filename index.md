@@ -6,7 +6,7 @@ alt="Akshay Rajhans" width="240" border="10" /></a>
 
 ## Contact
 Akshay Rajhans, Ph.D. <br/>
-Senior Research Scientist <br/>
+Principal Research Scientist <br/>
 MathWorks <br/>
 
 **Mail**: 3 Apple Hill Drive, Natick, MA 01760 <br/>
