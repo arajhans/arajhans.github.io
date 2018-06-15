@@ -1,10 +1,6 @@
 # Panels
 [home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
-<a><img src="files/pictures/panel.png" 
-alt="Akshay Rajhans" width="950" border="10" /></a>
-
-\[Above (L to R): Prof. Phil Koopman, Prof. Dan Work, me, Prof. Raj Rajumar, Panel on Safe Control of Connected an Autonomous Vehicles (SCAV), part of CPS Week 2017. Picture Credit: Prof. Jonathan Sprinkle.\]
 
 ## Panelist
 - Panelist on the topic of **"What are the challenges posed to CPS theory by modern applications?"**, [Joint HSCC-ICCPS Panel](https://www.hscc2018.deib.polimi.it/panel-session), part of [CPS Week 2018](https://cister.isep.ipp.pt/cpsweek2018/).
