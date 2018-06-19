@@ -3,13 +3,6 @@
 
 Quick Navigation: [Theses](#theses) \| [Patents](#patents) \| [Papers](#papers) \| [Abstracts](#peer-reviewed-abstracts) \| [Manuscripts](#unpublished-manuscripts)
 
-## Theses
-- A. Rajhans, “*Multi-Model Heterogeneous Verification of Cyber-Physical Systems*,” PhD Thesis, Carnegie Mellon University, 2013. **Thesis Advisor**: [Prof. Bruce Krogh](https://www.ece.cmu.edu/directory/department/faculty/K/Bruce_Krogh_89.html). \[[Research Showcase @ CMU](http://repository.cmu.edu/dissertations/251/)\]
-- A. Rajhans, “*Development of Robust Testing Toolbox for Hybrid Systems*,” MSE Thesis, University of Pennsylvania, 2007. **Thesis Advisor**: [Prof. George Pappas](https://www.seas.upenn.edu/~pappasg). \[[Penn Libraries Franklin Catalog](http://dla.library.upenn.edu/dla/franklin/record.html?filter.author_creator_facet.val=Rajhans%2C%20Akshay&id=FRANKLIN_4283783&)\]
-
-## Patents
-- Andrews, B., Benitez, D., Raghunathan, B., Rajhans, A., “*Method for Non-Intrusive Load Monitoring using a Hybrid System State Estimation Approach”*, Patent No. 8209062. \[[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/8209062) \| [Google Scholar](http://www.google.com/patents/US8209062?dq=info:kNjIEMTwpFgJ:scholar.google.com)\]
-
 ## Papers
 \[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) | [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
 - A. Tolk, F. Barros, A. D’Ambrogio, A. Rajhans, P. J. Mosterman, S. S. Shetty, M. K. Traoré, H. Vangheluwe, and L. Yilmaz, "*Hybrid Simulation for Cyber Physical Systems – A Panel on Where are we Going Regarding Complexity, Intelligence, and Adaptability of CPS Using Simulation*," Spring Simulation Multi-Conference, 2018. \[[Preprint](files/papers/TolkBD+_SpringSim18.pdf)\]
@@ -30,6 +23,13 @@ Quick Navigation: [Theses](#theses) \| [Patents](#patents) \| [Papers](#papers) 
 - A. Rajhans, S. Avadhanula, A. Chutinan, P. J. Mosterman, and F. Zhang, “*Graphical Hybrid Automata with Simulink and Stateflow*,” 21st International Conference on Hybrid Systems: Computation and Control, 2018. \[[Preprint](files/abstracts/RajhansAC+_HSCC2018_demo.pdf)\]
 - M. Althoff, A. Rajhans, B. H. Krogh, S. Yaldiz, X. Li, and L. Pileggi, “*Using Continuization in Rechability Analysis for the Verification of a Phase-Locked Loop*”, Frontiers in Analog Circuit (FAC) Synthesis and Verification, co-located with Computer-Aided Verification (CAV) 2011, Snowbird, UT. \[[Abstract](files/abstracts/AlthoffRK+_FAC11.pdf)\]
 - A. Bhave, D. Garlan, B. H. Krogh, S. Loos, A. Platzer, A. Rajhans, and B. Schmerl, “*Multi-View Consistency in Architectures for Cyber-Physical Systems*,” Safe and Secure Systems & Software Symposium (S5) 2011, Beavercreek, OH. \[[Abstract](files/abstracts/BhaveGK+_S511.pdf)\]
+
+## Theses
+- A. Rajhans, “*Multi-Model Heterogeneous Verification of Cyber-Physical Systems*,” PhD Thesis, Carnegie Mellon University, 2013. **Thesis Advisor**: [Prof. Bruce Krogh](https://www.ece.cmu.edu/directory/department/faculty/K/Bruce_Krogh_89.html). \[[Research Showcase @ CMU](http://repository.cmu.edu/dissertations/251/)\]
+- A. Rajhans, “*Development of Robust Testing Toolbox for Hybrid Systems*,” MSE Thesis, University of Pennsylvania, 2007. **Thesis Advisor**: [Prof. George Pappas](https://www.seas.upenn.edu/~pappasg). \[[Penn Libraries Franklin Catalog](http://dla.library.upenn.edu/dla/franklin/record.html?filter.author_creator_facet.val=Rajhans%2C%20Akshay&id=FRANKLIN_4283783&)\]
+
+## Patents
+- Andrews, B., Benitez, D., Raghunathan, B., Rajhans, A., “*Method for Non-Intrusive Load Monitoring using a Hybrid System State Estimation Approach”*, Patent No. 8209062. \[[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/8209062) \| [Google Scholar](http://www.google.com/patents/US8209062?dq=info:kNjIEMTwpFgJ:scholar.google.com)\]
 
 ## Unpublished Manuscripts 
 - A. Bhave, D. Garlan, B. Krogh, B. Schmerl, and A. Rajhans, “*Architectural Modeling and Analysis of Cyber-Physical Systems*,” Unpublished Manuscript, 2010. \[[PDF](files/papers/BhaveGK+_Manuscript10.pdf)\]
