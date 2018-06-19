@@ -1,7 +1,7 @@
 # Publications
 [home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
-Quick Navigation: [Theses](#theses) \| [Patents](#patents) \| [Papers](#papers) \| [Abstracts](#abstracts) \| [Manuscripts](#manuscripts)
+Quick Navigation: [Theses](#theses) \| [Patents](#patents) \| [Papers](#papers) \| [Abstracts](#peer-reviewed-abstracts) \| [Manuscripts](#unpublished-manuscripts)
 
 ## Theses
 - A. Rajhans, “*Multi-Model Heterogeneous Verification of Cyber-Physical Systems*,” PhD Thesis, Carnegie Mellon University, 2013. **Thesis Advisor**: [Prof. Bruce Krogh](https://www.ece.cmu.edu/directory/department/faculty/K/Bruce_Krogh_89.html). \[[Research Showcase @ CMU](http://repository.cmu.edu/dissertations/251/)\]
