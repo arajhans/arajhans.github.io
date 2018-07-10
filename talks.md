@@ -1,11 +1,6 @@
 # Invited Talks
 [home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
-<a><img src="files/pictures/cpsweek.jpg" 
-alt="Akshay Rajhans" width="450" border="10" /></a>
-
-\[Pitcure Credit: CPS Week 2018 organizers.\]
-
 ## Invited Talks
 - "*A Vision for Application-Focused International Collaboration Networks in Cyber-Physical Systems,*", an [NSF Visioning Workshop on International Networks for Advancing CPS Research, Development, and Education Worldwide](https://cps-vo.org/group/cpsweek2018-intlwksp), part of [CPS Week 2018](https://cister.isep.ipp.pt/cpsweek2018/), Porto, Portugal, April 2018. **Hosts**: Seta Bogosyan (NSF), Frankie King (Vanderbilt University), Ralph Wachter (NSF), Workshop Organizers.
 - "*Heterogeneous Model-Based Design of Tomorrow's Cyber-Physical Systems,*" [ECE Department Colloquia Series](http://engineering.tufts.edu/ece/colloquia/), Tufts University, Medford, MA, November 2017. **Host**: Prof. Usman Khan. \[[Slides]()\]
