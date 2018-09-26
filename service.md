@@ -1,34 +1,29 @@
 # Professional Service
 [home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
-## PhD Thesis Committee
-- *Yi Deng*, ECSE Department, Rensselaer Polytechnic Institute. 
-  - \[**Title**: *The Application of Trajectory-Based Analysis for Hybrid Systems.* \| **Advisor**: [Prof. A. Agung Julius](https://www.ecse.rpi.edu/homepages/agung/) \| [Thesis](http://digitool.rpi.edu:8881/R/Q7XRLHP737DNTBGS3YH8M9DPXMLHDTXV5QV63VM11NES8FQFQ2-01342?func=dbin-jump-full&object_id=176756&local_base=GEN01&pds_handle=GUEST)\]
-
 ## Conference Program Committee
 ### Upcoming
 - **CPS Track Chair**, Spring Simulation Multi-Conference (SpringSim) 2019 [Call for Papers](http://scs.org/wp-content/uploads/2018/08/SpringSim19_ANSS_CfP-v2.pdf)
-- **Program Committee Co-Chair** 
-  - MathWorks Asia Research Summit 2018
 - **Program Committee Member**
   - Winter Simulation Conference 2018, \[[CPS Track](http://meetings2.informs.org/wordpress/wsc2018/tracks/#cyPhySys) \| [CIAAS Track](http://meetings2.informs.org/wordpress/wsc2018/tracks/#ciass)\]
-  - [Summer Computer Simulation Conference (SummerSim) 2018](http://scs.org/summersim/), 
-  - [Numerical Software Verification Workshop (NSV) 2018](https://nsv-2018.github.io/nsv2018/)
-  - [Second Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) 2018](https://sites.google.com/view/cosimcps18)
-
 ### Past
 - **Awards Chair**, [Hybrid Systems: Computation and Control (HSCC) 2018](https://www.hscc2018.deib.polimi.it/committees)
 - **CPS Track Co-Chair**, [50th Winter Simulation Conference (WinterSim) 2017](http://meetings2.informs.org/wordpress/wsc2017/tracks/#cyPhySys)
-- **Program Committee Co-Chair**, MathWorks Research Summits 2017-2018, MathWorks Asia Research Summit 2017
+- **Program Committee Co-Chair**, MathWorks Research Summits 2017-, MathWorks Asia Research Summit 2017-
 - **Poster and Demo Chair**, [Hybrid Systems: Computation and Control (HSCC) 2017](http://hscc2017.ece.illinois.edu/)
 - **Program Committee Member**
+  - [Numerical Software Verification Workshop (NSV) 2018](https://nsv-2018.github.io/nsv2018/)
   - [Hybrid Systems: Computation and Control (HSCC)](http://www.hscc-conference.org/) \[[2018](https://www.hscc2018.deib.polimi.it/committees) \| [2017](http://hscc2017.ece.illinois.edu/) \| [2016](http://www.cs.ox.ac.uk/conferences/hscc2016/) \| 2014 [Repeatability Evaluation Committee](https://sites.google.com/site/hscc2014repeatability/)\]
   - [International Conference on Informatics in Control Automation and Robotics (ICINCO)](http://www.icinco.org/) \[2018 \| 2017\]
-  - [Summer Simulation Multiconference (SummerSim)](http://www.scs.org/summersim) [2017 \| 2015 \| 2014]
-  - [First International Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) 2017](https://sites.google.com/view/cosimcps17/home)
+  - [Summer Simulation Multiconference (SummerSim)](http://www.scs.org/summersim) [2018 \| 2017 \| 2015 \| 2014]
+  - International Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) \[[2018](https://sites.google.com/view/cosimcps18) \| [2017](https://sites.google.com/view/cosimcps17/home) \]
   - [Computational Intelligence Techniques for Testing and Validating Complex CPSs (CITest_CPS 2017)](http://paris.utdallas.edu/CITest_CPS17)
   - [IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2015](http://adhs15.gatech.edu/)
   - [International Conference on Cyber-Physical Systems (ICCPS) 2015](http://iccps.acm.org/2015/)
+
+## PhD Thesis Committee
+- *Yi Deng*, ECSE Department, Rensselaer Polytechnic Institute. 
+  - \[**Title**: *The Application of Trajectory-Based Analysis for Hybrid Systems.* \| **Advisor**: [Prof. A. Agung Julius](https://www.ecse.rpi.edu/homepages/agung/) \| [Thesis](http://digitool.rpi.edu:8881/R/Q7XRLHP737DNTBGS3YH8M9DPXMLHDTXV5QV63VM11NES8FQFQ2-01342?func=dbin-jump-full&object_id=176756&local_base=GEN01&pds_handle=GUEST)\]
 
 ## Industry Advisory Committees and Boards
 - **Industry Advisory Committee Member**, Autonomous Systems Specialization Coursework in [Robotics Engineering](https://www.wpi.edu/academics/departments/robotics-engineering), [Worcester Polytechnic Institute](https://www.wpi.edu/).
