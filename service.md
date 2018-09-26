@@ -7,7 +7,7 @@
 
 ## Conference Program Committee
 ### Upcoming
-- **CPS Track Chair**, Spring Simulation Multi-Conference (SpringSim) 2019
+- **CPS Track Chair**, Spring Simulation Multi-Conference (SpringSim) 2019 [Call for Papers](http://scs.org/wp-content/uploads/2018/08/SpringSim19_ANSS_CfP-v2.pdf)
 - **Program Committee Co-Chair** 
   - MathWorks Asia Research Summit 2018
 - **Program Committee Member**
