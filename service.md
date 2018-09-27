@@ -7,6 +7,7 @@
 - **Program Committee Member**
   - [Hybrid Systems: Computation and Control (HSCC)](http://www.hscc-conference.org/) \[[2019](http://hscc2019.eecs.umich.edu/)\] \[[Call for Papers](http://hscc2019.eecs.umich.edu/cfpb.html)\]
   - Winter Simulation Conference 2018, \[[CPS Track](http://meetings2.informs.org/wordpress/wsc2018/tracks/#cyPhySys) \| [CIAAS Track](http://meetings2.informs.org/wordpress/wsc2018/tracks/#ciass)\]
+
 ### Past
 - **Awards Chair**, [Hybrid Systems: Computation and Control (HSCC) 2018](https://www.hscc2018.deib.polimi.it/committees)
 - **CPS Track Co-Chair**, [50th Winter Simulation Conference (WinterSim) 2017](http://meetings2.informs.org/wordpress/wsc2017/tracks/#cyPhySys)
