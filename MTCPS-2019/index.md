@@ -3,4 +3,4 @@
 
 ## News
 - **May 2018**
-  - [CPS Track Chair](service.html#upcoming) for Spring Simulation Multi-Conference (SpringSim) 2019
+  - Website and [Call for Participation](cfp.html) up
