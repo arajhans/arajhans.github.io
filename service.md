@@ -13,7 +13,7 @@
 - **Awards Chair**, [Hybrid Systems: Computation and Control (HSCC) 2018](https://www.hscc2018.deib.polimi.it/committees)
 - **CPS Track Co-Chair**, [50th Winter Simulation Conference (WinterSim) 2017](http://meetings2.informs.org/wordpress/wsc2017/tracks/#cyPhySys)
 - **Program Committee Co-Chair** 
-  - MathWorks Research Summits \[2017, 2018\] 
+  - MathWorks Research Summit \[2017, 2018\] 
   - MathWorks Asia Research Summit \[2017, 2018\]
 - **Poster and Demo Chair**, [Hybrid Systems: Computation and Control (HSCC) 2017](http://hscc2017.ece.illinois.edu/)
 - **Program Committee Member**
