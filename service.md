@@ -3,6 +3,7 @@
 
 ## Conference Program Committee
 ### Upcoming
+- **Program Committee Co-Chair**, MathWorks Research Summit 2019
 - **CPS Track Chair**, Spring Simulation Multi-Conference (SpringSim) 2019 \[[Call for Papers](http://scs.org/wp-content/uploads/2018/08/SpringSim19_ANSS_CfP-v2.pdf)\]
 - **Program Committee Member**
   - [Hybrid Systems: Computation and Control (HSCC)](http://www.hscc-conference.org/) \[[2019](http://hscc2019.eecs.umich.edu/)\] \[[Call for Papers](http://hscc2019.eecs.umich.edu/cfpb.html)\]
@@ -11,7 +12,7 @@
 ### Past
 - **Awards Chair**, [Hybrid Systems: Computation and Control (HSCC) 2018](https://www.hscc2018.deib.polimi.it/committees)
 - **CPS Track Co-Chair**, [50th Winter Simulation Conference (WinterSim) 2017](http://meetings2.informs.org/wordpress/wsc2017/tracks/#cyPhySys)
-- **Program Committee Co-Chair**, MathWorks Research Summits 2017-, MathWorks Asia Research Summit 2017-
+- **Program Committee Co-Chair**, MathWorks Research Summits \[2017, 2018\], MathWorks Asia Research Summit \[2017, 2018\]
 - **Poster and Demo Chair**, [Hybrid Systems: Computation and Control (HSCC) 2017](http://hscc2017.ece.illinois.edu/)
 - **Program Committee Member**
   - [Numerical Software Verification Workshop (NSV) 2018](https://nsv-2018.github.io/nsv2018/)
