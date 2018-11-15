@@ -5,7 +5,7 @@
 ### Upcoming
 - **Program Committee Co-Chair** 
   - MathWorks Research Summit 2019
-  - Workshop on Monitoring and Testing of Cyber-Physical Systems (MT-CPS) 2019, part of [Cyber-Physical Systems and Internet-of-Things Week (CPS-IoT Week) 2019](http://cpslab.cs.mcgill.ca/cpsiotweek2019/)
+  - [Workshop on Monitoring and Testing of Cyber-Physical Systems (MT-CPS) 2019](https://sites.google.com/berkeley.edu/mt-cps2019), part of [Cyber-Physical Systems and Internet-of-Things Week (CPS-IoT Week) 2019](http://cpslab.cs.mcgill.ca/cpsiotweek2019/)
 - **CPS Track Chair**, Spring Simulation Multi-Conference (SpringSim) 2019 \[[Call for Papers](http://scs.org/wp-content/uploads/2018/08/SpringSim19_ANSS_CfP-v2.pdf)\]
 - **Program Committee Member**
   - [Hybrid Systems: Computation and Control (HSCC)](http://www.hscc-conference.org/) \[[2019](http://hscc2019.eecs.umich.edu/)\] \[[Call for Papers](http://hscc2019.eecs.umich.edu/cfpb.html)\]
