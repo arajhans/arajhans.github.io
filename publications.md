@@ -1,7 +1,7 @@
 # Publications
 [home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
-Quick Navigation: [Theses](#theses) \| [Patents](#patents) \| [Papers](#papers) \| [Abstracts](#peer-reviewed-abstracts) \| [Manuscripts](#unpublished-manuscripts)
+Quick Navigation: [Theses](#theses) \| [Patents](#patents) \| [Papers](#papers) \| [Abstracts](#peer-reviewed-abstracts) \| [Manuscripts](#workshop-reports-and-manuscripts)
 
 ## Papers
 \[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) | [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
@@ -31,8 +31,8 @@ Quick Navigation: [Theses](#theses) \| [Patents](#patents) \| [Papers](#papers) 
 ## Patents
 - Andrews, B., Benitez, D., Raghunathan, B., Rajhans, A., “*Method for Non-Intrusive Load Monitoring using a Hybrid System State Estimation Approach”*, Patent No. 8209062. \[[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/8209062) \| [Google Scholar](http://www.google.com/patents/US8209062?dq=info:kNjIEMTwpFgJ:scholar.google.com)\]
 
-## Reports and Manuscripts 
-- S. Anderson, B. Boots, A. Byravan, E. Drumwright, C. Duriez, D. Fox, G. Hager, J. Hodgins, A. Jain, A. Kapoor, D. Koditschek, N. Koenig, E. Lee, C. Li, K. Liu, F. Meier, D. Negrut, A. Rajhans, L. Righetti, A. Rodriguez, S. Schaal, J. Tan, Y. Tassa, E. Todorov, and J. Trinkle"*On the Use of Modeling and Simulation in Robotics*," Workshop Report, [NIST/NSF/DoD Workshop on Simulation and Machine Learning in Robotics](https://www.nist.gov/news-events/events/2018/04/simulation-and-machine-learning-robotics), 2018. \[[PDF](files/papers/AndersonBB+_RoboWorkshop18.pdf)\]
+## Workshop Reports and Manuscripts 
+- S. Anderson, B. Boots, A. Byravan, E. Drumwright, C. Duriez, D. Fox, G. Hager, J. Hodgins, A. Jain, A. Kapoor, D. Koditschek, N. Koenig, E. Lee, C. Li, K. Liu, F. Meier, D. Negrut, A. Rajhans, L. Righetti, A. Rodriguez, S. Schaal, J. Tan, Y. Tassa, E. Todorov, and J. Trinkle, "*On the Use of Modeling and Simulation in Robotics*," Workshop Report, [NIST/NSF/DoD Workshop on Simulation and Machine Learning in Robotics](https://www.nist.gov/news-events/events/2018/04/simulation-and-machine-learning-robotics), 2018. \[[PDF](files/papers/AndersonBB+_RoboWorkshop18.pdf)\]
 - A. Bhave, D. Garlan, B. Krogh, B. Schmerl, and A. Rajhans, “*Architectural Modeling and Analysis of Cyber-Physical Systems*,” Unpublished Manuscript, 2010. \[[PDF](files/papers/BhaveGK+_Manuscript10.pdf)\]
 - A. Rajhans, “*Verification of Hybrid Dynamic Systems Using Linear Hybrid Automata*”, Qualifying Examination Paper, ECE Department, Carnegie Mellon University, 2010. \[[PDF](files/papers/Rajhans_Qual10.pdf)\]
 
