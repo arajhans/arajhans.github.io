@@ -1,7 +1,7 @@
 # Publications
 [home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
-Quick Navigation: [Theses](#theses) \| [Patents](#patents) \| [Papers](#papers) \| [Abstracts](#peer-reviewed-abstracts) \| [Reports and Manuscripts](#workshop-reports-and-manuscripts)
+Quick Navigation: [Theses](#theses) \| [Patents](#patents) \| [Papers](#papers) \| [Abstracts](#peer-reviewed-abstracts) \| [Workshop Reports and Manuscripts](#workshop-reports-and-manuscripts)
 
 ## Papers
 \[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) | [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
