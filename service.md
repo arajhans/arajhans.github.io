@@ -10,6 +10,7 @@
 - **Program Committee Member**
   - [Hybrid Systems: Computation and Control (HSCC)](http://www.hscc-conference.org/) \[[2019](http://hscc2019.eecs.umich.edu/)\] \[[Call for Papers](http://hscc2019.eecs.umich.edu/cfpb.html)\]
   - Winter Simulation Conference 2018, \[[CPS Track](http://meetings2.informs.org/wordpress/wsc2018/tracks/#cyPhySys) \| [CIAAS Track](http://meetings2.informs.org/wordpress/wsc2018/tracks/#ciass)\]
+  - [12th International Workshop on Numerical Software Verification (NSV) 2019](http://nsv19.mpi-sws.org/), affiliated with CAV 2019
 
 ### Past
 - **Program Committee Co-Chair** 
