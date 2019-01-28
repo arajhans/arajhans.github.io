@@ -1,5 +1,5 @@
 # Outside of Work
-[home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
+[home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
 ## Leadership on Non-Profit Organizations
 - 2017-2018: Committee Member, [New England Marathi Mandal](http://www.nemm.org/index.php/aboutus/committee).
