@@ -37,4 +37,4 @@ Quick Navigation: [Theses](#theses) \| [Patents](#patents) \| [Papers](#papers) 
 - A. Rajhans, “*Verification of Hybrid Dynamic Systems Using Linear Hybrid Automata*”, Qualifying Examination Paper, ECE Department, Carnegie Mellon University, 2010. \[[PDF](files/papers/Rajhans_Qual10.pdf)\]
 
 ## More
-[Even more](other-publications.html)
+[Other reports and posters](other-publications.html)
