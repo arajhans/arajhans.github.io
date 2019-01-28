@@ -1,8 +1,6 @@
 # Publications
 [home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
-Quick Navigation: [Theses](#theses) \| [Patents](#patents) \| [Papers](#papers) \| [Abstracts](#peer-reviewed-abstracts) \| [Reports and Manuscripts](#workshop-reports-and-manuscripts)
-
 ## Papers
 \[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) | [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
 - A. Tolk, F. Barros, A. D’Ambrogio, A. Rajhans, P. J. Mosterman, S. S. Shetty, M. K. Traoré, H. Vangheluwe, and L. Yilmaz, "*Hybrid Simulation for Cyber Physical Systems – A Panel on Where are we Going Regarding Complexity, Intelligence, and Adaptability of CPS Using Simulation*," Spring Simulation Multi-Conference, 2018. \[[Preprint](files/papers/TolkBD+_SpringSim18.pdf)\]
