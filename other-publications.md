@@ -1,4 +1,4 @@
-
+[home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
 ## Posters
 - I. Ruchkin, S. Mitsch, A. Rajhans, B. H. Krogh, D. Garlan, A. Platzer, B. Schmerl, J. Kapinski, P. Ramachandra, and K. Butts, “*An Architectural Approach to Heterogeneous Modeling and Verification of Cyber-Physical Systems*”, NSF CPS PI Meeting, Arlington, VA, October 16-18, 2013. \[[Poster](files/posters/RuchkinMR+_CPSPI13_Poster.pdf) \| [Abstract](files/posters/RuchkinMR+_CPSPI13_Abstract.pdf)\]
