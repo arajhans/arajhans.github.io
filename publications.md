@@ -1,5 +1,5 @@
 # Publications
-[home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [panels](panels.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
+[home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
 Quick Navigation: [Theses](#theses) \| [Patents](#patents) \| [Papers](#papers) \| [Abstracts](#peer-reviewed-abstracts) \| [Reports and Manuscripts](#workshop-reports-and-manuscripts)
 
@@ -36,3 +36,5 @@ Quick Navigation: [Theses](#theses) \| [Patents](#patents) \| [Papers](#papers) 
 - A. Bhave, D. Garlan, B. Krogh, B. Schmerl, and A. Rajhans, “*Architectural Modeling and Analysis of Cyber-Physical Systems*,” Unpublished Manuscript, 2010. \[[PDF](files/papers/BhaveGK+_Manuscript10.pdf)\]
 - A. Rajhans, “*Verification of Hybrid Dynamic Systems Using Linear Hybrid Automata*”, Qualifying Examination Paper, ECE Department, Carnegie Mellon University, 2010. \[[PDF](files/papers/Rajhans_Qual10.pdf)\]
 
+## More
+[More stuff](other-publications.html)
