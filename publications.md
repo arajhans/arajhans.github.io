@@ -3,6 +3,7 @@
 
 ## Papers
 \[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) | [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
+- S. Castro, P. J. Mosterman, A. Rajhans, R. Valenti, "*Challenges in the Operation and Design of Intelligent Cyber-Physical Systems*," Book Chapter, To Be Published.
 - A. Tolk, F. Barros, A. D’Ambrogio, A. Rajhans, P. J. Mosterman, S. S. Shetty, M. K. Traoré, H. Vangheluwe, and L. Yilmaz, "*Hybrid Simulation for Cyber Physical Systems – A Panel on Where are we Going Regarding Complexity, Intelligence, and Adaptability of CPS Using Simulation*," Spring Simulation Multi-Conference, 2018. \[[Preprint](files/papers/TolkBD+_SpringSim18.pdf)\]
 - A. Rajhans, S. Avadhanula, A. Chutinan, P. J. Mosterman, and F. Zhang, “*Graphical Modeling of Hybrid Dynamics with Simulink and Stateflow*,” 21st ACM International Conference on Hybrid Systems: Computation and Control, 2018. **_Best [Repeatability Evaluation](https://www.hscc2018.deib.polimi.it/repeatability-evaluation) Award [Finalist](https://www.hscc2018.deib.polimi.it/award-finalists-and-winners)_**. \[[Preprint](files/papers/RajhansAC+_HSCC18.pdf)\]
 - A. Rajhans, A. Bhave, I. Ruchkin, B. Krogh, D. Garlan, A. Platzer, and B. Schmerl, “*Supporting Heterogeneity in Cyber-Physical System Architectures*”, IEEE Transactions on Automatic Control's Special Issue on Control of Cyber-Physical Systems, Vol. 59, Issue 12, pages 3178-3193. \[[Preprint](files/papers/RajhansBR+_TAC14.pdf)\]
