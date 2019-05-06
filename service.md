@@ -6,10 +6,9 @@
 - **Program Committee Co-Chair** 
   - MathWorks Research Summit 2019
   - MathWorks Asia Research Summit 2019
-- **CPS Track Chair**, Spring Simulation Multi-Conference (SpringSim) 2019 \[[Call for Papers](http://scs.org/wp-content/uploads/2018/08/SpringSim19_ANSS_CfP-v2.pdf)\]
 - **Program Committee Member**
-  - [Summer Simulation Conference 2019](http://www.scs.org/summersim)
-  - [Winter Simulation Conference 2019](http://meetings2.informs.org/wordpress/wsc2019/)
+  - [Summer Simulation Conference](http://www.scs.org/summersim)  2019
+  - [Winter Simulation Conference](http://meetings2.informs.org/wordpress/wsc2019/) 2019
   - [12th International Workshop on Numerical Software Verification (NSV) 2019](http://nsv19.mpi-sws.org/), affiliated with [CAV 2019](http://i-cav.org/2019/)
 
 ### Past
@@ -17,8 +16,12 @@
   - MathWorks Research Summit \[2017, 2018\] 
   - MathWorks Asia Research Summit \[2017, 2018\]
   - [Workshop on Monitoring and Testing of Cyber-Physical Systems (MT-CPS) 2019](https://sites.google.com/berkeley.edu/mt-cps2019), part of [Cyber-Physical Systems and Internet-of-Things Week (CPS-IoT Week) 2019](http://cpslab.cs.mcgill.ca/cpsiotweek2019/)
+- **CPS Track Chair**
+  - [Spring Simulation Multi-Conference (SpringSim)](http://scs.org/springsim/) 2019 \[[Call for Papers](http://scs.org/wp-content/uploads/2018/08/SpringSim19_ANSS_CfP-v2.pdf)\]
+  - [50th Winter Simulation Conference (WinterSim) 2017](http://meetings2.informs.org/wordpress/wsc2017/tracks/#cyPhySys)
+- **Industry Vice Chair**, [IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2018](http://www.cs.ox.ac.uk/conferences/ADHS18/)
+- **Industry Advisory Board Member**, [IEEE International Symposium on Circuits and Systems (ISCAS) 2018](http://www.iscas2018.org/)
 - **Awards Chair**, [Hybrid Systems: Computation and Control (HSCC) 2018](https://www.hscc2018.deib.polimi.it/committees)
-- **CPS Track Co-Chair**, [50th Winter Simulation Conference (WinterSim) 2017](http://meetings2.informs.org/wordpress/wsc2017/tracks/#cyPhySys)
 - **Poster and Demo Chair**, [Hybrid Systems: Computation and Control (HSCC) 2017](http://hscc2017.ece.illinois.edu/)
 - **Program Committee Member**
   - [Numerical Software Verification Workshop (NSV) 2018](https://nsv-2018.github.io/nsv2018/)
@@ -36,8 +39,7 @@
 
 ## Industry Advisory Committees and Boards
 - **Industry Advisory Committee Member**, Autonomous Systems Specialization Coursework in [Robotics Engineering](https://www.wpi.edu/academics/departments/robotics-engineering), [Worcester Polytechnic Institute](https://www.wpi.edu/).
-- **Industry Vice Chair**, [IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2018](http://www.cs.ox.ac.uk/conferences/ADHS18/)
-- **Industry Advisory Board Member**, [IEEE International Symposium on Circuits and Systems (ISCAS) 2018](http://www.iscas2018.org/)
+
 
 ## Editorial Boards
 - Editorial Advisory Board Member, upcoming Springer book on Resilience in Cyber-Physical Systems.
