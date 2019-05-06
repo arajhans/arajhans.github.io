@@ -1,7 +1,6 @@
 # Publications
 [home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
-## Papers
 \[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) | [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
 - S. Castro, P. J. Mosterman, A. H. Rajhans, R. G. Valenti, "*Challenges in the Operation and Design of Intelligent Cyber-Physical Systems*," Book Chapter, To Be Published.
 - J.-F. Kempf, Khoo Y. P., and A. Rajhans, "*Specification and Assessment of Temporal Requirements using Simulink Test*", [Fourth International Workshop on Monitoring and Testing of Cyber-Physical Systems (MT-CPS 2019)](https://sites.google.com/berkeley.edu/mt-cps2019), part of [CPS-IoT Week 2019](http://cpslab.cs.mcgill.ca/cpsiotweek2019/). \[[Abstract](files/abstracts/KempfKR_MT-CPS_CPS-IoTWeek2019.pdf)\]
@@ -28,10 +27,6 @@ Industrial Internet of Things Applications*", [Fourth International Workshop on 
 - A. Rajhans, “*Verification of Hybrid Dynamic Systems Using Linear Hybrid Automata*”, Qualifying Examination Paper, ECE Department, Carnegie Mellon University, 2010. \[[PDF](files/papers/Rajhans_Qual10.pdf)\]
 - A. Donzé, B. H. Krogh, and A. Rajhans, “*Parameter Synthesis for Hybrid Systems with an Application to Simulink Models*,” 12th IEEE/ACM International Conference on Hybrid Systems: Computation and Control, 2009. \[[Preprint](files/papers/DonzeKR_HSCC09.pdf)\]
 - A. Rajhans, “*Development of Robust Testing Toolbox for Hybrid Systems*,” MSE Thesis, University of Pennsylvania, 2007. **Thesis Advisor**: [Prof. George Pappas](https://www.seas.upenn.edu/~pappasg). \[[Penn Libraries Franklin Catalog](http://dla.library.upenn.edu/dla/franklin/record.html?filter.author_creator_facet.val=Rajhans%2C%20Akshay&id=FRANKLIN_4283783&)\]
-
-## Theses
-
-
 
 ## Patents
 - Andrews, B., Benitez, D., Raghunathan, B., Rajhans, A., “*Method for Non-Intrusive Load Monitoring using a Hybrid System State Estimation Approach”*, Patent No. 8209062. \[[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/8209062) \| [Google Scholar](http://www.google.com/patents/US8209062?dq=info:kNjIEMTwpFgJ:scholar.google.com)\]
