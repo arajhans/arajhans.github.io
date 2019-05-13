@@ -2,6 +2,7 @@
 [home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
 \[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) | [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
+- "*Position paper on the challenges posed by modern applications to cyber-physical systems theory*", under submission.
 - S. Castro, P. J. Mosterman, A. H. Rajhans, R. G. Valenti, "*Challenges in the Operation and Design of Intelligent Cyber-Physical Systems*," Book Chapter, To Be Published.
 - J.-F. Kempf, Khoo Y. P., and A. Rajhans, "*Specification and Assessment of Temporal Requirements using Simulink Test*", [Fourth International Workshop on Monitoring and Testing of Cyber-Physical Systems (MT-CPS 2019)](https://sites.google.com/berkeley.edu/mt-cps2019), part of [CPS-IoT Week 2019](http://cpslab.cs.mcgill.ca/cpsiotweek2019/). \[[Abstract (PDF)](files/abstracts/KempfKR_MT-CPS_CPS-IoTWeek2019.pdf)\]
 - A. Rajhans and D. Lluch, "*A Digital Twin Approach to Online Monitoring in
