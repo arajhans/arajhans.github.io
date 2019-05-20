@@ -7,6 +7,7 @@
   - MathWorks Research Summit 2019
   - MathWorks Asia Research Summit 2019
 - **Program Committee Member**
+  - [International Conference on Cyber-Physical Systems (ICCPS)](https://iccps.acm.org/) 2020
   - [Summer Simulation Conference](http://www.scs.org/summersim)  2019
   - [Winter Simulation Conference](http://meetings2.informs.org/wordpress/wsc2019/) 2019
   - [12th International Workshop on Numerical Software Verification (NSV) 2019](http://nsv19.mpi-sws.org/), affiliated with [CAV 2019](http://i-cav.org/2019/)
