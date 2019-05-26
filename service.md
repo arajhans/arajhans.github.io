@@ -4,6 +4,7 @@
 ## Conference Program Committee
 ### Upcoming
 - **Program Committee Co-Chair** 
+  - Cyber-Physical Systems Track, [Spring Simulation Conference (SpringSim)](http://scs.org/springsim/) 2020
   - MathWorks Research Summit 2019
   - MathWorks Asia Research Summit 2019
 - **Program Committee Member**
