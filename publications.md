@@ -1,7 +1,7 @@
 # Publications
 [home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
-\[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) | [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
+\[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) \| [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
 
 - F. Allgöwer, J. Borges de Sousa, J. Kapinski, P. Mosterman, J. Oehlerking, P. Panciatici, M. Prandini, A. Rajhans, P. Tabuada, P. Wenzelburger, "*Position paper on the challenges posed by modern applications to cyber-physical systems theory*", Nonlinear Analysis: Hybrid Systems, Accepted.
 - S. Castro, P. J. Mosterman, A. H. Rajhans, R. G. Valenti, "*Challenges in the Operation and Design of Intelligent Cyber-Physical Systems*," Book Chapter, Accepted.
