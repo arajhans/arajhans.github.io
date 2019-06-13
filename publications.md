@@ -3,7 +3,7 @@
 
 \[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) \| [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
 
-- [ABK+19] F. Allgöwer, J. Borges de Sousa, J. Kapinski, P. Mosterman, J. Oehlerking, P. Panciatici, M. Prandini, A. Rajhans, P. Tabuada, P. Wenzelburger, "*Position paper on the challenges posed by modern applications to cyber-physical systems theory*", Nonlinear Analysis: Hybrid Systems, Accepted.
+- [ABK+19] F. Allgöwer, J. Borges de Sousa, J. Kapinski, P. Mosterman, J. Oehlerking, P. Panciatici, M. Prandini, A. Rajhans, P. Tabuada, P. Wenzelburger, "*Position paper on the challenges posed by modern applications to cyber-physical systems theory*", Nonlinear Analysis: Hybrid Systems, Volume 34, Pages 147-165, November 2019.
 - [CMR+19] S. Castro, P. J. Mosterman, A. H. Rajhans, R. G. Valenti, "*Challenges in the Operation and Design of Intelligent Cyber-Physical Systems*," Book Chapter, Accepted.
 - [KKR19] J.-F. Kempf, Khoo Y. P., and A. Rajhans, "*Specification and Assessment of Temporal Requirements using Simulink Test*", [Fourth International Workshop on Monitoring and Testing of Cyber-Physical Systems (MT-CPS 2019)](https://sites.google.com/berkeley.edu/mt-cps2019), part of [CPS-IoT Week 2019](http://cpslab.cs.mcgill.ca/cpsiotweek2019/). \[[Abstract (PDF)](files/abstracts/KempfKR_MT-CPS_CPS-IoTWeek2019.pdf)\]
 - [RD19] A. Rajhans and D. Lluch, "*A Digital Twin Approach to Online Monitoring in
