@@ -12,4 +12,4 @@ Previously, Dr. Rajhans worked on development and application engineering of ele
 Dr. Rajhans has a Ph.D. in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) from [Carnegie Mellon University](https://www.cmu.edu/) and an M.S. in [Electrical Engineering](https://www.ese.upenn.edu/) from the [University of Pennsylvania](https://www.ese.upenn.edu/). He is a member of IEEE and ACM.
 
 ## More
-Curriculum Vitae [PDF](files/docs/AkshayRajhansCV.pdf) - Last updated June 2018.
+Curriculum Vitae \[[PDF](files/docs/AkshayRajhansCV.pdf)\] - Last updated June 2018.
