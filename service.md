@@ -17,9 +17,9 @@
 - **Program Committee Chair or Co-Chair** 
   - MathWorks Research Summit \[2017, 2018, 2019\] 
   - MathWorks Asia Research Summit \[2017, 2018\]
-  - [Spring Simulation Multi-Conference (SpringSim)](http://scs.org/springsim/) 2019 \[[Call for Papers](http://scs.org/wp-content/uploads/2018/08/SpringSim19_ANSS_CfP-v2.pdf)\]
+  - Cyber-Physical Systems Track, [Spring Simulation Multi-Conference (SpringSim)](http://scs.org/springsim/) 2019 \[[Call for Papers](http://scs.org/wp-content/uploads/2018/08/SpringSim19_ANSS_CfP-v2.pdf)\]
   - [Workshop on Monitoring and Testing of Cyber-Physical Systems (MT-CPS) 2019](https://sites.google.com/berkeley.edu/mt-cps2019), part of [Cyber-Physical Systems and Internet-of-Things Week (CPS-IoT Week) 2019](http://cpslab.cs.mcgill.ca/cpsiotweek2019/)
-  - [50th Winter Simulation Conference (WinterSim) 2017](http://meetings2.informs.org/wordpress/wsc2017/tracks/#cyPhySys)
+  - Cyber-Physical Systems Track, [50th Winter Simulation Conference (WinterSim) 2017](http://meetings2.informs.org/wordpress/wsc2017/tracks/#cyPhySys)
 
 - **Industry Vice Chair**, [IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2018](http://www.cs.ox.ac.uk/conferences/ADHS18/)
 - **Industry Advisory Board Member**, [IEEE International Symposium on Circuits and Systems (ISCAS) 2018](http://www.iscas2018.org/)
