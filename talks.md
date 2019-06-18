@@ -1,7 +1,14 @@
 # Invited Talks and Panels
 [home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
-## Invited Speaker
+## Upcoming
+- **Keynote Talk:** "*[Multi-Paradigm Modeling for Design and Operation of Intelligent Cyber-Physical Systems](https://msdl.uantwerpen.be/conferences/MPM4CPS/2019/index.php/program/),*" International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS), co-located with the MODELS Conference, Munich, Germany, September 15, 2019. 
+
+- **Invited Talk:** "*[Challenges and opportunities in design and operation of intelligent cyber-physical systems](https://www.react.uni-saarland.de/rv2019/invitedspeakers.html),* 19th International Runtime Verification Conference, Part of [3rd World Congress on Formal Methods](http://formalmethods2019.inesctec.pt/?page_id=1044), Porto, Portugal, October 10, 2019.
+
+
+## Past
+### Invited Speaker
 - "*A Model-Based Design Perspective on Challenges and Opportunities in Automated Software Certification,*" 20th Software Certification Consortium (SCC) Steering Committe Meeting, Annapolis, MD, USA. May 2019. **Hosts**: Alan Wassyng and Mark Lawford, Organizers. \[[Slides](files/slides/Rajhans_SCC2019.pdf)\] 
 - "*Specification Formalisms for Cyber-Physical Systems: A Tools Perspective,*" [Dagstuhl Workshop on Specification Formalisms for Modern Cyber-Physical Systems](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19071), Dagstuhl, Germany. February 2019. **Hosts**: Jyotirmoy Deshmukh, Oded Maler, Dejan Nickovic, Workshop Organizers.
 - "*Graphical Modeling of Hybrid Systems with Simulink and Stateflow,*" Workshop honoring the retirement of Prof. Bruce Krogh, Carnegie Mellon University, Pittsburgh, PA, May 2018. **Host**: Prof. Bruno Sinopoli, Workshop Chair.
@@ -16,7 +23,7 @@
 - "*Robustness of Temporal Logic Specifications for Testing of Signals*," [Specification and Verification Center](http://www.cs.cmu.edu/~svc/) Seminar, Carnegie Mellon University, Pittsburgh, PA, USA. August 2008. **Host**: Prof. Ed Clarke. \[[Talk Abstract](http://www.cs.cmu.edu/~svc/talks/20080821-rajhans.html) \| [Slides](files/slides/Rajhans_SVC08_1.pdf)\]
 - "*Verification of Systems Using Robust Temporal Logic Testing*," [Specification and Verification Center](http://www.cs.cmu.edu/~svc/) Seminar, Carnegie Mellon University, Pittsburgh, PA, USA. August 2008. **Host**: Prof. Ed Clarke. \[[Talk Abstract](http://www.cs.cmu.edu/~svc/talks/20080829-rajhans.html) \| [Slides](files/slides/Rajhans_SVC08_2.pdf)\]
 
-## Panelist
+### Panelist
 - Panelist on the topic of **"What are the challenges posed to CPS theory by modern applications?"**, [Joint HSCC-ICCPS Panel](https://www.hscc2018.deib.polimi.it/panel-session), part of [CPS Week 2018](https://cister.isep.ipp.pt/cpsweek2018/).
 - Panelist on the topic of **Hybrid Simulation for Cyber Physical Systems – Where are we Going Regarding Complexity, Intelligence, and Adaptability of CPS Using Simulation**, Symposium on M&S of Complex, Intelligent, Adaptive and Autonomous Systems (MSCIAAS) panel at [Spring Simulation Multi-Conference (SpringSim) 2018](http://scs.org/springsim/).
 - Panelist on the topic of **Why do we need holistic concern-driven engineering?** at the [NIST CPS Framework Open Source Workshop](https://www.nist.gov/news-events/events/2017/09/cps-framework-open-source-workshop), September 2017. 
