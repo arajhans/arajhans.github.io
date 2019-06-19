@@ -22,8 +22,6 @@
   - [Workshop on Monitoring and Testing of Cyber-Physical Systems (MT-CPS) 2019](https://sites.google.com/berkeley.edu/mt-cps2019), part of [Cyber-Physical Systems and Internet-of-Things Week (CPS-IoT Week) 2019](http://cpslab.cs.mcgill.ca/cpsiotweek2019/)
   - Cyber-Physical Systems Track, [50th Winter Simulation Conference (WinterSim) 2017](http://meetings2.informs.org/wordpress/wsc2017/tracks/#cyPhySys)
 
-- **Industry Vice Chair**, [IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2018](http://www.cs.ox.ac.uk/conferences/ADHS18/)
-- **Industry Advisory Board Member**, [IEEE International Symposium on Circuits and Systems (ISCAS) 2018](http://www.iscas2018.org/)
 - **Awards Chair**, [Hybrid Systems: Computation and Control (HSCC) 2018](https://www.hscc2018.deib.polimi.it/committees)
 - **Poster and Demo Chair**, [Hybrid Systems: Computation and Control (HSCC) 2017](http://hscc2017.ece.illinois.edu/)
 
@@ -43,6 +41,8 @@
 
 ## Industry Advisory Committees and Boards
 - **Industry Advisory Committee Member**, Autonomous Systems Specialization Coursework in [Robotics Engineering](https://www.wpi.edu/academics/departments/robotics-engineering), [Worcester Polytechnic Institute](https://www.wpi.edu/).
+- **Industry Vice Chair**, [IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2018](http://www.cs.ox.ac.uk/conferences/ADHS18/)
+- **Industry Advisory Board Member**, [IEEE International Symposium on Circuits and Systems (ISCAS) 2018](http://www.iscas2018.org/)
 
 ## Editorial 
 - Editorial Advisory Board Member, [Resilience in Cyber-Physical Systems: From Risk Modelling to Threat Counteraction](https://www.springer.com/gp/book/9783319955964), F. Flammini (Ed.), Springer Book in the Series [Advanced Sciences and Technologies for Security Applications](https://www.springer.com/series/5540?detailsPage=titles), A. J. Masys (Series Ed.)
