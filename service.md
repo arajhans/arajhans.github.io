@@ -43,9 +43,8 @@
 ## Industry Advisory Committees and Boards
 - **Industry Advisory Committee Member**, Autonomous Systems Specialization Coursework in [Robotics Engineering](https://www.wpi.edu/academics/departments/robotics-engineering), [Worcester Polytechnic Institute](https://www.wpi.edu/).
 
-
-## Editorial Boards
-- Editorial Advisory Board Member, upcoming Springer book on Resilience in Cyber-Physical Systems.
+## Editorial 
+- Editorial Advisory Board Member, [Resilience in Cyber-Physical Systems: From Risk Modelling to Threat Counteraction](https://www.springer.com/gp/book/9783319955964), F. Flammini (Ed.)
 - Editor, [EGO Insider's Guide](http://www.ece.cmu.edu/~ego/files/insiders/guide2012.pdf), [ECE Graduate Organization (EGO)](https://www.ece.cmu.edu/~ego/), Carnegie Mellon University, 2010-2012.
 
 ## Technical and Professional Committees
