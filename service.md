@@ -7,7 +7,7 @@
   - MathWorks Asia Research Summit 2019
   - MathWorks Research Summit 2020
   - Cyber-Physical Systems Track, [Spring Simulation Conference (SpringSim)](http://scs.org/springsim/) 2020
-  - **Program Committee Member**
+- **Program Committee Member**
   - [International Conference on Cyber-Physical Systems (ICCPS)](https://iccps.acm.org/) 2020
   - [Summer Simulation Conference](http://www.scs.org/summersim) 2019
   - Winter Simulation Conference \[[2019](http://meetings2.informs.org/wordpress/wsc2019/)\]
