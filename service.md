@@ -10,8 +10,8 @@
   - **Program Committee Member**
   - [International Conference on Cyber-Physical Systems (ICCPS)](https://iccps.acm.org/) 2020
   - [Summer Simulation Conference](http://www.scs.org/summersim) 2019
-  - [Winter Simulation Conference 2019](http://meetings2.informs.org/wordpress/wsc2019/)
-  - [3rd International Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) 2019](https://sites.google.com/view/cosimcps19)
+  - Winter Simulation Conference \[[2019](http://meetings2.informs.org/wordpress/wsc2019/)\]
+  - International Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) \[[2019](https://sites.google.com/view/cosimcps19)\]
   - [12th International Workshop on Numerical Software Verification (NSV) 2019](http://nsv19.mpi-sws.org/), affiliated with [CAV 2019](http://i-cav.org/2019/)
 
 ### Past
@@ -32,7 +32,7 @@
   - [Hybrid Systems: Computation and Control (HSCC)](http://www.hscc-conference.org/) \[[2019](http://hscc2019.eecs.umich.edu/) \| [2018](https://www.hscc2018.deib.polimi.it/committees) \| [2017](http://hscc2017.ece.illinois.edu/) \| [2016](http://www.cs.ox.ac.uk/conferences/hscc2016/) \| 2014 [Repeatability Evaluation Committee](https://sites.google.com/site/hscc2014repeatability/)\]
   - [International Conference on Informatics in Control Automation and Robotics (ICINCO)](http://www.icinco.org/) \[2018 \| 2017\]
   - [Summer Simulation Multiconference (SummerSim)](http://www.scs.org/summersim) [2018 \| 2017 \| 2015 \| 2014]
-  - International Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) \[[2018](https://sites.google.com/view/cosimcps18) \| [2017](https://sites.google.com/view/cosimcps17/home) \]
+  - International Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) \[[2018](https://sites.google.com/view/cosimcps18) \| [2017](https://sites.google.com/view/cosimcps17/home)\]
   - [Computational Intelligence Techniques for Testing and Validating Complex CPSs (CITest_CPS 2017)](http://paris.utdallas.edu/CITest_CPS17)
   - [IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2015](http://adhs15.gatech.edu/)
   - [International Conference on Cyber-Physical Systems (ICCPS) 2015](http://iccps.acm.org/2015/)
