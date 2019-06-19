@@ -4,13 +4,14 @@
 ## Conference Program Committee
 ### Upcoming
 - **Program Committee Chair or Co-Chair** 
-  - Cyber-Physical Systems Track, [Spring Simulation Conference (SpringSim)](http://scs.org/springsim/) 2020
-  - MathWorks Research Summit 2020
   - MathWorks Asia Research Summit 2019
-- **Program Committee Member**
+  - MathWorks Research Summit 2020
+  - Cyber-Physical Systems Track, [Spring Simulation Conference (SpringSim)](http://scs.org/springsim/) 2020
+  - **Program Committee Member**
   - [International Conference on Cyber-Physical Systems (ICCPS)](https://iccps.acm.org/) 2020
-  - [Summer Simulation Conference](http://www.scs.org/summersim)  2019
-  - [Winter Simulation Conference](http://meetings2.informs.org/wordpress/wsc2019/) 2019
+  - [Summer Simulation Conference](http://www.scs.org/summersim) 2019
+  - [Winter Simulation Conference 2019](http://meetings2.informs.org/wordpress/wsc2019/)
+  - [3rd International Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) 2019](https://sites.google.com/view/cosimcps19)
   - [12th International Workshop on Numerical Software Verification (NSV) 2019](http://nsv19.mpi-sws.org/), affiliated with [CAV 2019](http://i-cav.org/2019/)
 
 ### Past
@@ -44,7 +45,7 @@
 - **Industry Advisory Committee Member**, Autonomous Systems Specialization Coursework in [Robotics Engineering](https://www.wpi.edu/academics/departments/robotics-engineering), [Worcester Polytechnic Institute](https://www.wpi.edu/).
 
 ## Editorial 
-- Editorial Advisory Board Member, [Resilience in Cyber-Physical Systems: From Risk Modelling to Threat Counteraction](https://www.springer.com/gp/book/9783319955964), F. Flammini (Ed.)
+- Editorial Advisory Board Member, [Resilience in Cyber-Physical Systems: From Risk Modelling to Threat Counteraction](https://www.springer.com/gp/book/9783319955964), F. Flammini (Ed.), Springer Book in the Series [Advanced Sciences and Technologies for Security Applications](https://www.springer.com/series/5540?detailsPage=titles), A. J. Masys (Series Ed.)
 - Editor, [EGO Insider's Guide](http://www.ece.cmu.edu/~ego/files/insiders/guide2012.pdf), [ECE Graduate Organization (EGO)](https://www.ece.cmu.edu/~ego/), Carnegie Mellon University, 2010-2012.
 
 ## Technical and Professional Committees
