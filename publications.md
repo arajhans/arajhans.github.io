@@ -2,7 +2,7 @@
 [home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
 \[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) \| [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
-
+- [DMN19] A. Donze and A. Rajhans, "*Tools Perspective*", J. V. Deshmukh, O. Maler, and D. Nickovic, eds., "*Specification Formalisms for Modern Cyber-Physical Systems (Dagstuhl Seminar 19071)*", Dagstuhl \[[DROPS entry with link to PDF](http://drops.dagstuhl.de/opus/volltexte/2019/10858/)\]
 - [ABK<sup>+</sup>19] F. Allgöwer, J. Borges de Sousa, J. Kapinski, P. Mosterman, J. Oehlerking, P. Panciatici, M. Prandini, A. Rajhans, P. Tabuada, P. Wenzelburger, "*Position paper on the challenges posed by modern applications to cyber-physical systems theory*", Nonlinear Analysis: Hybrid Systems, Volume 34, Pages 147-165, November 2019. \[[PDF](https://authors.elsevier.com/c/1ZDMS,dqthwbBx)\]
 - [CMR<sup>+</sup>19] S. Castro, P. J. Mosterman, A. H. Rajhans, R. G. Valenti, "*Challenges in the Operation and Design of Intelligent Cyber-Physical Systems*," Book Chapter, Accepted.
 - [KKR19] J.-F. Kempf, Khoo Y. P., and A. Rajhans, "*Specification and Assessment of Temporal Requirements using Simulink Test*", [Fourth International Workshop on Monitoring and Testing of Cyber-Physical Systems (MT-CPS 2019)](https://sites.google.com/berkeley.edu/mt-cps2019), part of [CPS-IoT Week 2019](http://cpslab.cs.mcgill.ca/cpsiotweek2019/). \[[PDF](files/abstracts/KempfKR_MT-CPS_CPS-IoTWeek2019.pdf)\]
