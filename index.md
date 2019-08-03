@@ -17,7 +17,7 @@ MathWorks <br/>
 
 ## Upcoming 
 - 2019 Asia Edition of the **MathWorks Research Summit** is coming up this September in Tokyo, Japan.  
-  Click here to see [videos](https://www.mathworks.com/videos/series/mathworks-research-summit.html) of some of the invited talks at previous editions of this unique interdisciplinary event that brings together researchers from academia, industry and government. 
+  Click here to see [videos](https://www.mathworks.com/videos/series/mathworks-research-summit.html) of some of the invited talks from previous editions of this unique interdisciplinary event that brings together researchers from academia, industry and government. 
   
 - **Keynote Talk:** "*[Multi-Paradigm Modeling for Design and Operation of Intelligent Cyber-Physical Systems](https://msdl.uantwerpen.be/conferences/MPM4CPS/2019/index.php/program/),*" International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS), co-located with the MODELS Conference, Munich, Germany, September 15, 2019. 
 
