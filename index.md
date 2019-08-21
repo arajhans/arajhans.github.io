@@ -25,4 +25,4 @@ MathWorks <br/>
 
 - Invited participant at Penn's [PRECISE Industry Day Conference on Safe AI](https://precise-industry-day.seas.upenn.edu/2019/). 
 
-- **CPS Track Chair** for [Spring Simulation Conference (SpringSim) 2020](https://scs.org/springsim/)
+- **CPS Track Chair** for [Spring Simulation Conference (SpringSim) 2020](https://scs.org/springsim/). To be held at George Mason University, Fairfax Campus, Virginia, USA, May 19-21, 2020.
