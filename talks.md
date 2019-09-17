@@ -24,7 +24,7 @@
 - "*Robustness of Temporal Logic Specifications for Testing of Signals*," [Specification and Verification Center](http://www.cs.cmu.edu/~svc/) Seminar, Carnegie Mellon University, Pittsburgh, PA, USA. August 2008. **Host**: Prof. Ed Clarke. \[[Talk Abstract](http://www.cs.cmu.edu/~svc/talks/20080821-rajhans.html) \| [Slides](files/slides/Rajhans_SVC08_1.pdf)\]
 - "*Verification of Systems Using Robust Temporal Logic Testing*," [Specification and Verification Center](http://www.cs.cmu.edu/~svc/) Seminar, Carnegie Mellon University, Pittsburgh, PA, USA. August 2008. **Host**: Prof. Ed Clarke. \[[Talk Abstract](http://www.cs.cmu.edu/~svc/talks/20080829-rajhans.html) \| [Slides](files/slides/Rajhans_SVC08_2.pdf)\]
 
-### Panelist
+### Panels
 - Panelist on the topic of **"What are the challenges posed to CPS theory by modern applications?"**, [Joint HSCC-ICCPS Panel](https://www.hscc2018.deib.polimi.it/panel-session), part of [CPS Week 2018](https://cister.isep.ipp.pt/cpsweek2018/).
 - Panelist on the topic of **Hybrid Simulation for Cyber Physical Systems – Where are we Going Regarding Complexity, Intelligence, and Adaptability of CPS Using Simulation**, Symposium on M&S of Complex, Intelligent, Adaptive and Autonomous Systems (MSCIAAS) panel at [Spring Simulation Multi-Conference (SpringSim) 2018](http://scs.org/springsim/).
 - Panelist on the topic of **Why do we need holistic concern-driven engineering?** at the [NIST CPS Framework Open Source Workshop](https://www.nist.gov/news-events/events/2017/09/cps-framework-open-source-workshop), September 2017. 
