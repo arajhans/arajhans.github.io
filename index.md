@@ -15,9 +15,11 @@ MathWorks <br/>
 
 [Twitter](https://twitter.com/rajhans) \| [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao)
 
-## Upcoming 
+## Upcoming or Recent Past 
 
-- **Invited Talk:** "*[Challenges and opportunities in design and operation of intelligent cyber-physical systems](https://www.react.uni-saarland.de/rv2019/invitedspeakers.html),* 19th International Runtime Verification Conference, Part of [3rd World Congress on Formal Methods](http://formalmethods2019.inesctec.pt/?page_id=1044), Porto, Portugal, October 10, 2019.
+- **Invited Panelist:** *[IEEE SAFENETS Workshop](http://faculty.uml.edu/thanuka_wickramarathne/safenets_workshop/),* Lowell, MA, October 1, 2019.
+
+- **Invited Talk:** *[Challenges and opportunities in design and operation of intelligent cyber-physical systems](https://www.react.uni-saarland.de/rv2019/invitedspeakers.html),* 19th International Runtime Verification Conference, Part of [3rd World Congress on Formal Methods](http://formalmethods2019.inesctec.pt/?page_id=1044), Porto, Portugal, October 10, 2019.
 
 - Invited participant at Penn's [PRECISE Industry Day Conference on Safe AI](https://precise-industry-day.seas.upenn.edu/2019/). 
 
