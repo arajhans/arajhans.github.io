@@ -6,7 +6,7 @@
 
 
 ## Past
-### Keynote Style Talks 
+### Keynotes and Keynote-Style Invited Talks 
 - **Keynote:** "*[Multi-Paradigm Modeling for Design and Operation of Intelligent Cyber-Physical Systems](https://msdl.uantwerpen.be/conferences/MPM4CPS/2019/index.php/program/),*" International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS), co-located with the MODELS Conference, Munich, Germany, September 15, 2019. \[[Slides](files/slides/Rajhans_MPM4CPS2019.pdf)\]
 
 ### Regular Invited Talks
