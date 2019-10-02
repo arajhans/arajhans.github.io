@@ -9,7 +9,7 @@ In his current multi-faceted role, Dr. Rajhans works on increasing the impact of
 
 Previously, Dr. Rajhans worked on development and application engineering of electronic control systems for diesel-engine applications at [Cummins](http://www.cumminsindia.com/). As an intern at [Bosch Research and Technology Center](http://www.bosch.us/content/language1/html/rtc.htm) in Pittsburgh, he developed a model-based approach to non-intrusive load monitoring. 
 
-Dr. Rajhans has a Ph.D. in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) from [Carnegie Mellon University](https://www.cmu.edu/) and an M.S. in [Electrical Engineering](https://www.ese.upenn.edu/) from the [University of Pennsylvania](https://www.ese.upenn.edu/). He is a senior member of IEEE and a member of ACM.
+Dr. Rajhans has a Ph.D. in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) from [Carnegie Mellon University](https://www.cmu.edu/) and an M.S. in [Electrical Engineering](https://www.ese.upenn.edu/) from the [University of Pennsylvania](https://www.ese.upenn.edu/). He is a senior member of IEEE and ACM.
 
 ## More
 Curriculum Vitae \[[PDF](files/docs/AkshayRajhansCV.pdf)\] - Last updated July 2019.
