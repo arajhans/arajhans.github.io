@@ -19,7 +19,7 @@ MathWorks <br/>
 
 - **Program Committee Co-Chair**, MathWorks Research Summit 2020, an interdisciplinary research conference that brings together researchers and practitioners from academia, industry, and government labs. Check out some [videos](https://www.mathworks.com/videos/series/mathworks-research-summit.html) from earlier editions.
 - **CPS Track Chair** for [Spring Simulation Conference (SpringSim) 2020](https://scs.org/springsim/). To be held at George Mason University, Fairfax Campus, Virginia, USA, May 19-21, 2020.
-- Invited participant at Penn's [PRECISE Industry Day Conference on Safe AI](https://precise-industry-day.seas.upenn.edu/2019/). 
+- Invited participant at Penn's [PRECISE Industry Day on Safe AI](https://precise-industry-day.seas.upenn.edu/2019/). 
 
 
 ## Recent Past 
