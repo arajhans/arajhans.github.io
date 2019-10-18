@@ -2,12 +2,13 @@
 [home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
 
 ## Upcoming
-- **Invited Talk:** "*[Challenges and opportunities in design and operation of intelligent cyber-physical systems](https://www.react.uni-saarland.de/rv2019/invitedspeakers.html),* 19th International Runtime Verification Conference, Part of [3rd World Congress on Formal Methods](http://formalmethods2019.inesctec.pt/?page_id=1044), Porto, Portugal, October 10, 2019.
+
 
 
 ## Past
-### Keynotes and Keynote-Style Invited Talks 
-- **Keynote:** "*[Multi-Paradigm Modeling for Design and Operation of Intelligent Cyber-Physical Systems](https://msdl.uantwerpen.be/conferences/MPM4CPS/2019/index.php/program/),*" International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS), co-located with the MODELS Conference, Munich, Germany, September 15, 2019. \[[Slides](files/slides/Rajhans_MPM4CPS2019.pdf)\]
+### Keynotes  
+- "*[Challenges and opportunities in design and operation of intelligent cyber-physical systems](https://www.react.uni-saarland.de/rv2019/invitedspeakers.html),* 19th International Runtime Verification Conference, Part of [3rd World Congress on Formal Methods](http://formalmethods2019.inesctec.pt/?page_id=1044), Porto, Portugal, October 10, 2019. \[[Slides](files/slides/Rajhans_RV2019.pdf)\]
+- "*[Multi-Paradigm Modeling for Design and Operation of Intelligent Cyber-Physical Systems](https://msdl.uantwerpen.be/conferences/MPM4CPS/2019/index.php/program/),*" International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS), co-located with the MODELS Conference, Munich, Germany, September 15, 2019. \[[Slides](files/slides/Rajhans_MPM4CPS2019.pdf)\]
 
 ### Regular Invited Talks
 - "*A Model-Based Design Perspective on Challenges and Opportunities in Automated Software Certification,*" 20th Software Certification Consortium (SCC) Steering Committe Meeting, Annapolis, MD, USA. May 2019. **Hosts**: Alan Wassyng and Mark Lawford, Organizers. \[[Slides](files/slides/Rajhans_SCC2019.pdf)\] 
