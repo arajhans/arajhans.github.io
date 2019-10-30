@@ -1,5 +1,5 @@
 # Akshay Rajhans
-[home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [service](service.html) \| [publications](publications.html) \| [etc](etc.html)
+[home](index.html) \| [bio](bio.html) \| [publications](publications.html) \| [talks](talks.html) \| [service](service.html) \| [etc](etc.html)
 
 <a><img src="files/pictures/AkshayPortrait.jpg" 
 alt="Akshay Rajhans" width="240" border="10" /></a>
