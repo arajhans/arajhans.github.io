@@ -15,14 +15,11 @@ MathWorks <br/>
 
 [Twitter](https://twitter.com/rajhans) \| [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao)
 
-## Upcoming 
+## Upcoming or Recent Past
 
 - **Program Committee Co-Chair**, MathWorks Research Summit 2020, an interdisciplinary research conference that brings together researchers and practitioners from academia, industry, and government labs. Check out some [videos](https://www.mathworks.com/videos/series/mathworks-research-summit.html) from earlier editions.
 - **CPS Track Chair** for [Spring Simulation Conference (SpringSim) 2020](https://scs.org/springsim/). To be held at George Mason University, Fairfax Campus, Virginia, USA, May 19-21, 2020.
 - Invited participant at Penn's [PRECISE Industry Day on Safe AI](https://precise-industry-day.seas.upenn.edu/2019/). 
-
-
-## Recent Past 
 - **Keynote**: "*[Challenges and opportunities in design and operation of intelligent cyber-physical systems](https://www.react.uni-saarland.de/rv2019/invitedspeakers.html),* 19th International Runtime Verification Conference, Part of [3rd World Congress on Formal Methods](http://formalmethods2019.inesctec.pt/?page_id=1044), Porto, Portugal, October 10, 2019. \[[Slides](files/slides/Rajhans_RV2019.pdf)\]
 - Panelist on the topic of **"Future Challenges for Autonomous & Intelligent Transportation"**, [IEEE Situational Awareness For Emerging Network Enabled Transportation Systems (SAFENETS) Workshop](https://faculty.uml.edu/thanuka_wickramarathne/safenets_workshop/), October 2019.
 - **Keynote**: "*[Multi-Paradigm Modeling for Design and Operation of Intelligent Cyber-Physical Systems](https://msdl.uantwerpen.be/conferences/MPM4CPS/2019/index.php/program/),*" International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS), co-located with the MODELS Conference, Munich, Germany, September 15, 2019. \[[Slides](files/slides/Rajhans_MPM4CPS2019.pdf)\]
