@@ -1,13 +1,13 @@
 # Professional Service
-[home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
+[home](index.html) \| [bio](bio.html) \| [publications](publications.html) \| [talks](talks.html) \| [service](service.html) \| [etc](etc.html)
 
 ## Conference Program Committee
 ### Upcoming
-- **Program Committee Chair or Co-Chair** 
+- **PC Chair or Co-Chair** 
   - MathWorks Asia Research Summit 2019
   - MathWorks Research Summit 2020
   - Cyber-Physical Systems Track, [Spring Simulation Conference (SpringSim)](http://scs.org/springsim/) 2020
-- **Program Committee Member**
+- **PC Member**
   - [International Conference on Cyber-Physical Systems (ICCPS)](https://iccps.acm.org/) 2020
   - [Summer Simulation Conference](http://www.scs.org/summersim) 2019
   - Winter Simulation Conference \[[2019](http://meetings2.informs.org/wordpress/wsc2019/)\]
