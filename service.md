@@ -1,40 +1,24 @@
 # Professional Service
 [home](index.html) \| [bio](bio.html) \| [publications](publications.html) \| [talks](talks.html) \| [service](service.html) \| [etc](etc.html)
 
-## Conference Program Committee
-### Upcoming
-- **PC Chair or Co-Chair** 
-  - MathWorks Asia Research Summit 2019
-  - MathWorks Research Summit 2020
-  - Cyber-Physical Systems Track, [Spring Simulation Conference (SpringSim)](http://scs.org/springsim/) 2020
-- **PC Member**
-  - [International Conference on Cyber-Physical Systems (ICCPS)](https://iccps.acm.org/) 2020
-  - [Summer Simulation Conference](http://www.scs.org/summersim) 2019
-  - Winter Simulation Conference \[[2019](http://meetings2.informs.org/wordpress/wsc2019/)\]
-  - International Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) \[[2019](https://sites.google.com/view/cosimcps19)\]
-  - [12th International Workshop on Numerical Software Verification (NSV) 2019](http://nsv19.mpi-sws.org/), affiliated with [CAV 2019](http://i-cav.org/2019/)
-
+## Conference Program Committee (PC)
+### Organizer 
+  - [MathWorks Research Summit](https://www.mathworks.com/videos/series/mathworks-research-summit.html) \[Boston: 2017-, Tokyo: 2016-\]
+### Frequently on PC  
+  - [Hybrid Systems: Computation and Control (HSCC)](http://www.hscc-conference.org/), PC Member 2016-2019, **_Awards Chair: 2018_**, **_Poster and Demo Chair: 2017_**, _Repeatability Evaluation Committee: 2014_
+  - [International Conference on Cyber-Physical Systems (ICCPS)](https://iccps.acm.org/) 2020, 2015
+  - IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), 2015 -, **_Industry Vice Chair: 2018_**
+  - [Spring Simulation Conference (SpringSim)](http://scs.org/springsim/), **_CPS Track Chair: 2020, 2019_**
+  - [Summer Simulation Conference](http://www.scs.org/summersim), 2014-
+  - [Winter Simulation Conference](http://meetings2.informs.org/wordpress/wsc2019/), 2017- , **_CPS Track Chair: 2017_**
+  - [International Conference on Informatics in Control Automation and Robotics (ICINCO)](http://www.icinco.org/), 2017-2018
+  - Workshop on Monitoring and Testing of Cyber-Physical Systems (MT-CPS), 2019-, **_PC Chair: [2019](https://sites.google.com/berkeley.edu/mt-cps2019)
+  - Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) \[[2019](https://sites.google.com/view/cosimcps19), [2018](https://sites.google.com/view/cosimcps18), [2017](https://sites.google.com/view/cosimcps17/home)\]
+  - Workshop on Numerical Software Verification Workshop (NSV), 2018- 
 ### Past
-- **Program Committee Chair or Co-Chair** 
-  - MathWorks Research Summit \[2017, 2018, 2019\] 
-  - MathWorks Asia Research Summit \[2017, 2018\]
-  - Cyber-Physical Systems Track, [Spring Simulation Multi-Conference (SpringSim)](http://scs.org/springsim/) 2019 \[[Call for Papers](http://scs.org/wp-content/uploads/2018/08/SpringSim19_ANSS_CfP-v2.pdf)\]
-  - [Workshop on Monitoring and Testing of Cyber-Physical Systems (MT-CPS) 2019](https://sites.google.com/berkeley.edu/mt-cps2019), part of [Cyber-Physical Systems and Internet-of-Things Week (CPS-IoT Week) 2019](http://cpslab.cs.mcgill.ca/cpsiotweek2019/)
-  - Cyber-Physical Systems Track, [50th Winter Simulation Conference (WinterSim) 2017](http://meetings2.informs.org/wordpress/wsc2017/tracks/#cyPhySys)
+  - Workshop on [Computational Intelligence Techniques for Testing and Validating Complex CPSs (CITest_CPS 2017)](http://paris.utdallas.edu/CITest_CPS17)  
 
-- **Awards Chair**, [Hybrid Systems: Computation and Control (HSCC) 2018](https://www.hscc2018.deib.polimi.it/committees)
-- **Poster and Demo Chair**, [Hybrid Systems: Computation and Control (HSCC) 2017](http://hscc2017.ece.illinois.edu/)
-
-- **Program Committee Member**
-  - [Numerical Software Verification Workshop (NSV) 2018](https://nsv-2018.github.io/nsv2018/)
-  - [Hybrid Systems: Computation and Control (HSCC)](http://www.hscc-conference.org/) \[[2019](http://hscc2019.eecs.umich.edu/) \| [2018](https://www.hscc2018.deib.polimi.it/committees) \| [2017](http://hscc2017.ece.illinois.edu/) \| [2016](http://www.cs.ox.ac.uk/conferences/hscc2016/) \| 2014 [Repeatability Evaluation Committee](https://sites.google.com/site/hscc2014repeatability/)\]
-  - [International Conference on Informatics in Control Automation and Robotics (ICINCO)](http://www.icinco.org/) \[2018 \| 2017\]
-  - [Summer Simulation Multiconference (SummerSim)](http://www.scs.org/summersim) [2018 \| 2017 \| 2015 \| 2014]
-  - International Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) \[[2018](https://sites.google.com/view/cosimcps18) \| [2017](https://sites.google.com/view/cosimcps17/home)\]
-  - [Computational Intelligence Techniques for Testing and Validating Complex CPSs (CITest_CPS 2017)](http://paris.utdallas.edu/CITest_CPS17)
-  - [IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2015](http://adhs15.gatech.edu/)
-  - [International Conference on Cyber-Physical Systems (ICCPS) 2015](http://iccps.acm.org/2015/)
-
+  
 ## PhD Thesis Committee
 - *Yi Deng*, ECSE Department, Rensselaer Polytechnic Institute. 
   - \[**Title**: *The Application of Trajectory-Based Analysis for Hybrid Systems.* \| **Advisor**: [Prof. A. Agung Julius](https://www.ecse.rpi.edu/homepages/agung/) \| [Thesis](http://digitool.rpi.edu:8881/R/Q7XRLHP737DNTBGS3YH8M9DPXMLHDTXV5QV63VM11NES8FQFQ2-01342?func=dbin-jump-full&object_id=176756&local_base=GEN01&pds_handle=GUEST)\]
