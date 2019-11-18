@@ -5,7 +5,8 @@
 
 ### Writing, Performing Arts, and Music
 - 2019: Read a short story (नाट्यवाचन) titled "एका लग्नाची...किंबहुना....एका लग्नातली गोष्ट!" as part of the [Jilebee Arts](https://jilebeearts.org/) event [Prarambha](https://jilebeearts.org/current-events), Greater Boston, MA.
-- 2018: Wrote an essay titled "चौथी औद्योगिक क्रांती आणि उद्योगधंद्यांचे भवितव्य" (Industry 4.0 and the future of manufacturing), published in Anubandh, Year 2018, Issue 1 \[[PDF](http://www.nemm.org/images/Anubandh/Anubandh_April18.pdf)\], New England Marathi Mandal 
+- 2018: Master of Ceremonies, [*NEMM 40 years*](https://www.facebook.com/events/2186358504707846/), Greater Boston, MA.
+- 2018: Wrote an essay titled "चौथी औद्योगिक क्रांती आणि उद्योगधंद्यांचे भवितव्य" (Industry 4.0 and the future of manufacturing), published in Anubandh, Year 2018, Issue 1 \[[PDF](http://www.nemm.org/images/Anubandh/Anubandh_April18.pdf)\], New England Marathi Mandal. 
 - 2017: Played a character in "It's complicated!" as part of [New England Marathi Mandal Ekankika Mahotsav](https://www.facebook.com/events/1455834907857596/), Greater Boston, MA.
 - 2017: Wrote a poem titled "रुचेल का मज सांग सख्या ती चमचमती दुनिया" for the lead female character in "It's complicated!" as part of [New England Marathi Mandal Ekankika Mahotsav](https://www.facebook.com/events/1455834907857596/), Greater Boston, MA.
 - 2016: Wrote a satire poem for "[Amchi Uchlegiri](https://www.facebook.com/events/1701769383404252/)", Greater Boston, MA.
@@ -14,5 +15,6 @@
 - 1992: Child artist in a TV show Balachitrawani (बालचित्रवाणी), (similar to PBS kids), Pune, India. 
 
 ### Leadership on Non-Profit Organizations
-- 2017-2018: Committee Member, [New England Marathi Mandal](http://www.nemm.org/index.php/aboutus/committee).
-- 2009-2011: Board of Directors, [Maharashtra Mandal of Greater Pittsburgh](http://www.mmpgh.org/committee1011.shtml).
+- 2018: Editorial Board, Anubandh, [New England Marathi Mandal](http://www.nemm.org/)
+- 2017-2018: Committee Member, [New England Marathi Mandal](http://www.nemm.org).
+- 2009-2011: Board of Directors, [Maharashtra Mandal of Greater Pittsburgh](http://www.mmpgh.org).
