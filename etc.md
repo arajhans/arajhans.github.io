@@ -12,7 +12,7 @@
 - 2016: Wrote a satire poem for "[Amchi Uchlegiri](https://www.facebook.com/events/1701769383404252/)", Greater Boston, MA.
 - 2014: Played two characters in "[Gajara](https://kalashriboston.org/past-programs)", New York City, NY.
 - 2012: Master of Ceremonies, [*Rasa: A Bharatanatyam Dance Performance and Carnatic Music*](http://www.andrew.cmu.edu/user/macay/events/rasa.jpg), a Society for Promotion of Indian Classical Music and Culture Amongst Youth (SPICMACAY) Concert, Pittsburgh, PA.
-- 1992: Child artist in a TV show Balachitrawani (बालचित्रवाणी), (similar to PBS kids), Pune, India. 
+- 1992: Child artist in a TV show "[बालचित्रवाणी](https://mr.wikipedia.org/wiki/%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%A3%E0%A5%80)" (Balachitrawani), (similar to PBS kids), Pune, India. 
 
 ### Leadership on Non-Profit Organizations
 - 2018: Editorial Board, Anubandh, [New England Marathi Mandal](http://www.nemm.org/)
