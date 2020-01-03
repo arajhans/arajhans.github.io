@@ -41,8 +41,8 @@
 
 ## Judge
 - "*CPS V&V Grand Prix,*", Final Project Competition for the Course 15-424/15-624/15-824 Foundations of Cyber-Physical Systems, Carnegie Mellon University. **Host**: [Prof. Andre' Platzer](http://www.cs.cmu.edu/~aplatzer/). 
-  - \[[2017 Competition](http://www.cs.cmu.edu/~aplatzer/course/fcps17-competition.html) \| [2017 Course](http://www.cs.cmu.edu/~aplatzer/course/fcps17.html)\], May 2017
-  - \[[2016 Competition](http://www.cs.cmu.edu/~aplatzer/course/fcps16-competition.html) \| [2016 Course](http://www.cs.cmu.edu/~aplatzer/course/fcps16.html)\], May 2016
+  - \[[Competition](http://www.cs.cmu.edu/~aplatzer/course/fcps17-competition.html) \| [Course](http://www.cs.cmu.edu/~aplatzer/course/fcps17.html)\], May 2017
+  - \[[Competition](http://www.cs.cmu.edu/~aplatzer/course/fcps16-competition.html) \| [Course](http://www.cs.cmu.edu/~aplatzer/course/fcps16.html)\], May 2016
 
 
 ## Teaching Assistantship
