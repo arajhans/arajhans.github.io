@@ -20,4 +20,4 @@
 - 2009-2011: Board of Directors, [Maharashtra Mandal of Greater Pittsburgh](http://www.mmpgh.org).
 
 ### Miscellaneous
-- 2019: I happened to be at [Dagstuhl](https://www.dagstuhl.de/) when the local TV station was filming a [documentary](https://www.sr-mediathek.de/index.php?seite=7&id=73351) in which I make a cameo appearence. [Video with English Subtitles](https://www.dagstuhl.de/fileadmin/redaktion/Presse/Pressespiegel/2019-05-02-wims.htm)
+- 2019: I happened to be at [Dagstuhl](https://www.dagstuhl.de/) when the local TV station was filming a [documentary](https://www.sr-mediathek.de/index.php?seite=7&id=73351) in which I make a cameo appearence. \[[Video with English Subtitles](https://www.dagstuhl.de/fileadmin/redaktion/Presse/Pressespiegel/2019-05-02-wims.htm)\]
