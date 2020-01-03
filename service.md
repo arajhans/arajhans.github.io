@@ -12,7 +12,7 @@
   - [Spring Simulation Conference (SpringSim)](http://scs.org/springsim/), 2014- , **_CPS Track Chair: 2020, 2019_**
   - [Summer Simulation Conference (SummerSim)](http://www.scs.org/summersim), 2014-
   - [Winter Simulation Conference (WinterSim)](http://meetings2.informs.org/wordpress/wsc2019/), 2017- , **_CPS Track Chair: 2017_**
-  - [International Conference on Informatics in Control Automation and Robotics (ICINCO)](http://www.icinco.org/), 2017-2018
+  - [International Conference on Informatics in Control Automation and Robotics (ICINCO)](http://www.icinco.org/), 2020, 2017-2018
   - Workshop on Monitoring and Testing of Cyber-Physical Systems (MT-CPS), 2019-, **_PC Chair: [2019](https://sites.google.com/berkeley.edu/mt-cps2019)_**
   - Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) \[[2019](https://sites.google.com/view/cosimcps19), [2018](https://sites.google.com/view/cosimcps18), [2017](https://sites.google.com/view/cosimcps17/home)\]
   - Workshop on Numerical Software Verification Workshop (NSV), 2018- 
@@ -31,6 +31,7 @@
 - **Industry Advisory Board Member**, [IEEE International Symposium on Circuits and Systems (ISCAS) 2018](http://www.iscas2018.org/)
 
 ## Editorial 
+- Technology Conferences Editorial Board (TCEB) Member, IEEE Control Systems Society, 2020-23 
 - Editorial Advisory Board Member, [Resilience in Cyber-Physical Systems: From Risk Modelling to Threat Counteraction](https://www.springer.com/gp/book/9783319955964), F. Flammini (Ed.), Springer Book in the Series [Advanced Sciences and Technologies for Security Applications](https://www.springer.com/series/5540?detailsPage=titles), A. J. Masys (Series Ed.)
 - Editor, [EGO Insider's Guide](http://www.ece.cmu.edu/~ego/files/insiders/guide2012.pdf), [ECE Graduate Organization (EGO)](https://www.ece.cmu.edu/~ego/), Carnegie Mellon University, 2010-2012.
 
