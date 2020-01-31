@@ -16,9 +16,9 @@ MathWorks <br/>
 [Twitter](https://twitter.com/rajhans) \| [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao)
 
 ## Upcoming or Recent Past
-- On the Program Committee for the MathWorks Graduate Student Summit co-located with the MathWorks Research Summit in Boston on April 6. If you are an interested graduate student researcher, please [nominate yourself](https://www.surveymonkey.com/r/KH5KBRL). 
+- On the Program Committee for the MathWorks Graduate Student Summit co-located with the MathWorks Research Summit in Boston on April 6, 2020. If you are an interested graduate student researcher, please [nominate yourself](https://www.surveymonkey.com/r/KH5KBRL). 
 - On the **Technical Conferences Editorial Board**, IEEE Control Systems Society, 2020-2023.
-- **Program Committee Co-Chair**, MathWorks Research Summit 2020, an interdisciplinary research conference that brings together researchers and practitioners from academia, industry, and government labs. Check out some [videos](https://www.mathworks.com/videos/series/mathworks-research-summit.html) from earlier editions.
+- **Program Committee Co-Chair**, MathWorks Research Summit 2020, an interdisciplinary research conference that brings together researchers and practitioners from academia, industry, and government labs. April 4-6, 2020, Boston. Check out some [videos](https://www.mathworks.com/videos/series/mathworks-research-summit.html) from earlier editions.
 - **CPS Track Chair** for [Spring Simulation Conference (SpringSim) 2020](https://scs.org/springsim/). To be held at George Mason University, Fairfax Campus, Virginia, USA, May 19-21, 2020.
 - Invited participant at Penn's [PRECISE Industry Day on Safe AI](https://precise-industry-day.seas.upenn.edu/2019/). 
 - **Keynote**: "*[Challenges and opportunities in design and operation of intelligent cyber-physical systems](https://www.react.uni-saarland.de/rv2019/invitedspeakers.html),* 19th International Runtime Verification Conference, Part of [3rd World Congress on Formal Methods](http://formalmethods2019.inesctec.pt/?page_id=1044), Porto, Portugal, October 10, 2019. \[[Slides](files/slides/Rajhans_RV2019.pdf)\]
