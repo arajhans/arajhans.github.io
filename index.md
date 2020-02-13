@@ -16,7 +16,7 @@ MathWorks <br/>
 [Twitter](https://twitter.com/rajhans) \| [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao)
 
 ## Upcoming or Recent Past
-- [Video](https://www.youtube.com/watch?v=bDhFVASF9PU) of ther RV talk is online.
+- [Video](https://www.youtube.com/watch?v=bDhFVASF9PU) of the RV talk is online.
 - On the Program Committee for the inaugural **MathWorks Graduate Student Summit** co-located with the MathWorks Research Summit in Boston on April 6, 2020. If you are an interested graduate student researcher, please [nominate yourself](https://www.surveymonkey.com/r/KH5KBRL). 
 - On the **Technical Conferences Editorial Board**, IEEE Control Systems Society, 2020-2023.
 - **Program Committee Co-Chair**, MathWorks Research Summit 2020, an interdisciplinary research conference that brings together researchers and practitioners from academia, industry, and government labs. April 4-6, 2020, Boston. Check out some [videos](https://www.mathworks.com/videos/series/mathworks-research-summit.html) from earlier editions.
