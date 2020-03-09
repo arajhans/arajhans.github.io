@@ -16,7 +16,7 @@ MathWorks <br/>
 [Twitter](https://twitter.com/rajhans) \| [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao)
 
 ## Upcoming or Recent Past
-- I was interviewed along with some other keynote speakers at the Formal Methods World Congress in Porto a few months ago. I like how this has come together in the end in this [video](https://www.youtube.com/watch?v=86tIMs1aTEk).
+- Formal Methods World Congress Keynote Speakers interview is out: [video](https://www.youtube.com/watch?v=86tIMs1aTEk).
 - On the Program Committee of [CoSim-CPS 2020](https://sites.google.com/view/cosimcps20).
 - Paper accepted at [SpringSim 2020](https://scs.org/springsim/)
 - [Video](https://www.youtube.com/watch?v=bDhFVASF9PU) of the RV talk is online.
