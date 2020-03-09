@@ -14,7 +14,7 @@
   - [Winter Simulation Conference (WinterSim)](http://meetings2.informs.org/wordpress/wsc2019/), 2017- , **_CPS Track Chair: 2017_**
   - [International Conference on Informatics in Control Automation and Robotics (ICINCO)](http://www.icinco.org/), 2020, 2017-2018
   - Workshop on Monitoring and Testing of Cyber-Physical Systems (MT-CPS), 2019-, **_PC Chair: [2019](https://sites.google.com/berkeley.edu/mt-cps2019)_**
-  - Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS) \[[2019](https://sites.google.com/view/cosimcps19), [2018](https://sites.google.com/view/cosimcps18), [2017](https://sites.google.com/view/cosimcps17/home)\]
+  - Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS), 2017- 
   - Workshop on Numerical Software Verification Workshop (NSV), 2018- 
 
 ### Past
