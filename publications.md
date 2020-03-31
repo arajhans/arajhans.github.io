@@ -2,7 +2,7 @@
 [home](index.html) \| [bio](bio.html) \| [publications](publications.html) \| [talks](talks.html) \| [service](service.html) \| [etc](etc.html)
 
 \[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) \| [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
-- [TDK+20] Z. Tu, A. Dimas, M. N. Kurt, A. Mavrommati, P. J. Mosterman, A. Rajhans, R. Valenti, "*A Simulator for trading traffic privileges by selfish driving cars*", to appear, Spring Simulation Conference, 2020.
+- [TDK+20] Z. Tu, A. Dimas, M. N. Kurt, A. Mavrommati, P. J. Mosterman, A. Rajhans, R. Valenti, "*A Simulator for trading traffic privileges by selfish driving cars*", to appear, Spring Simulation Conference, 2020. \[[Preprint(PDF)](files/papers/TuDK+_SpringSim20.pdf)\]
 - [DMN19] A. Donze and A. Rajhans, "*Tools Perspective*", J. V. Deshmukh, O. Maler, and D. Nickovic, eds., "*Specification Formalisms for Modern Cyber-Physical Systems (Dagstuhl Seminar 19071)*", Dagstuhl \[[DROPS entry with link to PDF](http://drops.dagstuhl.de/opus/volltexte/2019/10858/)\]
 - [ABK<sup>+</sup>19] F. Allgöwer, J. Borges de Sousa, J. Kapinski, P. Mosterman, J. Oehlerking, P. Panciatici, M. Prandini, A. Rajhans, P. Tabuada, P. Wenzelburger, "*Position paper on the challenges posed by modern applications to cyber-physical systems theory*", Nonlinear Analysis: Hybrid Systems, Volume 34, Pages 147-165, November 2019. \[[PDF](https://authors.elsevier.com/c/1ZDMS,dqthwbBx)\]
 - [CMR<sup>+</sup>19] S. Castro, P. J. Mosterman, A. H. Rajhans, R. G. Valenti, "*Challenges in the Operation and Design of Intelligent Cyber-Physical Systems*," Book Chapter, Accepted.
