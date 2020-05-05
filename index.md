@@ -16,12 +16,13 @@ MathWorks <br/>
 [Twitter](https://twitter.com/rajhans) \| [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao)
 
 ## Upcoming or Recent Past
+- **CPS Track Chair** for [Spring Simulation Conference (SpringSim) 2020](https://scs.org/springsim/). To be held ~~at George Mason University, Fairfax Campus, Virginia, USA,~~ ***virtually*** May 19-21, 2020.
 - Formal Methods World Congress Keynote Speakers interview is out: \[[video](https://youtu.be/BnANyL4H8i4)\]
 - On the Program Committee of [CoSim-CPS 2020](https://sites.google.com/view/cosimcps20)
 - Paper accepted at [SpringSim 2020](https://scs.org/springsim/)
 - [Video](https://www.youtube.com/watch?v=bDhFVASF9PU) of the RV talk is online.
 - On the **Technical Conferences Editorial Board**, IEEE Control Systems Society, 2020-2023.
-- **CPS Track Chair** for [Spring Simulation Conference (SpringSim) 2020](https://scs.org/springsim/). To be held at George Mason University, Fairfax Campus, Virginia, USA, May 19-21, 2020.
+
 - Invited participant at Penn's [PRECISE Industry Day on Safe AI](https://precise-industry-day.seas.upenn.edu/2019/). 
 - **Keynote**: "*[Challenges and opportunities in design and operation of intelligent cyber-physical systems](https://www.react.uni-saarland.de/rv2019/invitedspeakers.html),* 19th International Runtime Verification Conference, Part of [3rd World Congress on Formal Methods](http://formalmethods2019.inesctec.pt/?page_id=1044), Porto, Portugal, October 10, 2019. \[[Slides](files/slides/Rajhans_RV2019.pdf)\]
 - Panelist on the topic of **"Future Challenges for Autonomous & Intelligent Transportation"**, [IEEE Situational Awareness For Emerging Network Enabled Transportation Systems (SAFENETS) Workshop](https://faculty.uml.edu/thanuka_wickramarathne/safenets_workshop/), October 2019.
