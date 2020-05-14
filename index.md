@@ -16,7 +16,7 @@ MathWorks <br/>
 [Twitter](https://twitter.com/rajhans) \| [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao)
 
 ## Upcoming or Recent Past
-- **CPS Track Chair** for [Spring Simulation Conference (SpringSim) 2020](https://scs.org/springsim/). To be held ~~at George Mason University, Fairfax Campus, Virginia, USA,~~ ***virtually***, May 19-21, 2020. \[[program](https://scs.org/wp-content/uploads/2018/07/Agenda-Spring-Virtualv5.pdf)\]
+- **CPS Track Chair** for [Spring Simulation Conference (SpringSim) 2020](https://scs.org/springsim/). To be held ~~at George Mason University, Fairfax Campus, Virginia, USA,~~ ***virtually***, May 19-21, 2020. \[[program](https://scs.org/wp-content/uploads/2020/04/Agenda-Spring-Virtualv6.pdf)\]
 - Formal Methods World Congress Keynote Speakers interview is out: \[[video](https://youtu.be/BnANyL4H8i4)\]
 - On the Program Committee of [CoSim-CPS 2020](https://sites.google.com/view/cosimcps20)
 - Paper accepted at [SpringSim 2020](https://scs.org/springsim/)
