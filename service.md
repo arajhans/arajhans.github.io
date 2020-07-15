@@ -7,6 +7,7 @@
 
 ### Currently or Recently on PC
   - [Formal Methods (FM)](http://www.fmeurope.org/symposia/), 2021-
+  - [Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS)](https://msdl.uantwerpen.be/conferences/MPM4CPS/2020/), 2020-
   - [Hybrid Systems: Computation and Control (HSCC)](http://www.hscc-conference.org/), 2016-2019, **_Awards Chair: 2018_**, **_Poster and Demo Chair: 2017_**, _Repeatability Evaluation Committee: 2014_
   - [International Conference on Cyber-Physical Systems (ICCPS)](https://iccps.acm.org/), 2020, 2015
   - IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), 2015 -, **_Industry Vice Chair: 2018_**
