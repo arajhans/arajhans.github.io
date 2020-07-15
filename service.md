@@ -5,7 +5,8 @@
 ### Organizer 
   - [MathWorks Research Summit](https://www.mathworks.com/videos/series/mathworks-research-summit.html), Boston: 2017-, Tokyo: 2016-
 
-### Frequently on PC  
+### Currently or Recently on PC
+  - [Formal Methods (FM)](http://www.fmeurope.org/symposia/), 2021-
   - [Hybrid Systems: Computation and Control (HSCC)](http://www.hscc-conference.org/), 2016-2019, **_Awards Chair: 2018_**, **_Poster and Demo Chair: 2017_**, _Repeatability Evaluation Committee: 2014_
   - [International Conference on Cyber-Physical Systems (ICCPS)](https://iccps.acm.org/), 2020, 2015
   - IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), 2015 -, **_Industry Vice Chair: 2018_**
@@ -15,7 +16,7 @@
   - [International Conference on Informatics in Control Automation and Robotics (ICINCO)](http://www.icinco.org/), 2020, 2017-2018
   - Workshop on Monitoring and Testing of Cyber-Physical Systems (MT-CPS), 2019-, **_PC Chair: [2019](https://sites.google.com/berkeley.edu/mt-cps2019)_**
   - Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS), 2017- 
-  - Workshop on Numerical Software Verification Workshop (NSV), 2018- 
+  - Workshop on Numerical Software Verification Workshop (NSV), 2018-2019 
 
 ### Past
   - Workshop on [Computational Intelligence Techniques for Testing and Validating Complex CPSs (CITest_CPS 2017)](http://paris.utdallas.edu/CITest_CPS17)  
