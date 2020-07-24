@@ -19,11 +19,12 @@ MathWorks <br/>
 - On the Program Committee for [International Conference on Cyber-Physical Systems (ICCPS) 2021](https://iccps.acm.org/2021/), Nashville, USA.
 - On the Program Committe for [Formal Methods (FM) 2021](http://www.fmeurope.org/symposia/).
 - On the Program Committee for [Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS) 2020](https://msdl.uantwerpen.be/conferences/MPM4CPS/2020/)
+- Paper co-authored with colleagues from GE Research to appear at the [AIAA/IEEE Digital Avionics Systems Conference (DASC) 2020](https://2020.dasconline.org/)
 - **CPS Track Chair** for [Spring Simulation Conference (SpringSim) 2020](https://scs.org/springsim/). To be held ~~at George Mason University, Fairfax Campus, Virginia, USA,~~ ***virtually***, May 19-21, 2020. \[[program](https://scs.org/wp-content/uploads/2020/04/Agenda-Spring-Virtualv6.pdf)\]
 - Formal Methods World Congress Keynote Speakers interview is out: \[[video](https://youtu.be/BnANyL4H8i4)\]
 - On the Program Committee of [CoSim-CPS 2020](https://sites.google.com/view/cosimcps20)
 - Paper accepted at [SpringSim 2020](https://scs.org/springsim/)
-- On the **Technical Conferences Editorial Board**, IEEE Control Systems Society, 2020-2023.
+- On the **[Technical Conferences Editorial Board](http://ieeecss.org/conferences/technology-conference-editorial-board-tceb)**, IEEE Control Systems Society, 2020-2023.
 - Invited participant at Penn's [PRECISE Industry Day on Safe AI](https://precise-industry-day.seas.upenn.edu/2019/). 
 - **Keynote**: "*[Challenges and opportunities in design and operation of intelligent cyber-physical systems](https://www.react.uni-saarland.de/rv2019/invitedspeakers.html),* 19th International Runtime Verification Conference, Part of [3rd World Congress on Formal Methods](http://formalmethods2019.inesctec.pt/?page_id=1044), Porto, Portugal, October 10, 2019. \[[Slides](files/slides/Rajhans_RV2019.pdf) \| [Video](https://www.youtube.com/watch?v=bDhFVASF9PU)\]
 - Panelist on the topic of **"Future Challenges for Autonomous & Intelligent Transportation"**, [IEEE Situational Awareness For Emerging Network Enabled Transportation Systems (SAFENETS) Workshop](https://faculty.uml.edu/thanuka_wickramarathne/safenets_workshop/), October 2019.
