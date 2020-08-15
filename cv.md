@@ -27,6 +27,16 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Education](#educ
 
 Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking]() \| [Service]() \| [Publications](#professional-service) \| [Mentoring](#student-mentoring-and-teaching)
 ## Professional Highlights
+- Invited participant at an NSF/DoD/NIST workshop to chart out the future of simulation and machine learning inrobotics, 2018. See:https://www.nist.gov/news-events/events/2018/04/simulation-and-machine-learning-robotics
+- Selected on ACM’sGlobal Practitioner Advisory Community, 2017.
+- Work featured asResearch HighlightinCommunications of the ACMmagazine, 2013.
+- Work featured inInnovation with Impact, Carnegie Mellon University, 2013.
+- William J. McCalla Best Paper Award, ACM/IEEE International Conference on Computer-Aided Design, 2011.
+- Carnegie Institute of TechnologyDean’s Fellowship, August 2008–May 2013.
+- Ranked intop 0.48% in India (percentile score of 99.52), Common Admission Test, 2005.
+- National Talent Search (NTS) Scholarship, finalist, India, 1997.
+- Maharashtra Talent Search (MTS) Scholarship, State-level rank:35(1996), 15(1995).
+- Middle School Scholarship, Maharashtra, India. State-level rank:16(1991-1994)
 
 Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking]() \| [Service]() \| [Publications](#professional-service) \| [Mentoring](#student-mentoring-and-teaching)
 
