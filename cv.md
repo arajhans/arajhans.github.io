@@ -3,7 +3,7 @@
 [home](index.html) \| [bio](bio.html) \| [publications](publications.html) \| [talks](talks.html) \| [service](service.html) \| [etc](etc.html)
 
 
-Jump to: [Top](#) \| [Experience](#professional-experience) \| [Education](#education) \| 
+Jump to: [Top](#) \| [Experience](#professional-experience) \| [Education](#education) \| [Speaking]() \| [Service]() \| [Publications](#professional-service) \| [Mentoring](#student-mentoring-and-teaching) \| [Highlights](#professional-highlights) \| [Skills](#software-skills)
 
 ## Professional Experience
 
