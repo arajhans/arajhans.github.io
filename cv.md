@@ -7,13 +7,13 @@ Jump to: [Professional Experience](#professional-experience) \|
 
 ## Professional Experience
 
-### MathWorks (2013-)
-#### Principal Research Scientist, Advanced Research & Technology Office
-#### Senior Research Scientist, Advanced Research & Technology Office
-#### Senior Software Engineer, Simulink Semantics
-### Carnegie Mellon University (2008-2013)
-#### Ph.D. Candidate
-#### Teaching Assistant, Embedded Controls
+- MathWorks (2013-)
+  - Principal Research Scientist, Advanced Research & Technology Office
+  - Senior Research Scientist, Advanced Research & Technology Office
+  - Senior Software Engineer, Simulink Semantics
+- Carnegie Mellon University (2008-2013)
+  - Ph.D. Candidate
+  - Teaching Assistant, Embedded Controls
 ### Bosch Research and Technology Center (2010)
 ### University of Pennsylvania (2006-2008)
 ### Cummins (2003-2005)
