@@ -14,8 +14,12 @@ Jump to: [Professional Experience](#professional-experience) \|
 - Carnegie Mellon University (2008-2013)
   - Ph.D. Candidate
   - Teaching Assistant, Embedded Controls
-- Bosch Research and Technology Center (2010)
+- Bosch (2010)
+  - Research Intern, Bosch Research and Technology Center, Pittsburgh, PA. 
 - University of Pennsylvania (2006-2008)
+  - Research Staff, GRASP Laboratory (Jan 2008 - Jun 2008)
+  - Teaching Assistant, Mathematics Department (Spring 2008, Fall 2007)
+  - Teaching Assistant, Electrical and Systems Engineering Department (Spring 2007, Fall 2006)
 - Cummins (2003-2005)
   - Manager, Electronic Controls Application Engineering, Industrial Business Unit, Cummins India Limited, Pune. (Aug 2005 - December 2005)
   - Operations Management Program Participant, Cummins India Limited, Pune. (Aug 2003 - August 2005)
