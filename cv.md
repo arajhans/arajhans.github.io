@@ -25,7 +25,10 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Education](#educ
   - Operations Management Program Participant, Pune. (Aug 2003 - August 2005)
 
 
-Jump to: [Top](#) \| [Experience](#professional-experience) \| [Education](#education) \| [Speaking]() \| [Service]() \| [Publications](#professional-service) \| [Mentoring](#student-mentoring-and-teaching) \| [Highlights](#professional-highlights)
+Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking]() \| [Service]() \| [Publications](#professional-service) \| [Mentoring](#student-mentoring-and-teaching)
+## Professional Highlights
+
+Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking]() \| [Service]() \| [Publications](#professional-service) \| [Mentoring](#student-mentoring-and-teaching)
 
 ## Education
 - Ph.D., Electrical and Computer Engineering, Carnegie Mellon University (2013)
@@ -33,7 +36,7 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Education](#educ
 - B.E., Electronics and Telecommunication, University of Pune (2003)
 
 
-Jump to: [Top](#) \| [Experience](#professional-experience) \| [Education](#education) \| [Speaking]() \| [Service]() \| [Publications](#professional-service) \| [Mentoring](#student-mentoring-and-teaching) \| [Highlights](#professional-highlights)
+Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking]() \| [Service]() \| [Publications](#professional-service) \| [Mentoring](#student-mentoring-and-teaching)
 
 ## Public Speaking
 ### Keynote-Style Talks
@@ -63,8 +66,7 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Education](#educ
 - Panelist on the topic of **Safe Control of Connected and Autonomous Vehicles**, [1st Workshop on Safe Control of Connected and Autonomous Vehicles (SCAV)](https://scav.in.tum.de/), affiliated with [Cyber-Physical Systems Week (CPS Week) 2017](https://cpsweek2017.ece.cmu.edu/), April 2017. \[[Picture](https://twitter.com/rajhans/status/856221543399137280), [Workshop Report](http://www.gleirscher.at/mg/dl/scav17-report-preprint.pdf)\]
 
 
-
-Jump to: [Top](#) \| [Experience](#professional-experience) \| [Education](#education) \| [Speaking]() \| [Service]() \| [Publications](#professional-service) \| [Mentoring](#student-mentoring-and-teaching) \| [Highlights](#professional-highlights)
+Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking]() \| [Service]() \| [Publications](#professional-service) \| [Mentoring](#student-mentoring-and-teaching)
 ## Professional Service
 ### Conference Program Committee (PC)
 #### Organizer 
@@ -101,7 +103,7 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Education](#educ
 - Selected on the [ACM Global Practitioner Advisory Community (ACM GPAC)](https://www.acm.org/education/gpac), consisting of 100 computing practitioners worldwide who will guide ACM in enhancing and developing practitioner-oriented resources.
 - Member of the [IEEE Technical Committee on Homeland Security](http://www.ieeesmc.org/technical-activities/systems-science-and-engineering/homeland-security)
 
-Jump to: [Top](#) \| [Experience](#professional-experience) \| [Education](#education) \| [Speaking]() \| [Service]() \| [Publications](#professional-service) \| [Mentoring](#student-mentoring-and-teaching) \| [Highlights](#professional-highlights)
+Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking]() \| [Service]() \| [Publications](#professional-service) \| [Mentoring](#student-mentoring-and-teaching)
 ## Publications
 \[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) \| [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
 
@@ -159,12 +161,11 @@ Industrial Internet of Things Applications*", [Fourth International Workshop on 
 ### Reports and Posters
 [Reports and posters](other-publications.html)
 
-
-Jump to: [Top](#) \| [Experience](#professional-experience) \| [Education](#education) \| [Speaking]() \| [Service]() \| [Publications](#professional-service) \| [Mentoring](#student-mentoring-and-teaching) \| [Highlights](#professional-highlights)
+Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking]() \| [Service]() \| [Publications](#professional-service) \| [Mentoring](#student-mentoring-and-teaching)
 ## Patents
 - [ABDR12] Andrews, B., Benitez, D., Raghunathan, B., Rajhans, A., “*Method for Non-Intrusive Load Monitoring using a Hybrid System State Estimation Approach”*, Patent No. 8209062. \[[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/8209062) \| [Google Scholar](http://www.google.com/patents/US8209062?dq=info:kNjIEMTwpFgJ:scholar.google.com)\]
 
-Jump to: [Top](#) \| [Experience](#professional-experience) \| [Education](#education) \| [Speaking]() \| [Service]() \| [Publications](#professional-service) \| [Mentoring](#student-mentoring-and-teaching) \| [Highlights](#professional-highlights)
+Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking]() \| [Service]() \| [Publications](#professional-service) \| [Mentoring](#student-mentoring-and-teaching)
 ## Student Mentoring and Teaching
 ### PhD Thesis Committee
 - *Yi Deng*, ECSE Department, Rensselaer Polytechnic Institute. 
@@ -189,8 +190,6 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Education](#educ
 - 2009: Volunteer Instructor, [Summer Engineering Experience for Girls (SEE)](https://www.cmu.edu/ices/outreach/see/), Carnegie Mellon University.
 - 2002: Volunteer Instructor, Social Educational Activity by [IEEE Bombay Section](http://ieeebombay.org), **_Topic_**: *Mobile Communications*.
 
-Jump to: [Top](#) \| [Experience](#professional-experience) \| [Education](#education) \| [Speaking]() \| [Service]() \| [Publications](#professional-service) \| [Mentoring](#student-mentoring-and-teaching) \| [Highlights](#professional-highlights)
-## Professional Highlights
 
-Jump to: [Top](#) \| [Experience](#professional-experience) \| [Education](#education) \| [Speaking]() \| [Service]() \| [Publications](#professional-service) \| [Mentoring](#student-mentoring-and-teaching) \| [Highlights](#professional-highlights)
+Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking]() \| [Service]() \| [Publications](#professional-service) \| [Mentoring](#student-mentoring-and-teaching)
 ## Software Skills
