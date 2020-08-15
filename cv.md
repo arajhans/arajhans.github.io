@@ -27,7 +27,7 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Education](#educ
 
 Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking]() \| [Service]() \| [Publications](#professional-service) \| [Mentoring](#student-mentoring-and-teaching)
 ## Professional Highlights
-- Invited participant at [Simulation and Machine Learning in Robotics](https://www.nist.gov/news-events/events/2018/04/simulation-and-machine-learning-robotics) an NSF/DoD/NIST workshop to chart out the future of simulation and machine learning inrobotics, 2018.
+- Invited participant at [Simulation and Machine Learning in Robotics](https://www.nist.gov/news-events/events/2018/04/simulation-and-machine-learning-robotics), an NSF/DoD/NIST workshop to chart out the future of simulation and machine learning inrobotics, 2018.
 - Selected on ACM’s Global Practitioner Advisory Community, 2017.
 - Work featured as Research Highlight in Communications of the ACM magazine, 2013.
 - Work featured in Innovation with Impact, Carnegie Mellon University, 2013.
