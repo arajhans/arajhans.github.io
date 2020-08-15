@@ -21,8 +21,8 @@ Jump to: [Professional Experience](#professional-experience) \|
   - Teaching Assistant, Mathematics Department (Spring 2008, Fall 2007)
   - Teaching Assistant, Electrical and Systems Engineering Department (Spring 2007, Fall 2006)
 - Cummins (2003-2005)
-  - Manager, Electronic Controls Application Engineering, Industrial Business Unit, Cummins India Limited, Pune. (Aug 2005 - December 2005)
-  - Operations Management Program Participant, Cummins India Limited, Pune. (Aug 2003 - August 2005)
+  - Manager, Electronic Controls Application Engineering, Industrial Business Unit, Pune. (Aug 2005 - December 2005)
+  - Operations Management Program Participant, Pune. (Aug 2003 - August 2005)
 
 ## Education
 - Ph.D., Electrical and Computer Engineering, Carnegie Mellon University (2013)
