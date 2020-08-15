@@ -24,18 +24,28 @@ Jump to: [Top](#) \| [Professional Experience](#professional-experience) \| [Edu
   - Manager, Electronic Controls Application Engineering, Industrial Business Unit, Pune. (Aug 2005 - December 2005)
   - Operations Management Program Participant, Pune. (Aug 2003 - August 2005)
 
+
+Jump to: [Top](#) \| [Professional Experience](#professional-experience) \| [Education](#education) \|
+
 ## Education
 - Ph.D., Electrical and Computer Engineering, Carnegie Mellon University (2013)
 - M.S., Electrical Engineering, University of Pennsylvania (2008)
 - B.E., Electronics and Telecommunication, University of Pune (2003)
+
+
+Jump to: [Top](#) \| [Professional Experience](#professional-experience) \| [Education](#education) \|
 
 ## Public Speaking
 ### Keynotes
 ### Invited Talks
 ### Panels
 
+
+Jump to: [Top](#) \| [Professional Experience](#professional-experience) \| [Education](#education) \|
 ## Professional Service
 
+
+Jump to: [Top](#) \| [Professional Experience](#professional-experience) \| [Education](#education) \|
 ## Publications
 \[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) \| [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
 - [VHR<sup>+</sup>20] N. Visnevski, T. Hubscher-Younger, A. Rajhans, and B. Meng, "*Automatic Synthesis of Information Flow Driven Execution Managers for Embedded Software Applications*", [AIAA/IEEE Digital Avionics Systems Conference (DASC) 2020](https://2020.dasconline.org/). To Appear.
@@ -70,6 +80,8 @@ Industrial Internet of Things Applications*", [Fourth International Workshop on 
 ### Reports and Posters
 [Reports and posters](other-publications.html)
 
+
+Jump to: [Top](#) \| [Professional Experience](#professional-experience) \| [Education](#education) \|
 ## Patents
 - [ABDR12] Andrews, B., Benitez, D., Raghunathan, B., Rajhans, A., “*Method for Non-Intrusive Load Monitoring using a Hybrid System State Estimation Approach”*, Patent No. 8209062. \[[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/8209062) \| [Google Scholar](http://www.google.com/patents/US8209062?dq=info:kNjIEMTwpFgJ:scholar.google.com)\]
 
