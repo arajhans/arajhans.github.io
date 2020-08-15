@@ -14,8 +14,8 @@ Jump to: [Professional Experience](#professional-experience) \|
 - Carnegie Mellon University (2008-2013)
   - Ph.D. Candidate
   - Teaching Assistant, Embedded Controls
-- Bosch (2010)
-  - Research Intern, Bosch Research and Technology Center, Pittsburgh, PA. 
+- Bosch (2009)
+  - Research Intern, Bosch Research and Technology Center, Pittsburgh, PA. (Fall 2009) 
 - University of Pennsylvania (2006-2008)
   - Research Staff, GRASP Laboratory (Jan 2008 - Jun 2008)
   - Teaching Assistant, Mathematics Department (Spring 2008, Fall 2007)
