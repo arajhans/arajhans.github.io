@@ -8,12 +8,12 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#pro
 ## Professional Experience
 
 - MathWorks (2013-)
-  - Principal Research Scientist, Advanced Research & Technology Office
-  - Senior Research Scientist, Advanced Research & Technology Office
-  - Senior Software Engineer, Simulink Semantics
+  - Principal Research Scientist, Advanced Research & Technology Office (May 2018 - )
+  - Senior Research Scientist, Advanced Research & Technology Office (Jun 2016 - Apr 2018)
+  - Senior Software Engineer, Simulink Semantics (Jul 2013 - Jun 2016)
 - Carnegie Mellon University (2008-2013)
-  - Ph.D. Candidate
-  - Teaching Assistant, Embedded Controls
+  - Ph.D. Candidate (Jul 2008 - May 2013)
+  - Teaching Assistant, Embedded Control Systems (Spring 2011, Spring 2010)
 - Bosch (2009)
   - Research Intern, Bosch Research and Technology Center, Pittsburgh, PA. (Fall 2009) 
 - University of Pennsylvania (2006-2008)
@@ -21,7 +21,7 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#pro
   - Teaching Assistant, Mathematics Department (Spring 2008, Fall 2007)
   - Teaching Assistant, Electrical and Systems Engineering Department (Spring 2007, Fall 2006)
 - Cummins (2003-2005)
-  - Manager, Electronic Controls Application Engineering, Industrial Business Unit, Pune. (Aug 2005 - December 2005)
+  - Manager, Electronic Controls Application Engineering, Industrial Business Unit, Pune. (Aug 2005 - Dec 2005)
   - Operations Management Program Participant, Pune. (Aug 2003 - August 2005)
 
 Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking](#public-speaking) \| [Service](#professional-service) \| [Publications](#publications) \| [Mentoring](#student-mentoring-and-teaching)
