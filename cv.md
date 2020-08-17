@@ -37,8 +37,8 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#pro
 - Carnegie Institute of Technology Dean’s Fellowship, August 2008–May 2013.
 - Ranked in top 0.48% in India (percentile score of 99.52), Common Admission Test, 2005.
 - National Talent Search (NTS) Scholarship, finalist, India, 1997.
-- Maharashtra Talent Search (MTS) Scholarship, State-level rank:35(1996), 15(1995).
-- Middle School Scholarship, Maharashtra, India. State-level rank:16(1991-1994)
+- Maharashtra Talent Search (MTS) Scholarship, State-level rank: 35(1996), 15(1995).
+- Middle School Scholarship, Maharashtra, India. State-level rank: 16(1991-1994)
 
 Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking](#public-speaking) \| [Service](#professional-service) \| [Publications](#publications) \| [Mentoring](#student-mentoring-and-teaching)
 
