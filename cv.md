@@ -33,7 +33,7 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#pro
 - Selected on ACM’s [Global Practitioner Advisory Community](https://www.acm.org/education/gpac), 2017.
 - Work featured as [Research Highlight in Communications of the ACM magazine](https://cacm.acm.org/magazines/2013/10/168166-formal-verification-of-phase-locked-loops-using-reachability-analysis-and-continuization/fulltext), 2013.
 - Work featured in Innovation with Impact, Carnegie Mellon University, 2013.
-- William J. McCalla Best Paper Award, ACM/IEEE International Conference on Computer-Aided Design, 2011.
+- [William J. McCalla Best Paper Award](https://iccad.com/award_recipients), ACM/IEEE International Conference on Computer-Aided Design, 2011.
 - Carnegie Institute of Technology Dean’s Fellowship, August 2008–May 2013.
 - Ranked in top 0.48% in India (percentile score of 99.52), Common Admission Test, 2005.
 - National Talent Search (NTS) Scholarship, finalist, India, 1997.
