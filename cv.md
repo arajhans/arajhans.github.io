@@ -30,7 +30,7 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#pro
 - Speaker at the [19th International Runtime Verification Conference](https://www.react.uni-saarland.de/rv2019/invitedspeakers.html), part of the [3rd Formal Methods World Congress](http://formalmethods2019.inesctec.pt/?page_id=1044), Porto, 2019.
 - Keynote speaker at the [First International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS)](https://msdl.uantwerpen.be/conferences/MPM4CPS/2019/index.php/keynote-talk/), Munich, 2019.
 - Invited participant at [Simulation and Machine Learning in Robotics](https://www.nist.gov/news-events/events/2018/04/simulation-and-machine-learning-robotics), an NSF/DoD/NIST workshop to chart out the future of simulation and machine learning inrobotics, 2018.
-- Selected on ACM’s Global Practitioner Advisory Community, 2017.
+- Selected on ACM’s [Global Practitioner Advisory Community](https://www.acm.org/education/gpac), 2017.
 - Work featured as Research Highlight in Communications of the ACM magazine, 2013.
 - Work featured in Innovation with Impact, Carnegie Mellon University, 2013.
 - William J. McCalla Best Paper Award, ACM/IEEE International Conference on Computer-Aided Design, 2011.
