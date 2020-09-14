@@ -10,7 +10,7 @@ Principal Research Scientist <br/>
 MathWorks <br/>
 
 **Mail**: 1 Lakeside Campus Drive, Natick, MA 01760 <br/>
-**Email**: arajhans (at) \[ alumni(dot)cmu(dot)edu \| mathworks(dot)com \] <br/>
+**Email**: arajhans (at) alumni (dot) cmu (dot) edu <br/>
 **Office Phone**: (508)-647-8021
 
 [Twitter](https://twitter.com/rajhans) \| [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao) \| [ACM Author Profile](https://dl.acm.org/profile/81421602783)
