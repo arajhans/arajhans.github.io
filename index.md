@@ -16,7 +16,7 @@ MathWorks <br/>
 [Twitter](https://twitter.com/rajhans) \| [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao) \| [ACM Author Profile](https://dl.acm.org/profile/81421602783)
 
 ## Upcoming or Recent Past
-- Paper co-authored with colleagues from GE Research wins the **Best in Session Award** as part of the *Architectural Considerations* session the [AIAA/IEEE Digital Avionics Systems Conference (DASC) 2020](https://2020.dasconline.org/)
+- Paper co-authored with colleagues from GE Research wins the **Best in Session Award** as part of the **Architectural Considerations** session the [AIAA/IEEE Digital Avionics Systems Conference (DASC) 2020](https://2020.dasconline.org/)
 - On the Program Committee for [International Conference on Cyber-Physical Systems (ICCPS) 2021](https://iccps.acm.org/2021/), Nashville, USA.
 - On the Program Committe for [Formal Methods (FM) 2021](http://www.fmeurope.org/symposia/).
 - On the Program Committee for [Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS) 2020](https://msdl.uantwerpen.be/conferences/MPM4CPS/2020/)
