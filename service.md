@@ -6,14 +6,12 @@
   - [MathWorks Research Summit](https://www.mathworks.com/videos/series/mathworks-research-summit.html), Boston: 2017-, Tokyo: 2016-
 
 ### Currently or Recently on PC
-  - [Annual Modeling and Simulation Conference (AnnSim)](https://scs.org/annsim/), 2021- Merges SpringSim and SummerSim conferences.
+  - [Annual Modeling and Simulation Conference (AnnSim)](https://scs.org/annsim/), New conference that merges SpringSim and SummerSim conferences, 2021-
   - [Formal Methods (FM)](http://www.fmeurope.org/symposia/), 2021-
   - [Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS)](https://msdl.uantwerpen.be/conferences/MPM4CPS/2020/), 2020-
   - [Hybrid Systems: Computation and Control (HSCC)](http://www.hscc-conference.org/), 2016-2019, **_Awards Chair: 2018_**, **_Poster and Demo Chair: 2017_**, _Repeatability Evaluation Committee: 2014_
   - [International Conference on Cyber-Physical Systems (ICCPS)](https://iccps.acm.org/), 2020-, 2015
   - IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), 2015 -, **_Industry Vice Chair: 2018_**
-  - [Spring Simulation Conference (SpringSim)](http://scs.org/springsim/), 2014- , **_CPS Track Chair: 2020, 2019_**
-  - [Summer Simulation Conference (SummerSim)](http://www.scs.org/summersim), 2014-
   - [Winter Simulation Conference (WinterSim)](http://meetings2.informs.org/wordpress/wsc2019/), 2017- , **_CPS Track Chair: 2017_**
   - [International Conference on Informatics in Control Automation and Robotics (ICINCO)](http://www.icinco.org/), 2020, 2017-2018
   - Workshop on Monitoring and Testing of Cyber-Physical Systems (MT-CPS), 2019-, **_PC Chair: [2019](https://sites.google.com/berkeley.edu/mt-cps2019)_**
@@ -22,7 +20,9 @@
 
 ### Past
   - Workshop on [Computational Intelligence Techniques for Testing and Validating Complex CPSs (CITest_CPS 2017)](http://paris.utdallas.edu/CITest_CPS17)  
-
+  
+  - [Spring Simulation Conference (SpringSim)](http://scs.org/springsim/), 2014-2020, **_CPS Track Chair: 2020, 2019_**. See [Annual Modeling and Simulation Conference (AnnSim)](https://scs.org/annsim/) starting 2021.
+  - [Summer Simulation Conference (SummerSim)](http://www.scs.org/summersim), 2014-2020. See [Annual Modeling and Simulation Conference (AnnSim)](https://scs.org/annsim/) starting 2021.
   
 ## PhD Thesis Committee
 - *Yi Deng*, ECSE Department, Rensselaer Polytechnic Institute. 
