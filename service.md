@@ -6,7 +6,7 @@
   - [MathWorks Research Summit](https://www.mathworks.com/videos/series/mathworks-research-summit.html), Boston: 2017-, Tokyo: 2016-
 
 ### Currently or Recently on PC
-  - [Annual Modeling and Simulation Conference (AnnSim)](https://scs.org/annsim/), New conference that merges SpringSim and SummerSim conferences, 2021-
+  - [Annual Modeling and Simulation Conference (AnnSim)](https://scs.org/annsim/), new conference that merges SpringSim and SummerSim conferences, 2021-
   - [Formal Methods (FM)](http://www.fmeurope.org/symposia/), 2021-
   - [Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS)](https://msdl.uantwerpen.be/conferences/MPM4CPS/2020/), 2020-
   - [Hybrid Systems: Computation and Control (HSCC)](http://www.hscc-conference.org/), 2016-2019, **_Awards Chair: 2018_**, **_Poster and Demo Chair: 2017_**, _Repeatability Evaluation Committee: 2014_
