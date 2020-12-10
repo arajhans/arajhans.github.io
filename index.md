@@ -13,7 +13,7 @@ MathWorks <br/>
 **Email**: arajhans (at) alumni (dot) cmu (dot) edu <br/>
 **Office Phone**: (508)-647-8021
 
-[Twitter](https://twitter.com/rajhans) \| [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao) \| [ACM Author Profile](https://dl.acm.org/profile/81421602783)
+[Twitter](https://twitter.com/rajhans) \| [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao) \| [IEEE Author Profile](https://ieeexplore.ieee.org/author/38232718800) \| [ACM Author Profile](https://dl.acm.org/profile/81421602783)
 
 ## Upcoming or Recent Past
 - On the Program Committe for [Annual Modeling and Simulation Conference (AnnSim) 2021](https://scs.org/annsim/), a new conference that merges SpringSim and SummerSim conferences. 
