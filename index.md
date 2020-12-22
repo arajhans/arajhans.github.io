@@ -16,7 +16,7 @@ MathWorks <br/>
 [Twitter](https://twitter.com/rajhans) \| [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao) \| [IEEE Author Profile](https://ieeexplore.ieee.org/author/38232718800) \| [ACM Author Profile](https://dl.acm.org/profile/81421602783)
 
 ## Upcoming or Recent Past
-- Paper accepted at IEEE Control Systems Letters (L-CSS)
+- [Paper accepted](publications.html) at IEEE Control Systems Letters (L-CSS)
 - On the Program Committe for [Annual Modeling and Simulation Conference (AnnSim) 2021](https://scs.org/annsim/), a new conference that merges SpringSim and SummerSim conferences. 
 - Paper co-authored with colleagues from GE Research wins the **Best in Session Award** as part of the **Architectural Considerations** session the [AIAA/IEEE Digital Avionics Systems Conference (DASC) 2020](https://2020.dasconline.org/)
 - On the Program Committee for [International Conference on Cyber-Physical Systems (ICCPS) 2021](https://iccps.acm.org/2021/), Nashville, USA.
