@@ -35,7 +35,7 @@ Industrial Internet of Things Applications*", [Fourth International Workshop on 
 - [R07] A. Rajhans, “*Development of Robust Testing Toolbox for Hybrid Systems*,” MSE Thesis, University of Pennsylvania, 2007. **Thesis Advisor**: [Prof. George Pappas](https://www.seas.upenn.edu/~pappasg). \[[Thesis (HTML entry)](http://dla.library.upenn.edu/dla/franklin/record.html?filter.author_creator_facet.val=Rajhans%2C%20Akshay&id=FRANKLIN_4283783&)\]
 
 ## Patents
-- [ABDR12] Andrews, B., Benitez, D., Raghunathan, B., Rajhans, A., “*Method for Non-Intrusive Load Monitoring using a Hybrid System State Estimation Approach”*, Patent No. 8209062. \[[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/8209062) \| [Google Scholar](http://www.google.com/patents/US8209062?dq=info:kNjIEMTwpFgJ:scholar.google.com)\]
+- [ABR+12] Andrews, B., Benitez, D., Raghunathan, B., Rajhans, A., “*Method for Non-Intrusive Load Monitoring using a Hybrid System State Estimation Approach”*, Patent No. 8209062. \[[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/8209062) \| [Google Scholar](http://www.google.com/patents/US8209062?dq=info:kNjIEMTwpFgJ:scholar.google.com)\]
 
 ## More
 [Other reports and posters](other-publications.html)
