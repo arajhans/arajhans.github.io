@@ -16,7 +16,7 @@ MathWorks <br/>
 [Twitter](https://twitter.com/rajhans) \| [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao) \| [IEEE Author Profile](https://ieeexplore.ieee.org/author/38232718800) \| [ACM Author Profile](https://dl.acm.org/profile/81421602783)
 
 ## Upcoming or Recent Past
-- On the Industry Advisory Board ot the [MIT Climate and Sustainability Consortium](https://impactclimate.mit.edu/)
+- On the Industry Advisory Board of the [MIT Climate and Sustainability Consortium](https://impactclimate.mit.edu/)
 - Paper accepted at the [American Control Conference (ACC) 2021](https://acc2021.a2c2.org/)
 - Invited speaker, [Workshop on Machine Learning in Control](https://www.es.aau.dk/sections-labs/Automation-and-Control/Project+sites/swift/leac/), co-located with [Cyber-Physical Systems and Internet-of-Things (CPS-IoT) Week](https://cps-iot-week2021.isis.vanderbilt.edu/), May 2021.
 - Speaker, Independent Activities Period (IAP) at Massachusetts Institute of Technology (MIT) on the topic of Cyber-Physical Systems, January 2021.
