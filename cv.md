@@ -50,6 +50,9 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#pro
 Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking](#public-speaking) \| [Service](#professional-service) \| [Publications](#publications) \| [Mentoring](#student-mentoring-and-teaching)
 
 ## Public Speaking
+
+{% include_relative talks.md %}
+
 ### Keynote-Style Talks
 - "*[Challenges and opportunities in design and operation of intelligent cyber-physical systems](https://www.react.uni-saarland.de/rv2019/invitedspeakers.html),* 19th International Runtime Verification Conference, Part of [3rd World Congress on Formal Methods](http://formalmethods2019.inesctec.pt/?page_id=1044), Porto, Portugal, October 10, 2019. \[[Slides](files/slides/Rajhans_RV2019.pdf) \| [Video](https://www.youtube.com/watch?v=bDhFVASF9PU)\]
 - "*[Multi-Paradigm Modeling for Design and Operation of Intelligent Cyber-Physical Systems](https://msdl.uantwerpen.be/conferences/MPM4CPS/2019/index.php/program/),*" International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS), co-located with the MODELS Conference, Munich, Germany, September 15, 2019. \[[Slides](files/slides/Rajhans_MPM4CPS2019.pdf)\]
