@@ -28,7 +28,8 @@
 - *Yi Deng*, ECSE Department, Rensselaer Polytechnic Institute. 
   - \[**Title**: *The Application of Trajectory-Based Analysis for Hybrid Systems.* \| **Advisor**: [Prof. A. Agung Julius](https://www.ecse.rpi.edu/homepages/agung/) \| [Thesis](http://digitool.rpi.edu:8881/R/Q7XRLHP737DNTBGS3YH8M9DPXMLHDTXV5QV63VM11NES8FQFQ2-01342?func=dbin-jump-full&object_id=176756&local_base=GEN01&pds_handle=GUEST)\]
 
-## Industry Advisory Committees and Boards
+## Industry Advisory Boards
+- **Industry Advisory Board Member**, [MIT Climate & Sustainability Consortium](https://impactclimate.mit.edu/mathworks/)
 - **Industry Advisory Committee Member**, Autonomous Systems Specialization Coursework in [Robotics Engineering](https://www.wpi.edu/academics/departments/robotics-engineering), [Worcester Polytechnic Institute](https://www.wpi.edu/).
 - **Industry Vice Chair**, [IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2018](http://www.cs.ox.ac.uk/conferences/ADHS18/)
 - **Industry Advisory Board Member**, [IEEE International Symposium on Circuits and Systems (ISCAS) 2018](http://www.iscas2018.org/)
