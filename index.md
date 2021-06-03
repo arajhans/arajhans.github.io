@@ -17,7 +17,7 @@ MathWorks <br/>
 
 ## Upcoming or Recent Past
 - Panelist, "[Control for Climate Change Mitigation and Adaptation](https://sites.google.com/view/ieee-css-societal-challenges/panels/control-for-climate)," IEEE CSS Workshop on Control for Societal Challenges, June 2021.
-- On the Industry Advisory Board of the [MIT Climate and Sustainability Consortium](https://impactclimate.mit.edu/)
+- On the Industry Advisory Board of the [MIT Climate and Sustainability Consortium](https://impactclimate.mit.edu/mathworks/)
 - Paper accepted at the [American Control Conference (ACC) 2021](https://acc2021.a2c2.org/)
 - Invited speaker, [Workshop on Machine Learning in Control](https://www.es.aau.dk/sections-labs/Automation-and-Control/Project+sites/swift/leac/), co-located with [Cyber-Physical Systems and Internet-of-Things (CPS-IoT) Week](https://cps-iot-week2021.isis.vanderbilt.edu/), May 2021.
 - Speaker, Independent Activities Period (IAP) at Massachusetts Institute of Technology (MIT) on the topic of [Cyber-Physical Systems](https://www.mathworks.com/company/events/seminars/mit-iap-series-2020-3311753.html), January 2021.
