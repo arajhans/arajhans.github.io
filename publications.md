@@ -2,8 +2,9 @@
 [home](index.html) \| [bio](bio.html) \| [publications](publications.html) \| [talks](talks.html) \| [service](service.html) \| [etc](etc.html)
 
 \[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) \| [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
-
-- [MOV<sup>+</sup>21] A. Mavrommati, C. Osario, R. Valenti, A. Rajhans, P. Mosterman, "*An Application of Model Predictive Control to Reactive Motion Planning of Robot Manipulators*," 17th IEEE International Conference on Automation Science and Engineering (CASE) 2021. Accepted.
+- [RMM<sup>+</sup>21] A. Rajhans, A. Mavrommati, P. Mosterman, and R. Valenti, "*Specification and Runtime Verification of
+Temporal Assessments in Simulink*," 21st International Conference on Runtime Verification (RV) 2021. Accepted.
+- [MOV<sup>+</sup>21] A. Mavrommati, C. Osario, R. Valenti, A. Rajhans, and P. Mosterman, "*An Application of Model Predictive Control to Reactive Motion Planning of Robot Manipulators*," 17th IEEE International Conference on Automation Science and Engineering (CASE) 2021. Accepted.
 - [RZS<sup>+</sup>21] M. A. Rodriguez, X. Zhao, H. Song, R. Valenti, A. Rajhans, P. Mosterman, Y. Diaz-Mercado, and H. K. Fathy, "*A Gradient-Based Approach for Coordinating Smart Vehicles and Traffic Lights at Intersections*," [IEEE Control Systems Letters (L-CSS)](http://ieee-cssletters.dei.unipd.it/index.php),  Volume: 5, Issue: 6, Dec. 2021. DOI: [10.1109/LCSYS.2020.3047332](https://doi.org/10.1109/LCSYS.2020.3047332)
 - [VHR<sup>+</sup>20] N. Visnevski, T. Hubscher-Younger, A. Rajhans, and B. Meng, "*Automatic Synthesis of Information Flow Driven Execution Managers for Embedded Software Applications*", [AIAA/IEEE Digital Avionics Systems Conference (DASC) 2020](https://2020.dasconline.org/). **_Best in Session Award_**. \[[Preprint (PDF)](files/papers/VisnevskiHR+_DASC20.pdf)\]
 - [MRM<sup>+</sup>20] P. J. Mosterman, A. Rajhans, A. Mavrommati, R. G. Valenti, "*Simulation of Hybrid Dynamic Systems*,'' John Baillieul, Tariq Samad, eds., Encyclopedia of Systems and Control, Springer, Living Edition. First online: August 2020.
