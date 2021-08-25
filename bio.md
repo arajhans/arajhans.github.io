@@ -11,7 +11,7 @@ Previously, Dr. Rajhans worked on development and application engineering of ele
 
 Dr. Rajhans has a Ph.D. in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) from [Carnegie Mellon University](https://www.cmu.edu/) and an M.S. in [Electrical Engineering](https://www.ese.upenn.edu/) from the [University of Pennsylvania](https://www.ese.upenn.edu/). He is a senior member of IEEE and ACM.
 
-Dr. Rajhans currently serves on the Advisory Board of the [MIT Climate and Sustainability Consortium](https://impactclimate.mit.edu/mathworks/).
+Dr. Rajhans currently serves on the Advisory Board of the [MIT Climate & Sustainability Consortium](https://impactclimate.mit.edu/mathworks/).
 
 ## More
 Curriculum Vitae \[[PDF](files/docs/AkshayRajhansCV.pdf)\] - Last updated October 2019.
