@@ -22,6 +22,7 @@
 - "*Verification of Systems Using Robust Temporal Logic Testing*," [Specification and Verification Center](http://www.cs.cmu.edu/~svc/) Seminar, Carnegie Mellon University, Pittsburgh, PA, USA. August 2008. **Host**: Prof. Ed Clarke. \[[Talk Abstract](http://www.cs.cmu.edu/~svc/talks/20080829-rajhans.html) \| [Slides](files/slides/Rajhans_SVC08_2.pdf)\]
 
 ### Panels
+- Panelist on the topic of **"Challenges in Satisfying the Need and Promotion of Modeling & Simulation Workforce"**, Winter Simulation Conference, in hybrid mode at Phoenix, AZ, December 2021. [Accompanying Abstract](papers/SarjoughianYNR_WSC2021.pdf)
 - Panelist on the topic of **"[Control for Climate Change Mitigation and Adaptation](https://sites.google.com/view/ieee-css-societal-challenges/panels/control-for-climate),"** IEEE CSS Workshop on Control for Societal Challenges, June 2021.
 - Panelist on the topic of **"STEM@Work: New England Innovation Day"**, [NE FIRST](https://nefirst.org/), March 2021. \[[YouTube link](https://www.youtube.com/watch?v=GzEB-zySvw8)\]
 - Panelist on the topic of **"Future Challenges for Autonomous & Intelligent Transportation"**, [IEEE Situational Awareness For Emerging Network Enabled Transportation Systems (SAFENETS) Workshop](https://faculty.uml.edu/thanuka_wickramarathne/safenets_workshop/), October 2019.
