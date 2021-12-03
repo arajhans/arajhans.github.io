@@ -2,7 +2,7 @@
 [home](index.html) \| [bio](bio.html) \| [publications](publications.html) \| [talks](talks.html) \| [service](service.html) \| [etc](etc.html)
 
 \[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) \| [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
-- [SYN<sup>+</sup>21] H. Sarjoughian, E. Yellig, J. Nutaro, A. Rajhans, "**," Winter Simulation Conference (WSC) 2021. \[Preprint (PDF)](files/papers/SarjoughianYNR_WSC2021.pdf)\]
+- [SYN<sup>+</sup>21] H. Sarjoughian, E. Yellig, J. Nutaro, A. Rajhans, "*Panel: Challenges in Satisfying the Need and Promotion of Modeling & Simulation Workforce*," Winter Simulation Conference (WSC) 2021. \[Preprint (PDF)](files/papers/SarjoughianYNR_WSC2021.pdf)\]
 - [RMM<sup>+</sup>21] A. Rajhans, A. Mavrommati, P.J. Mosterman, and R.G. Valenti, "*Specification and Runtime Verification of
 Temporal Assessments in Simulink*," 21st International Conference on Runtime Verification (RV) 2021. \[[Preprint (PDF)](files/papers/RajhansMM+_RV21.pdf)  \| [Accompanying Video](https://uva-mcps-lab.github.io/RV21/paper6.4.html)]
 - [MOV<sup>+</sup>21] A. Mavrommati, C. Osario, R.G. Valenti, A. Rajhans, and P.J. Mosterman, "*An Application of Model Predictive Control to Reactive Motion Planning of Robot Manipulators*," 17th IEEE International Conference on Automation Science and Engineering (CASE) 2021. Accepted.
