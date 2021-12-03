@@ -16,6 +16,7 @@ MathWorks <br/>
 [Twitter](https://twitter.com/rajhans) \| [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao) \| [IEEE Author Profile](https://ieeexplore.ieee.org/author/38232718800) \| [ACM Author Profile](https://dl.acm.org/profile/81421602783)
 
 ## Upcoming or Recent Past
+- Panelist on the topic of "Challenges in Satisfying the Need and Promotion of Modeling & Simulation Workforce" and accompanying paper at [Winter Simulation Conference (WSC) 2021](http://meetings.informs.org/wordpress/wsc2021/) 
 - Paper accepted at [21st International Conference on Runtime Verification (RV) 2021](https://uva-mcps-lab.github.io/RV21/)
 - Panelist, "[Control for Climate Change Mitigation and Adaptation](https://sites.google.com/view/ieee-css-societal-challenges/panels/control-for-climate)," IEEE CSS Workshop on Control for Societal Challenges, June 2021.
 - On the User Committee, [Dutch Research Councli (NWO)](https://www.nwo.nl/en), Domain Applied and Engineering Sciences, Veni grant titled "CODEC: Correct-by-design Estimation and Control of partially observable stochastic systems," [Sofie Haessaert](https://www.sofiehaesaert.com/), Principal Investigator.
