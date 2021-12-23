@@ -5,7 +5,7 @@
 
 ### Writing, Performing Arts, and Music
 - 2021: Played "side rhythms" (miscellaneous percussions including [cabasa](https://en.wikipedia.org/wiki/Cabasa), [reco reco](https://en.wikipedia.org/wiki/Reco-reco), [cajon](https://en.wikipedia.org/wiki/Caj%C3%B3n), [chiplya](https://en.wikipedia.org/wiki/Khartal), [ghungroo](https://en.wikipedia.org/wiki/Ghungroo), [taal](https://en.wikipedia.org/wiki/Taal_(instrument))) for the concert titled ताने स्वर रंगवावा (Tane Swar Rangawawa), [Philadelphia Ganesh Festival](http://www.philadelphiaganeshfestival.org/), Chalfont, PA.
-- 2020: Read a short passage (नाट्यवाचन) from the play सन्यस्त खड्ग (Sanyasta Khadga) as part of the [Jilebee Arts](https://jilebeearts.org/) event [शतजन्म शोधिताना (Shatajanma Shodhitana)](https://jilebeearts.org/past-events-1), Virtual Event via Zoom and Facebook Live.
+- 2020: Read a short passage (नाट्यवाचन) as part of the [Jilebee Arts](https://jilebeearts.org/) event [शतजन्म शोधिताना (Shatajanma Shodhitana)](https://jilebeearts.org/past-events-1), Virtual Event via Zoom and Facebook Live.
 - 2019: Read a short story (नाट्यवाचन) titled "[एका लग्नाची...किंबहुना....एका लग्नातली गोष्ट!](http://asudhanwam.blogspot.com/2011/08/blog-post.html)" as part of the [Jilebee Arts](https://jilebeearts.org/) event [Prarambha](https://jilebeearts.org/past-events-1), Greater Boston, MA.
 - 2018: Master of Ceremonies, [NEMM 40 years](https://www.facebook.com/events/2186358504707846/), Greater Boston, MA.
 - 2018: Wrote an essay titled "चौथी औद्योगिक क्रांती आणि उद्योगधंद्यांचे भवितव्य" (Industry 4.0 and the future of manufacturing), published in Anubandh, Year 2018, Issue 1 \[[PDF](http://www.nemm.org/images/Anubandh/Anubandh_April18.pdf)\], New England Marathi Mandal. 
