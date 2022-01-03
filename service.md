@@ -6,6 +6,7 @@
   - [MathWorks Research Summit](https://www.mathworks.com/videos/series/mathworks-research-summit.html), Boston: 2017-, Tokyo: 2016-
 
 ### Currently or Recently on PC
+  - **Artifact Evaluation Chair**, [Formal Modeling and Analysis of Timed Systems (FORMATS) 2022](https://conferences.ncl.ac.uk/formats2022/)
   - [Annual Modeling and Simulation Conference (AnnSim)](https://scs.org/annsim/), new conference that merges SpringSim and SummerSim conferences, 2021-
   - [Formal Methods (FM)](http://www.fmeurope.org/symposia/), 2021-
   - [Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS)](https://msdl.uantwerpen.be/conferences/MPM4CPS/2020/), 2020-
