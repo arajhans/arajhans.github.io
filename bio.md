@@ -14,4 +14,4 @@ Dr. Rajhans has a Ph.D. in [Electrical and Computer Engineering](https://www.ece
 Dr. Rajhans currently serves on the Advisory Board of the [MIT Climate & Sustainability Consortium](https://impactclimate.mit.edu/mathworks/).
 
 ## More
-Curriculum Vitae \[[PDF](files/docs/AkshayRajhansCV.pdf)\] - Last updated December 2021.
+Curriculum Vitae \[[PDF](files/docs/AkshayRajhansCV.pdf)\] 
