@@ -123,6 +123,8 @@
 <details>
   <summary> Papers and Posters </summary>
 
+### Papers
+  
 - [VHR<sup>+</sup>20] N. Visnevski, T. Hubscher-Younger, A. Rajhans, and B. Meng, "*Automatic Synthesis of Information Flow Driven Execution Managers for Embedded Software Applications*", [AIAA/IEEE Digital Avionics Systems Conference (DASC) 2020](https://2020.dasconline.org/). To Appear. \[[Preprint (PDF)](files/papers/VisnevskiHR+_DASC20.pdf)\]
 - [MRM<sup>+</sup>20] P. J. Mosterman, A. Rajhans, A. Mavrommati, and R. G. Valenti, "*Simulation of Hybrid Dynamic Systems*", [Encyclopedia of Systems and Control](https://link.springer.com/referencework/10.1007/978-1-4471-5102-9), Living Edition, Editors: John Baillieul, Tariq Samad. \[[HTML](https://link.springer.com/referenceworkentry/10.1007%2F978-1-4471-5102-9_100048-1)\]
 - [TDK+20] Z. Tu, A. Dimas, M. N. Kurt, A. Mavrommati, P. J. Mosterman, A. Rajhans, and R. G. Valenti, "*A Simulator for trading traffic privileges by selfish driving cars*", to appear, Spring Simulation Conference, 2020. \[[Preprint (PDF)](files/papers/TuDK+_SpringSim20.pdf)\]
