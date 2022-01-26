@@ -5,11 +5,10 @@
 
 Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking](#public-speaking) \| [Service](#professional-service) \| [Publications](#publications) \| [Mentoring](#student-mentoring-and-teaching)
 
-<details>
-  <summary> Career Progression </summary>
-  
 ## Professional Experience
 
+<details>
+  <summary> Career Progression </summary>
   
 - MathWorks (2013-)
   - Principal Research Scientist, Advanced Research & Technology Office (May 2018 - )
