@@ -3,6 +3,10 @@
 [home](index.html) \| [bio](bio.html) \| [publications](publications.html) \| [talks](talks.html) \| [service](service.html) \| [etc](etc.html)
 
 
+## Education
+- Ph.D., Electrical and Computer Engineering, Carnegie Mellon University (2013)
+- M.S., Electrical Engineering, University of Pennsylvania (2008)
+- B.E., Electronics and Telecommunication, University of Pune (2003)
 ## Professional Experience
 
 <details>
@@ -41,11 +45,6 @@
 - Middle School Scholarship, Maharashtra, India. State-level rank: 16(1991-1994)
   
 </details>
-
-## Education
-- Ph.D., Electrical and Computer Engineering, Carnegie Mellon University (2013)
-- M.S., Electrical Engineering, University of Pennsylvania (2008)
-- B.E., Electronics and Telecommunication, University of Pune (2003)
 
 ## Public Speaking
 <details>
