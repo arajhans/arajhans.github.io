@@ -123,7 +123,7 @@
 <details>
   <summary> Papers and Posters </summary>
 
-### Papers
+  ### Papers
   
 - [VHR<sup>+</sup>20] N. Visnevski, T. Hubscher-Younger, A. Rajhans, and B. Meng, "*Automatic Synthesis of Information Flow Driven Execution Managers for Embedded Software Applications*", [AIAA/IEEE Digital Avionics Systems Conference (DASC) 2020](https://2020.dasconline.org/). To Appear. \[[Preprint (PDF)](files/papers/VisnevskiHR+_DASC20.pdf)\]
 - [MRM<sup>+</sup>20] P. J. Mosterman, A. Rajhans, A. Mavrommati, and R. G. Valenti, "*Simulation of Hybrid Dynamic Systems*", [Encyclopedia of Systems and Control](https://link.springer.com/referencework/10.1007/978-1-4471-5102-9), Living Edition, Editors: John Baillieul, Tariq Samad. \[[HTML](https://link.springer.com/referenceworkentry/10.1007%2F978-1-4471-5102-9_100048-1)\]
@@ -178,7 +178,8 @@ Industrial Internet of Things Applications*", [Fourth International Workshop on 
 
 <details>
   <summary> PhD Thesis Committee, Student Competition Judging, Teaching Assistantships, and STEM Outreach </summary>
-### PhD Thesis Committee
+
+  ### PhD Thesis Committee
 - *Yi Deng*, ECSE Department, Rensselaer Polytechnic Institute. 
   - \[**Title**: *The Application of Trajectory-Based Analysis for Hybrid Systems.* \| **Advisor**: [Prof. A. Agung Julius](https://www.ecse.rpi.edu/homepages/agung/) \| [Thesis](http://digitool.rpi.edu:8881/R/Q7XRLHP737DNTBGS3YH8M9DPXMLHDTXV5QV63VM11NES8FQFQ2-01342?func=dbin-jump-full&object_id=176756&local_base=GEN01&pds_handle=GUEST)\]
   
