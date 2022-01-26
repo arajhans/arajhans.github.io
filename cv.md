@@ -187,6 +187,9 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#pro
 Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking](#public-speaking) \| [Service](#professional-service) \| [Publications](#publications) \| [Mentoring](#student-mentoring-and-teaching)
 
 ## Student Mentoring and Teaching
+
+<details>
+  <summary> PhD Thesis Committee, Student Competition Judging, Teaching Assistantships, and STEM Outreach </summary>
 ### PhD Thesis Committee
 - *Yi Deng*, ECSE Department, Rensselaer Polytechnic Institute. 
   - \[**Title**: *The Application of Trajectory-Based Analysis for Hybrid Systems.* \| **Advisor**: [Prof. A. Agung Julius](https://www.ecse.rpi.edu/homepages/agung/) \| [Thesis](http://digitool.rpi.edu:8881/R/Q7XRLHP737DNTBGS3YH8M9DPXMLHDTXV5QV63VM11NES8FQFQ2-01342?func=dbin-jump-full&object_id=176756&local_base=GEN01&pds_handle=GUEST)\]
@@ -209,5 +212,7 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#pro
 ### Other Voluntary Instruction
 - 2009: Volunteer Instructor, [Summer Engineering Experience for Girls (SEE)](https://www.cmu.edu/ices/outreach/see/), Carnegie Mellon University.
 - 2002: Volunteer Instructor, Social Educational Activity by [IEEE Bombay Section](http://ieeebombay.org), **_Topic_**: *Mobile Communications*.
+
+</details>
 
 Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking](#public-speaking) \| [Service](#professional-service) \| [Publications](#publications) \| [Mentoring](#student-mentoring-and-teaching)
