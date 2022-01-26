@@ -6,7 +6,8 @@
 Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking](#public-speaking) \| [Service](#professional-service) \| [Publications](#publications) \| [Mentoring](#student-mentoring-and-teaching)
 
 ## Professional Experience
-
+<details>
+  <summary> Career Progression </summary>
 - MathWorks (2013-)
   - Principal Research Scientist, Advanced Research & Technology Office (May 2018 - )
   - Senior Research Scientist, Advanced Research & Technology Office (Jun 2016 - Apr 2018)
@@ -23,6 +24,7 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#pro
 - Cummins (2003-2005)
   - Manager, Electronic Controls Application Engineering, Industrial Business Unit, Pune. (Aug 2005 - Dec 2005)
   - Operations Management Program Participant, Pune. (Aug 2003 - August 2005)
+</details>
 
 Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking](#public-speaking) \| [Service](#professional-service) \| [Publications](#publications) \| [Mentoring](#student-mentoring-and-teaching)
 
