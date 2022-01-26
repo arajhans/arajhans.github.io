@@ -130,6 +130,9 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#pro
 ## Publications
 \[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) \| [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
 
+<details>
+  <summary> Papers and Posters </summary>
+
 - [VHR<sup>+</sup>20] N. Visnevski, T. Hubscher-Younger, A. Rajhans, and B. Meng, "*Automatic Synthesis of Information Flow Driven Execution Managers for Embedded Software Applications*", [AIAA/IEEE Digital Avionics Systems Conference (DASC) 2020](https://2020.dasconline.org/). To Appear. \[[Preprint (PDF)](files/papers/VisnevskiHR+_DASC20.pdf)\]
 - [MRM<sup>+</sup>20] P. J. Mosterman, A. Rajhans, A. Mavrommati, and R. G. Valenti, "*Simulation of Hybrid Dynamic Systems*", [Encyclopedia of Systems and Control](https://link.springer.com/referencework/10.1007/978-1-4471-5102-9), Living Edition, Editors: John Baillieul, Tariq Samad. \[[HTML](https://link.springer.com/referenceworkentry/10.1007%2F978-1-4471-5102-9_100048-1)\]
 - [TDK+20] Z. Tu, A. Dimas, M. N. Kurt, A. Mavrommati, P. J. Mosterman, A. Rajhans, and R. G. Valenti, "*A Simulator for trading traffic privileges by selfish driving cars*", to appear, Spring Simulation Conference, 2020. \[[Preprint (PDF)](files/papers/TuDK+_SpringSim20.pdf)\]
@@ -171,19 +174,10 @@ Industrial Internet of Things Applications*", [Fourth International Workshop on 
 - [RAK+10] A. Rajhans, M. Althoff, B. Krogh, L. Pileggi, X. Li, “*Investigation of Formal Verification Methods for Self-Healing Analog/RF Systems*”, C2S2 Annual Review 2010, Atlanta, GA. \[[Poster](files/posters/RajhansAK+_C2S210_Poster.pdf)\]
 - [CDK+09] S.-W. Cheng, D. Garlan, B. Krogh, A. Rajhans, B. Schmerl and B. Sinopoli, “*Design and Analysis of Cyber-Physical Architectures*”, CPS Forum, co-located with the CPSWeek 2009, San Francisco, CA. \[[Poster](files/posters/ChengGK+_CPSForum09_Poster.pdf) \| [Abstract](files/posters/ChengGK+_CPSForum09_Abstract.pdf)\]
 
-### Technical Reports for Coursework
-- [R10d] A. Rajhans, “*Movement Decoding for Brain Computer Interfaces*”, Project Report, 18-660: Numerical Methods for Engineering Design and Optimization, ECE Department, Carnegie Mellon University, Fall 2010. \[[PDF](files/papers/Rajhans_18660BCIReport.pdf)\]
-- [R10c] A. Rajhans, “*Image Recovery*”, Project Report, 18-660: Numerical Methods for Engineering Design and Optimization, ECE Department, Carnegie Mellon University, Fall 2010. \[[PDF](files/papers/Rajhans_18660IRReport10.pdf)\]
-- [R10b] A. Rajhans, “*2-D Thermal Analysis*”, Project Report, 18-660: Numerical Methods for Engineering Design and Optimization, ECE Department, Carnegie Mellon University, Fall 2010. \[[PDF](files/papers/Rajhans_18660TAReport10.pdf)\]
-- [R09b] A. Rajhans, “*Development of a Linear Hybrid Automata Plugin for AcmeStudio*”, Project Report, 17-755: Architectures for Software Systems, School of Computer Science, Carnegie Mellon University, Fall 2009. \[[PDF](files/papers/Rajhans_17755Report09.pdf)\]
-- [R09a] A. Rajhans, “*A Study of Compisitional Verification of Hybrid Systems*”, Project Report, 15-819: Hybrid Systems Analysis and Theorem Proving, School of Computer Science, Carnegie Mellon University, Spring 2009. \[[PDF](files/papers/Rajhans_17755Report09.pdf)\]
-- [R07b] A. Rajhans, "*Bistability in the lactose regulatory system of E. Coli: A discrete Markov chain approach to study the stochastically triggered induction*," Final Project Report, ESE 680: Advanced Topics in Electrical and Systems Engineering: Systems Biology, University of Pennsylvania, Spring 2007. \[[PDF](files/papers/Rajhans_ESE680Report07.pdf)\]
-- [RS07] A. Rajhans and N. Shaligram, "*Modeling and Simulation of a Roller Racer Robot*," Final Project Report, MEAM 620: Advanced Robotics, University of Pennsylvania, Spring 2007. \[[PDF](files/papers/RajhansS_MEAM620Report07.pdf)\]
-- [GJR06] A. Gupta, B. Jumanov, and A. Rajhans, "*Noise cancellation using adaptive digital filtering*," Final Project Report, ESE 531: Digital Signal Processing, University of Pennsylvania, Fall 2006. \[[PDF](files/papers/GuptaJR_ESE531Report06.pdf)\]
-- [KSR06] V. Karmalkar, S. Shah, and A. Rajhans, "*Bankruptcy Prediction on a Real-World Dataset Using Machine Learning Algorithms* ," Final Project Report, CIS 520: Artificial Intelligence and Machine Learning, University of Pennsylvania, Fall 2006. \[[PDF](files/papers/KarmalkarSR_CIS520Report06.pdf)\]
-- [RS06] A. Rajhans and N. Shaligram, "*Application of UPPAAL for Verifying a PennShuttle Routing Problem*," Final Project Report, ESE 601: Hybrid Systems, University of Pennsylvania, Spring 2006. \[[PDF](files/papers/RajhansS_ESE601Report06.pdf)\]
 ### Reports and Posters
 [Reports and posters](other-publications.html)
+
+</details>
 
 Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking](#public-speaking) \| [Service](#professional-service) \| [Publications](#publications) \| [Mentoring](#student-mentoring-and-teaching)
 
