@@ -3,8 +3,6 @@
 [home](index.html) \| [bio](bio.html) \| [publications](publications.html) \| [talks](talks.html) \| [service](service.html) \| [etc](etc.html)
 
 
-Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking](#public-speaking) \| [Service](#professional-service) \| [Publications](#publications) \| [Mentoring](#student-mentoring-and-teaching)
-
 ## Professional Experience
 
 <details>
@@ -45,14 +43,10 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#pro
   
 </details>
 
-Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking](#public-speaking) \| [Service](#professional-service) \| [Publications](#publications) \| [Mentoring](#student-mentoring-and-teaching)
-
 ## Education
 - Ph.D., Electrical and Computer Engineering, Carnegie Mellon University (2013)
 - M.S., Electrical Engineering, University of Pennsylvania (2008)
 - B.E., Electronics and Telecommunication, University of Pune (2003)
-
-Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking](#public-speaking) \| [Service](#professional-service) \| [Publications](#publications) \| [Mentoring](#student-mentoring-and-teaching)
 
 ## Public Speaking
 <details>
@@ -84,8 +78,6 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#pro
 - Panelist on the topic of **Why do we need holistic concern-driven engineering?** at the [NIST CPS Framework Open Source Workshop](https://www.nist.gov/news-events/events/2017/09/cps-framework-open-source-workshop), September 2017. 
 - Panelist on the topic of **Safe Control of Connected and Autonomous Vehicles**, [1st Workshop on Safe Control of Connected and Autonomous Vehicles (SCAV)](https://scav.in.tum.de/), affiliated with [Cyber-Physical Systems Week (CPS Week) 2017](https://cpsweek2017.ece.cmu.edu/), April 2017. \[[Picture](https://twitter.com/rajhans/status/856221543399137280), [Workshop Report](http://www.gleirscher.at/mg/dl/scav17-report-preprint.pdf)\]
 </details>  
-
-Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking](#public-speaking) \| [Service](#professional-service) \| [Publications](#publications) \| [Mentoring](#student-mentoring-and-teaching)
 
 ## Professional Service
 <details>
@@ -126,8 +118,6 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#pro
 - Selected on the [ACM Global Practitioner Advisory Community (ACM GPAC)](https://www.acm.org/education/gpac), consisting of 100 computing practitioners worldwide who will guide ACM in enhancing and developing practitioner-oriented resources.
 - Member of the [IEEE Technical Committee on Homeland Security](http://www.ieeesmc.org/technical-activities/systems-science-and-engineering/homeland-security)
 </details>
-  
-Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking](#public-speaking) \| [Service](#professional-service) \| [Publications](#publications) \| [Mentoring](#student-mentoring-and-teaching)
 
 ## Publications
 \[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) \| [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
@@ -181,12 +171,8 @@ Industrial Internet of Things Applications*", [Fourth International Workshop on 
 
 </details>
 
-Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking](#public-speaking) \| [Service](#professional-service) \| [Publications](#publications) \| [Mentoring](#student-mentoring-and-teaching)
-
 ## Patents
 - [ABDR12] Andrews, B., Benitez, D., Raghunathan, B., Rajhans, A., “*Method for Non-Intrusive Load Monitoring using a Hybrid System State Estimation Approach”*, Patent No. 8209062. \[[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/8209062) \| [Google Scholar](http://www.google.com/patents/US8209062?dq=info:kNjIEMTwpFgJ:scholar.google.com)\]
-
-Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking](#public-speaking) \| [Service](#professional-service) \| [Publications](#publications) \| [Mentoring](#student-mentoring-and-teaching)
 
 ## Student Mentoring and Teaching
 
@@ -216,5 +202,3 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#pro
 - 2002: Volunteer Instructor, Social Educational Activity by [IEEE Bombay Section](http://ieeebombay.org), **_Topic_**: *Mobile Communications*.
 
 </details>
-
-Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking](#public-speaking) \| [Service](#professional-service) \| [Publications](#publications) \| [Mentoring](#student-mentoring-and-teaching)
