@@ -11,7 +11,6 @@
 
 <details>
   <summary> Career Progression and Professional Highlights </summary>
-  
 ### Career Progression
 - MathWorks (2013-)
   - Principal Research Scientist, Advanced Research & Technology Office (May 2018 - )
