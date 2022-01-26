@@ -7,7 +7,7 @@
 
 ### Invited Talks
 - "*Engineering Learning-Enabled Cyber-Physical Systems: Challenges and Opportunities,*" Workshop on Machine Learning in Control (LEAC), part of Cyber-Physical Systems and Internet of Things (CPS-IoT) Week, remotely in Nashville, TN. May 2021. **Hosts**: Rafal Wisniewski and Manuela-Luminita Bujorianu, Workshop Chairs.
-- "*Formal Methods for Real-World Cyber-Physical Systems: A personal perspective,*" Invited Guest Lecture, Brown University course on "Logic for Systems (CS 171), online. March 2021. **Hosts**: Tim Nelson and Shriram Krishamurthi, Computer Science Professors.
+- "*Formal Methods for Real-World Cyber-Physical Systems: A personal perspective,*" Invited Guest Lecture, Brown University course on Logic for Systems (CS 171), online. March 2021. **Hosts**: Tim Nelson and Shriram Krishamurthi, Computer Science Professors.
 - "*A Model-Based Design Perspective on Challenges and Opportunities in Automated Software Certification,*" 20th Software Certification Consortium (SCC) Steering Committe Meeting, Annapolis, MD, USA. May 2019. **Hosts**: Alan Wassyng and Mark Lawford, Organizers. \[[Slides](files/slides/Rajhans_SCC2019.pdf)\] 
 - "*Specification Formalisms for Cyber-Physical Systems: A Tools Perspective,*" [Dagstuhl Workshop on Specification Formalisms for Modern Cyber-Physical Systems](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19071), Dagstuhl, Germany. February 2019. **Hosts**: Jyotirmoy Deshmukh, Oded Maler, Dejan Nickovic, Workshop Organizers.
 - "*Graphical Modeling of Hybrid Systems with Simulink and Stateflow,*" Workshop honoring the retirement of Prof. Bruce Krogh, Carnegie Mellon University, Pittsburgh, PA, May 2018. **Host**: Prof. Bruno Sinopoli, Workshop Chair.
