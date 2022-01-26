@@ -74,7 +74,6 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#pro
 - "*Recent Advancements in MathWorks Verification and Validation Tools and Techniques*," [CPS V&V I&F Workshop](http://www.ls.cs.cmu.edu/CPSVVIF-2016/), Carnegie Mellon University, Pittsburgh, PA, USA. May 2016. **Host**: Prof. Andre Platzer. \[[Talk Abstract](http://www.ls.cs.cmu.edu/CPSVVIF-2016/Participants.html#Rajhans)\]
 - "*Robustness of Temporal Logic Specifications for Testing of Signals*," [Specification and Verification Center](http://www.cs.cmu.edu/~svc/) Seminar, Carnegie Mellon University, Pittsburgh, PA, USA. August 2008. **Host**: Prof. Ed Clarke. \[[Talk Abstract](http://www.cs.cmu.edu/~svc/talks/20080821-rajhans.html) \| [Slides](files/slides/Rajhans_SVC08_1.pdf)\]
 - "*Verification of Systems Using Robust Temporal Logic Testing*," [Specification and Verification Center](http://www.cs.cmu.edu/~svc/) Seminar, Carnegie Mellon University, Pittsburgh, PA, USA. August 2008. **Host**: Prof. Ed Clarke. \[[Talk Abstract](http://www.cs.cmu.edu/~svc/talks/20080829-rajhans.html) \| [Slides](files/slides/Rajhans_SVC08_2.pdf)\]
-</details>  
 
 ### Panels
 - Panelist on the topic of **"Future Challenges for Autonomous & Intelligent Transportation"**, [IEEE Situational Awareness For Emerging Network Enabled Transportation Systems (SAFENETS) Workshop](https://faculty.uml.edu/thanuka_wickramarathne/safenets_workshop/), October 2019.
@@ -82,6 +81,7 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#pro
 - Panelist on the topic of **"What are the challenges posed to CPS theory by modern applications?"**, [Joint HSCC-ICCPS Panel](https://www.hscc2018.deib.polimi.it/panel-session), part of [CPS Week 2018](https://cister.isep.ipp.pt/cpsweek2018/).
 - Panelist on the topic of **Why do we need holistic concern-driven engineering?** at the [NIST CPS Framework Open Source Workshop](https://www.nist.gov/news-events/events/2017/09/cps-framework-open-source-workshop), September 2017. 
 - Panelist on the topic of **Safe Control of Connected and Autonomous Vehicles**, [1st Workshop on Safe Control of Connected and Autonomous Vehicles (SCAV)](https://scav.in.tum.de/), affiliated with [Cyber-Physical Systems Week (CPS Week) 2017](https://cpsweek2017.ece.cmu.edu/), April 2017. \[[Picture](https://twitter.com/rajhans/status/856221543399137280), [Workshop Report](http://www.gleirscher.at/mg/dl/scav17-report-preprint.pdf)\]
+</details>  
 
 Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking](#public-speaking) \| [Service](#professional-service) \| [Publications](#publications) \| [Mentoring](#student-mentoring-and-teaching)
 
