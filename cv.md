@@ -81,7 +81,7 @@
 <details>
   <summary> Conference PC, Industry Advisory Boards, Editorial Duties </summary>
   
-### Conference Program Committee (PC)
+  ### Conference Program Committee (PC)
 #### Organizer 
   - [MathWorks Research Summit](https://www.mathworks.com/videos/series/mathworks-research-summit.html), Boston: 2017-, Tokyo: 2016-
 
