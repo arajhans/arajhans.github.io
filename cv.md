@@ -53,7 +53,9 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#pro
 Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#professional-highlights) \| [Education](#education) \| [Speaking](#public-speaking) \| [Service](#professional-service) \| [Publications](#publications) \| [Mentoring](#student-mentoring-and-teaching)
 
 ## Public Speaking
-
+<details>
+  <summary> Talks and Panels </summary>
+  
 ### Keynote-Style Talks
 - "*[Challenges and opportunities in design and operation of intelligent cyber-physical systems](https://www.react.uni-saarland.de/rv2019/invitedspeakers.html),* 19th International Runtime Verification Conference, Part of [3rd World Congress on Formal Methods](http://formalmethods2019.inesctec.pt/?page_id=1044), Porto, Portugal, October 10, 2019. \[[Slides](files/slides/Rajhans_RV2019.pdf) \| [Video](https://www.youtube.com/watch?v=bDhFVASF9PU)\]
 - "*[Multi-Paradigm Modeling for Design and Operation of Intelligent Cyber-Physical Systems](https://msdl.uantwerpen.be/conferences/MPM4CPS/2019/index.php/program/),*" International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS), co-located with the MODELS Conference, Munich, Germany, September 15, 2019. \[[Slides](files/slides/Rajhans_MPM4CPS2019.pdf)\]
@@ -72,6 +74,7 @@ Jump to: [Top](#) \| [Experience](#professional-experience) \| [Highlights](#pro
 - "*Recent Advancements in MathWorks Verification and Validation Tools and Techniques*," [CPS V&V I&F Workshop](http://www.ls.cs.cmu.edu/CPSVVIF-2016/), Carnegie Mellon University, Pittsburgh, PA, USA. May 2016. **Host**: Prof. Andre Platzer. \[[Talk Abstract](http://www.ls.cs.cmu.edu/CPSVVIF-2016/Participants.html#Rajhans)\]
 - "*Robustness of Temporal Logic Specifications for Testing of Signals*," [Specification and Verification Center](http://www.cs.cmu.edu/~svc/) Seminar, Carnegie Mellon University, Pittsburgh, PA, USA. August 2008. **Host**: Prof. Ed Clarke. \[[Talk Abstract](http://www.cs.cmu.edu/~svc/talks/20080821-rajhans.html) \| [Slides](files/slides/Rajhans_SVC08_1.pdf)\]
 - "*Verification of Systems Using Robust Temporal Logic Testing*," [Specification and Verification Center](http://www.cs.cmu.edu/~svc/) Seminar, Carnegie Mellon University, Pittsburgh, PA, USA. August 2008. **Host**: Prof. Ed Clarke. \[[Talk Abstract](http://www.cs.cmu.edu/~svc/talks/20080829-rajhans.html) \| [Slides](files/slides/Rajhans_SVC08_2.pdf)\]
+</details>  
 
 ### Panels
 - Panelist on the topic of **"Future Challenges for Autonomous & Intelligent Transportation"**, [IEEE Situational Awareness For Emerging Network Enabled Transportation Systems (SAFENETS) Workshop](https://faculty.uml.edu/thanuka_wickramarathne/safenets_workshop/), October 2019.
