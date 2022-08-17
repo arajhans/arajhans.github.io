@@ -16,7 +16,12 @@ MathWorks <br/>
 [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao) \| [IEEE Author Profile](https://ieeexplore.ieee.org/author/38232718800) \| [ACM Author Profile](https://dl.acm.org/profile/81421602783)
 
 ## Upcoming or Recent Past
+### Papers
 - Paper accepted at the 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'22) 
+### Program Committee involvement
+### Talks
+
+
 - Panelist on the topic of "Challenges in Satisfying the Need and Promotion of Modeling & Simulation Workforce" and accompanying paper at [Winter Simulation Conference (WSC) 2021](http://meetings.informs.org/wordpress/wsc2021/) 
 - Paper at [21st International Conference on Runtime Verification (RV) 2021](https://uva-mcps-lab.github.io/RV21/)
 - Panelist, "[Control for Climate Change Mitigation and Adaptation](https://sites.google.com/view/ieee-css-societal-challenges/panels/control-for-climate)," IEEE CSS Workshop on Control for Societal Challenges, June 2021.
