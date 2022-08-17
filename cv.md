@@ -10,6 +10,7 @@
 ## Professional Experience
 
 <details>
+  
   <summary> Career Progression and Professional Highlights </summary>
   
   ### Career Progression
