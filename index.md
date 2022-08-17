@@ -15,8 +15,10 @@ MathWorks <br/>
 
 [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao) \| [IEEE Author Profile](https://ieeexplore.ieee.org/author/38232718800) \| [ACM Author Profile](https://dl.acm.org/profile/81421602783)
 
-## Upcoming or Recent Past
-### Papers
+## Announcements
+### Upcoming
+### Recent Past
+#### Papers
 - Paper accepted at the 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'22) 
 ### Program Committee involvement
 ### Talks
