@@ -15,7 +15,8 @@
   
   <summary> Career Progression and Professional Highlights </summary>
   
-  ### Career Progression
+### Career Progression
+  
 - MathWorks (2013-)
   - Principal Research Scientist, Advanced Research & Technology Office (May 2018 - )
   - Senior Research Scientist, Advanced Research & Technology Office (Jun 2016 - Apr 2018)
