@@ -27,7 +27,7 @@ MathWorks <br/>
 - Speaker, Independent Activities Period (IAP) at Massachusetts Institute of Technology (MIT) on the topic of [Cyber-Physical Systems](https://www.mathworks.com/company/events/seminars/mit-iap-series-2020-3311753.html), January 2021.
 - [Paper accepted](publications.html) at IEEE Control Systems Letters (L-CSS)
 - On the Program Committe for [Annual Modeling and Simulation Conference (AnnSim) 2021](https://scs.org/annsim/), a new conference that merges SpringSim and SummerSim conferences. 
-- :page_facing_up: Paper co-authored with colleagues from GE Research wins the **Best in Session Award** as part of the **Architectural Considerations** session the [AIAA/IEEE Digital Avionics Systems Conference (DASC) 2020](https://2020.dasconline.org/)
+- Paper co-authored with colleagues from GE Research wins the **Best in Session Award** as part of the **Architectural Considerations** session the [AIAA/IEEE Digital Avionics Systems Conference (DASC) 2020](https://2020.dasconline.org/)
 - On the Program Committee for [International Conference on Cyber-Physical Systems (ICCPS) 2021](https://iccps.acm.org/2021/), Nashville, USA.
 - On the Program Committe for [Formal Methods (FM) 2021](http://www.fmeurope.org/symposia/).
 - On the Program Committee for [Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS) 2020](https://msdl.uantwerpen.be/conferences/MPM4CPS/2020/)
