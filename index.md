@@ -15,25 +15,35 @@ MathWorks <br/>
 
 [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao) \| [IEEE Author Profile](https://ieeexplore.ieee.org/author/38232718800) \| [ACM Author Profile](https://dl.acm.org/profile/81421602783)
 
-## Announcements
-### Upcoming
-### Recent Past
-#### Papers
-- Paper accepted at the 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'22) 
-### Program Committee involvement
-### Talks
-
-
-- Panelist on the topic of "Challenges in Satisfying the Need and Promotion of Modeling & Simulation Workforce" and accompanying paper at [Winter Simulation Conference (WSC) 2021](http://meetings.informs.org/wordpress/wsc2021/) 
-- Paper at [21st International Conference on Runtime Verification (RV) 2021](https://uva-mcps-lab.github.io/RV21/)
-- Panelist, "[Control for Climate Change Mitigation and Adaptation](https://sites.google.com/view/ieee-css-societal-challenges/panels/control-for-climate)," IEEE CSS Workshop on Control for Societal Challenges, June 2021.
+## Advisory Committee involvement
 - On the User Committee, [Dutch Research Councli (NWO)](https://www.nwo.nl/en), Domain Applied and Engineering Sciences, Veni grant titled "CODEC: Correct-by-design Estimation and Control of partially observable stochastic systems," [Sofie Haessaert](https://www.sofiehaesaert.com/), Principal Investigator.
 - On the Industry Advisory Board of the [MIT Climate and Sustainability Consortium](https://impactclimate.mit.edu/mathworks/)
+
+## Announcements
+### Upcoming
+#### Papers
+- Paper accepted at the 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'22) 
+### Recent Past
+#### Papers
+- Paper at [21st International Conference on Runtime Verification (RV) 2021](https://uva-mcps-lab.github.io/RV21/)
 - Paper accepted at the [American Control Conference (ACC) 2021](https://acc2021.a2c2.org/)
+- [Paper accepted](publications.html) at IEEE Control Systems Letters (L-CSS)
+- 
+### Program Committee involvement
+- International Conference on Cyber-Physical Systems (ICCPS) 2023
+- Artifact Evaluation Chair, Formal Modeling and Analysis of Timed Systems (FORMATS) 2022
+- International Conference on Cyber-Physical Systems (ICCPS) 2022
+- - [Annual Modeling and Simulation Conference (AnnSim) 2021](https://scs.org/annsim/)
+
+### Talks and Panels
+- Panelist on the topic of "Challenges in Satisfying the Need and Promotion of Modeling & Simulation Workforce" and accompanying paper at [Winter Simulation Conference (WSC) 2021](http://meetings.informs.org/wordpress/wsc2021/) 
+- Panelist, "[Control for Climate Change Mitigation and Adaptation](https://sites.google.com/view/ieee-css-societal-challenges/panels/control-for-climate)," IEEE CSS Workshop on Control for Societal Challenges, June 2021.
 - Invited speaker, [Workshop on Machine Learning in Control](https://www.es.aau.dk/sections-labs/Automation-and-Control/Project+sites/swift/leac/), co-located with [Cyber-Physical Systems and Internet-of-Things (CPS-IoT) Week](https://cps-iot-week2021.isis.vanderbilt.edu/), May 2021.
 - Speaker, Independent Activities Period (IAP) at Massachusetts Institute of Technology (MIT) on the topic of [Cyber-Physical Systems](https://www.mathworks.com/company/events/seminars/mit-iap-series-2020-3311753.html), January 2021.
-- [Paper accepted](publications.html) at IEEE Control Systems Letters (L-CSS)
-- On the Program Committe for [Annual Modeling and Simulation Conference (AnnSim) 2021](https://scs.org/annsim/), a new conference that merges SpringSim and SummerSim conferences. 
+
+- 
+
+- On the Program Committe for , a new conference that merges SpringSim and SummerSim conferences. 
 - Paper co-authored with colleagues from GE Research wins the **Best in Session Award** as part of the **Architectural Considerations** session the [AIAA/IEEE Digital Avionics Systems Conference (DASC) 2020](https://2020.dasconline.org/)
 - On the Program Committee for [International Conference on Cyber-Physical Systems (ICCPS) 2021](https://iccps.acm.org/2021/), Nashville, USA.
 - On the Program Committe for [Formal Methods (FM) 2021](http://www.fmeurope.org/symposia/).
