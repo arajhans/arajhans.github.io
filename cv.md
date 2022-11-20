@@ -8,51 +8,14 @@
 - M.S., Electrical Engineering, University of Pennsylvania (2008)
 - B.E., Electronics and Telecommunication, University of Pune (2003)
 
-
-## Professional Experience
-  
-Career Progression and Professional Highlights
-  
-### Career Progression
-  
-- MathWorks (2013-)
-  - Principal Research Scientist, Advanced Research & Technology Office (May 2018 - )
-  - Senior Research Scientist, Advanced Research & Technology Office (Jun 2016 - Apr 2018)
-  - Senior Software Engineer, Simulink Semantics (Jul 2013 - Jun 2016)
-- Carnegie Mellon University (2008-2013)
-  - Ph.D. Candidate (Jul 2008 - May 2013)
-  - Teaching Assistant, Embedded Control Systems (Spring 2011, Spring 2010)
-- Bosch (2009)
-  - Research Intern, Bosch Research and Technology Center, Pittsburgh, PA. (Fall 2009) 
-- University of Pennsylvania (2006-2008)
-  - Research Staff, GRASP Laboratory (Jan 2008 - Jun 2008)
-  - Teaching Assistant, Mathematics Department (Spring 2008, Fall 2007)
-  - Teaching Assistant, Electrical and Systems Engineering Department (Spring 2007, Fall 2006)
-- Cummins (2003-2005)
-  - Manager, Electronic Controls Application Engineering, Industrial Business Unit, Pune. (Aug 2005 - Dec 2005)
-  - Operations Management Program Participant, Pune. (Aug 2003 - August 2005)
-
-### Professional Highlights
-- Speaker at the [19th International Runtime Verification Conference](https://www.react.uni-saarland.de/rv2019/invitedspeakers.html), part of the [3rd Formal Methods World Congress](http://formalmethods2019.inesctec.pt/?page_id=1044), Porto, 2019.
-- Keynote speaker at the [First International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS)](https://msdl.uantwerpen.be/conferences/MPM4CPS/2019/index.php/keynote-talk/), Munich, 2019.
-- Invited participant at [Simulation and Machine Learning in Robotics](https://www.nist.gov/news-events/events/2018/04/simulation-and-machine-learning-robotics), an NSF/DoD/NIST workshop to chart out the future of simulation and machine learning inrobotics, 2018.
-- Selected on ACM’s [Global Practitioner Advisory Community](https://www.acm.org/education/gpac), 2017.
-- Work featured as [Research Highlight in Communications of the ACM magazine](https://cacm.acm.org/magazines/2013/10/168166-formal-verification-of-phase-locked-loops-using-reachability-analysis-and-continuization/fulltext), 2013.
-- Work featured in Innovation with Impact, Carnegie Mellon University, 2013.
-- [William J. McCalla Best Paper Award](https://iccad.com/award_recipients), ACM/IEEE International Conference on Computer-Aided Design, 2011.
-- Carnegie Institute of Technology Dean’s Fellowship, August 2008–May 2013.
-- Ranked in top 0.48% in India (percentile score of 99.52), Common Admission Test, 2005.
-- National Talent Search (NTS) Scholarship, finalist, India, 1997.
-- Maharashtra Talent Search (MTS) Scholarship, State-level rank: 35(1996), 15(1995).
-- Middle School Scholarship, Maharashtra, India. State-level rank: 16(1991-1994)
-
 ## Public Speaking
   
-### Keynote-Style Talks
+### Keynotes
+- "*[A  study of cyber-physical system design activity to consider opportunity for AI assistance](https://conf.researchr.org/track/models-2022/models-2022-keynotes),* 25th International Conference on Model Driven Engineering Languages and Systems (MODELS), Montreal, Canada, October 26, 2022.
 - "*[Challenges and opportunities in design and operation of intelligent cyber-physical systems](https://www.react.uni-saarland.de/rv2019/invitedspeakers.html),* 19th International Runtime Verification Conference, Part of [3rd World Congress on Formal Methods](http://formalmethods2019.inesctec.pt/?page_id=1044), Porto, Portugal, October 10, 2019. \[[Slides](files/slides/Rajhans_RV2019.pdf) \| [Video](https://www.youtube.com/watch?v=bDhFVASF9PU)\]
 - "*[Multi-Paradigm Modeling for Design and Operation of Intelligent Cyber-Physical Systems](https://msdl.uantwerpen.be/conferences/MPM4CPS/2019/index.php/program/),*" International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS), co-located with the MODELS Conference, Munich, Germany, September 15, 2019. \[[Slides](files/slides/Rajhans_MPM4CPS2019.pdf)\]
 
-### Invited Talks
+### Talks
 - "*A Model-Based Design Perspective on Challenges and Opportunities in Automated Software Certification,*" 20th Software Certification Consortium (SCC) Steering Committe Meeting, Annapolis, MD, USA. May 2019. **Hosts**: Alan Wassyng and Mark Lawford, Organizers. \[[Slides](files/slides/Rajhans_SCC2019.pdf)\] 
 - "*Specification Formalisms for Cyber-Physical Systems: A Tools Perspective,*" [Dagstuhl Workshop on Specification Formalisms for Modern Cyber-Physical Systems](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19071), Dagstuhl, Germany. February 2019. **Hosts**: Jyotirmoy Deshmukh, Oded Maler, Dejan Nickovic, Workshop Organizers.
 - "*Graphical Modeling of Hybrid Systems with Simulink and Stateflow,*" Workshop honoring the retirement of Prof. Bruce Krogh, Carnegie Mellon University, Pittsburgh, PA, May 2018. **Host**: Prof. Bruno Sinopoli, Workshop Chair.
