@@ -10,12 +10,9 @@
 
 
 ## Professional Experience
-
-<details>
   
-<summary> Career Progression and Professional Highlights </summary>
+Career Progression and Professional Highlights
   
-  foo
 ### Career Progression
   
 - MathWorks (2013-)
@@ -48,14 +45,10 @@
 - National Talent Search (NTS) Scholarship, finalist, India, 1997.
 - Maharashtra Talent Search (MTS) Scholarship, State-level rank: 35(1996), 15(1995).
 - Middle School Scholarship, Maharashtra, India. State-level rank: 16(1991-1994)
-  
-</details>
 
 ## Public Speaking
-<details>
-  <summary> Talks and Panels </summary>
   
-  ### Keynote-Style Talks
+### Keynote-Style Talks
 - "*[Challenges and opportunities in design and operation of intelligent cyber-physical systems](https://www.react.uni-saarland.de/rv2019/invitedspeakers.html),* 19th International Runtime Verification Conference, Part of [3rd World Congress on Formal Methods](http://formalmethods2019.inesctec.pt/?page_id=1044), Porto, Portugal, October 10, 2019. \[[Slides](files/slides/Rajhans_RV2019.pdf) \| [Video](https://www.youtube.com/watch?v=bDhFVASF9PU)\]
 - "*[Multi-Paradigm Modeling for Design and Operation of Intelligent Cyber-Physical Systems](https://msdl.uantwerpen.be/conferences/MPM4CPS/2019/index.php/program/),*" International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS), co-located with the MODELS Conference, Munich, Germany, September 15, 2019. \[[Slides](files/slides/Rajhans_MPM4CPS2019.pdf)\]
 
@@ -79,14 +72,11 @@
 - Panelist on the topic of **Hybrid Simulation for Cyber Physical Systems – Where are we Going Regarding Complexity, Intelligence, and Adaptability of CPS Using Simulation**, Symposium on M&S of Complex, Intelligent, Adaptive and Autonomous Systems (MSCIAAS) panel at [Spring Simulation Multi-Conference (SpringSim)](http://scs.org/springsim/), May 2018.
 - Panelist on the topic of **"What are the challenges posed to CPS theory by modern applications?"**, [Joint HSCC-ICCPS Panel](https://www.hscc2018.deib.polimi.it/panel-session), part of [CPS Week 2018](https://cister.isep.ipp.pt/cpsweek2018/).
 - Panelist on the topic of **Why do we need holistic concern-driven engineering?** at the [NIST CPS Framework Open Source Workshop](https://www.nist.gov/news-events/events/2017/09/cps-framework-open-source-workshop), September 2017. 
-- Panelist on the topic of **Safe Control of Connected and Autonomous Vehicles**, [1st Workshop on Safe Control of Connected and Autonomous Vehicles (SCAV)](https://scav.in.tum.de/), affiliated with [Cyber-Physical Systems Week (CPS Week) 2017](https://cpsweek2017.ece.cmu.edu/), April 2017. \[[Picture](https://twitter.com/rajhans/status/856221543399137280), [Workshop Report](http://www.gleirscher.at/mg/dl/scav17-report-preprint.pdf)\]
-</details>  
+- Panelist on the topic of **Safe Control of Connected and Autonomous Vehicles**, [1st Workshop on Safe Control of Connected and Autonomous Vehicles (SCAV)](https://scav.in.tum.de/), affiliated with [Cyber-Physical Systems Week (CPS Week) 2017](https://cpsweek2017.ece.cmu.edu/), April 2017. \[[Picture](https://twitter.com/rajhans/status/856221543399137280), [Workshop Report](http://www.gleirscher.at/mg/dl/scav17-report-preprint.pdf)\] 
 
 ## Professional Service
-<details>
-  <summary> Conference PC, Industry Advisory Boards, Editorial Duties </summary>
-  
-  ### Conference Program Committee (PC)
+
+### Conference Program Committee (PC)
 #### Organizer 
   - [MathWorks Research Summit](https://www.mathworks.com/videos/series/mathworks-research-summit.html), Boston: 2017-, Tokyo: 2016-
 
@@ -120,15 +110,11 @@
 ### Technical and Professional Committees
 - Selected on the [ACM Global Practitioner Advisory Community (ACM GPAC)](https://www.acm.org/education/gpac), consisting of 100 computing practitioners worldwide who will guide ACM in enhancing and developing practitioner-oriented resources.
 - Member of the [IEEE Technical Committee on Homeland Security](http://www.ieeesmc.org/technical-activities/systems-science-and-engineering/homeland-security)
-</details>
 
 ## Publications
 \[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) \| [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
 
-<details>
-  <summary> Papers and Posters </summary>
-
-  ### Papers
+### Papers
   
 - [VHR<sup>+</sup>20] N. Visnevski, T. Hubscher-Younger, A. Rajhans, and B. Meng, "*Automatic Synthesis of Information Flow Driven Execution Managers for Embedded Software Applications*", [AIAA/IEEE Digital Avionics Systems Conference (DASC) 2020](https://2020.dasconline.org/). To Appear. \[[Preprint (PDF)](files/papers/VisnevskiHR+_DASC20.pdf)\]
 - [MRM<sup>+</sup>20] P. J. Mosterman, A. Rajhans, A. Mavrommati, and R. G. Valenti, "*Simulation of Hybrid Dynamic Systems*", [Encyclopedia of Systems and Control](https://link.springer.com/referencework/10.1007/978-1-4471-5102-9), Living Edition, Editors: John Baillieul, Tariq Samad. \[[HTML](https://link.springer.com/referenceworkentry/10.1007%2F978-1-4471-5102-9_100048-1)\]
@@ -174,15 +160,12 @@ Industrial Internet of Things Applications*", [Fourth International Workshop on 
 ### Reports and Posters
 [Reports and posters](other-publications.html)
 
-</details>
-
 ## Patents
 - [ABDR12] Andrews, B., Benitez, D., Raghunathan, B., Rajhans, A., “*Method for Non-Intrusive Load Monitoring using a Hybrid System State Estimation Approach”*, Patent No. 8209062. \[[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/8209062) \| [Google Scholar](http://www.google.com/patents/US8209062?dq=info:kNjIEMTwpFgJ:scholar.google.com)\]
 
 ## Student Mentoring and Teaching
 
-<details>
-  <summary> PhD Thesis Committee, Student Competition Judging, Teaching Assistantships, and STEM Outreach </summary>
+PhD Thesis Committee, Student Competition Judging, Teaching Assistantships, and STEM Outreach
 
   ### PhD Thesis Committee
 - *Yi Deng*, ECSE Department, Rensselaer Polytechnic Institute. 
@@ -206,5 +189,3 @@ Industrial Internet of Things Applications*", [Fourth International Workshop on 
 ### Other Voluntary Instruction
 - 2009: Volunteer Instructor, [Summer Engineering Experience for Girls (SEE)](https://www.cmu.edu/ices/outreach/see/), Carnegie Mellon University.
 - 2002: Volunteer Instructor, Social Educational Activity by [IEEE Bombay Section](http://ieeebombay.org), **_Topic_**: *Mobile Communications*.
-
-</details>
