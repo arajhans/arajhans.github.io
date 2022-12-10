@@ -2,6 +2,7 @@
 [home](index.html) \| [bio](bio.html) \| [publications](publications.html) \| [talks](talks.html) \| [service](service.html) \| [etc](etc.html)
 
 \[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) \| [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
+
 [CRS23] Pat Canny, Akshay Rajhans, and Christoph Sticksel, "*Shifting Left: Opportunities and Techniques for Early Verification in Model-Based Design*", FM 2023 (Industry Track), Luebeck, Germany. Accepted.
 - [DIR<sup>+</sup>22] Mattia Di Florio, Vijay Iyer, Akshay Rajhans, Stefano Buccelli, and Michela Chiappalone, "*Model-based Online Implementation of Spike Detection Algorithms for Neuroengineering Applications*," 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS'22), Accepted. \[[Preprint (PDF)](files/papers/DiFlorioIR+_EMBC2022.pdf)\]
 - [SYN<sup>+</sup>21] H. Sarjoughian, E. Yellig, J. Nutaro, A. Rajhans, "*Challenges in Satisfying the Need and Promotion of Modeling & Simulation Workforce*," Winter Simulation Conference (WSC) 2021. \[[Preprint (PDF)](files/papers/SarjoughianYNR_WSC2021.pdf)\]
