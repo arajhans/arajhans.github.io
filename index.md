@@ -6,7 +6,7 @@ alt="Akshay Rajhans" width="240" border="10" /></a>
 
 ## Contact
 Akshay Rajhans, Ph.D. <br/>
-Principal Research Scientist and Head of the Advanced Research & Technology Office<br/>
+Lead Research Scientist and Head of the Advanced Research & Technology Office<br/>
 MathWorks <br/>
 **Email**: arajhans (at) alumni (dot) cmu (dot) edu <br/>
 
