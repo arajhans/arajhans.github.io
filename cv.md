@@ -4,6 +4,7 @@
 
 
 <details>
+  
   <summary>
     <h2>
       Education 
