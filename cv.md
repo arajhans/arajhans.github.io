@@ -10,6 +10,7 @@
       Education 
     </h2>
   </summary>  
+  
 - Ph.D., Electrical and Computer Engineering, Carnegie Mellon University (2013)
 - M.S., Electrical Engineering, University of Pennsylvania (2008)
 - B.E., Electronics and Telecommunication, University of Pune (2003)
