@@ -5,8 +5,7 @@
 
 ## Education
 
-<details>
-  <summary><h2> Education </h2></summary>
+<details><h2><summary> Education </summary></h2>
 * Ph.D., Electrical and Computer Engineering, Carnegie Mellon University (2013)
 * M.S., Electrical Engineering, University of Pennsylvania (2008)
 * B.E., Electronics and Telecommunication, University of Pune (2003)
