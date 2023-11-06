@@ -7,7 +7,7 @@
 
 #### Acting
 I have been a part of [Jilebee Arts](https://jilebeearts.org/) since its inception and have acted in all of its theater productions, including:
-- 2024: "Garudjhep", upcoming in March 2024, Atlanta, GA.
+- 2024: "Garudjhep", coming up in March 2024, Atlanta, GA.
 - 2023: "Cafe Wordsworth", NatyaDarpan and Jilebee Arts multi-lingual production, Andover, MA. 
 - 2022: "RangaShwaas", Bruhan Maharashtra Mandal (BMM)'s twentieth convention, Atlantic City, NJ.
 - 2022: "Tyacha Parakram: Ek Apoornanka", Chelmsford, MA.
