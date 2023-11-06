@@ -6,16 +6,20 @@
 ### Writing, Performing Arts, and Music
 
 #### Acting
+I have been a part of [Jilebee Arts](https://jilebeearts.org/) since its inception and have acted in all of its theater productions, including:
+- 2024: "Garudjhep", upcoming in March 2024, Atlanta, GA.
+- 2023: "Cafe Wordsworth", NatyaDarpan and Jilebee Arts multi-lingual production, Andover, MA. 
 - 2022: "RangaShwaas", Bruhan Maharashtra Mandal (BMM)'s twentieth convention, Atlantic City, NJ.
 - 2022: "Tyacha Parakram: Ek Apoornanka", Chelmsford, MA.
-- 2020: Read a short passage (नाट्यवाचन) as part of the [Jilebee Arts](https://jilebeearts.org/) event [शतजन्म शोधिताना (Shatajanma Shodhitana)](https://jilebeearts.org/past-events-1), Virtual Event via Zoom and Facebook Live.
-- 2019: Read a short story (नाट्यवाचन) titled "[एका लग्नाची...किंबहुना....एका लग्नातली गोष्ट!](http://asudhanwam.blogspot.com/2011/08/blog-post.html)" as part of the [Jilebee Arts](https://jilebeearts.org/) event [Prarambha](https://jilebeearts.org/past-events-1), Greater Boston, MA.
-- 2017: Played a character in "It's complicated!" as part of [New England Marathi Mandal Ekankika Mahotsav](https://www.facebook.com/events/1455834907857596/), Greater Boston, MA.
-- 2014: Played two characters in "[Gajara](https://kalashriboston.org/past-programs)", New York City, NY.
+- 2020: "Shatajanma Shodhitana", online via Zoom and Facebook Live.
+- 2019: "Eka Lagnachi... Kimbahuna Eka Lagnatli Goshta",  event [Prarambha](https://jilebeearts.org/past-events-1), Greater Boston, MA.
+In the past: 
+- 2017: "It's complicated!", [New England Marathi Mandal Ekankika Mahotsav](https://www.facebook.com/events/1455834907857596/), Greater Boston, MA.
+- 2014: "Gajara", New York City, NY, with Kalashri of Boston.
 - 1992: Child artist in a TV show "[बालचित्रवाणी](https://mr.wikipedia.org/wiki/%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%A3%E0%A5%80)" (Balachitrawani), (similar to PBS kids), Pune, India. 
 
 #### Music
-- 2022: Played dhol (barrel drum) at Faneuil Hall, Boston, MA.
+- 2022-: I often play and occasionally teach dhol (barrel drum) as part of India Society of Worcester's Symphony team.
 - 2021: Played "side rhythms" (miscellaneous percussions including [cabasa](https://en.wikipedia.org/wiki/Cabasa), [reco reco](https://en.wikipedia.org/wiki/Reco-reco), [cajon](https://en.wikipedia.org/wiki/Caj%C3%B3n), [chiplya](https://en.wikipedia.org/wiki/Khartal), [ghungroo](https://en.wikipedia.org/wiki/Ghungroo), [taal](https://en.wikipedia.org/wiki/Taal_(instrument))) for the concert titled ताने स्वर रंगवावा (Tane Swar Rangawawa), [Philadelphia Ganesh Festival](http://www.philadelphiaganeshfestival.org/), Chalfont, PA.
 
 #### Writing
