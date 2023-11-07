@@ -2,6 +2,7 @@
 [home](index.html) \| [bio](bio.html) \| [publications](publications.html) \| [talks](talks.html) \| [service](service.html) \| [etc](etc.html)
 
 ## Outside of Work
+   > "The research suggests we could all gain from spending a bit more time outside our chosen specialism" \[[link](https://www.bbc.com/worklife/article/20191118-what-shapes-a-polymath---and-do-we-need-them-more-than-ever)\]
 
 ### Writing, Performing Arts, and Music
 
