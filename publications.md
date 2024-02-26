@@ -3,7 +3,9 @@
 
 \[See also: [Google Scholar](http://scholar.google.com/citations?user=522zploAAAAJ&hl=en) \| [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajhans:Akshay.html)\]
 
-- [CRS23] Pat Canny, Akshay Rajhans, and Christoph Sticksel, "*Shifting Left: Opportunities and Techniques for Early Verification in Model-Based Design*", FM 2023 (Industry Track), Luebeck, Germany. Accepted.
+- [KSA<sup>+</sup>24] Pramod Khargonekar, Tariq Samad, Saurabh Amin, Aranya Chakrabortty, Fabrizio Dabbene, Amritam Das, Masayuki Fujita, Mario Garcia-Sanz, Dennice Gayme, Marija Ilic, Iven Mareels, Kevin L. Moore, Lucy Y. Pao, Akshay Rajhans, Jakob Stoustrup, Juanid Zafar, Margret Bauer, "*Climate Change Mitigation, Adaptation, and Resilience: Challenges and opportunities for the Control Systems Community*," accepted.
+- [FFR<sup>+</sup>24] Federico Formica, Tony Fan, Akshay Rajhans, Vera Pantelic, Mark Lawford, Claudio Menghi, "*Simulation-based Testing of Simulink Models with Test Sequence and Test Assessment Blocks*," IEEE Transactions on Software Engineering, Volume: 50, Issue: 2, February 2024.
+- [CRS23] Pat Canny, Akshay Rajhans, and Christoph Sticksel, "*Shifting Left: Opportunities and Techniques for Early Verification in Model-Based Design*," unpublished manuscript.
 - [DIR<sup>+</sup>22] Mattia Di Florio, Vijay Iyer, Akshay Rajhans, Stefano Buccelli, and Michela Chiappalone, "*Model-based Online Implementation of Spike Detection Algorithms for Neuroengineering Applications*," 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS'22), Accepted. \[[Preprint (PDF)](files/papers/DiFlorioIR+_EMBC2022.pdf)\]
 - [SYN<sup>+</sup>21] H. Sarjoughian, E. Yellig, J. Nutaro, A. Rajhans, "*Challenges in Satisfying the Need and Promotion of Modeling & Simulation Workforce*," Winter Simulation Conference (WSC) 2021. \[[Preprint (PDF)](files/papers/SarjoughianYNR_WSC2021.pdf)\]
 - [RMM<sup>+</sup>21] A. Rajhans, A. Mavrommati, P.J. Mosterman, and R.G. Valenti, "*Specification and Runtime Verification of
