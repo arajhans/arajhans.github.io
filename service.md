@@ -2,8 +2,9 @@
 [home](index.html) \| [bio](bio.html) \| [publications](publications.html) \| [talks](talks.html) \| [service](service.html) \| [etc](etc.html)
 
 ## Conference Program Committee (PC)
-### Organizer 
+### Chair/Co-Chair 
   - [MathWorks Research Summit](https://www.mathworks.com/videos/series/mathworks-research-summit.html), Boston: 2017-, Tokyo: 2016-
+  - [3rd International Conference on Assured Autonomy (ICAA)](https://icaa-conf.github.io/icaa2024/) 2024
 
 ### Currently or Recently on PC
   - **Artifact Evaluation Chair**, [Formal Modeling and Analysis of Timed Systems (FORMATS) 2022](https://conferences.ncl.ac.uk/formats2022/)
