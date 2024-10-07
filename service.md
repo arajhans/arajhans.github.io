@@ -57,7 +57,7 @@ now-published-mcsc-impact-report-2023/)
 
 ## Student Mentoring
 
-### External Thesis Committee Member
+### External Thesis Committee Member/Mentor
 - Rizwan Parveen, BITS Pilani, Goa, India. Advisor: Prof. Neena Goveas. Ph.D. Thesis Title: “Model Driven Approach For Healthcare Cyber Physical Systems”. 2023.
 - Yi Deng, Rensselaer Polytechnic Institute. Advisor: Prof. A. Agung Julius. Ph.D. Thesis Title: “The Application of Trajectory-Based Analysis for Hybrid Systems”. 2015.
 - Amruta Namjoshi, M.Sc. Candidate, University of Pune. Project trainee at Cummins India. Spring 2004.
