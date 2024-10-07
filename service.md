@@ -4,7 +4,7 @@
 - Funding Review Panelist, National Science Foundation (NSF), Technology, Innovation, and Partnerships (TIP)
 Directorate, 2023.
 - User Advisory Committee Member, Dutch Research Council (NWO), Veni grant in Applied and Engineering
-Sciences. Principal Investigator: Prof. Sofie Haessaert. 2021–.
+Sciences. 2021–.
 - Invited Panelist, NSF Formal Methods in the Field (FMiTF) Principal Investigators’ Meeting, October 2022.
 - Invited Participant, NIST/NSF/DoD Workshop on Simulation and Machine Learning in Robotics, 2018.
 - Invited Speaker, NSF Visioning Workshop on International Networks for Advancing Cyber-Physical Systems (CPS)
