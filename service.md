@@ -1,5 +1,6 @@
 # Professional Service
 [home](index.html) \| [bio](bio.html) \| [publications](publications.html) \| [talks](talks.html) \| [service](service.html) \| [etc](etc.html)
+
 ## Invited Expert by Government Funding Agencies
 - Funding Review Panelist, National Science Foundation (NSF), Technology, Innovation, and Partnerships (TIP)
 Directorate, 2023.
@@ -15,11 +16,12 @@ Research, Development, and Education Worldwide, part of CPS Week 2018, Porto, Po
 Institute of Standards and Technology (NIST), Gaithersburg, MD, August, 2016.
 
 ## Industry Advisory Boards
-- **User Committee Member**, [Dutch Research Councli (NWO)](https://www.nwo.nl/en), Domain Applied and Engineering Sciences, Veni grant titled "CODEC: Correct-by-design Estimation and Control of partially observable stochastic systems," [Sofie Haessert](https://www.sofiehaesaert.com/), Principal Investigator.
-- **Industry Advisory Board Member**, [MIT Climate & Sustainability Consortium](https://impactclimate.mit.edu/mathworks/), January 2021 - 
+- **Industry Advisory Board Member**, [MIT Climate & Sustainability Consortium](https://impactclimate.mit.edu/mathworks/), 2021-2023.
+- **Industry Challenge Technical Program Committee**, Real-Time Systems Symposium (RTSS) 2022.
 - **Industry Advisory Committee Member**, Autonomous Systems Specialization Coursework in [Robotics Engineering](https://www.wpi.edu/academics/departments/robotics-engineering), [Worcester Polytechnic Institute](https://www.wpi.edu/).
 - **Industry Vice Chair**, [IFAC Conference on Analysis and Design of Hybrid Systems (ADHS) 2018](http://www.cs.ox.ac.uk/conferences/ADHS18/)
 - **Industry Advisory Board Member**, [IEEE International Symposium on Circuits and Systems (ISCAS) 2018](http://www.iscas2018.org/)
+- **Global Professional Advisory Community**, Association for Computing Machinery (ACM), 2017.
 
 ## Featured Interviews, Perspectives, and Quotes
 - MIT Climate & Sustainability Consortium Impact Report, 2023. [https://impactclimate.mit.edu/2024/05/16/
