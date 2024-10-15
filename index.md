@@ -44,8 +44,11 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
     
     <h2>Thought Leadership</h2>
     <details>
-      <summary>Invited Expert for Government Funding Agencies</summary>
-        <h3>Invited Expert for Government Funding Agencies</h3>  
+      <summary>Invited Expert for Government Agencies</summary>
+        <h3>Invited Expert for Government Agencies</h3>  
+        <ul>
+          <li></li>
+        </ul
     </details><br>
 
     <details>
@@ -151,6 +154,11 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
     <details>
       <summary>Keynote Talks</summary>
         <h3>Keynote Talks</h3>  
+        <ul>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
     </details><br>
 
     <details>
