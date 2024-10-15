@@ -83,7 +83,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
       <li>[V2] S. Anderson, B. Boots, A. Byravan, E. Drumwright, C. Duriez, D. Fox, G. Hager, J. Hodgins, A. Jain, A. Kapoor, D. Koditschek, N. Koenig, E. Lee, C. Li, K. Liu, F. Meier, D. Negrut, A. Rajhans, L. Righetti, A. Rodriguez, S. Schaal, J. Tan, Y. Tassa, E. Todorov, and J. Trinkle, "<em>On the Use of Modeling and Simulation in Robotics</em>", Workshop Report, NIST/NSF/DoD Workshop on Simulation and Machine Learning in Robotics, 2018.</li> 
       <li>[V1] A. Tolk, F. Barros, A. D’Ambrogio, A. Rajhans, P. J. Mosterman, S. S. Shetty, M. K. Traoré, H. Vangheluwe, and L. Yilmaz, "<em>Hybrid Simulation for Cyber Physical Systems – A Panel on Where are we Going Regarding Complexity, Intelligence, and Adaptability of CPS Using Simulation</em>", Spring Simulation Multi-Conference, 2018.</li>
     </ul>
-  </details>
+  </details><br>
 
   <details>
     <summary>Technical Publications</summary>
@@ -118,7 +118,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
         <li>[P2] A. Rajhans, S.-W. Cheng, B. Schmerl, D. Garlan, B. H. Krogh, C. Agbi, and A. Bhave, "<i>An Architectural Approach to the Design and Analysis of Cyber-Physical Systems</i>", Third International Workshop on Multi-Paradigm Modeling (MPM), 2009.</li>
         <li>[P1] A. Donzé, B. H. Krogh, and A. Rajhans, "<i>Parameter Synthesis for Hybrid Systems with an Application to Simulink Models</i>", 12th IEEE/ACM International Conference on Hybrid Systems: Computation and Control, 2009.</li>
       </ul>
-  </details>
+  </details>><br>
 
   <details>
     <summary>Theses</summary>
@@ -127,7 +127,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
         <li>[Th2] A. Rajhans, "<i>Multi-Model Heterogeneous Verification of Cyber-Physical Systems</i>", PhD Thesis, Carnegie Mellon University, 2013. Advisor: Bruce Krogh</li>
         <li>[Th1] A. Rajhans, "<i>Development of Robust Testing Toolbox for Hybrid Systems</i>", MSE Thesis, University of Pennsylvania, 2007. Advisor: Prof. George Pappas</li>
       </ul>
-  </details>
+  </details>><br>
   </div>
 </details>
 <br>
