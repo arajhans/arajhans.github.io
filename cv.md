@@ -4,7 +4,7 @@
 
 
 <details> 
-<summary> Education </summary>
+<summary> <h2>Education</h2> </summary>
   <h2> Education </h2>
   <ul> 
     <li>Ph.D., Electrical and Computer Engineering, Carnegie Mellon University (2013)</li>
