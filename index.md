@@ -4,6 +4,10 @@
 <a><img src="files/pictures/AkshayPortrait.jpg" 
 alt="Akshay Rajhans" width="240" border="10" /></a>
 
+Welcome to my website! Expand the sections below to learn more about my work. 
+
+[LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao) \| [IEEE Author Profile](https://ieeexplore.ieee.org/author/38232718800) \| [ACM Author Profile](https://dl.acm.org/profile/81421602783)
+
 <details> 
 <summary> Contact </summary>
   <div style="padding:20px;">
@@ -164,18 +168,3 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
 </details>
 <br>
 
-
-
-<!--
-  [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao) \| [IEEE Author Profile](https://ieeexplore.ieee.org/author/38232718800) \| [ACM Author Profile](https://dl.acm.org/profile/81421602783)
-
-
-
-## Contact
-Akshay Rajhans, Ph.D. <br/>
-Lead Research Scientist and Head of the Advanced Research & Technology Office<br/>
-MathWorks <br/>
-**Email**: arajhans (at) alumni (dot) cmu (dot) edu <br/>
-
-[LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao) \| [IEEE Author Profile](https://ieeexplore.ieee.org/author/38232718800) \| [ACM Author Profile](https://dl.acm.org/profile/81421602783)
--->
