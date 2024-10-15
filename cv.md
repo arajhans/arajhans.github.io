@@ -4,8 +4,8 @@
 
 
 <details> 
-<summary> Education </summary>
-  <h2> Education </h2>
+<summary> <h2>Education</h2> </summary>
+  <!--<h2> Education </h2>-->
   
   - Ph.D., Electrical and Computer Engineering, Carnegie Mellon University (2013)
   - M.S., Electrical Engineering, University of Pennsylvania (2008)
