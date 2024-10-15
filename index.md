@@ -11,7 +11,6 @@ alt="Akshay Rajhans" width="240" border="10" /></a>
   MathWorks <br/>
   arajhans (at) alumni (dot) cmu (dot) edu <br>
 </details>
-<br>
 
 <details>
   <summary>Biographical Sketch</summary>
