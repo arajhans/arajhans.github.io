@@ -36,6 +36,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
 
 <details>
   <summary>Publications</summary>
+  <div style="padding:20px;">
   <h2>Publications</h2>
   <details>
     <summary>Visioning Work</summary>
@@ -89,10 +90,14 @@ Industrial Internet of Things Applications</i>", Fourth International Workshop o
 
   <details>
     <summary>Theses</summary>
-      
+      <ul>
+        <li> [Th1] A. Rajhans, "<i>Multi-Model Heterogeneous Verification of Cyber-Physical Systems</i>", PhD Thesis, Carnegie Mellon University, 2013. Advisor: Bruce Krogh
+        <li> [Th1] A. Rajhans, "<i>Development of Robust Testing Toolbox for Hybrid Systems</i>", MSE Thesis, University of Pennsylvania, 2007. Advisor: Prof. George Pappas
+      </ul>
   </details>
-  
+  </div>
 </details>
+<br>
 
 <details>
     <summary>Patents</summary>
