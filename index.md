@@ -55,6 +55,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
 
   <details>
     <summary>Technical Publications</summary>
+    <h3>Technical Publications</h3>  
       <ul>
         <li>[P28] Claudio Menghi, Eugene Balai, Darren Valovcin, Christoph Sticksel, Akshay Rajhans, "<i>Completeness and Consistency of Tabular Requirements: an SMT-Based Verification Approach</i>", under review.</li>
         <li>[P27] Abenezer Taye, Roberto Valenti, Akshay Rajhans, Anastasia Mavrommati, Pieter Mosterman, and Peng Wei, "<i>Safe and Scalable Real-Time Trajectory Planning Framework for Urban Air Mobility</i>", AIAA Journal of Aerospace Information Systems, April 2024.</li>
@@ -89,6 +90,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
 
   <details>
     <summary>Theses</summary>
+    <h3>Theses</h3>    
       <ul>
         <li>[Th2] A. Rajhans, "<i>Multi-Model Heterogeneous Verification of Cyber-Physical Systems</i>", PhD Thesis, Carnegie Mellon University, 2013. Advisor: Bruce Krogh</li>
         <li>[Th1] A. Rajhans, "<i>Development of Robust Testing Toolbox for Hybrid Systems</i>", MSE Thesis, University of Pennsylvania, 2007. Advisor: Prof. George Pappas</li>
@@ -107,11 +109,26 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
 
 <details>
   <summary>Talks and Panels</summary>
-  <div style="padding:20px;"></div>
-  <h2>Invited Talks and Panels</h2>
-  <h3>Keynotes</h3>
-  <h3>Invited Talks</h3>
-  <h3>Panels</h3>
+  <div style="padding:20px;">
+    
+    <h2>Invited Talks and Panels</h2>
+    <details>
+      <summary>Keynotes</summary>
+        <h3>Keynotes</h3>  
+    </details><br>
+
+    <details>
+      <summary>Keynotes</summary>
+        <h3>Invited Talks</h3>    
+    </details><br>
+
+    <details>
+      <summary>Keynotes</summary>
+        <h3>Panels</h3>  
+
+    </details><br>
+
+  </div>
 </details>
 <br>
 
