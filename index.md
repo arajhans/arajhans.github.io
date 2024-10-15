@@ -111,19 +111,19 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
   <summary>Talks and Panels</summary>
   <div style="padding:20px;">
     
-    <h2>Invited Talks and Panels</h2>
+    <h2>Talks and Panels</h2>
     <details>
-      <summary>Keynotes</summary>
-        <h3>Keynotes</h3>  
+      <summary>Keynote Talks</summary>
+        <h3>Keynote Talks</h3>  
     </details><br>
 
     <details>
-      <summary>Keynotes</summary>
+      <summary>Invited Talks</summary>
         <h3>Invited Talks</h3>    
     </details><br>
 
     <details>
-      <summary>Keynotes</summary>
+      <summary>Panels</summary>
         <h3>Panels</h3>  
 
     </details><br>
