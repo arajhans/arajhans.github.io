@@ -1,38 +1,24 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
 title: Akshay Rajhans, PhD
 email: arajhans@alumni.cmu.edu
-description: Personal webpage of Dr. Akshay Rajhans
+description: > # this means to ignore newlines until "baseurl:"
+  Personal website of Akshay Rajhans.
 baseurl: ""
 url: ""
-
-# Footer info
-affiliation: >
-  Akshay Rajhans<br/>
-  Head of the Advanced Research \& Technology Office and Lead Research Scientist<br/>
-  MathWorks
-
-location: >
-  MathWorks<br/>
-  1 Lakeside Campus Drive<br/>
-  Natick, MA 01760.
-
-contact: >
-  <a href="mailto:arajhans@alumni.cmu.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Akshay via email</a> <br/>
-
-# Pages shown in navbar
-nav_pages:
-  - name: about
-  - name: publications
-  - name: talks
-  - name: research
-  - name: software
-  - name: team
-  - name: teaching
-  - name: blogs
 
 include:
   - .htaccess
   - _pages
+
+sass:
+  sass_dir: _sass
 
 # Conversion
 markdown: kramdown
@@ -40,6 +26,8 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+
+
 
 # Markdown Processing
 kramdown:
@@ -52,31 +40,4 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
-
-plugins: ["jekyll/scholar"]
-
-scholar:
-  last_name: Doe
-  first_name: [John]
-
-  style: citesty
-  locale: en
-
-  source: /assets/
-  bibliography: ref.bib
-  bibliography_template: bibtemplate
-  sort_by: year, month
-  order: descending
-
-  replace_strings: true
-  join_strings: true
-
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
-
-  query: "@*"
-
-  bibliography_list_attributes:
-    reversed: "reversed"
 
