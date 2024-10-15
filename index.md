@@ -48,7 +48,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
         <h3>Invited Expert for Government Agencies</h3>  
         <ul>
           <li></li>
-        </ul
+        </ul>
     </details><br>
 
     <details>
