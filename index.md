@@ -105,7 +105,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
       <ul>
         <li>[PP1] Andrews, B., Benitez, D., Raghunathan, B., Rajhans, A., "<i>Method for Non-Intrusive Load Monitoring using a Hybrid System State Estimation Approach</i>".</li>
       </ul>
-</details>
+</details><br>
 
 <details>
   <summary>Talks and Panels</summary>
