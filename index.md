@@ -9,14 +9,13 @@ alt="Akshay Rajhans" width="240" border="10" /></a>
   Akshay Rajhans, Ph.D. <br/>
   Lead Research Scientist and Head of the Advanced Research & Technology Office<br/>
   MathWorks <br/>
-  arajhans (at) alumni (dot) cmu (dot) edu <br/>
+  arajhans (at) alumni (dot) cmu (dot) edu <br>
 </details>
 <br>
 
-<br>
 <details>
   <summary>Biographical Sketch</summary>
-
+<br>
 Akshay Rajhans is the Lead Research Scientist at MathWorks where he heads the MathWorks Advanced Research & Technology Office. His team's responsibility includes research and technology innovation programs at MathWorks, including MathWorks Research Summits, MathWorks-funded research collaborations, MATLAB and Simuilink Challenge Projects program, patent program, and more. He and his team members represent MathWorks in the research community in various capacities.<br><br>
 
 Dr. Rajhans has a Ph.D. in Electrical and Computer Engineering from Carnegie Mellon University and an M.S. in Electrical Engineering from the University of Pennsylvania. His background centers around Technical Computing and Model-Based Design, often in the application context of intelligent AI-enabled cyber-physical systems.<br><br>
