@@ -35,6 +35,38 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
 <br>
 
 <details>
+  <summary>Thought Leadership</summary>
+  <div style="padding:20px;">
+    
+    <h2>Thought Leadership</h2>
+    <details>
+      <summary>Invited Expert for Government Funding Agencies</summary>
+        <h3>Invited Expert for Government Funding Agencies</h3>  
+    </details><br>
+
+    <details>
+      <summary>Industry Advisory Boards and Committees</summary>
+        <h3>Industry Advisory Boards and Committees</h3>    
+    </details><br>
+
+    <details>
+      <summary>Conference Program Committee Leadership</summary>
+        <h3>Conference Program Committee Leadership</h3>  
+
+    </details><br>
+
+    <details>
+      <summary>Editorial Work</summary>
+        <h3>Editorial Work</h3>  
+
+    </details><br>
+
+  </div>
+</details>
+<br>
+
+
+<details>
   <summary>Publications</summary>
   <div style="padding:20px;">
   <h2>Publications</h2>
