@@ -16,7 +16,6 @@ Welcome to my website! Expand the sections below to learn more about my work.
   Lead Research Scientist and Head of the Advanced Research & Technology Office<br>
   MathWorks <br>
   arajhans (at) alumni (dot) cmu (dot) edu <br>
-  <br><a href="#">top</a><br>
   </div>
 </details>
 <br>
@@ -31,9 +30,6 @@ Akshay Rajhans is the Lead Research Scientist at MathWorks where he heads the Ma
 Dr. Rajhans has a Ph.D. in Electrical and Computer Engineering from Carnegie Mellon University and an M.S. in Electrical Engineering from the University of Pennsylvania. His background centers around Technical Computing and Model-Based Design, often in the application context of intelligent AI-enabled cyber-physical systems.<br><br>
 
 Earlier in his career, Dr. Rajhans worked on development and application engineering of electronic control systems for diesel-engine applications at Cummins. As a research intern at Bosch, he co-invented a model-based approach to non-intrusive load monitoring.<br><br>
-
-<a href="#">top</a>
-<br>
 </div>
 </details>
 <br>
