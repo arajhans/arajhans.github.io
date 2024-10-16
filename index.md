@@ -111,10 +111,9 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
             </ul>          
           </li>
         </ul>
-    </details><br>
+    </details>
   </div>
-</details>
-<br>
+</details><br>
 
 <details>
   <summary>Talks and Panels</summary>
