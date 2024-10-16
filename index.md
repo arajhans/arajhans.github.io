@@ -233,10 +233,10 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
               <li>Winter Simulation Conference 2017: CPS Track</li>
             </ul>
           </li>
-          <li><i>Artifact Evaluation Chair</i>: • Formal Modeling and Analysis of Timed Systems 2022
-          <li><i>Awards Chair</i>: • Hybrid Systems: Computation and Control 2018</li>
-          <li><i>Demo and Poster Chair</i>: • Hybrid Systems: Computation and Control 2017</li>
-          <li><i>PC Member</i> (present or past): 
+          <li><i>Artifact Evaluation Chair</i>: Formal Modeling and Analysis of Timed Systems 2022</li>
+          <li><i>Awards Chair</i>: Hybrid Systems: Computation and Control 2018</li>
+          <li><i>Demo and Poster Chair</i>: Hybrid Systems: Computation and Control 2017</li>
+          <li><i>PC Member</i> (present or past):
             <ul>
               <li>International Conference on Cyber-Physical Systems</li>
               <li>Multi-Paradigm Modeling for Cyber-Physical Systems</li> 
