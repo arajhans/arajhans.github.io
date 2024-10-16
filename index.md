@@ -1,5 +1,4 @@
-# Akshay Rajhans
-[home](index.html) \| [bio](bio.html) \| [publications](publications.html) \| [talks](talks.html) \| [service](service.html) \| [etc](etc.html)
+# Akshay Rajhans, PhD
 
 <a><img src="files/pictures/AkshayPortrait.jpg" 
 alt="Akshay Rajhans" width="240" border="10" /></a>
@@ -31,6 +30,91 @@ Dr. Rajhans has a Ph.D. in Electrical and Computer Engineering from Carnegie Mel
 
 Earlier in his career, Dr. Rajhans worked on development and application engineering of electronic control systems for diesel-engine applications at Cummins. As a research intern at Bosch, he co-invented a model-based approach to non-intrusive load monitoring.<br><br>
 </div>
+</details>
+<br>
+
+
+<details>
+  <summary>Thought Leadership</summary>
+  <div style="padding:20px;">   
+  <h2>Thought Leadership</h2>
+    <details>
+      <summary>Invited Expert for Government Agencies</summary>
+      <h3>Invited Expert for Government Agencies</h3>  
+        <ul>
+          <li><i>Funding Review Panelist</i>, National Science Foundation (NSF), Technology, Innovation, and Partnerships (TIP)
+          Directorate, 2023.</li>
+          <li><i>User Advisory Committee Member</i>, Dutch Research Council (NWO), Veni grant in Applied and Engineering
+          Sciences. Principal Investigator: Prof. Sofie Haessaert. 2021–.</li>
+          <li><i>Invited Panelist</i>, NSF Formal Methods in the Field (FMiTF) Principal Investigators’ Meeting, October 2022.</li>
+          <li><i>Invited Participant</i>, NIST/NSF/DoD Workshop on Simulation and Machine Learning in Robotics, 2018.</li>
+          <li><i>Invited Speaker</i>, NSF Visioning Workshop on International Networks for Advancing Cyber-Physical Systems (CPS)
+          Research, Development, and Education Worldwide, part of CPS Week 2018, Porto, Portugal. April 2018.</li>
+          <li><i>Invited Panelist</i>, NIST CPS Framework Open Source Workshop, National Institute of Standards and Technology
+          (NIST), Gaithersburg, MD, September 2017.</li>
+          <li><i>Invited Participant</i>, Exploring the Dimensions of Trustworthiness: Challenges and Opportunities Workshop, National
+          Institute of Standards and Technology (NIST), Gaithersburg, MD, August, 2016.</li>
+        </ul>
+    </details><br>
+
+    <details>
+      <summary>Industry Advisory Boards and Committees</summary>
+      <h3>Industry Advisory Boards and Committees</h3>    
+        <ul>
+          <li><i>Industry Advisory Board</i>, MIT’s Climate & Sustainability Consortium, 2021–2023</li>
+          <li><i>Industry Challenge Technical Program Committee</i>, Real-Time Systems Symposium (RTSS) 2022</li>
+          <li><i>Industry Advisory Committee on Autonomous Vehicles Curriculum</i>, Robotics Engineering Program (now a
+          Department) at Worcester Polytechnic Institute, 2017–18</li>
+          <li><i>Industry Vice Chair</i>, IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), 2018</li>
+          <li><i>Industry Advisory Board</i>, International Symposium on Circuits and Systems (ISCAS), 2018</li>
+          <li><i>Global Professional Advisory Community</i>, Association for Computing Machinery (ACM), 2017</li>
+        </ul>
+    </details><br>
+
+    <details>
+      <summary>Editorial Work</summary>
+        <h3>Editorial Work</h3>  
+        <ul>
+          <li><i>Associate Editor</i>, Technology Conferences Editorial Board, IEEE Control System Society, 2020–2022.</li>
+          <li><i>Editorial Advisory Board Member</i>, “Resilience in Cyber-Physical Systems: From Risk Modelling to Threat
+          Counteraction,” F. Flammini (Ed.), Springer.</li>
+        </ul>
+    </details><br>
+
+    <details>
+      <summary>Conference Program Committee Leadership</summary>
+      <h3>Conference Program Committee Leadership</h3>  
+        <ul>
+          <li><i>General Chair</i>: MathWorks Research Summit, 2023– </li>
+          <li><i>Program (Co-)Chair</i>: 
+            <ul>
+              <li>International Conference on Assured Autonomy 2024</li>
+              <li>MathWorks Research Summit, Boston edition: 2017–2019, Tokyo edition: 2016–2019</li>
+              <li>Fourth International Workshop on Monitoring and Testing of CPS 2019</li>
+              <li>Spring Simulation Conference 2020 and 2019: CPS Track</li>
+              <li>Winter Simulation Conference 2017: CPS Track</li>
+            </ul>
+          </li>
+          <li><i>Artifact Evaluation Chair</i>: Formal Modeling and Analysis of Timed Systems 2022</li>
+          <li><i>Awards Chair</i>: Hybrid Systems: Computation and Control 2018</li>
+          <li><i>Demo and Poster Chair</i>: Hybrid Systems: Computation and Control 2017</li>
+          <li><i>PC Member</i> (present or past):
+            <ul>
+              <li>International Conference on Cyber-Physical Systems</li>
+              <li>Multi-Paradigm Modeling for Cyber-Physical Systems</li> 
+              <li>Hybrid Systems: Computation and Control</li> 
+              <li>International Conference on Informatics in Control, Automation and Robotics</li> 
+              <li>International Workshop on Formal Co-Simulation of Cyber-Physical Systems, Conference on Analysis and Design of Hybrid Systems</li>
+              <li>Annual Modeling and Simulation Conference</li>
+              <li>Winter Simulation Conference</li> 
+              <li>Summer Simulation Multi-Conference</li>
+              <li>Formal Methods (FM) Symposium</li>
+              <li>Numerical Software Verification Workshop</li>
+            </ul>          
+          </li>
+        </ul>
+    </details><br>
+  </div>
 </details>
 <br>
 
@@ -167,88 +251,4 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
         <li>[PP1] Andrews, B., Benitez, D., Raghunathan, B., Rajhans, A., "<i>Method for Non-Intrusive Load Monitoring using a Hybrid System State Estimation Approach</i>".</li>
       </ul>
 </details><br>
-
-<details>
-  <summary>Thought Leadership</summary>
-  <div style="padding:20px;">   
-  <h2>Thought Leadership</h2>
-    <details>
-      <summary>Invited Expert for Government Agencies</summary>
-      <h3>Invited Expert for Government Agencies</h3>  
-        <ul>
-          <li><i>Funding Review Panelist</i>, National Science Foundation (NSF), Technology, Innovation, and Partnerships (TIP)
-          Directorate, 2023.</li>
-          <li><i>User Advisory Committee Member</i>, Dutch Research Council (NWO), Veni grant in Applied and Engineering
-          Sciences. Principal Investigator: Prof. Sofie Haessaert. 2021–.</li>
-          <li><i>Invited Panelist</i>, NSF Formal Methods in the Field (FMiTF) Principal Investigators’ Meeting, October 2022.</li>
-          <li><i>Invited Participant</i>, NIST/NSF/DoD Workshop on Simulation and Machine Learning in Robotics, 2018.</li>
-          <li><i>Invited Speaker</i>, NSF Visioning Workshop on International Networks for Advancing Cyber-Physical Systems (CPS)
-          Research, Development, and Education Worldwide, part of CPS Week 2018, Porto, Portugal. April 2018.</li>
-          <li><i>Invited Panelist</i>, NIST CPS Framework Open Source Workshop, National Institute of Standards and Technology
-          (NIST), Gaithersburg, MD, September 2017.</li>
-          <li><i>Invited Participant</i>, Exploring the Dimensions of Trustworthiness: Challenges and Opportunities Workshop, National
-          Institute of Standards and Technology (NIST), Gaithersburg, MD, August, 2016.</li>
-        </ul>
-    </details><br>
-
-    <details>
-      <summary>Industry Advisory Boards and Committees</summary>
-      <h3>Industry Advisory Boards and Committees</h3>    
-        <ul>
-          <li><i>Industry Advisory Board</i>, MIT’s Climate & Sustainability Consortium, 2021–2023</li>
-          <li><i>Industry Challenge Technical Program Committee</i>, Real-Time Systems Symposium (RTSS) 2022</li>
-          <li><i>Industry Advisory Committee on Autonomous Vehicles Curriculum</i>, Robotics Engineering Program (now a
-          Department) at Worcester Polytechnic Institute, 2017–18</li>
-          <li><i>Industry Vice Chair</i>, IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), 2018</li>
-          <li><i>Industry Advisory Board</i>, International Symposium on Circuits and Systems (ISCAS), 2018</li>
-          <li><i>Global Professional Advisory Community</i>, Association for Computing Machinery (ACM), 2017</li>
-        </ul>
-    </details><br>
-
-    <details>
-      <summary>Editorial Work</summary>
-        <h3>Editorial Work</h3>  
-        <ul>
-          <li><i>Associate Editor</i>, Technology Conferences Editorial Board, IEEE Control System Society, 2020–2022.</li>
-          <li><i>Editorial Advisory Board Member</i>, “Resilience in Cyber-Physical Systems: From Risk Modelling to Threat
-          Counteraction,” F. Flammini (Ed.), Springer.</li>
-        </ul>
-    </details><br>
-
-    <details>
-      <summary>Conference Program Committee Leadership</summary>
-      <h3>Conference Program Committee Leadership</h3>  
-        <ul>
-          <li><i>General Chair</i>: MathWorks Research Summit, 2023– </li>
-          <li><i>Program (Co-)Chair</i>: 
-            <ul>
-              <li>International Conference on Assured Autonomy 2024</li>
-              <li>MathWorks Research Summit, Boston edition: 2017–2019, Tokyo edition: 2016–2019</li>
-              <li>Fourth International Workshop on Monitoring and Testing of CPS 2019</li>
-              <li>Spring Simulation Conference 2020 and 2019: CPS Track</li>
-              <li>Winter Simulation Conference 2017: CPS Track</li>
-            </ul>
-          </li>
-          <li><i>Artifact Evaluation Chair</i>: Formal Modeling and Analysis of Timed Systems 2022</li>
-          <li><i>Awards Chair</i>: Hybrid Systems: Computation and Control 2018</li>
-          <li><i>Demo and Poster Chair</i>: Hybrid Systems: Computation and Control 2017</li>
-          <li><i>PC Member</i> (present or past):
-            <ul>
-              <li>International Conference on Cyber-Physical Systems</li>
-              <li>Multi-Paradigm Modeling for Cyber-Physical Systems</li> 
-              <li>Hybrid Systems: Computation and Control</li> 
-              <li>International Conference on Informatics in Control, Automation and Robotics</li> 
-              <li>International Workshop on Formal Co-Simulation of Cyber-Physical Systems, Conference on Analysis and Design of Hybrid Systems</li>
-              <li>Annual Modeling and Simulation Conference</li>
-              <li>Winter Simulation Conference</li> 
-              <li>Summer Simulation Multi-Conference</li>
-              <li>Formal Methods (FM) Symposium</li>
-              <li>Numerical Software Verification Workshop</li>
-            </ul>          
-          </li>
-        </ul>
-    </details><br>
-  </div>
-</details>
-<br>
 
