@@ -79,7 +79,8 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
       <summary>Conference Program Committee Leadership</summary>
       <h3>Conference Program Committee Leadership</h3>  
         <ul>
-
+          <li><i>General Chair</i>: • MathWorks Research Summit, 2023–</li>
+          <li><i>Program (Co-)Chair</i>: • International Conference on Assured Autonomy 2024 • MathWorks Research Summit, Boston edition: 2017–2019, Tokyo edition: 2016–2019 • Fourth International Workshop on Monitoring and Testing of CPS 2019 • Spring Simulation Conference 2020 and 2019: CPS Track • Winter Simulation Conference 2017: CPS Track</li>
         </ul>
     </details><br>
 
