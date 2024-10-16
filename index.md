@@ -38,6 +38,66 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
 </details>
 <br>
 
+<details>
+  <summary>Talks and Panels</summary>
+  <div style="padding:20px;">
+  <h2>Talks and Panels</h2>
+    <details>
+      <summary>Keynote Talks</summary>
+      <h3>Keynote Talks</h3>  
+        <ul>
+          <li>[K3] "<i>A study of cyber-physical system design activity to consider opportunity for AI assistance</i>", 25th International Conference on Model Driven Engineering Languages and Systems (MODELS), Montreal, Canada, October 26, 2022.</li>
+          <li>[K2] "<i>Challenges and opportunities in design and operation of intelligent cyber-physical systems</i>", 19th International Runtime Verification Conference, Part of 3rd World Congress on Formal Methods, Porto, Portugal, October 10, 2019.</li>
+          <li>[K1] "<i>Multi-Paradigm Modeling for Design and Operation of Intelligent Cyber-Physical Systems</i>", International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS), co-located with the MODELS Conference, Munich, Germany, September 15, 2019.</li>
+        </ul>
+    </details><br>
+
+    <details>
+      <summary>Invited Talks</summary>
+      <h3>Invited Talks</h3> 
+        <ul>
+          <li>[T19] "<i>Academic research to industry practice: success stories and open challenges in model-based approaches</i>",  MODELS Conference Industry Day, Montréal, Canada. October 2022.</li>
+          <li>[T18] "<i>Formal Methods for Real-World Cyber-Physical Systems: A Model-Based Design Perspective</i>", Invited Guest Lecture, Brown University, Providence, RI. May 2022.</li>
+          <li>[T17] "<i>Engineering Learning-Enabled Cyber-Physical Systems: Challenges and Opportunities</i>", Workshop on Machine Learning in Control (LEAC), part of Cyber-Physical Systems and Internet of Things (CPS-IoT) Week, remotely in Nashville, TN. May 2021.</li>
+          <li>[T16] "<i>Formal Methods for Real-World Cyber-Physical Systems: A personal perspective</i>", Invited Guest Lecture, Brown University, remotely in Providence, RI. March 2021.</li>
+          <li>[T15] "<i>“Cyber-Physical Systems</i>", Independent Activities Period (IAP), Massachusetts Institute of Technology, remotely in Cambridge, MA. January 2021.</li>
+          <li>[T14] "<i>A Model-Based Design Perspective on Challenges and Opportunities in Automated Software Certification</i>", 20th Software Certification Consortium (SCC) Steering Committe Meeting, Annapolis, MD, USA. May 2019.</li>
+          <li>[T13] "<i>Specification Formalisms for Cyber-Physical Systems: A Tools Perspective</i>", Dagstuhl Workshop on Specification Formalisms for Modern Cyber-Physical Systems (Seminar 19071), Dagstuhl, Germany. February 2019.</li>
+          <li>[T12] "<i>Graphical Modeling of Hybrid Systems with Simulink and Stateflow</i>", Workshop honoring the retirement of Prof. Bruce Krogh, Carnegie Mellon University, Pittsburgh, PA, May 2018.</li>
+          <li>[T11] "<i>A Vision for Application-Focused International Collaboration Networks in Cyber-Physical Systems</i>", an NSF Visioning Workshop on International Networks for Advancing CPS Research, Development, and Education Worldwide, part of CPS Week 2018, Porto, Portugal, April 2018.</li>
+          <li>[T10] "<i>Heterogeneous Model-Based Design of Tomorrow's Cyber-Physical Systems</i>", ECE Department Colloquia Series, Tufts University, Medford, MA, November 2017.</li>
+          <li>[T9] "<i>Model-Based Design of Next Generation Cyber-Physical Systems</i>", LIDS, IDSS, MITei, Lincoln Labs, NSF and IWR Workshop on Rethinking Modeling, Simulations and Control for the Changing Electric Energy Industry, Massachusetts Institute of Technology, Camridge, MA, September 2017.</li> 
+          <li>[T8] "<i>Why do we need holistic concern-driven engineering?</i>", NIST CPS Framework Open Source Workshop, National
+          Institute of Standards and Technology (NIST), Gaithersburg, MD, September 2017.</li>
+          <li>[T7] "<i>Challenges and Opportunities for Intelligent Transportation Systems</i>", Robotica 2017, Newton, MA, June 2017.</li>
+          <li>[T6] "<i>Model-Based Design of Connected Autonomous Vehicles</i>", 2nd IEEE Summer School on Connected and Autonomous Vehicles, Worcester Polytechnic Institute, Worcester, MA, USA. May 2017.</li>
+          <li>[T5] "<i>Model-Based Design Challenges for Cyber-Physical Systems</i>", Expeditions in Computer Augmented Program Engineering (ExCAPE) Principal Investigators' (PI) Meeting, University of Pennsylvania, Philadelphia, PA, USA. May 2017.</li>
+          <li>[T4] "<i>Safety in Freely-Composed Cyber-Physical Systems—Challenges and Opportunities</i>", with Pieter Mosterman, Exploring the Dimensions of Trustworthiness: Challenges and Opportunities Workshop, National Institute of Standards and Technology (NIST), Gaithersburg, MD, USA. August, 2016.</li>
+          <li>[T3] "<i>Recent Advancements in MathWorks Verification and Validation Tools and Techniques</i>", CPS V&V I&F Workshop, Carnegie Mellon University, Pittsburgh, PA, USA. May 2016.</li>
+          <li>[T2] "<i>Verification of Systems Using Robust Temporal Logic Testing</i>", Specification and Verification Center Seminar, Carnegie Mellon University, Pittsburgh, PA, USA. August 2008.</li>
+          <li>[T1] "<i>Robustness of Temporal Logic Specifications for Testing of Signals</i>", Specification and Verification Center Seminar, Carnegie Mellon University, Pittsburgh, PA, USA. August 2008.</li>
+        </ul>
+    </details><br>
+
+    <details>
+      <summary>Panels</summary>
+        <h3>Panels</h3>  
+        <ul>
+          <li>[PNL9] "<i>Formal Methods in the Field"</i>", National Science Foundation (NSF) Panel part of the Formal Methods in the Field (FMitF) PI Meeting Days, November 2022.</li>
+          <li>[PNL8] "<i>What disruptive technologies are expected to be most influential for the future industrial practice of model-based systems engineering?"</i>", MODELS Conference Industry Day, October 2022.</li>
+          <li>[PNL7] "<i>Challenges in Satisfying the Need and Promotion of Modeling & Simulation Workforce</i>", Winter Simulation Conference, December 2021.</li>
+          <li>[PNL6] "<i>Control for Climate Change Mitigation and Adaptation</i>", IEEE CSS Workshop on Control for Societal Challenges, June 2021.</li>
+          <li>[PNL5] "<i>Future Challenges for Autonomous & Intelligent Transportation</i>", IEEE Situational Awareness For Emerging Network Enabled Transportation Systems (SAFENETS) Workshop, October 2019.</li>
+          <li>[PNL4] "<i>Hybrid Simulation for Cyber Physical Systems – Where are we Going Regarding Complexity, Intelligence, and Adaptability of CPS Using Simulation</i>", Symposium on M&S of Complex, Intelligent, Adaptive and Autonomous Systems (MSCIAAS) panel at Spring Simulation Multi-Conference (SpringSim), May 2018.</li>
+          <li>[PNL3] "<i>What are the challenges posed to CPS theory by modern applications?</i>", Joint HSCC-ICCPS Panel, part of CPS Week 2018.</li>
+          <li>[PNL2] "<i>Why do we need holistic concern-driven engineering?</i>", at the NIST CPS Framework Open Source Workshop, September 2017.</li> 
+          <li>[PNL1] "<i>Safe Control of Connected and Autonomous Vehicles</i>", First Workshop on Safe Control of Connected and Autonomous Vehicles (SCAV), affiliated with Cyber-Physical Systems Week (CPS Week) 2017, April 2017.</li>
+        </ul>
+    </details><br>
+
+  </div>
+</details>
+<br>
 
 <details>
   <summary>Publications</summary>
@@ -111,67 +171,6 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
         <li>[PP1] Andrews, B., Benitez, D., Raghunathan, B., Rajhans, A., "<i>Method for Non-Intrusive Load Monitoring using a Hybrid System State Estimation Approach</i>".</li>
       </ul>
 </details><br>
-
-<details>
-  <summary>Talks and Panels</summary>
-  <div style="padding:20px;">
-  <h2>Talks and Panels</h2>
-    <details>
-      <summary>Keynote Talks</summary>
-      <h3>Keynote Talks</h3>  
-        <ul>
-          <li>[K3] "<i>A study of cyber-physical system design activity to consider opportunity for AI assistance</i>", 25th International Conference on Model Driven Engineering Languages and Systems (MODELS), Montreal, Canada, October 26, 2022.</li>
-          <li>[K2] "<i>Challenges and opportunities in design and operation of intelligent cyber-physical systems</i>", 19th International Runtime Verification Conference, Part of 3rd World Congress on Formal Methods, Porto, Portugal, October 10, 2019.</li>
-          <li>[K1] "<i>Multi-Paradigm Modeling for Design and Operation of Intelligent Cyber-Physical Systems</i>", International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS), co-located with the MODELS Conference, Munich, Germany, September 15, 2019.</li>
-        </ul>
-    </details><br>
-
-    <details>
-      <summary>Invited Talks</summary>
-      <h3>Invited Talks</h3> 
-        <ul>
-          <li>[T19] "<i>Academic research to industry practice: success stories and open challenges in model-based approaches</i>",  MODELS Conference Industry Day, Montréal, Canada. October 2022.</li>
-          <li>[T18] "<i>Formal Methods for Real-World Cyber-Physical Systems: A Model-Based Design Perspective</i>", Invited Guest Lecture, Brown University, Providence, RI. May 2022.</li>
-          <li>[T17] "<i>Engineering Learning-Enabled Cyber-Physical Systems: Challenges and Opportunities</i>", Workshop on Machine Learning in Control (LEAC), part of Cyber-Physical Systems and Internet of Things (CPS-IoT) Week, remotely in Nashville, TN. May 2021.</li>
-          <li>[T16] "<i>Formal Methods for Real-World Cyber-Physical Systems: A personal perspective</i>", Invited Guest Lecture, Brown University, remotely in Providence, RI. March 2021.</li>
-          <li>[T15] "<i>“Cyber-Physical Systems</i>", Independent Activities Period (IAP), Massachusetts Institute of Technology, remotely in Cambridge, MA. January 2021.</li>
-          <li>[T14] "<i>A Model-Based Design Perspective on Challenges and Opportunities in Automated Software Certification</i>", 20th Software Certification Consortium (SCC) Steering Committe Meeting, Annapolis, MD, USA. May 2019.</li>
-          <li>[T13] "<i>Specification Formalisms for Cyber-Physical Systems: A Tools Perspective</i>", Dagstuhl Workshop on Specification Formalisms for Modern Cyber-Physical Systems (Seminar 19071), Dagstuhl, Germany. February 2019.</li>
-          <li>[T12] "<i>Graphical Modeling of Hybrid Systems with Simulink and Stateflow</i>", Workshop honoring the retirement of Prof. Bruce Krogh, Carnegie Mellon University, Pittsburgh, PA, May 2018.</li>
-          <li>[T11] "<i>A Vision for Application-Focused International Collaboration Networks in Cyber-Physical Systems</i>", an NSF Visioning Workshop on International Networks for Advancing CPS Research, Development, and Education Worldwide, part of CPS Week 2018, Porto, Portugal, April 2018.</li>
-          <li>[T10] "<i>Heterogeneous Model-Based Design of Tomorrow's Cyber-Physical Systems</i>", ECE Department Colloquia Series, Tufts University, Medford, MA, November 2017.</li>
-          <li>[T9] "<i>Model-Based Design of Next Generation Cyber-Physical Systems</i>", LIDS, IDSS, MITei, Lincoln Labs, NSF and IWR Workshop on Rethinking Modeling, Simulations and Control for the Changing Electric Energy Industry, Massachusetts Institute of Technology, Camridge, MA, September 2017.</li> 
-          <li>[T8] "<i>Why do we need holistic concern-driven engineering?</i>", NIST CPS Framework Open Source Workshop, National
-          Institute of Standards and Technology (NIST), Gaithersburg, MD, September 2017.</li>
-          <li>[T7] "<i>Challenges and Opportunities for Intelligent Transportation Systems</i>", Robotica 2017, Newton, MA, June 2017.</li>
-          <li>[T6] "<i>Model-Based Design of Connected Autonomous Vehicles</i>", 2nd IEEE Summer School on Connected and Autonomous Vehicles, Worcester Polytechnic Institute, Worcester, MA, USA. May 2017.</li>
-          <li>[T5] "<i>Model-Based Design Challenges for Cyber-Physical Systems</i>", Expeditions in Computer Augmented Program Engineering (ExCAPE) Principal Investigators' (PI) Meeting, University of Pennsylvania, Philadelphia, PA, USA. May 2017.</li>
-          <li>[T4] "<i>Safety in Freely-Composed Cyber-Physical Systems—Challenges and Opportunities</i>", with Pieter Mosterman, Exploring the Dimensions of Trustworthiness: Challenges and Opportunities Workshop, National Institute of Standards and Technology (NIST), Gaithersburg, MD, USA. August, 2016.</li>
-          <li>[T3] "<i>Recent Advancements in MathWorks Verification and Validation Tools and Techniques</i>", CPS V&V I&F Workshop, Carnegie Mellon University, Pittsburgh, PA, USA. May 2016.</li>
-          <li>[T2] "<i>Verification of Systems Using Robust Temporal Logic Testing</i>", Specification and Verification Center Seminar, Carnegie Mellon University, Pittsburgh, PA, USA. August 2008.</li>
-          <li>[T1] "<i>Robustness of Temporal Logic Specifications for Testing of Signals</i>", Specification and Verification Center Seminar, Carnegie Mellon University, Pittsburgh, PA, USA. August 2008.</li>
-        </ul>
-    </details><br>
-
-    <details>
-      <summary>Panels</summary>
-        <h3>Panels</h3>  
-        <ul>
-          <li>[PNL9] "<i>Formal Methods in the Field"</i>", National Science Foundation (NSF) Panel part of the Formal Methods in the Field (FMitF) PI Meeting Days, November 2022.</li>
-          <li>[PNL8] "<i>What disruptive technologies are expected to be most influential for the future industrial practice of model-based systems engineering?"</i>", MODELS Conference Industry Day, October 2022.</li>
-          <li>[PNL7] "<i>Challenges in Satisfying the Need and Promotion of Modeling & Simulation Workforce</i>", Winter Simulation Conference, December 2021.</li>
-          <li>[PNL6] "<i>Control for Climate Change Mitigation and Adaptation</i>", IEEE CSS Workshop on Control for Societal Challenges, June 2021.</li>
-          <li>[PNL5] "<i>Future Challenges for Autonomous & Intelligent Transportation</i>", IEEE Situational Awareness For Emerging Network Enabled Transportation Systems (SAFENETS) Workshop, October 2019.</li>
-          <li>[PNL4] "<i>Hybrid Simulation for Cyber Physical Systems – Where are we Going Regarding Complexity, Intelligence, and Adaptability of CPS Using Simulation</i>", Symposium on M&S of Complex, Intelligent, Adaptive and Autonomous Systems (MSCIAAS) panel at Spring Simulation Multi-Conference (SpringSim), May 2018.</li>
-          <li>[PNL3] "<i>What are the challenges posed to CPS theory by modern applications?</i>", Joint HSCC-ICCPS Panel, part of CPS Week 2018.</li>
-          <li>[PNL2] "<i>Why do we need holistic concern-driven engineering?</i>", at the NIST CPS Framework Open Source Workshop, September 2017.</li> 
-          <li>[PNL1] "<i>Safe Control of Connected and Autonomous Vehicles</i>", First Workshop on Safe Control of Connected and Autonomous Vehicles (SCAV), affiliated with Cyber-Physical Systems Week (CPS Week) 2017, April 2017.</li>
-        </ul>
-    </details><br>
-
-  </div>
-</details>
-<br>
 
 <details>
   <summary>Thought Leadership</summary>
