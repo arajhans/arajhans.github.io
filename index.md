@@ -1,5 +1,3 @@
-# Akshay Rajhans, PhD
-
 <a><img src="files/pictures/AkshayPortrait.jpg" 
 alt="Akshay Rajhans" width="240" border="10" /></a>
 
