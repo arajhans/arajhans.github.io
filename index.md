@@ -66,7 +66,13 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
       <summary>Industry Advisory Boards and Committees</summary>
         <h3>Industry Advisory Boards and Committees</h3>    
         <ul>
-          <li></li>
+          <li><i>Industry Advisory Board</i>, MIT’s Climate & Sustainability Consortium, 2021–2023</li>
+          <li><i>Industry Challenge Technical Program Committee</i>, Real-Time Systems Symposium (RTSS) 2022</li>
+          <li><i>Industry Advisory Committee on Autonomous Vehicles Curriculum</i>, Robotics Engineering Program (now a
+          Department) at Worcester Polytechnic Institute, 2017–18</li>
+          <li><i>Industry Vice Chair</i>, IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), 2018</li>
+          <li><i>Industry Advisory Board</i>, International Symposium on Circuits and Systems (ISCAS), 2018</li>
+          <li><i>Global Professional Advisory Community</i>, Association for Computing Machinery (ACM), 2017</li>
         </ul>
     </details><br>
 
