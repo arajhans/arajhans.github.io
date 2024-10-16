@@ -182,7 +182,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
           <li>[T11] "<i>A Vision for Application-Focused International Collaboration Networks in Cyber-Physical Systems</i>", an NSF Visioning Workshop on International Networks for Advancing CPS Research, Development, and Education Worldwide, part of CPS Week 2018, Porto, Portugal, April 2018.</li>
           <li>[T10] "<i>Heterogeneous Model-Based Design of Tomorrow's Cyber-Physical Systems</i>", ECE Department Colloquia Series, Tufts University, Medford, MA, November 2017.</li>
           <li>[T9] "<i>Model-Based Design of Next Generation Cyber-Physical Systems</i>", LIDS, IDSS, MITei, Lincoln Labs, NSF and IWR Workshop on Rethinking Modeling, Simulations and Control for the Changing Electric Energy Industry, Massachusetts Institute of Technology, Camridge, MA, September 2017.</li> 
-          <li>[T8] "<i>Why do we need holistic concern-driven engineering?*", NIST CPS Framework Open Source Workshop, National
+          <li>[T8] "<i>Why do we need holistic concern-driven engineering?</i>", NIST CPS Framework Open Source Workshop, National
           Institute of Standards and Technology (NIST), Gaithersburg, MD, September 2017.</li>
           <li>[T7] "<i>Challenges and Opportunities for Intelligent Transportation Systems</i>", Robotica 2017, Newton, MA, June 2017.</li>
           <li>[T6] "<i>Model-Based Design of Connected Autonomous Vehicles</i>", 2nd IEEE Summer School on Connected and Autonomous Vehicles, Worcester Polytechnic Institute, Worcester, MA, USA. May 2017.</li>
