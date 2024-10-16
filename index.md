@@ -172,7 +172,26 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
       <summary>Invited Talks</summary>
         <h3>Invited Talks</h3> 
         <ul>
-          <li></li>
+<li>[T19] "<i>Academic research to industry practice: success stories and open challenges in model-based approaches</i>",  MODELS Conference Industry Day, Montréal, Canada. October 2022</li>
+<li>[T18] "<i>Formal Methods for Real-World Cyber-Physical Systems: A Model-Based Design Perspective</i>", Invited Guest Lecture, Brown University, Providence, RI. May 2022.</li>
+<li>[T17] "<i>Engineering Learning-Enabled Cyber-Physical Systems: Challenges and Opportunities</i>", Workshop on Machine Learning in Control (LEAC), part of Cyber-Physical Systems and Internet of Things (CPS-IoT) Week, remotely in Nashville, TN. May 2021</li>
+<li>[T16] "<i>Formal Methods for Real-World Cyber-Physical Systems: A personal perspective</i>", Invited Guest Lecture, Brown University. remotely in Providence, RI. March 2021.</li>
+<li>[T15] "<i>“Cyber-Physical Systems*", Independent Activities Period (IAP), Massachusetts Institute of Technology, remotely in Cambridge, MA. January 2021.</li>
+<li>[T14] "<i>A Model-Based Design Perspective on Challenges and Opportunities in Automated Software Certification</i>", 20th Software Certification Consortium (SCC) Steering Committe Meeting, Annapolis, MD, USA. May 2019.</li>
+<li>[T13] "<i>Specification Formalisms for Cyber-Physical Systems: A Tools Perspective</i>", Dagstuhl Workshop on Specification Formalisms for Modern Cyber-Physical Systems (Seminar 19071), Dagstuhl, Germany. February 2019.</li>
+<li>[T12] "<i>Graphical Modeling of Hybrid Systems with Simulink and Stateflow</i>", Workshop honoring the retirement of Prof. Bruce Krogh, Carnegie Mellon University, Pittsburgh, PA, May 2018.</li>
+<li>[T11] "<i>A Vision for Application-Focused International Collaboration Networks in Cyber-Physical Systems</i>", an NSF Visioning Workshop on International Networks for Advancing CPS Research, Development, and Education Worldwide, part of CPS Week 2018, Porto, Portugal, April 2018.</li>
+<li>[T10] "<i>Heterogeneous Model-Based Design of Tomorrow's Cyber-Physical Systems</i>", ECE Department Colloquia Series, Tufts University, Medford, MA, November 2017.</li>
+<li>[T9] "<i>Model-Based Design of Next Generation Cyber-Physical Systems</i>", LIDS, IDSS, MITei, Lincoln Labs, NSF and IWR Workshop on Rethinking Modeling, Simulations and Control for the Changing Electric Energy Industry, Massachusetts Institute of Technology, Camridge, MA, September 2017.</li> 
+<li>[T8] "<i>Why do we need holistic concern-driven engineering?*", NIST CPS Framework Open Source Workshop, National
+Institute of Standards and Technology (NIST), Gaithersburg, MD, September 2017.</li>
+<li>[T7] "<i>Challenges and Opportunities for Intelligent Transportation Systems</i>", Robotica 2017, Newton, MA, June 2017.</li>
+<li>[T6] "<i>Model-Based Design of Connected Autonomous Vehicles</i>", 2nd IEEE Summer School on Connected and Autonomous Vehicles, Worcester Polytechnic Institute, Worcester, MA, USA. May 2017.</li>
+<li>[T5] "<i>Model-Based Design Challenges for Cyber-Physical Systems</i>", Expeditions in Computer Augmented Program Engineering (ExCAPE) Principal Investigators' (PI) Meeting, University of Pennsylvania, Philadelphia, PA, USA. May 2017.</li>
+<li>[T4] "<i>Safety in Freely-Composed Cyber-Physical Systems—Challenges and Opportunities</i>", with Pieter Mosterman, Exploring the Dimensions of Trustworthiness: Challenges and Opportunities Workshop, National Institute of Standards and Technology (NIST), Gaithersburg, MD, USA. August, 2016.</li>
+<li>[T3] "<i>Recent Advancements in MathWorks Verification and Validation Tools and Techniques</i>", CPS V&V I&F Workshop, Carnegie Mellon University, Pittsburgh, PA, USA. May 2016.</li>
+<li>[T2] "<i>Verification of Systems Using Robust Temporal Logic Testing</i>", Specification and Verification Center Seminar, Carnegie Mellon University, Pittsburgh, PA, USA. August 2008.</li>
+<li>[T1] "<i>Robustness of Temporal Logic Specifications for Testing of Signals</i>", Specification and Verification Center Seminar, Carnegie Mellon University, Pittsburgh, PA, USA. August 2008.</li>
         </ul>
     </details><br>
 
