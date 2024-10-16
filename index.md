@@ -99,7 +99,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
           <li><i>PC Member</i> (present or past):
             <ul>
               <li><i>Cyber-Physical Systems, etc.</i>: • International Conference on Cyber-Physical Systems • Multi-Paradigm Modeling for Cyber-Physical Systems • Hybrid Systems: Computation and Control • International Conference on Informatics in Control, Automation and Robotics • International Workshop on Formal Co-Simulation of Cyber-Physical Systems • Conference on Analysis and Design of Hybrid Systems</li>
-              <li><i>Modeling and Simulation</i>: • Annual Modeling and Simulation Conference, • Winter Simulation Conference, • Summer Simulation Conference • Spring Simulation Conference</li>
+              <li><i>Modeling and Simulation</i>: • Annual Modeling and Simulation Conference • Winter Simulation Conference • Summer Simulation Conference • Spring Simulation Conference</li>
               <li><i>Formal Verification</i>: • Formal Methods (FM) • Numerical Software Verification Workshop</li>
             </ul>          
           </li>
