@@ -54,18 +54,25 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
     <details>
       <summary>Industry Advisory Boards and Committees</summary>
         <h3>Industry Advisory Boards and Committees</h3>    
+        <ul>
+          <li></li>
+        </ul>
     </details><br>
 
     <details>
       <summary>Conference Program Committee Leadership</summary>
         <h3>Conference Program Committee Leadership</h3>  
-
+        <ul>
+          <li></li>
+        </ul>
     </details><br>
 
     <details>
       <summary>Editorial Work</summary>
         <h3>Editorial Work</h3>  
-
+        <ul>
+          <li></li>
+        </ul>
     </details><br>
 
   </div>
@@ -155,21 +162,26 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
       <summary>Keynote Talks</summary>
         <h3>Keynote Talks</h3>  
         <ul>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>[K3] "<i>A study of cyber-physical system design activity to consider opportunity for AI assistance</i>", 25th International Conference on Model Driven Engineering Languages and Systems (MODELS), Montreal, Canada, October 26, 2022.</li>
+          <li>[K2] "<i>Challenges and opportunities in design and operation of intelligent cyber-physical systems</i>", 19th International Runtime Verification Conference, Part of 3rd World Congress on Formal Methods, Porto, Portugal, October 10, 2019.</li>
+          <li>[K1] "<i>Multi-Paradigm Modeling for Design and Operation of Intelligent Cyber-Physical Systems</i>", International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS), co-located with the MODELS Conference, Munich, Germany, September 15, 2019.</li>
         </ul>
     </details><br>
 
     <details>
       <summary>Invited Talks</summary>
-        <h3>Invited Talks</h3>    
+        <h3>Invited Talks</h3> 
+        <ul>
+          <li></li>
+        </ul>
     </details><br>
 
     <details>
       <summary>Panels</summary>
         <h3>Panels</h3>  
-
+        <ul>
+          <li></li>
+        </ul>
     </details><br>
 
   </div>
