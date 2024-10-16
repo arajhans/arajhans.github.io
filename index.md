@@ -40,9 +40,8 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
 
 <details>
   <summary>Thought Leadership</summary>
-  <div style="padding:20px;">
-    
-    <h2>Thought Leadership</h2>
+  <div style="padding:20px;">   
+  <h2>Thought Leadership</h2>
     <details>
       <summary>Invited Expert for Government Agencies</summary>
         <h3>Invited Expert for Government Agencies</h3>  
@@ -95,7 +94,6 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
           2018–19 • International Workshop on Formal Co-Simulation of Cyber-Physical Systems 2017– • Summer Simulation
           Multi-Conference 2014–2020 • Summer Simulation Multi-Conference 2015–2020 • Conference on Analysis and Design
           of Hybrid Systems 2015</li>
-          <li><i>Repeatability Evaluation Committee Member</i>: • Hybrid Systems: Computation and Control 2014</li>
         </ul>
     </details><br>
 
