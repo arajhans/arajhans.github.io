@@ -47,7 +47,18 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
       <summary>Invited Expert for Government Agencies</summary>
         <h3>Invited Expert for Government Agencies</h3>  
         <ul>
-          <li></li>
+          <li><i>Funding Review Panelist</i>, National Science Foundation (NSF), Technology, Innovation, and Partnerships (TIP)
+          Directorate, 2023.</li>
+          <li><i>User Advisory Committee Member</i>, Dutch Research Council (NWO), Veni grant in Applied and Engineering
+          Sciences. Principal Investigator: Prof. Sofie Haessaert. 2021–.</li>
+          <li><i>Invited Panelist</i>, NSF Formal Methods in the Field (FMiTF) Principal Investigators’ Meeting, October 2022.</li>
+          <li><i>Invited Participant</i>, NIST/NSF/DoD Workshop on Simulation and Machine Learning in Robotics, 2018.</li>
+          <li><i>Invited Speaker</i>, NSF Visioning Workshop on International Networks for Advancing Cyber-Physical Systems (CPS)
+          Research, Development, and Education Worldwide, part of CPS Week 2018, Porto, Portugal. April 2018.</li>
+          <li><i>Invited Panelist</i>, NIST CPS Framework Open Source Workshop, National Institute of Standards and Technology
+          (NIST), Gaithersburg, MD, September 2017.</li>
+          <li><i>Invited Participant</i>, Exploring the Dimensions of Trustworthiness: Challenges and Opportunities Workshop, National
+          Institute of Standards and Technology (NIST), Gaithersburg, MD, August, 2016.</li>
         </ul>
     </details><br>
 
