@@ -132,7 +132,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
         <li>[P2] A. Rajhans, S.-W. Cheng, B. Schmerl, D. Garlan, B. H. Krogh, C. Agbi, and A. Bhave, "<i>An Architectural Approach to the Design and Analysis of Cyber-Physical Systems</i>", Third International Workshop on Multi-Paradigm Modeling (MPM), 2009.</li>
         <li>[P1] A. Donzé, B. H. Krogh, and A. Rajhans, "<i>Parameter Synthesis for Hybrid Systems with an Application to Simulink Models</i>", 12th IEEE/ACM International Conference on Hybrid Systems: Computation and Control, 2009.</li>
       </ul>
-  </details>><br>
+  </details><br>
 
   <details>
     <summary>Theses</summary>
@@ -141,7 +141,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
         <li>[Th2] A. Rajhans, "<i>Multi-Model Heterogeneous Verification of Cyber-Physical Systems</i>", PhD Thesis, Carnegie Mellon University, 2013. Advisor: Bruce Krogh</li>
         <li>[Th1] A. Rajhans, "<i>Development of Robust Testing Toolbox for Hybrid Systems</i>", MSE Thesis, University of Pennsylvania, 2007. Advisor: Prof. George Pappas</li>
       </ul>
-  </details>><br>
+  </details><br>
   </div>
 </details>
 <br>
