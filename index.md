@@ -94,28 +94,17 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
           <li><i>Demo and Poster Chair</i>: • Hybrid Systems: Computation and Control 2017</li>
           <li><i>PC Member</i> (present or past): 
             <ul>
-              <li><i>Cyber-Physical Systems</i>: International Conference on Cyber-Physical Systems, Multi-Paradigm Modeling for Cyber-Physical Systems, Hybrid Systems: Computation and Control, International Conference on Informatics in Control, Automation and Robotics, International Workshop on Formal Co-Simulation of Cyber-Physical Systems, Conference on Analysis and Design of Hybrid Systems</li>
-              <li><i>Modeling and Simulation</i>: Annual Modeling and Simulation Conference, Winter Simulation Conference, Summer Simulation Multi-Conference, Summer Simulation Multi-Conference </li>
-              <li><i>Formal Methods</i>: Formal Methods (FM) Symposium, Numerical Software Verification Workshop </li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              
-            </ul>
-          
+              <li>International Conference on Cyber-Physical Systems</li>
+              <li>Multi-Paradigm Modeling for Cyber-Physical Systems</li> 
+              <li>Hybrid Systems: Computation and Control</li> 
+              <li>International Conference on Informatics in Control, Automation and Robotics</li> 
+              <li>International Workshop on Formal Co-Simulation of Cyber-Physical Systems, Conference on Analysis and Design of Hybrid Systems</li>
+              <li>Annual Modeling and Simulation Conference</li>
+              <li>Winter Simulation Conference</li> 
+              <li>Summer Simulation Multi-Conference</li>
+              <li>Formal Methods (FM) Symposium</li>
+              <li>Numerical Software Verification Workshop</li>
+            </ul>          
           </li>
         </ul>
     </details><br>
