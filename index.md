@@ -198,7 +198,15 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
       <summary>Panels</summary>
         <h3>Panels</h3>  
         <ul>
-          <li></li>
+          <li>[PNL9] "<i>Formal Methods in the Field"</i>", National Science Foundation (NSF) Panel part of the Formal Methods in the Field (FMitF) PI Meeting Days, November 2022.</li>
+          <li>[PNL8] "<i>What disruptive technologies are expected to be most influential for the future industrial practice of model-based systems engineering?"</i>", MODELS Conference Industry Day, October 2022.</li>
+          <li>[PNL7] "<i>Challenges in Satisfying the Need and Promotion of Modeling & Simulation Workforce"</i>", Winter Simulation Conference, December 2021.</li>
+          <li>[PNL6] "<i>Control for Climate Change Mitigation and Adaptation,""<i> IEEE CSS Workshop on Control for Societal Challenges, June 2021.</li>
+          <li>[PNL5] "<i>Future Challenges for Autonomous & Intelligent Transportation"</i>", IEEE Situational Awareness For Emerging Network Enabled Transportation Systems (SAFENETS) Workshop, October 2019.</li>
+          <li>[PNL4] "<i>Hybrid Simulation for Cyber Physical Systems – Where are we Going Regarding Complexity, Intelligence, and Adaptability of CPS Using Simulation</i>", Symposium on M&S of Complex, Intelligent, Adaptive and Autonomous Systems (MSCIAAS) panel at Spring Simulation Multi-Conference (SpringSim), May 2018.</li>
+          <li>[PNL3] "<i>What are the challenges posed to CPS theory by modern applications?"</i>", Joint HSCC-ICCPS Panel, part of CPS Week 2018.</li>
+          <li>[PNL2] "<i>Why do we need holistic concern-driven engineering?"<i> at the NIST CPS Framework Open Source Workshop, September 2017.</li> 
+          <li>[PNL1] "<i>Safe Control of Connected and Autonomous Vehicles</i>", First Workshop on Safe Control of Connected and Autonomous Vehicles (SCAV), affiliated with Cyber-Physical Systems Week (CPS Week) 2017, April 2017.</li>
         </ul>
     </details><br>
 
