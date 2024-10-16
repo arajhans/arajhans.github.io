@@ -79,12 +79,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
       <summary>Conference Program Committee Leadership</summary>
       <h3>Conference Program Committee Leadership</h3>  
         <ul>
-          <li><i>General Chair</i>: • MathWorks Research Summit, 2023–</li>
-          <li><i>Program (Co-)Chair</i>: • International Conference on Assured Autonomy 2024 • MathWorks Research Summit, Boston edition: 2017–2019, Tokyo edition: 2016–2019 • Fourth International Workshop on Monitoring and Testing of CPS 2019 • Spring Simulation Conference 2020 and 2019: CPS Track • Winter Simulation Conference 2017: CPS Track</li>
-          <li><i>Artifact Evaluation Chair</i>: • Formal Modeling and Analysis of Timed Systems 2022
-          <li><i>Awards Chair</i>: • Hybrid Systems: Computation and Control 2018</li>
-          <li><i>Demo and Poster Chair</i>: • Hybrid Systems: Computation and Control 2017</li>
-          <li><i>PC Member</i>: • Annual Modeling and Simulation Conference 2021– • Formal Methods 2021– • International Conference on Cyber-Physical Systems 2020–, 2015 • Multi-Paradigm Modeling for Cyber-Physical Systems 2020– • Hybrid Systems: Computation and Control 2016–19 • International Conference on Informatics in Control, Automation and Robotics 2020, 2017–18 • Winter Simulation Conference 2017– • Numerical Software Verification Workshop 2018–19 • International Workshop on Formal Co-Simulation of Cyber-Physical Systems 2017– • Summer Simulation Multi-Conference 2014–2020 • Summer Simulation Multi-Conference 2015–2020 • Conference on Analysis and Design of Hybrid Systems 2015</li>
+
         </ul>
     </details><br>
 
