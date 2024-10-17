@@ -3,7 +3,8 @@ alt="Akshay Rajhans" width="240" border="10" /></a>
 
 Welcome to my website! Expand the sections below to learn more about my work. 
 
-[LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao) \| [IEEE Author Profile](https://ieeexplore.ieee.org/author/38232718800) \| [ACM Author Profile](https://dl.acm.org/profile/81421602783)
+[LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao) \| [IEEE Author Profile](https://ieeexplore.ieee.org/author/38232718800) \| [ACM Author Profile](https://dl.acm.org/profile/81421602783) \| [Curriculum Vitae](files/docs/AkshayRajhansCV.pdf)
+
 
 <details> 
 <summary> Contact </summary>
