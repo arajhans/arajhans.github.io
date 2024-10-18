@@ -1,12 +1,12 @@
 <a><img src="files/pictures/AkshayPortrait.jpg" 
 alt="Akshay Rajhans" width="240" border="10" /></a>
 
-Welcome to my website! Expand the sections below to learn more about my work. 
+Welcome to my website! Check out the sections below to learn more about my work. 
 
 [LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao) \| [IEEE Author Profile](https://ieeexplore.ieee.org/author/38232718800) \| [ACM Author Profile](https://dl.acm.org/profile/81421602783) \| [Curriculum Vitae](files/docs/AkshayRajhansCV.pdf)
 
 
-<details> 
+<details open> 
 <summary> Contact </summary>
   <div style="padding:20px;">
   <h2>Contact</h2>
@@ -18,7 +18,7 @@ Welcome to my website! Expand the sections below to learn more about my work.
 </details>
 <br>
 
-<details>
+<details open>
   <summary>Biographical Sketch</summary>
   <div style="padding:20px;">
 <h2>Biographical Sketch</h2>
@@ -33,7 +33,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
 <br>
 
 
-<details>
+<details open>
   <summary>Thought Leadership</summary>
   <div style="padding:20px;">   
   <h2>Thought Leadership</h2>
@@ -110,7 +110,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
   </div>
 </details><br>
 
-<details>
+<details open>
   <summary>Talks and Panels</summary>
   <div style="padding:20px;">
   <h2>Talks and Panels</h2>
@@ -171,7 +171,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
 </details>
 <br>
 
-<details>
+<details open>
   <summary>Publications</summary>
   <div style="padding:20px;">
   <h2>Publications</h2>
@@ -237,7 +237,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
 </details>
 <br>
 
-<details>
+<details open>
     <summary>Patents</summary>
       <ul>
         <li>[PP1] Andrews, B., Benitez, D., Raghunathan, B., Rajhans, A., "<i>Method for Non-Intrusive Load Monitoring using a Hybrid System State Estimation Approach</i>".</li>
