@@ -23,7 +23,7 @@ Welcome to my website! Expand the sections below to learn more about my work.
   <div style="padding:20px;">
 <h2>Biographical Sketch</h2>
   
-Akshay Rajhans is the Lead Research Scientist at MathWorks where he directs the MathWorks Advanced Research & Technology Office. His team's responsibility includes research and technology innovation programs at MathWorks, including MathWorks Research Summits, MathWorks-funded research collaborations, MATLAB and Simuilink Challenge Projects program, patent program, and more. He and his team members represent MathWorks in the research community in various capacities.<br><br>
+Akshay Rajhans is the Lead Research Scientist at MathWorks where he directs the MathWorks Advanced Research & Technology Office. His team's responsibility includes research and technology innovation programs at MathWorks, including <a href="https://www.mathworks.com/company/events/research-summit.html">MathWorks Research Summits</a>, <a href="https://www.mathworks.com/academia/research/research-collaborations.html">MathWorks-funded research collaborations</a>, <a href="https://www.mathworks.com/academia/students/project-ideas.html">MATLAB and Simuilink Challenge Projects Program</a>, patent program, and more. He and his team members represent MathWorks in the research community in various capacities.<br><br>
 
 Dr. Rajhans has a Ph.D. in Electrical and Computer Engineering from Carnegie Mellon University and an M.S. in Electrical Engineering from the University of Pennsylvania. His background centers around Technical Computing and Model-Based Design, often in the application context of intelligent AI-enabled cyber-physical systems.<br><br>
 
