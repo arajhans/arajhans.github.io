@@ -11,7 +11,7 @@ Welcome to my website! Check out the sections below to learn more about my work.
   <div style="padding:20px;">
   <h2>Contact</h2>
   Akshay Rajhans, Ph.D. <br>
-  Lead Research Scientist and Head of the Advanced Research & Technology Office<br>
+  Chief Research Scientist and Head of the Advanced Research & Technology Office<br>
   MathWorks <br>
   arajhans (at) alumni (dot) cmu (dot) edu <br>
   </div>
