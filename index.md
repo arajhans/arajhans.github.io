@@ -60,6 +60,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
       <summary>Industry Advisory Boards and Committees</summary>
       <h3>Industry Advisory Boards and Committees</h3>    
         <ul>
+          <li><i>Board of Directors</i>, ACM Special Interest Group on Embedded Systems (SIGBED), 2025–</li>
           <li><i>Industry Advisory Board</i>, MIT’s Climate & Sustainability Consortium, 2021–2023</li>
           <li><i>Industry Challenge Technical Program Committee</i>, Real-Time Systems Symposium (RTSS) 2022</li>
           <li><i>Industry Advisory Committee on Autonomous Vehicles Curriculum</i>, Robotics Engineering Program (now a
@@ -74,7 +75,6 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
       <summary>Editorial Work</summary>
         <h3>Editorial Work</h3>  
         <ul>
-          <li><i>Editorial Board Member</i>, Research Directions: Cyber-Physical Systems, Cambridge University Press, 2024-</li>
           <li><i>Associate Editor</i>, Technology Conferences Editorial Board, IEEE Control System Society, 2020–2022.</li>
           <li><i>Editorial Advisory Board Member</i>, “Resilience in Cyber-Physical Systems: From Risk Modelling to Threat
           Counteraction,” F. Flammini (Ed.), Springer.</li>
