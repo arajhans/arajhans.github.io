@@ -118,7 +118,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
       <summary>Keynote Talks</summary>
       <h3>Keynote Talks</h3>  
         <ul>
-          <li>[K4] "<i>From GUIs to Generative AI: Explainability in the tooling for engineered system design</i>", 4th International Workshop on Explainability of Real-time Systems and their Analysis at the IEEE Real-Time Systems Symposium (RTSS 2025), Boston, MA, USA.</li>
+          <li>[K4] "<i>From GUIs to Generative AI: Explainability in the tooling for engineered system design</i>", 4th International Workshop on Explainability of Real-time Systems and their Analysis at the IEEE Real-Time Systems Symposium (RTSS 2025), Boston, MA, USA, December 2025.</li>
           <li>[K3] "<i>A study of cyber-physical system design activity to consider opportunity for AI assistance</i>", 25th International Conference on Model Driven Engineering Languages and Systems (MODELS), Montreal, Canada, October 26, 2022.</li>
           <li>[K2] "<i>Challenges and opportunities in design and operation of intelligent cyber-physical systems</i>", 19th International Runtime Verification Conference, Part of 3rd World Congress on Formal Methods, Porto, Portugal, October 10, 2019.</li>
           <li>[K1] "<i>Multi-Paradigm Modeling for Design and Operation of Intelligent Cyber-Physical Systems</i>", International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS), co-located with the MODELS Conference, Munich, Germany, September 15, 2019.</li>
