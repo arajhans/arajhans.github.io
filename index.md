@@ -118,6 +118,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
       <summary>Keynote Talks</summary>
       <h3>Keynote Talks</h3>  
         <ul>
+          <li>[K4] "<i>From GUIs to Generative AI: Explainability in the tooling for engineered system design</i>", 4th International Workshop on Explainability of Real-time Systems and their Analysis at the IEEE Real-Time Systems Symposium (RTSS 2025), Boston, MA, USA.</li>
           <li>[K3] "<i>A study of cyber-physical system design activity to consider opportunity for AI assistance</i>", 25th International Conference on Model Driven Engineering Languages and Systems (MODELS), Montreal, Canada, October 26, 2022.</li>
           <li>[K2] "<i>Challenges and opportunities in design and operation of intelligent cyber-physical systems</i>", 19th International Runtime Verification Conference, Part of 3rd World Congress on Formal Methods, Porto, Portugal, October 10, 2019.</li>
           <li>[K1] "<i>Multi-Paradigm Modeling for Design and Operation of Intelligent Cyber-Physical Systems</i>", International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS), co-located with the MODELS Conference, Munich, Germany, September 15, 2019.</li>
@@ -155,6 +156,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
       <summary>Panels</summary>
         <h3>Panels</h3>  
         <ul>
+          <li>[PNL10] "<i>Explainability of Real-Time Systems and Their Analysis (ERSA)"</i>", 4th International Workshop on Explainability of Real-time Systems and their Analysis at the IEEE Real-Time Systems Symposium (RTSS 2025), Decemer 2025.</li>
           <li>[PNL9] "<i>Formal Methods in the Field"</i>", National Science Foundation (NSF) Panel part of the Formal Methods in the Field (FMitF) PI Meeting Days, November 2022.</li>
           <li>[PNL8] "<i>What disruptive technologies are expected to be most influential for the future industrial practice of model-based systems engineering?"</i>", MODELS Conference Industry Day, October 2022.</li>
           <li>[PNL7] "<i>Challenges in Satisfying the Need and Promotion of Modeling & Simulation Workforce</i>", Winter Simulation Conference, December 2021.</li>
