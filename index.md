@@ -181,6 +181,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
     <summary>Visioning Work</summary>
     <h3>Visioning Work</h3>    
     <ul>
+      <li>[V9] A. Rajhans, L. Garcia, A. Woss, Ramesh S., A. Adiththan, P. Peranandam, M. Oishi, T. Dang, P. Nuzzo, and S. Jha, “Verification, Validation, and Certification of AI-Enabled Industrial Cyber-Physical Systems: Trends and Applications”, under review.</li>
       <li>[V8] P. Khargonekar, T. Samad, S. Amin, A. Chakrabortty, F. Dabbene, A. Das, M. Fujita, M. Garcia-Sanz, D. Gayme, M. Ilic, I. Mareels, K. L. Moore, L. Y. Pao, A. Rajhans, J. Stoustrup, J. Zafar, M. Bauer, "<em>Climate Change Mitigation, Adaptation, and Resilience: Challenges and opportunities for the Control Systems Community</em>", IEEE Control Systems Magazine, Volume: 44, Issue: 3, Pages: 33–51, June 2024. <a href="files/papers/KhargonekarSA+_CSM2024.pdf">[Preprint (PDF)]</a></li>
       <li>[V7] A. Alleyne, et al., "<em>Control for Societal-scale Challenges: Road Map 2030</em>", A. M. Annaswamy, K. H. Johansson, and G. J. Pappas, eds, IEEE Control Systems Society Publication, 2023. <a href="https://ieeecss.org/control-societal-scale-challenges-roadmap-2030">[Web]</a>.</li>
       <li>[V6] H. Sarjoughian, E. Yellig, J. Nutaro, A. Rajhans, "<em>Challenges in Satisfying the Need and Promotion of Modeling & Simulation Workforce</em>", Winter Simulation Conference (WSC) 2021. <a href="files/papers/SarjoughianYNR_WSC2021.pdf">[Preprint (PDF)]</a></li> 
