@@ -140,6 +140,7 @@ entries:
     what: Real-Time Systems Symposium (RTSS)
     start: 2022
     end: 2022
+    series: rtss
     topics: [real-time, cps]
 
   - category: advisory
@@ -155,6 +156,7 @@ entries:
     what: IFAC Conference on Analysis and Design of Hybrid Systems (ADHS)
     start: 2018
     end: 2018
+    series: adhs
     topics: [cps, control, formal-methods]
 
   - category: advisory
@@ -162,6 +164,7 @@ entries:
     what: IEEE International Symposium on Circuits and Systems (ISCAS)
     start: 2018
     end: 2018
+    series: iscas
     topics: [cps, real-time]
 
   - category: advisory
@@ -213,6 +216,7 @@ entries:
       - {label: Event, url: 'https://www.mathworks.com/company/events/research-summit.html'}
     start: 2023
     end: ongoing
+    series: research-summit
     topics: [research-programs]
 
   - category: chair
@@ -222,6 +226,7 @@ entries:
       - {label: Event, url: 'https://www.mathworks.com/company/events/research-summit.html'}
     start: 2026
     end: ongoing
+    series: research-summit
     topics: [research-programs]
 
   - category: chair
@@ -231,6 +236,7 @@ entries:
       - {label: Event, url: 'https://www.mathworks.com/company/events/research-summit.html'}
     start: 2017
     end: 2019
+    series: research-summit
     topics: [research-programs]
 
   - category: chair
@@ -240,6 +246,7 @@ entries:
       - {label: Event, url: 'https://www.mathworks.com/company/events/research-summit.html'}
     start: 2016
     end: 2019
+    series: research-summit
     topics: [research-programs]
 
   - category: chair
@@ -249,6 +256,7 @@ entries:
       - {label: Conference, url: 'https://icaa-conf.github.io/icaa2024/'}
     start: 2024
     end: 2024
+    series: icaa
     topics: [autonomy, formal-methods, cps]
 
   - category: chair
@@ -256,6 +264,7 @@ entries:
     what: Formal Modeling and Analysis of Timed Systems (FORMATS)
     start: 2022
     end: 2022
+    series: formats
     topics: [formal-methods, real-time]
 
   - category: chair
@@ -265,6 +274,7 @@ entries:
       - {label: Workshop, url: 'https://sites.google.com/berkeley.edu/mt-cps2019'}
     start: 2019
     end: 2019
+    series: mt-cps
     topics: [cps, formal-methods]
 
   - category: chair
@@ -273,6 +283,7 @@ entries:
     note: Track chaired in 2019 and 2020
     start: 2019
     end: 2020
+    series: springsim
     topics: [cps, modeling-simulation]
 
   - category: chair
@@ -280,6 +291,7 @@ entries:
     what: Winter Simulation Conference (WinterSim)
     start: 2017
     end: 2017
+    series: wsc
     topics: [cps, modeling-simulation]
 
   - category: chair
@@ -287,6 +299,7 @@ entries:
     what: 'Hybrid Systems: Computation and Control (HSCC)'
     start: 2018
     end: 2018
+    series: hscc
     topics: [cps, formal-methods, control]
 
   - category: chair
@@ -294,6 +307,7 @@ entries:
     what: 'Hybrid Systems: Computation and Control (HSCC)'
     start: 2017
     end: 2017
+    series: hscc
     topics: [cps, formal-methods, control]
 
   # ------------------------------------------------------------------------ pc
@@ -304,12 +318,14 @@ entries:
     what: International Conference on Cyber-Physical Systems (ICCPS)
     start: unknown
     end: unknown
+    series: iccps
     topics: [cps, real-time]
 
   - category: pc
     what: 'Hybrid Systems: Computation and Control (HSCC)'
     start: unknown
     end: unknown
+    series: hscc
     topics: [cps, formal-methods, control]
 
   - category: pc
@@ -317,60 +333,70 @@ entries:
     note: Successor to SpringSim and SummerSim
     start: unknown
     end: unknown
+    series: annsim
     topics: [modeling-simulation]
 
   - category: pc
     what: Spring Simulation Conference (SpringSim)
     start: 2014
     end: 2020
+    series: springsim
     topics: [modeling-simulation, cps]
 
   - category: pc
     what: Summer Simulation Conference (SummerSim)
     start: unknown
     end: unknown
+    series: summersim
     topics: [modeling-simulation]
 
   - category: pc
     what: Winter Simulation Conference (WinterSim)
     start: unknown
     end: unknown
+    series: wsc
     topics: [modeling-simulation, cps]
 
   - category: pc
     what: Formal Methods (FM)
     start: unknown
     end: unknown
+    series: fm
     topics: [formal-methods]
 
   - category: pc
     what: Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS)
     start: unknown
     end: unknown
+    series: mpm4cps
     topics: [cps, modeling-simulation]
 
   - category: pc
     what: International Conference on Informatics in Control, Automation and Robotics (ICINCO)
     start: unknown
     end: unknown
+    series: icinco
     topics: [control, autonomy]
 
   - category: pc
     what: International Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS)
     start: 2017
     end: ongoing
+    series: cosim-cps
     topics: [cps, formal-methods, modeling-simulation]
 
   - category: pc
     what: Numerical Software Verification Workshop (NSV)
     start: 2018
     end: 2019
+    series: nsv
     topics: [formal-methods]
 
   - category: pc
     what: IFAC Conference on Analysis and Design of Hybrid Systems (ADHS)
     start: 2015
     end: ongoing
+    series: adhs
     topics: [cps, control, formal-methods]
 
   - category: pc
@@ -379,6 +405,7 @@ entries:
       Complex Cyber-Physical Systems (CITest_CPS)
     start: 2017
     end: 2017
+    series: citest-cps
     topics: [cps, ai, formal-methods]
 
   # ----------------------------------------------------------------- interview
@@ -399,6 +426,7 @@ entries:
       - {label: Video, url: 'https://www.youtube.com/watch?v=BnANyL4H8i4'}
     start: 2019
     end: 2019
+    series: fm
     topics: [formal-methods, cps]
 
   # ----------------------------------------------------------------- mentoring

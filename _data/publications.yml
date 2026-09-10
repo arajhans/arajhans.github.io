@@ -211,6 +211,7 @@ entries:
       - Margret Bauer
     venue: 'IEEE Control Systems Magazine, Volume 44, Issue 3, Pages 33-51'
     year: 2024
+    series: csm
     links:
       - {label: DOI, url: 'https://doi.org/10.1109/MCS.2024.3382377'}
     orgs: [uc-irvine, minnesota, mit, ncsu, cnr-ieiit, tu-eindhoven, tokyo-tech,
@@ -228,6 +229,7 @@ entries:
       - Akshay Rajhans
     venue: Proceedings of the 2021 Winter Simulation Conference
     year: 2021
+    series: wsc
     orgs: [asu, intel, ornl]
     topics: [modeling-simulation, education]
 
@@ -247,6 +249,7 @@ entries:
       - Philipp Wenzelburger
     venue: 'Nonlinear Analysis: Hybrid Systems, Volume 34, Pages 147-165'
     year: 2019
+    series: nahs
     orgs: [stuttgart, porto, toyota, bosch, rte-france, polimi, ucla]
     topics: [cps, control, formal-methods]
 
@@ -258,6 +261,7 @@ entries:
       - Akshay Rajhans
     venue: 'Dagstuhl Seminar 19071: Specification Formalisms for Modern Cyber-Physical Systems'
     year: 2019
+    series: dagstuhl
     links:
       - {label: DOI, url: 'https://doi.org/10.4230/DagRep.9.2.48'}
     orgs: [decyphir]
@@ -352,6 +356,7 @@ entries:
       - Levent Yilmaz
     venue: Spring Simulation Multi-Conference (SpringSim)
     year: 2018
+    series: springsim
     orgs: [mitre, coimbra, rome-tor-vergata, old-dominion, clermont-auvergne,
            antwerp, auburn]
     topics: [cps, modeling-simulation]
@@ -377,6 +382,7 @@ entries:
       - Claudio Menghi
     venue: 'Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering (FSE Companion), Pages 1148-1152'
     year: 2025
+    series: fse
     links:
       - {label: DOI, url: 'https://doi.org/10.1145/3696630.3728599'}
       - {label: Preprint, url: '/files/papers/ZanengaBI+_FSE_2025.pdf'}
@@ -398,6 +404,7 @@ entries:
       - Akshay Rajhans
     venue: 'IEEE Transactions on Software Engineering, Volume 51, Issue 2'
     year: 2025
+    series: tse
     links:
       - {label: DOI, url: 'https://doi.org/10.1109/TSE.2025.3530820'}
       - {label: Preprint, url: '/files/papers/MengiBV+_TSE2025.pdf'}
@@ -420,6 +427,7 @@ entries:
       - Claudio Menghi
     venue: 'IEEE Transactions on Software Engineering, Volume 50, Issue 2'
     year: 2024
+    series: tse
     links:
       - {label: DOI, url: 'https://doi.org/10.1109/TSE.2023.3343753'}
       - {label: Preprint, url: 'https://arxiv.org/abs/2212.11589'}
@@ -460,6 +468,7 @@ entries:
       - Hosam Fathy
     venue: 'IEEE Control Systems Letters (L-CSS), Volume 5, Issue 6'
     year: 2021
+    series: lcss
     links:
       - {label: DOI, url: 'https://doi.org/10.1109/LCSYS.2020.3047332'}
     orgs: [umd]
@@ -484,6 +493,7 @@ entries:
       - Hosam Fathy
     venue: American Control Conference (ACC)
     year: 2021
+    series: acc
     links:
       - {label: DOI, url: 'https://doi.org/10.23919/ACC50511.2021.9483298'}
     orgs: [umd]
@@ -501,6 +511,7 @@ entries:
       - A. Agung Julius
     venue: 10th International Conference on Quantitative Evaluation of SysTems (QEST)
     year: 2013
+    series: qest
     orgs: [rpi]
     mentored: [Yi Deng]
     topics: [formal-methods, control, cps]
@@ -516,6 +527,7 @@ entries:
       - Baoluo Meng
     venue: AIAA/IEEE Digital Avionics Systems Conference (DASC)
     year: 2020
+    series: dasc
     orgs: [ge-research]
     distinctions:
       - {kind: session-award, name: Best in Session Award, status: won}
@@ -534,6 +546,7 @@ entries:
       - Fu Zhang
     venue: '21st ACM International Conference on Hybrid Systems: Computation and Control (HSCC)'
     year: 2018
+    series: hscc
     # files/papers/ holds two PDFs whose titles differ by four words. The second is
     # the repeatability-evaluation package - the artifact the finalist distinction
     # was awarded for, not a second publication. It hangs off this entry as a link,
@@ -563,6 +576,7 @@ entries:
       - Larry Pileggi
     venue: 'Communications of the ACM, Volume 56, Issue 10, Pages 97-104'
     year: 2013
+    series: cacm
     distinctions:
       - {kind: research-highlight, name: Research Highlight, status: selected}
     related:
@@ -586,6 +600,7 @@ entries:
       - Larry Pileggi
     venue: IEEE/ACM International Conference on Computer-Aided Design (ICCAD)
     year: 2011
+    series: iccad
     distinctions:
       - {kind: best-paper, name: William J. McCalla Best Paper Award, status: won}
     # Only the backward link is authored. The CACM entry declares `revises` against
@@ -613,6 +628,7 @@ entries:
       - Larry Pileggi
     venue: 'Frontiers in Analog Circuit Synthesis and Verification (FAC), co-located with Computer-Aided Verification (CAV), Snowbird, UT'
     year: 2011
+    series: fac
     links:
       - {label: Abstract, url: '/files/papers/AlthoffRK+_FAC11.pdf'}
     # No `related` here on purpose: the ICCAD entry declares `extends` against this

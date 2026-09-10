@@ -1,0 +1,196 @@
+# Venue SERIES — the recurring conference, journal or workshop, not one instance of it.
+#
+# WHY THIS IS SEPARATE FROM `venue:`
+# A publication's `venue:` string is prose about one instance: "21st ACM International
+# Conference on Hybrid Systems: Computation and Control (HSCC)", or "Frontiers in
+# Analog Circuit Synthesis and Verification (FAC), co-located with Computer-Aided
+# Verification (CAV), Snowbird, UT". That ordinal, that co-location and that city are
+# worth printing and are different every time, which is exactly why the string cannot
+# also be the filter key. "Show me all HSCC papers" needs something stable, so
+# entries carry `series: hscc` next to the prose, the same way they carry `topics:`
+# next to the title.
+#
+# WHY IT IS SHARED WITH service.yml
+# The reason a venue facet is worth the trouble is that a venue relationship is not
+# only authorship. HSCC here is one paper, an Awards Chair term, a Demo and Poster
+# Chair term and a PC seat — four entries across two data files that no page could
+# previously connect. WinterSim and SpringSim are each a paper plus a track chair
+# plus a PC seat. One vocabulary, both files, so those add up instead of splitting
+# into "the paper list's HSCC" and "the service list's HSCC".
+#
+# `series:` IS OPTIONAL, AND THAT IS NOT AN OVERSIGHT
+# Three publications have no series and should not be given one: a paper still under
+# review has no venue yet, and the NSF and NIST workshop reports are one-off events,
+# not editions of anything. Inventing a slug for a thing that happened once would put
+# a permanent single-entry checkbox in the nav. An entry without `series:` simply
+# drops out when a venue is selected, which is the correct answer to "show me all
+# HSCC papers".
+#
+# Fields:
+#   slug     stable key used by `series:` in publications.yml and service.yml
+#   name     full name, shown as the option's tooltip
+#   acronym  what the nav shows; omitted when the name IS the short form
+#   kind     conference | journal | workshop | seminar | event
+#
+# scripts/check_data.py rejects a `series:` that is not declared here, and warns about
+# a venue declared here that nothing uses.
+
+- slug: hscc
+  name: 'ACM International Conference on Hybrid Systems: Computation and Control'
+  acronym: HSCC
+  kind: conference
+
+- slug: iccps
+  name: ACM/IEEE International Conference on Cyber-Physical Systems
+  acronym: ICCPS
+  kind: conference
+
+- slug: acc
+  name: American Control Conference
+  acronym: ACC
+  kind: conference
+
+- slug: adhs
+  name: IFAC Conference on Analysis and Design of Hybrid Systems
+  acronym: ADHS
+  kind: conference
+
+- slug: iccad
+  name: IEEE/ACM International Conference on Computer-Aided Design
+  acronym: ICCAD
+  kind: conference
+
+- slug: qest
+  name: International Conference on Quantitative Evaluation of SysTems
+  acronym: QEST
+  kind: conference
+
+- slug: dasc
+  name: AIAA/IEEE Digital Avionics Systems Conference
+  acronym: DASC
+  kind: conference
+
+- slug: fse
+  name: ACM International Conference on the Foundations of Software Engineering
+  acronym: FSE
+  kind: conference
+
+- slug: fm
+  name: International Symposium on Formal Methods
+  acronym: FM
+  kind: conference
+
+- slug: formats
+  name: International Conference on Formal Modeling and Analysis of Timed Systems
+  acronym: FORMATS
+  kind: conference
+
+- slug: icaa
+  name: International Conference on Assured Autonomy
+  acronym: ICAA
+  kind: conference
+
+- slug: icinco
+  name: International Conference on Informatics in Control, Automation and Robotics
+  acronym: ICINCO
+  kind: conference
+
+# Reached through an advisory or industry-committee seat rather than a paper, which is
+# the case the shared vocabulary exists for: without it these two venues would appear
+# nowhere, since neither has a publication attached.
+- slug: rtss
+  name: IEEE Real-Time Systems Symposium
+  acronym: RTSS
+  kind: conference
+
+- slug: iscas
+  name: IEEE International Symposium on Circuits and Systems
+  acronym: ISCAS
+  kind: conference
+
+# The simulation-conference family renamed itself twice. Kept as three slugs rather
+# than merged, because a PC seat on SpringSim in 2014 and one on AnnSim in 2023 are
+# not the same fact, and the note on the AnnSim service entry already records the
+# lineage for a reader.
+- slug: springsim
+  name: Spring Simulation Conference
+  acronym: SpringSim
+  kind: conference
+
+- slug: summersim
+  name: Summer Simulation Conference
+  acronym: SummerSim
+  kind: conference
+
+- slug: wsc
+  name: Winter Simulation Conference
+  acronym: WSC
+  kind: conference
+
+- slug: annsim
+  name: Annual Modeling and Simulation Conference
+  acronym: AnnSim
+  kind: conference
+
+- slug: cosim-cps
+  name: International Workshop on Formal Co-Simulation of Cyber-Physical Systems
+  acronym: CoSim-CPS
+  kind: workshop
+
+- slug: mt-cps
+  name: International Workshop on Monitoring and Testing of Cyber-Physical Systems
+  acronym: MT-CPS
+  kind: workshop
+
+- slug: citest-cps
+  name: Workshop on Computational Intelligence Techniques for Testing and Validating Complex Cyber-Physical Systems
+  acronym: CITest_CPS
+  kind: workshop
+
+- slug: mpm4cps
+  name: Multi-Paradigm Modeling for Cyber-Physical Systems
+  acronym: MPM4CPS
+  kind: workshop
+
+- slug: nsv
+  name: Numerical Software Verification Workshop
+  acronym: NSV
+  kind: workshop
+
+- slug: fac
+  name: Frontiers in Analog Circuit Synthesis and Verification
+  acronym: FAC
+  kind: workshop
+
+- slug: tse
+  name: IEEE Transactions on Software Engineering
+  acronym: TSE
+  kind: journal
+
+- slug: lcss
+  name: IEEE Control Systems Letters
+  acronym: L-CSS
+  kind: journal
+
+- slug: csm
+  name: IEEE Control Systems Magazine
+  acronym: CSM
+  kind: journal
+
+- slug: cacm
+  name: Communications of the ACM
+  acronym: CACM
+  kind: journal
+
+- slug: nahs
+  name: 'Nonlinear Analysis: Hybrid Systems'
+  acronym: NAHS
+  kind: journal
+
+- slug: dagstuhl
+  name: Dagstuhl Seminar
+  kind: seminar
+
+- slug: research-summit
+  name: MathWorks Research Summit
+  kind: event
