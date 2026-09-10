@@ -46,7 +46,7 @@
 
 ### Conference Program Committee (PC)
 #### Organizer 
-  - [MathWorks Research Summit](https://www.mathworks.com/videos/series/mathworks-research-summit.html), Boston: 2017-, Tokyo: 2016-
+  - [MathWorks Research Summit](https://www.mathworks.com/videos/series/mathworks-research-summit.html), General Chair: Boston: 2023-, Bengaluru: 2026-; Program Chair: Boston: 2017-2019, Tokyo: 2016-2019
 
 #### Currently or Recently on PC
   - [Formal Methods (FM)](http://www.fmeurope.org/symposia/), 2021-
