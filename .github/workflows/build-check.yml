@@ -74,33 +74,105 @@ jobs:
             fi
           done
 
-      - name: Check the data-driven page rendered from _data
+      - name: Check the data-driven pages rendered from _data
         run: |
           set -euo pipefail
-          page=_site/service-preview.html
-          [ -s "$page" ] || { echo "::error::$page missing or empty"; exit 1; }
 
-          # Content that exists ONLY in _data/service.yml. If the Liquid did not run
-          # against the data, these cannot appear.
-          for needle in 'CITest_CPS' 'data-topics=' 'topic-chip' "Insider's Guide" \
-                        'MCSC-Annual-Report-2023.pdf' '[Announcement]'; do
-            grep -qF "$needle" "$page" || { echo "::error::$page missing: $needle"; exit 1; }
-            echo "  ok    found: $needle"
+          # Content that exists ONLY in the YAML. If the Liquid did not run against
+          # _data, these strings cannot appear in the output at all.
+          check_page() {
+            page="_site/$1"; shift
+            min_items="$1"; shift
+            echo "-- $page"
+            [ -s "$page" ] || { echo "::error::$page missing or empty"; exit 1; }
+
+            for needle in "$@"; do
+              grep -qF "$needle" "$page" || { echo "::error::$page missing: $needle"; exit 1; }
+              echo "  ok    found: $needle"
+            done
+
+            # Unrendered Liquid still produces a valid-looking page, so the leftover
+            # delimiters are checked explicitly rather than inferred from a 200.
+            if grep -qE '\{\{|\{%' "$page"; then
+              echo "::error::$page contains unrendered Liquid:"
+              grep -nE '\{\{|\{%' "$page" | head -5
+              exit 1
+            fi
+            echo "  ok    no unrendered Liquid"
+
+            # `|| true`: grep exits 1 on zero matches, which under `set -e` would abort
+            # here with no message instead of reaching the explicit check below.
+            items=$(grep -c 'class="fitem"' "$page" || true)
+            echo "  ok    $items filterable entries rendered"
+            [ "$items" -ge "$min_items" ] \
+              || { echo "::error::expected ${min_items}+ entries, got $items"; exit 1; }
+          }
+
+          check_page service-preview.html 50 \
+            'CITest_CPS' "Insider's Guide" 'MCSC-Annual-Report-2023.pdf' \
+            '[Announcement]' 'data-facet-topic=' 'data-facet-venue="hscc"'
+
+          check_page publications-preview.html 19 \
+            'Continuization' 'McCalla' 'Zanenga' 'AlthoffRK+_FAC11.pdf' \
+            'data-facet-collab=' 'data-facet-mentored=' 'data-facet-award=' \
+            'data-facet-venue="hscc"' 'data-facet-coauthor="matthias-althoff'
+
+      # The left nav is multi-select and shared; if either page loses the include or
+      # a facet section, filtering silently degrades to "shows everything" rather
+      # than erroring, so the controls are asserted rather than assumed.
+      - name: Check the faceted filter UI is wired up on both pages
+        run: |
+          set -euo pipefail
+          for page in _site/service-preview.html _site/publications-preview.html; do
+            echo "-- $page"
+            for needle in 'fbrowse-search' 'fbrowse-clear' 'fbrowse-chips' \
+                          'class="facet-count"' 'type="checkbox"' 'classList.add("js")' \
+                          'hashchange'; do
+              grep -qF "$needle" "$page" || { echo "::error::$page missing control: $needle"; exit 1; }
+            done
+            echo "  ok    search box, clear-all, chips, counts, checkboxes, js gate, hash reveal"
+
+            # One <input type=checkbox> per selectable value. A single-select design
+            # would have radios or links instead, which is the regression to catch.
+            n=$(grep -o 'type="checkbox"' "$page" | wc -l || true)
+            echo "  ok    $n multi-select checkboxes"
+            [ "$n" -ge 10 ] || { echo "::error::expected 10+ checkboxes, got $n"; exit 1; }
+
+            if grep -q 'type="radio"' "$page"; then
+              echo "::error::radio input found - facets must be multi-select"
+              exit 1
+            fi
           done
 
-          # Unrendered Liquid is the failure mode that still produces a valid-looking
-          # page, so check for leftover delimiters explicitly.
-          if grep -qE '\{\{|\{%' "$page"; then
-            echo "::error::$page contains unrendered Liquid:"
-            grep -nE '\{\{|\{%' "$page" | head -5
-            exit 1
-          fi
-          echo "  ok    no unrendered Liquid"
+          # Facet sections present on the publications page, which is the one that
+          # exercises every dimension.
+          for key in type topic collab mentored award outcome org venue coauthor; do
+            grep -qF "data-facet=\"$key\"" _site/publications-preview.html \
+              || { echo "::error::publications-preview.html missing facet section: $key"; exit 1; }
+            echo "  ok    facet section: $key"
+          done
 
-          # Every entry should have become a list item carrying its tags.
-          items=$(grep -c 'data-topics=' "$page")
-          echo "  ok    $items tagged entries rendered"
-          [ "$items" -ge 50 ] || { echo "::error::expected 50+ entries, got $items"; exit 1; }
+          # The coauthor options depend on flattening a list of lists, which Liquid can
+          # only do via `map | join` and Ruby's recursive Array#join. If that ever stops
+          # working the section renders EMPTY rather than erroring, so assert a known
+          # recurring coauthor is actually there - and that the nav slug matches the one
+          # on the items, since a mismatch would filter to nothing.
+          for value in pieter-j-mosterman claudio-menghi; do
+            grep -qF "data-facet=\"coauthor\" value=\"$value\"" _site/publications-preview.html \
+              || { echo "::error::coauthor option missing or unslugged: $value"; exit 1; }
+            grep -qF "data-facet-coauthor=" _site/publications-preview.html \
+              || { echo "::error::items carry no coauthor values"; exit 1; }
+            echo "  ok    coauthor option and item slug agree: $value"
+          done
+
+          # Venue is the facet shared with service.yml; HSCC is the case that proves it,
+          # appearing on both pages. Counted here so a broken `series:` tag shows up as
+          # a number rather than as a silently short list.
+          for page in _site/service-preview.html _site/publications-preview.html; do
+            n=$(grep -o 'data-facet-venue="[a-z0-9-]\+"' "$page" | wc -l || true)
+            echo "  ok    $page: $n entries carry a venue series"
+            [ "$n" -ge 1 ] || { echo "::error::$page has no venue-tagged entries"; exit 1; }
+          done
 
       - name: Upload built site
         uses: actions/upload-artifact@v4
