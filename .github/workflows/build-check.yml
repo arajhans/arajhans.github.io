@@ -1,0 +1,74 @@
+name: Build check
+
+# Verifies the site still builds, without deploying it.
+#
+# Why this exists: the live site renders on GitHub Pages' *implicit* defaults.
+# _config.yml is nearly empty and index.md has no front matter, so the build
+# depends on plugins Pages enables silently (jekyll-optional-front-matter,
+# jekyll-default-layout, jekyll-titles-from-headings, jekyll-relative-links).
+# There is no Gemfile and no way to build locally without installing Ruby, so
+# this workflow is the only place a config or layout change can be verified
+# before it reaches master.
+#
+# Deliberately never runs on master and requests no `pages` permission, so it
+# cannot publish. The real deploy stays the built-in pages-build-deployment.
+
+on:
+  push:
+    branches-ignore:
+      - master
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Builds with the same github-pages gem set the live site uses, so the
+      # implicit plugin stack above is reproduced rather than guessed at.
+      - name: Build site
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Check expected pages were generated
+        run: |
+          set -euo pipefail
+          fail=0
+          for page in index cv bio publications other-publications talks service panels patents research etc; do
+            if [ -s "_site/$page.html" ]; then
+              printf '  ok    %-20s %6s bytes\n' "$page.html" "$(wc -c < "_site/$page.html")"
+            else
+              printf '  MISSING or EMPTY: %s.html\n' "$page"
+              fail=1
+            fi
+          done
+          [ "$fail" -eq 0 ] || { echo "::error::expected pages missing from build output"; exit 1; }
+
+      - name: Check homepage kept its content
+        run: |
+          set -euo pipefail
+          # index.md has no front matter; if the optional-front-matter plugin
+          # ever stops being applied, the page still builds but comes out as
+          # unprocessed text. Assert real rendered markup instead.
+          for needle in '<details' 'Biographical Sketch' 'Research Office Projects'; do
+            if grep -qF "$needle" _site/index.html; then
+              echo "  ok    found: $needle"
+            else
+              echo "::error::homepage missing expected content: $needle"
+              exit 1
+            fi
+          done
+
+      - name: Upload built site
+        uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: _site
+          retention-days: 7

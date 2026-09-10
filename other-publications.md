@@ -1,4 +1,4 @@
-[home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [service](service.html) \| [publications](publications.html) \| [personal](personal.html)
+[home](index.html) \| [bio](bio.html) \| [talks](talks.html) \| [service](service.html) \| [publications](publications.html)
 
 ## Posters
 - [RMR+13] I. Ruchkin, S. Mitsch, A. Rajhans, B. H. Krogh, D. Garlan, A. Platzer, B. Schmerl, J. Kapinski, P. Ramachandra, and K. Butts, “*An Architectural Approach to Heterogeneous Modeling and Verification of Cyber-Physical Systems*”, NSF CPS PI Meeting, Arlington, VA, October 16-18, 2013. \[[Poster](files/posters/RuchkinMR+_CPSPI13_Poster.pdf) \| [Abstract](files/posters/RuchkinMR+_CPSPI13_Abstract.pdf)\]
@@ -12,7 +12,7 @@
 
 ## Technical Reports for Coursework
 - [R10d] A. Rajhans, “*Movement Decoding for Brain Computer Interfaces*”, Project Report, 18-660: Numerical Methods for Engineering Design and Optimization, ECE Department, Carnegie Mellon University, Fall 2010. \[[PDF](files/papers/Rajhans_18660BCIReport.pdf)\]
-- [R10c] A. Rajhans, “*Image Recovery*”, Project Report, 18-660: Numerical Methods for Engineering Design and Optimization, ECE Department, Carnegie Mellon University, Fall 2010. \[[PDF](files/papers/Rajhans_18660IRReport10.pdf)\]
+- [R10c] A. Rajhans, “*Image Recovery*”, Project Report, 18-660: Numerical Methods for Engineering Design and Optimization, ECE Department, Carnegie Mellon University, Fall 2010. \[[PDF](files/papers/Rajhans_18600IRReport10.pdf)\]
 - [R10b] A. Rajhans, “*2-D Thermal Analysis*”, Project Report, 18-660: Numerical Methods for Engineering Design and Optimization, ECE Department, Carnegie Mellon University, Fall 2010. \[[PDF](files/papers/Rajhans_18660TAReport10.pdf)\]
 - [R09b] A. Rajhans, “*Development of a Linear Hybrid Automata Plugin for AcmeStudio*”, Project Report, 17-755: Architectures for Software Systems, School of Computer Science, Carnegie Mellon University, Fall 2009. \[[PDF](files/papers/Rajhans_17755Report09.pdf)\]
 - [R09a] A. Rajhans, “*A Study of Compisitional Verification of Hybrid Systems*”, Project Report, 15-819: Hybrid Systems Analysis and Theorem Proving, School of Computer Science, Carnegie Mellon University, Spring 2009. \[[PDF](files/papers/Rajhans_17755Report09.pdf)\]
