@@ -24,9 +24,7 @@ Institute of Standards and Technology (NIST), Gaithersburg, MD, August, 2016.
 - **Global Professional Advisory Community**, Association for Computing Machinery (ACM), 2017.
 
 ## Featured Interviews, Perspectives, and Quotes
-- MIT Climate & Sustainability Consortium Impact Report, 2023. [https://impactclimate.mit.edu/2024/05/16/
-now-published-mcsc-impact-report-2023/](https://impactclimate.mit.edu/2024/05/16/
-now-published-mcsc-impact-report-2023/)
+- MIT Climate & Sustainability Consortium Impact Report, 2023. [https://impactclimate.mit.edu/2024/05/16/now-published-mcsc-impact-report-2023/](https://impactclimate.mit.edu/2024/05/16/now-published-mcsc-impact-report-2023/)
 - Formal Methods (FM) Keynote Speaker Interviews, 2019. [https://www.youtube.com/watch?v=BnANyL4H8i4](https://www.youtube.com/watch?v=BnANyL4H8i4)
 
 ## Conference Program Committee (PC)
