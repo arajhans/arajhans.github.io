@@ -75,7 +75,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
       <summary>Editorial Work</summary>
         <h3>Editorial Work</h3>  
         <ul>
-          <li><i>Associate Editor</i>, Technology Conferences Editorial Board, IEEE Control System Society, 2020–2022.</li>
+          <li><i>Associate Editor</i>, Technology Conferences Editorial Board, IEEE Control Systems Society, 2020–2023.</li>
           <li><i>Editorial Advisory Board Member</i>, “Resilience in Cyber-Physical Systems: From Risk Modelling to Threat
           Counteraction,” F. Flammini (Ed.), Springer.</li>
         </ul>
