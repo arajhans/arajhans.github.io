@@ -11,6 +11,7 @@ Vocabularies (each a flat list of {slug, name}):
   topics.yml         what work is about        referenced by `topics:`
   orgs.yml           external institutions     referenced by `orgs:`
   distinctions.yml   kinds of award/honour     referenced by `distinctions[].kind`
+  venues.yml         recurring venue series    referenced by `series:` (a single slug)
 
 Entry files declare their own contract with a top-level `required:` list, so a new
 data file with a different shape needs no change here. Publications require
@@ -19,6 +20,10 @@ title/authors/venue/year; service requires what/start/end.
 Checks:
   * every facet value resolves to a slug declared in the matching vocabulary
   * vocabularies have no duplicate or malformed slugs, and all have display names
+  * `series` names a declared venue, and that venue's name or acronym actually
+    appears in the entry's own venue/what prose - so a mis-tagged series is caught
+  * coauthor names are not written two ways ("P. J. Mosterman" and "Pieter J.
+    Mosterman" are one person, but they would be two checkboxes)
   * every entry has its file's required fields and a declared category
   * start/end/year are a 4-digit year, `ongoing`, or `unknown`; end >= start
   * distinctions carry {kind, name, status} with status in won/finalist/selected
@@ -73,16 +78,27 @@ DATA = ROOT / "_data"
 SLUG_RE = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 SENTINELS = {"ongoing", "unknown"}
 
+# The site's owner, excluded from the coauthor tally: a facet offering "Akshay
+# Rajhans (19)" on his own publication list filters nothing.
+SELF = "Akshay Rajhans"
+
 # filename -> the entry field that references it
 VOCABULARIES = {
     "topics.yml": "topics",
     "orgs.yml": "orgs",
     "distinctions.yml": "distinctions",
+    "venues.yml": "series",
 }
 
 # Facets that are a plain list of slugs. `distinctions` is deliberately not here:
 # it needs a per-entry name and won/finalist status, so it is a list of mappings.
 SLUG_FACETS = ("topics", "orgs")
+
+# Facets that are ONE slug, not a list. A work appears at a single venue series; a
+# second archival venue is a second entry linked with `related`, which is the same
+# distinction the also_appeared / related split already makes. Making `series` a list
+# would quietly reopen the double-counting question this file spends 20 lines closing.
+SCALAR_FACETS = ("series",)
 
 DISTINCTION_STATUSES = {"won", "finalist", "selected"}
 DEFAULT_REQUIRED = ("category", "what", "start", "end", "topics")
@@ -115,7 +131,12 @@ def load(path: Path):
         return yaml.safe_load(handle)
 
 
-def load_vocabulary(filename: str) -> set[str]:
+def load_vocabulary(filename: str, terms: dict[str, list[str]] | None = None) -> set[str]:
+    """Read a vocabulary file, optionally collecting each slug's human-readable forms.
+
+    `terms` is filled with slug -> [name, acronym] for the callers that need to check
+    a slug against prose (see check_series).
+    """
     path = DATA / filename
     if not path.exists():
         errors.append(f"_data/{filename} is missing; it defines a vocabulary")
@@ -139,6 +160,10 @@ def load_vocabulary(filename: str) -> set[str]:
         if not entry.get("name"):
             errors.append(f"{filename} slug {slug!r} has no display name")
         slugs.add(slug)
+        if terms is not None:
+            terms[slug] = [
+                str(entry[key]) for key in ("name", "acronym") if entry.get(key)
+            ]
     return slugs
 
 
@@ -221,6 +246,95 @@ def check_slug_facet(entry, field: str, label: str, vocabulary: set[str],
             )
     if len(set(values)) != len(values):
         errors.append(f"{label}: repeats a value in {field}")
+
+
+def check_series(entry, label: str, vocabulary: set[str], used: set[str],
+                 terms: dict[str, list[str]]) -> None:
+    """`series` is the venue's stable slug; `venue`/`what` stays prose.
+
+    The prose is about one instance - "21st ACM International Conference on Hybrid
+    Systems: Computation and Control (HSCC)" - and the ordinal, the co-location and
+    the city are all worth printing and all different each time. So the filter key
+    lives beside the prose rather than being parsed out of it.
+
+    Because there are now two statements of the same fact, they can disagree, which
+    is the exact failure this project exists to fix. The cross-check closes it: the
+    venue's name or acronym has to appear in the entry's own prose, so `series: acc`
+    on an HSCC paper is caught rather than silently filed under the wrong conference.
+    A warning rather than an error, since prose is free to use neither form.
+    """
+    value = entry.get("series")
+    if value is None:
+        return
+    if isinstance(value, list):
+        errors.append(
+            f"{label}: series must be a single slug, not a list - a second archival "
+            f"venue is a separate entry linked with 'related'"
+        )
+        return
+
+    used.add(value)
+    if value not in vocabulary:
+        errors.append(
+            f"{label}: unknown series {value!r} - add it to _data/venues.yml or fix "
+            f"the spelling"
+        )
+        return
+
+    prose = " ".join(
+        str(entry.get(field, "")) for field in ("venue", "what", "note")
+    ).lower()
+    forms = terms.get(value) or []
+    if forms and not any(form.lower() in prose for form in forms):
+        warnings.append(
+            f"{label}: series {value!r} but neither {forms!r} appears in the entry's "
+            f"venue/what text - check the tag matches the venue"
+        )
+
+
+def check_author_names(spellings: set[str]) -> int:
+    """One person, one spelling.
+
+    The coauthor facet slugifies each author name into a checkbox, so "P. J.
+    Mosterman" and "Pieter J. Mosterman" would render as two people with one work
+    each instead of one person with six. This is the same tag-rot the topic
+    vocabulary prevents, applied to people - except people cannot be listed in a
+    vocabulary file up front, so consistency is checked after the fact instead.
+
+    Flags a surname whose given names abbreviate to the same initials when at least
+    one spelling uses an initial. Two different people who share a surname and a
+    first initial ("Xin Li", "Xiaobo Li") are NOT flagged, because neither spelling
+    is abbreviated - it is the abbreviation that creates the ambiguity.
+
+    Returns the number of distinct people, which the summary reports.
+    """
+    def parts(name: str) -> tuple[str, tuple[str, ...], bool]:
+        tokens = name.split()
+        if not tokens:
+            return "", (), False
+        surname = tokens[-1].lower()
+        given = tokens[:-1]
+        initials = tuple(token[0].lower() for token in given if token[:1].isalpha())
+        abbreviated = any(
+            len(token.rstrip(".")) == 1 and token[:1].isalpha() for token in given
+        )
+        return surname, initials, abbreviated
+
+    groups: dict[tuple[str, tuple[str, ...]], list[str]] = {}
+    for name in spellings:
+        surname, initials, _ = parts(name)
+        groups.setdefault((surname, initials), []).append(name)
+
+    for (surname, _initials), names in sorted(groups.items()):
+        if len(names) < 2:
+            continue
+        if not any(parts(name)[2] for name in names):
+            continue
+        warnings.append(
+            f"authors: {sorted(names)} look like one person written several ways - "
+            f"pick one spelling, or they become separate coauthor checkboxes"
+        )
+    return len(groups)
 
 
 def check_distinctions(entry, label: str, vocabulary: set[str],
@@ -406,7 +520,8 @@ def check_mentored(entry, label: str) -> None:
 
 def check_entry(entry, label: str, required, categories: set[str],
                 vocabularies: dict[str, set[str]],
-                used: dict[str, set[str]]) -> int:
+                used: dict[str, set[str]],
+                venue_terms: dict[str, list[str]]) -> int:
     if not isinstance(entry, dict):
         errors.append(f"{label} is not a mapping")
         return 0
@@ -440,6 +555,8 @@ def check_entry(entry, label: str, required, categories: set[str],
         check_slug_facet(entry, field, label, vocabularies.get(field, set()),
                          used.setdefault(field, set()))
 
+    check_series(entry, label, vocabularies.get("series", set()),
+                 used.setdefault("series", set()), venue_terms)
     check_distinctions(entry, label, vocabularies.get("distinctions", set()),
                        used.setdefault("distinctions", set()))
     return appearances
@@ -499,14 +616,19 @@ def main() -> int:
     if not DATA.is_dir():
         sys.exit("error: no _data directory found")
 
+    venue_terms: dict[str, list[str]] = {}
     vocabularies = {
-        field: load_vocabulary(filename)
+        field: load_vocabulary(
+            filename, venue_terms if field == "series" else None
+        )
         for filename, field in VOCABULARIES.items()
     }
     used: dict[str, set[str]] = {field: set() for field in vocabularies}
     entry_count = 0
     appearance_count = 0
     by_title: dict[str, list[tuple[str, dict]]] = {}
+    author_spellings: set[str] = set()
+    author_hits: dict[str, int] = {}
 
     for path in sorted(DATA.glob("*.yml")):
         if path.name in VOCABULARIES:
@@ -541,14 +663,28 @@ def main() -> int:
                 if what:
                     label += f" ({str(what).strip()[:48]})"
             appearance_count += check_entry(
-                entry, label, required, categories, vocabularies, used
+                entry, label, required, categories, vocabularies, used, venue_terms
             )
             if isinstance(entry, dict) and entry.get("title"):
                 by_title.setdefault(
                     normalize_title(entry["title"]), []
                 ).append((label, entry))
+            if isinstance(entry, dict) and isinstance(entry.get("authors"), list):
+                for name in entry["authors"]:
+                    if not name:
+                        continue
+                    name = str(name).strip()
+                    author_spellings.add(name)
+                    author_hits[name] = author_hits.get(name, 0) + 1
 
     check_shared_titles(by_title)
+    check_author_names(author_spellings)
+    # The coauthor facet only lists people with more than one shared work: 88 of the
+    # 102 names here appear once, most of them cosignatories of a single 25-author
+    # workshop report, and a nav of 102 checkboxes with 88 reading "1" is a wall, not
+    # a filter. One-off coauthors stay reachable through the search box.
+    coauthors = {n: k for n, k in author_hits.items() if n != SELF}
+    recurring = sum(1 for k in coauthors.values() if k > 1)
 
     for where, _source, target, how in relations:
         if target not in ids:
@@ -592,7 +728,8 @@ def main() -> int:
     extra = f", {appearance_count} extra appearance(s)" if appearance_count else ""
     print(
         f"OK: {entry_count} entries{extra}; {len(ids)} with stable ids; "
-        f"{len(relations)} relation(s); {summary} in use; {len(warnings)} warning(s)"
+        f"{len(relations)} relation(s); {len(coauthors)} coauthors "
+        f"({recurring} recurring); {summary} in use; {len(warnings)} warning(s)"
     )
     return 0
 
