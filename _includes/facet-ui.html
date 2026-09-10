@@ -1,0 +1,357 @@
+{%- comment -%}
+  Shared faceted-browse UI: left nav of multi-select checkboxes, free-text search,
+  removable active-filter chips, live per-option counts, and URL state.
+
+  Include this ONCE per page, after the sidebar and the item list. It is generic: it
+  discovers facets from the markup rather than being told about them, so a page adds
+  a dimension by emitting one more section and one more attribute, with no JS change.
+
+  MARKUP CONTRACT
+    sidebar section   <div class="facet" data-facet="topic">
+    option            <input type="checkbox" data-facet="topic" value="cps">
+    option count      <span class="facet-count" data-facet="topic" data-value="cps">
+    item              <li class="fitem" data-facet-topic="cps formal-methods"
+                          data-search="lower-case text to search">
+    group heading     <section class="fgroup">   (hidden when it has no visible items)
+
+  An item matches when, for EVERY facet with a selection, at least one selected value
+  is present on the item: OR within a facet, AND across facets. That is the semantics
+  a CV needs - "control OR autonomy" narrowed by "journal only" - and it is the one
+  thing a taxonomy-as-document-structure cannot express, which is why the topic
+  headings in index.md forced every item into exactly one bucket.
+
+  WHY THE LIST IS RENDERED SERVER-SIDE AND ONLY *FILTERED* HERE
+  The obvious alternative is to ship JSON and build the list in JS. Not here: this is
+  a CV. The content has to survive with JavaScript off, be indexable, and print. So
+  Liquid renders every item from _data, and this script only sets the `hidden`
+  property. With JS off you get the complete list, which is the correct fallback.
+{%- endcomment -%}
+
+<!-- Set before the stylesheet is used, so the nav never flashes in and back out.
+     Checkboxes do nothing without the script below, so a no-JS visitor must not be
+     shown a left nav that cannot work - they get the complete list instead, which is
+     the honest fallback for a CV. Everything gated on .js is a control, not content. -->
+<script>document.documentElement.classList.add("js");</script>
+
+<style>
+  /* Layout ---------------------------------------------------------------- */
+  .fbrowse-nav, .fbrowse-bar, .fbrowse-active, .fbrowse-empty { display: none; }
+  .js .fbrowse-nav { display: block; }
+  .js .fbrowse-bar { display: flex; }
+  .fbrowse { display: flex; gap: 1.5rem; align-items: flex-start; margin-top: 1.25rem; }
+  .fbrowse-nav {
+    width: 15rem; min-width: 15rem; position: sticky; top: .75rem;
+    max-height: calc(100vh - 1.5rem); overflow-y: auto;
+    border: 1px solid #d0d7de; border-radius: 6px; background: #fff;
+  }
+  .fbrowse-main { flex: 1; min-width: 0; }
+
+  /* Left nav -------------------------------------------------------------- */
+  .facet { border-bottom: 1px solid #eaeef2; }
+  .facet:last-child { border-bottom: none; }
+  .facet-header {
+    width: 100%; text-align: left; background: none; border: none;
+    padding: .5rem .75rem; font: inherit; font-size: .78rem; font-weight: 600;
+    text-transform: uppercase; letter-spacing: .04em; color: #57606a;
+    cursor: pointer; display: flex; justify-content: space-between; align-items: center;
+  }
+  .facet-header:hover { background: #f6f8fa; }
+  .facet-header::after { content: "\25BE"; font-size: .7em; }
+  .facet[data-collapsed="true"] .facet-header::after { content: "\25B8"; }
+  .facet[data-collapsed="true"] .facet-options { display: none; }
+  .facet-options { list-style: none; margin: 0; padding: 0 .75rem .5rem; }
+
+  /* Rows are ~28px, not the 44px touch target, because a 44px row turns ten
+     topics into a screenful and the page is meant to be compact. WCAG 2.2 AA
+     asks 24x24 CSS px; the label spans the full nav width, so the hit area is
+     far wider than tall and clears it comfortably. */
+  .facet-options li { margin: 0; }
+  .facet-options label {
+    display: flex; align-items: center; gap: .4rem;
+    padding: .2rem .25rem; min-height: 1.75rem;
+    font-size: .84rem; line-height: 1.3; cursor: pointer; border-radius: 4px;
+  }
+  .facet-options label:hover { background: #f6f8fa; }
+  .facet-options input { margin: 0; flex-shrink: 0; }
+  .facet-options .facet-label { flex: 1; min-width: 0; }
+  .facet-count {
+    color: #57606a; font-size: .78em; font-variant-numeric: tabular-nums;
+    flex-shrink: 0;
+  }
+  /* An option that would return nothing is still shown, greyed - hiding it makes
+     the nav jump around as you click, which is worse than a visible dead end. */
+  .facet-options label[data-empty="true"] { opacity: .45; }
+
+  /* For a section that deliberately does not list everything, so the omission is
+     stated in the nav rather than left for the reader to wonder about. */
+  .facet-note {
+    padding: .3rem .25rem 0; font-size: .74rem; line-height: 1.35; color: #57606a;
+  }
+
+  /* Toolbar --------------------------------------------------------------- */
+  .fbrowse-bar { gap: .6rem; align-items: center; flex-wrap: wrap; }
+  .fbrowse-search { flex: 1; min-width: 14rem; }
+  .fbrowse-search input {
+    width: 100%; padding: .4rem .6rem; font: inherit; font-size: .9rem;
+    border: 1px solid #d0d7de; border-radius: 6px; background: #fff; color: #24292f;
+  }
+  .fbrowse-search input:focus { border-color: #0969da; outline: 2px solid #0969da33; }
+  .fbrowse-count { font-size: .85rem; color: #57606a; white-space: nowrap; }
+
+  .fbrowse-active { margin: .6rem 0 0; flex-wrap: wrap; gap: .4rem; align-items: center; }
+  .js .fbrowse-active[data-visible="true"] { display: flex; }
+  .fbrowse-active .label { font-size: .78rem; font-weight: 600; color: #57606a; }
+  .fchip {
+    font: inherit; font-size: .78rem; padding: .15rem .5rem; border-radius: 2em;
+    border: 1px solid #0969da; background: #0969da; color: #fff; cursor: pointer;
+  }
+  .fchip:hover { background: #0a58ca; }
+  .fchip .x { font-weight: 700; margin-left: .3rem; }
+  .fclear {
+    font: inherit; font-size: .78rem; padding: .15rem .6rem; border-radius: 6px;
+    border: 1px solid #d0d7de; background: #f6f8fa; color: #24292f; cursor: pointer;
+  }
+  .fclear:hover { background: #eaeef2; }
+
+  .fbrowse-empty { padding: 2.5rem .5rem; color: #57606a; }
+  .js .fbrowse-empty[data-visible="true"] { display: block; }
+
+  [hidden] { display: none !important; }
+
+  @media (max-width: 850px) {
+    .fbrowse { flex-direction: column; }
+    .fbrowse-nav { width: 100%; min-width: 0; position: static; max-height: none; }
+  }
+  @media print {
+    /* A printed CV wants every entry and no controls, whatever was filtered. */
+    .fbrowse-nav, .fbrowse-bar, .fbrowse-active { display: none !important; }
+    .fitem[hidden], .fgroup[hidden] { display: revert !important; }
+  }
+</style>
+
+<script>
+(function () {
+  "use strict";
+
+  var root = document.querySelector(".fbrowse");
+  if (!root) return;
+
+  var nav = root.querySelector(".fbrowse-nav");
+  var items = Array.prototype.slice.call(root.querySelectorAll(".fitem"));
+  var groups = Array.prototype.slice.call(root.querySelectorAll(".fgroup"));
+  var boxes = Array.prototype.slice.call(nav.querySelectorAll('input[type="checkbox"][data-facet]'));
+  var counts = Array.prototype.slice.call(nav.querySelectorAll(".facet-count"));
+  var search = document.getElementById("fbrowse-search");
+  var countOut = document.getElementById("fbrowse-count");
+  var activeBar = document.getElementById("fbrowse-active");
+  var activeChips = document.getElementById("fbrowse-chips");
+  var clearBtn = document.getElementById("fbrowse-clear");
+  var emptyMsg = document.getElementById("fbrowse-empty");
+
+  // Facet keys, discovered from the nav. Adding a section needs no change here.
+  var keys = [];
+  boxes.forEach(function (box) {
+    if (keys.indexOf(box.dataset.facet) === -1) keys.push(box.dataset.facet);
+  });
+
+  // Human labels for the active-filter chips, read off the checkbox's own label so
+  // there is no second copy of the vocabulary to keep in step.
+  var labels = {};
+  boxes.forEach(function (box) {
+    var text = box.parentElement.querySelector(".facet-label");
+    labels[box.dataset.facet + " " + box.value] = text ? text.textContent.trim() : box.value;
+  });
+
+  // Cache each item's values once. Reading data-* attributes for every item on
+  // every keystroke is the kind of thing that makes a filter feel sluggish.
+  var cache = items.map(function (item) {
+    var values = {};
+    keys.forEach(function (key) {
+      var raw = item.getAttribute("data-facet-" + key) || "";
+      values[key] = raw.split(" ").filter(Boolean);
+    });
+    return { el: item, values: values, text: (item.getAttribute("data-search") || "").toLowerCase() };
+  });
+
+  function selection() {
+    var chosen = {};
+    keys.forEach(function (key) { chosen[key] = []; });
+    boxes.forEach(function (box) {
+      if (box.checked) chosen[box.dataset.facet].push(box.value);
+    });
+    return chosen;
+  }
+
+  function query() { return search ? search.value.trim().toLowerCase() : ""; }
+
+  // `skip` lets a facet be counted against everything EXCEPT its own selection.
+  // Without that, ticking one topic drives every other topic's count to zero and
+  // the numbers stop being useful exactly when you start needing them.
+  function matches(entry, chosen, q, skip) {
+    if (q && entry.text.indexOf(q) === -1) return false;
+    for (var i = 0; i < keys.length; i++) {
+      var key = keys[i];
+      if (key === skip) continue;
+      var want = chosen[key];
+      if (!want.length) continue;
+      var have = entry.values[key];
+      var hit = false;
+      for (var j = 0; j < want.length; j++) {
+        if (have.indexOf(want[j]) !== -1) { hit = true; break; }
+      }
+      if (!hit) return false;
+    }
+    return true;
+  }
+
+  function apply(pushUrl) {
+    var chosen = selection();
+    var q = query();
+    var shown = 0;
+
+    cache.forEach(function (entry) {
+      var visible = matches(entry, chosen, q, null);
+      entry.el.hidden = !visible;
+      if (visible) shown++;
+    });
+
+    // A heading with nothing under it is noise.
+    groups.forEach(function (group) {
+      group.hidden = group.querySelectorAll(".fitem:not([hidden])").length === 0;
+    });
+
+    counts.forEach(function (span) {
+      var key = span.dataset.facet;
+      var val = span.dataset.value;
+      var n = 0;
+      cache.forEach(function (entry) {
+        if (entry.values[key].indexOf(val) !== -1 && matches(entry, chosen, q, key)) n++;
+      });
+      span.textContent = n;
+      var label = span.closest("label");
+      if (label) label.setAttribute("data-empty", n === 0 ? "true" : "false");
+    });
+
+    if (countOut) {
+      countOut.textContent = shown === cache.length
+        ? cache.length + " entries"
+        : "Showing " + shown + " of " + cache.length;
+    }
+    if (emptyMsg) emptyMsg.setAttribute("data-visible", shown === 0 ? "true" : "false");
+
+    renderChips(chosen, q);
+    if (pushUrl !== false) writeUrl(chosen, q);
+  }
+
+  function renderChips(chosen, q) {
+    if (!activeChips) return;
+    activeChips.textContent = "";
+    var made = 0;
+
+    function chip(text, onRemove) {
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "fchip";
+      b.textContent = text;
+      var x = document.createElement("span");
+      x.className = "x";
+      x.textContent = "✕";
+      b.appendChild(x);
+      b.setAttribute("aria-label", "Remove filter " + text);
+      b.addEventListener("click", function () { onRemove(); apply(); });
+      activeChips.appendChild(b);
+      made++;
+    }
+
+    if (q) chip('Search: "' + q + '"', function () { search.value = ""; });
+    keys.forEach(function (key) {
+      chosen[key].forEach(function (val) {
+        chip(labels[key + " " + val] || val, function () {
+          boxes.forEach(function (box) {
+            if (box.dataset.facet === key && box.value === val) box.checked = false;
+          });
+        });
+      });
+    });
+
+    if (activeBar) activeBar.setAttribute("data-visible", made > 0 ? "true" : "false");
+  }
+
+  // URL state, which the inspiration deliberately or accidentally lacks: without it
+  // a filtered view cannot be linked, bookmarked, or reached with the back button.
+  function writeUrl(chosen, q) {
+    var parts = [];
+    keys.forEach(function (key) {
+      if (chosen[key].length) parts.push(key + "=" + chosen[key].map(encodeURIComponent).join(","));
+    });
+    if (q) parts.push("q=" + encodeURIComponent(q));
+    var url = parts.length ? location.pathname + "?" + parts.join("&") : location.pathname;
+    history.replaceState(null, "", url);
+  }
+
+  function readUrl() {
+    var params = new URLSearchParams(location.search);
+    keys.forEach(function (key) {
+      var raw = params.get(key);
+      if (!raw) return;
+      var want = raw.split(",");
+      boxes.forEach(function (box) {
+        if (box.dataset.facet === key && want.indexOf(box.value) !== -1) box.checked = true;
+      });
+    });
+    var q = params.get("q");
+    if (q && search) search.value = q;
+
+    // Also accept a bare #topic-slug, so links written against the earlier
+    // single-select preview keep working instead of silently showing everything.
+    // Skipped when the hash names an ITEM rather than a facet value: the
+    // publications page gives each entry an id so `related:` can link to it, and
+    // #althoff-pll-iccad-2011 means "go to that paper", not "filter by it".
+    var hash = (location.hash || "").replace("#", "");
+    if (hash && !document.getElementById(hash)) {
+      boxes.forEach(function (box) {
+        if (box.value === hash) box.checked = true;
+      });
+    }
+  }
+
+  // A cross-link to a filtered-out entry would otherwise do nothing at all: the
+  // browser jumps to an element with display:none and the reader sees no change.
+  // Following a relation is a stronger signal than the filter it breaks, so the
+  // filters give way. Reveal, then scroll, because a hidden target has no position.
+  function revealTarget() {
+    var id = (location.hash || "").replace("#", "");
+    if (!id) return;
+    var target = document.getElementById(id);
+    if (!target || !target.classList.contains("fitem") || !target.hidden) return;
+    boxes.forEach(function (box) { box.checked = false; });
+    if (search) search.value = "";
+    apply();
+    target.scrollIntoView();
+  }
+
+  boxes.forEach(function (box) { box.addEventListener("change", function () { apply(); }); });
+  if (search) search.addEventListener("input", function () { apply(); });
+  if (clearBtn) {
+    clearBtn.addEventListener("click", function () {
+      boxes.forEach(function (box) { box.checked = false; });
+      if (search) search.value = "";
+      apply();
+    });
+  }
+  nav.querySelectorAll(".facet-header").forEach(function (header) {
+    header.addEventListener("click", function () {
+      var section = header.closest(".facet");
+      var collapsed = section.getAttribute("data-collapsed") === "true";
+      section.setAttribute("data-collapsed", collapsed ? "false" : "true");
+      header.setAttribute("aria-expanded", collapsed ? "true" : "false");
+    });
+  });
+
+  window.addEventListener("hashchange", revealTarget);
+
+  readUrl();
+  apply(false);
+  revealTarget();
+})();
+</script>
