@@ -31,7 +31,7 @@ now-published-mcsc-impact-report-2023/)
 
 ## Conference Program Committee (PC)
 ### Chair/Co-Chair 
-  - [MathWorks Research Summit](https://www.mathworks.com/company/events/research-summit.html), **General Chair** 2023-, **Program Chair**: Boston: 2017-2019, Tokyo: 2016-2019
+  - [MathWorks Research Summit](https://www.mathworks.com/company/events/research-summit.html), **General Chair**: Boston: 2023-, Bengaluru: 2026-; **Program Chair**: Boston: 2017-2019, Tokyo: 2016-2019
   - [International Conference on Assured Autonomy (ICAA)](https://icaa-conf.github.io/icaa2024/) 2024
   - Formal Modeling and Analysis of Timed Systems (FORMATS), **Artifact Evaluation Chair** 2022
   - Spring Simulation Conference (SpringSim), 2014-2020, **_CPS Track Chair: 2020, 2019_**. 

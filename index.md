@@ -85,7 +85,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
       <summary>Conference Program Committee Leadership</summary>
       <h3>Conference Program Committee Leadership</h3>  
         <ul>
-          <li><i>General Chair</i>: MathWorks Research Summit, 2023–. Bengaluru edition: 2026–</li>
+          <li><i>General Chair</i>: MathWorks Research Summit, Boston edition: 2023–, Bengaluru edition: 2026–</li>
           <li><i>Program (Co-)Chair</i>: 
             <ul>
               <li>International Conference on Assured Autonomy 2024</li>
