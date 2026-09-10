@@ -29,6 +29,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Runs before the build: a bad tag should be reported as a data error, not
+      # surface later as a filter chip that silently matches nothing.
+      - name: Validate _data against the topic vocabulary
+        run: |
+          set -euo pipefail
+          python -m pip install --quiet pyyaml
+          python scripts/check_data.py
+
       # Builds with the same github-pages gem set the live site uses, so the
       # implicit plugin stack above is reproduced rather than guessed at.
       - name: Build site
@@ -65,6 +73,34 @@ jobs:
               exit 1
             fi
           done
+
+      - name: Check the data-driven page rendered from _data
+        run: |
+          set -euo pipefail
+          page=_site/service-preview.html
+          [ -s "$page" ] || { echo "::error::$page missing or empty"; exit 1; }
+
+          # Content that exists ONLY in _data/service.yml. If the Liquid did not run
+          # against the data, these cannot appear.
+          for needle in 'CITest_CPS' 'data-topics=' 'topic-chip' "Insider's Guide" \
+                        'MCSC-Annual-Report-2023.pdf' '[Announcement]'; do
+            grep -qF "$needle" "$page" || { echo "::error::$page missing: $needle"; exit 1; }
+            echo "  ok    found: $needle"
+          done
+
+          # Unrendered Liquid is the failure mode that still produces a valid-looking
+          # page, so check for leftover delimiters explicitly.
+          if grep -qE '\{\{|\{%' "$page"; then
+            echo "::error::$page contains unrendered Liquid:"
+            grep -nE '\{\{|\{%' "$page" | head -5
+            exit 1
+          fi
+          echo "  ok    no unrendered Liquid"
+
+          # Every entry should have become a list item carrying its tags.
+          items=$(grep -c 'data-topics=' "$page")
+          echo "  ok    $items tagged entries rendered"
+          [ "$items" -ge 50 ] || { echo "::error::expected 50+ entries, got $items"; exit 1; }
 
       - name: Upload built site
         uses: actions/upload-artifact@v4
