@@ -1,0 +1,538 @@
+# Professional service — single source of truth.
+#
+# Built as the UNION of index.md and service.md, not a copy of either. Both had
+# content the other lacked: index.md alone had the ACM SIGBED board seat and the WPI
+# dates; service.md alone had the EGO Insider's Guide editorship, CITest_CPS, the
+# featured interviews, all student mentoring, teaching and outreach, and most URLs.
+#
+# Date convention, deliberately explicit so the "2020-2022 vs 2020-23" class of
+# drift cannot recur:
+#   start: <year> | unknown            required
+#   end:   <year> | ongoing | unknown  required; `ongoing` renders as an open range
+# A single-year item has end equal to start.
+#
+# `unknown` means NEITHER source recorded a date and it has not been invented. Nine
+# entries carry it today: eight PC memberships (ICCPS, HSCC, AnnSim, SummerSim,
+# WinterSim, FM, MPM4CPS, ICINCO) and the Springer book editorial board. The old
+# index.md PC list was entirely undated and service.md dated only some, so these are
+# genuinely missing facts rather than a migration bug — fill them in when known.
+# Renderers must omit the range for `unknown` rather than printing a placeholder.
+#
+# Links are a LIST, never a single `url:`. One URL per entry cannot express "the
+# announcement" and "the artifact" as different things - the MIT report is exactly
+# that case, where the /2024/05/16/ page is a news post about a PDF hosted elsewhere.
+# Each link carries its own label so a reader knows what they are about to open,
+# including when it is a 17 MB download. The same shape carries over to publications,
+# where pdf / doi / slides / video are all distinct destinations.
+#
+#   links:
+#     - {label: 'Report (PDF, 17 MB)', url: 'https://...'}
+#     - {label: Announcement, url: 'https://...'}
+#
+# `topics:` is validated against _data/topics.yml by scripts/check_data.py.
+# Membership is many-to-many on purpose: HSCC is a CPS venue *and* a formal
+# verification venue *and* a control venue, which is exactly what the old
+# single-parent nested list could not express.
+
+# The file declares its own contract; scripts/check_data.py enforces exactly this.
+# Publications declare a different one (title/authors/venue/year), which is why the
+# gate reads it from here rather than hard-coding one shape for every data file.
+required: [category, what, start, end, topics]
+
+categories:
+  - slug: government
+    name: Invited Expert for Government Agencies
+  - slug: advisory
+    name: Industry Advisory Boards and Committees
+  - slug: editorial
+    name: Editorial Work
+  - slug: chair
+    name: Conference Leadership
+  - slug: pc
+    name: Program Committee Membership
+  - slug: interview
+    name: Featured Interviews, Perspectives, and Quotes
+  - slug: mentoring
+    name: Student Mentoring
+  - slug: teaching
+    name: Teaching
+  - slug: competition
+    name: Student Competitions
+  - slug: outreach
+    name: STEM Outreach
+
+entries:
+
+  # ---------------------------------------------------------------- government
+  - category: government
+    role: Funding Review Panelist
+    what: National Science Foundation (NSF), Technology, Innovation, and Partnerships (TIP) Directorate
+    start: 2023
+    end: 2023
+    topics: [research-programs]
+
+  - category: government
+    role: User Advisory Committee Member
+    what: Dutch Research Council (NWO), Veni grant in Applied and Engineering Sciences
+    note: 'Principal Investigator: Prof. Sofie Haessaert'
+    start: 2021
+    end: ongoing
+    topics: [research-programs, formal-methods, control]
+
+  - category: government
+    role: Invited Panelist
+    what: NSF Formal Methods in the Field (FMiTF) Principal Investigators' Meeting
+    start: 2022
+    end: 2022
+    topics: [formal-methods, research-programs]
+
+  - category: government
+    role: Invited Participant
+    what: NIST/NSF/DoD Workshop on Simulation and Machine Learning in Robotics
+    start: 2018
+    end: 2018
+    topics: [modeling-simulation, ai, autonomy]
+
+  - category: government
+    role: Invited Speaker
+    what: >
+      NSF Visioning Workshop on International Networks for Advancing Cyber-Physical
+      Systems (CPS) Research, Development, and Education Worldwide, part of CPS Week
+      2018, Porto, Portugal
+    start: 2018
+    end: 2018
+    topics: [cps, research-programs, education]
+
+  - category: government
+    role: Invited Panelist
+    what: NIST CPS Framework Open Source Workshop, National Institute of Standards and Technology (NIST), Gaithersburg, MD
+    start: 2017
+    end: 2017
+    topics: [cps, research-programs]
+
+  - category: government
+    role: Invited Participant
+    what: >
+      Exploring the Dimensions of Trustworthiness: Challenges and Opportunities
+      Workshop, National Institute of Standards and Technology (NIST),
+      Gaithersburg, MD
+    start: 2016
+    end: 2016
+    topics: [cps, formal-methods]
+
+  # ------------------------------------------------------------------ advisory
+  - category: advisory
+    role: Board of Directors
+    what: ACM Special Interest Group on Embedded Systems (SIGBED)
+    start: 2025
+    end: ongoing
+    topics: [real-time, cps, research-programs]
+
+  - category: advisory
+    role: Industry Advisory Board
+    what: MIT Climate & Sustainability Consortium
+    start: 2021
+    end: 2023
+    topics: [climate, research-programs]
+
+  - category: advisory
+    role: Industry Challenge Technical Program Committee
+    what: Real-Time Systems Symposium (RTSS)
+    start: 2022
+    end: 2022
+    topics: [real-time, cps]
+
+  - category: advisory
+    role: Industry Advisory Committee on Autonomous Vehicles Curriculum
+    what: Robotics Engineering Program (now a Department), Worcester Polytechnic Institute
+    note: Autonomous Systems specialization coursework
+    start: 2017
+    end: 2018
+    topics: [autonomy, education]
+
+  - category: advisory
+    role: Industry Vice Chair
+    what: IFAC Conference on Analysis and Design of Hybrid Systems (ADHS)
+    start: 2018
+    end: 2018
+    topics: [cps, control, formal-methods]
+
+  - category: advisory
+    role: Industry Advisory Board
+    what: IEEE International Symposium on Circuits and Systems (ISCAS)
+    start: 2018
+    end: 2018
+    topics: [cps, real-time]
+
+  - category: advisory
+    role: Global Professional Advisory Community
+    what: Association for Computing Machinery (ACM)
+    start: 2017
+    end: 2017
+    topics: [research-programs]
+
+  # ----------------------------------------------------------------- editorial
+  - category: editorial
+    role: Associate Editor
+    what: Technology Conferences Editorial Board (TCEB), IEEE Control Systems Society
+    note: Requested step-down December 2022; role officially ended 2023
+    start: 2020
+    end: 2023
+    topics: [control, research-programs]
+
+  - category: editorial
+    role: Editorial Advisory Board Member
+    what: >
+      Resilience in Cyber-Physical Systems: From Risk Modelling to Threat
+      Counteraction
+    links:
+      - {label: Book, url: 'https://www.springer.com/gp/book/9783319955964'}
+      - {label: Series, url: 'https://www.springer.com/series/5540?detailsPage=titles'}
+    note: >
+      F. Flammini (Ed.), Springer book in the series Advanced Sciences and
+      Technologies for Security Applications, A. J. Masys (Series Ed.)
+    start: unknown
+    end: unknown
+    topics: [cps, formal-methods]
+
+  - category: editorial
+    role: Editor
+    what: EGO Insider's Guide, ECE Graduate Organization, Carnegie Mellon University
+    links:
+      - {label: 'Guide (PDF)', url: 'http://www.ece.cmu.edu/~ego/files/insiders/guide2012.pdf'}
+      - {label: EGO, url: 'https://www.ece.cmu.edu/~ego/'}
+    start: 2010
+    end: 2012
+    topics: [education]
+
+  # --------------------------------------------------------------------- chair
+  - category: chair
+    role: General Chair
+    what: MathWorks Research Summit, Boston edition
+    links:
+      - {label: Event, url: 'https://www.mathworks.com/company/events/research-summit.html'}
+    start: 2023
+    end: ongoing
+    topics: [research-programs]
+
+  - category: chair
+    role: General Chair
+    what: MathWorks Research Summit, Bengaluru edition
+    links:
+      - {label: Event, url: 'https://www.mathworks.com/company/events/research-summit.html'}
+    start: 2026
+    end: ongoing
+    topics: [research-programs]
+
+  - category: chair
+    role: Program Chair
+    what: MathWorks Research Summit, Boston edition
+    links:
+      - {label: Event, url: 'https://www.mathworks.com/company/events/research-summit.html'}
+    start: 2017
+    end: 2019
+    topics: [research-programs]
+
+  - category: chair
+    role: Program Chair
+    what: MathWorks Research Summit, Tokyo edition
+    links:
+      - {label: Event, url: 'https://www.mathworks.com/company/events/research-summit.html'}
+    start: 2016
+    end: 2019
+    topics: [research-programs]
+
+  - category: chair
+    role: Program Co-Chair
+    what: International Conference on Assured Autonomy (ICAA)
+    links:
+      - {label: Conference, url: 'https://icaa-conf.github.io/icaa2024/'}
+    start: 2024
+    end: 2024
+    topics: [autonomy, formal-methods, cps]
+
+  - category: chair
+    role: Artifact Evaluation Chair
+    what: Formal Modeling and Analysis of Timed Systems (FORMATS)
+    start: 2022
+    end: 2022
+    topics: [formal-methods, real-time]
+
+  - category: chair
+    role: Program Committee Chair
+    what: Fourth International Workshop on Monitoring and Testing of Cyber-Physical Systems (MT-CPS)
+    links:
+      - {label: Workshop, url: 'https://sites.google.com/berkeley.edu/mt-cps2019'}
+    start: 2019
+    end: 2019
+    topics: [cps, formal-methods]
+
+  - category: chair
+    role: CPS Track Chair
+    what: Spring Simulation Conference (SpringSim)
+    note: Track chaired in 2019 and 2020
+    start: 2019
+    end: 2020
+    topics: [cps, modeling-simulation]
+
+  - category: chair
+    role: CPS Track Chair
+    what: Winter Simulation Conference (WinterSim)
+    start: 2017
+    end: 2017
+    topics: [cps, modeling-simulation]
+
+  - category: chair
+    role: Awards Chair
+    what: 'Hybrid Systems: Computation and Control (HSCC)'
+    start: 2018
+    end: 2018
+    topics: [cps, formal-methods, control]
+
+  - category: chair
+    role: Demo and Poster Chair
+    what: 'Hybrid Systems: Computation and Control (HSCC)'
+    start: 2017
+    end: 2017
+    topics: [cps, formal-methods, control]
+
+  # ------------------------------------------------------------------------ pc
+  # Flat, with many-to-many topics. The old index.md grouped these under three
+  # headings ("Cyber-Physical Systems, etc.", "Modeling and Simulation", "Formal
+  # Verification"); those groupings are now renderings of these tags, not storage.
+  - category: pc
+    what: International Conference on Cyber-Physical Systems (ICCPS)
+    start: unknown
+    end: unknown
+    topics: [cps, real-time]
+
+  - category: pc
+    what: 'Hybrid Systems: Computation and Control (HSCC)'
+    start: unknown
+    end: unknown
+    topics: [cps, formal-methods, control]
+
+  - category: pc
+    what: Annual Modeling and Simulation Conference (AnnSim)
+    note: Successor to SpringSim and SummerSim
+    start: unknown
+    end: unknown
+    topics: [modeling-simulation]
+
+  - category: pc
+    what: Spring Simulation Conference (SpringSim)
+    start: 2014
+    end: 2020
+    topics: [modeling-simulation, cps]
+
+  - category: pc
+    what: Summer Simulation Conference (SummerSim)
+    start: unknown
+    end: unknown
+    topics: [modeling-simulation]
+
+  - category: pc
+    what: Winter Simulation Conference (WinterSim)
+    start: unknown
+    end: unknown
+    topics: [modeling-simulation, cps]
+
+  - category: pc
+    what: Formal Methods (FM)
+    start: unknown
+    end: unknown
+    topics: [formal-methods]
+
+  - category: pc
+    what: Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS)
+    start: unknown
+    end: unknown
+    topics: [cps, modeling-simulation]
+
+  - category: pc
+    what: International Conference on Informatics in Control, Automation and Robotics (ICINCO)
+    start: unknown
+    end: unknown
+    topics: [control, autonomy]
+
+  - category: pc
+    what: International Workshop on Formal Co-Simulation of Cyber-Physical Systems (CoSim-CPS)
+    start: 2017
+    end: ongoing
+    topics: [cps, formal-methods, modeling-simulation]
+
+  - category: pc
+    what: Numerical Software Verification Workshop (NSV)
+    start: 2018
+    end: 2019
+    topics: [formal-methods]
+
+  - category: pc
+    what: IFAC Conference on Analysis and Design of Hybrid Systems (ADHS)
+    start: 2015
+    end: ongoing
+    topics: [cps, control, formal-methods]
+
+  - category: pc
+    what: >
+      Workshop on Computational Intelligence Techniques for Testing and Validating
+      Complex Cyber-Physical Systems (CITest_CPS)
+    start: 2017
+    end: 2017
+    topics: [cps, ai, formal-methods]
+
+  # ----------------------------------------------------------------- interview
+  - category: interview
+    what: MIT Climate & Sustainability Consortium Impact Report
+    # The report itself is the citable artifact; the /2024/05/16/ page is the
+    # announcement about it. Both are kept because they answer different questions.
+    links:
+      - {label: 'Report (PDF, 17 MB)', url: 'https://impactclimate.mit.edu/wp-content/uploads/2024/05/MCSC-Annual-Report-2023.pdf'}
+      - {label: Announcement, url: 'https://impactclimate.mit.edu/2024/05/16/now-published-mcsc-impact-report-2023/'}
+    start: 2023
+    end: 2023
+    topics: [climate, research-programs]
+
+  - category: interview
+    what: Formal Methods (FM) Keynote Speaker Interviews
+    links:
+      - {label: Video, url: 'https://www.youtube.com/watch?v=BnANyL4H8i4'}
+    start: 2019
+    end: 2019
+    topics: [formal-methods, cps]
+
+  # ----------------------------------------------------------------- mentoring
+  - category: mentoring
+    role: External Thesis Committee Member
+    what: Rizwan Parveen, BITS Pilani, Goa, India
+    note: >
+      Advisor: Prof. Neena Goveas. Ph.D. thesis "Model Driven Approach For
+      Healthcare Cyber Physical Systems"
+    start: 2023
+    end: 2023
+    topics: [education, cps, modeling-simulation]
+
+  - category: mentoring
+    role: External Thesis Committee Member
+    what: Yi Deng, Rensselaer Polytechnic Institute
+    note: >
+      Advisor: Prof. A. Agung Julius. Ph.D. thesis "The Application of
+      Trajectory-Based Analysis for Hybrid Systems"
+    start: 2015
+    end: 2015
+    topics: [education, control, formal-methods]
+
+  - category: mentoring
+    role: Mentor
+    what: Amruta Namjoshi, M.Sc. candidate, University of Pune
+    note: Project trainee at Cummins India
+    start: 2004
+    end: 2004
+    topics: [education]
+
+  # ------------------------------------------------------------------ teaching
+  - category: teaching
+    role: Teaching Assistant
+    what: '18-474: Embedded Control Systems, Electrical and Computer Engineering, Carnegie Mellon University'
+    note: Spring 2011 and Spring 2010
+    start: 2010
+    end: 2011
+    topics: [education, control, real-time]
+
+  - category: teaching
+    role: Teaching Assistant
+    what: 'MATH 114: Calculus II, Mathematics Department, University of Pennsylvania'
+    note: Spring 2008 and Fall 2007
+    start: 2007
+    end: 2008
+    topics: [education]
+
+  - category: teaching
+    role: Teaching Assistant
+    what: 'ESE 210: Introduction to Dynamic Systems, Electrical and Systems Engineering, University of Pennsylvania'
+    start: 2007
+    end: 2007
+    topics: [education, control]
+
+  - category: teaching
+    role: Teaching Assistant
+    what: 'ESE 301: Introduction to Probability, Electrical and Systems Engineering, University of Pennsylvania'
+    start: 2006
+    end: 2006
+    topics: [education]
+
+  - category: teaching
+    role: Grader
+    what: >
+      OPIM 101: Introduction to Computer as an Analysis Tool, Operations and
+      Information Management Department (now Operations, Information and
+      Decisions), Wharton School, University of Pennsylvania
+    start: 2006
+    end: 2006
+    topics: [education]
+
+  # --------------------------------------------------------------- competition
+  - category: competition
+    role: MathWorks Technical Lead
+    what: CAT Vehicle Challenge, University of Arizona
+    note: 'Instructor: Prof. Jonathan Sprinkle'
+    start: 2017
+    end: 2017
+    topics: [autonomy, education, cps]
+
+  # Two entries, not one spanning 2016-2017: each year had its own competition and
+  # course pages. Collapsing them lost three of the four URLs service.md carried.
+  - category: competition
+    role: Judge
+    what: >
+      CPS V&V Grand Prix, final project competition for 15-424/15-624/15-824
+      Foundations of Cyber-Physical Systems, Carnegie Mellon University
+    links:
+      - {label: Competition, url: 'http://www.cs.cmu.edu/~aplatzer/course/fcps17-competition.html'}
+      - {label: Course, url: 'http://www.cs.cmu.edu/~aplatzer/course/fcps17.html'}
+      - {label: Host, url: 'http://www.cs.cmu.edu/~aplatzer/'}
+    note: 'Host: Prof. André Platzer. Judged May 2017'
+    start: 2017
+    end: 2017
+    topics: [cps, formal-methods, education]
+
+  - category: competition
+    role: Judge
+    what: >
+      CPS V&V Grand Prix, final project competition for 15-424/15-624/15-824
+      Foundations of Cyber-Physical Systems, Carnegie Mellon University
+    links:
+      - {label: Competition, url: 'http://www.cs.cmu.edu/~aplatzer/course/fcps16-competition.html'}
+      - {label: Course, url: 'http://www.cs.cmu.edu/~aplatzer/course/fcps16.html'}
+    note: 'Host: Prof. André Platzer. Judged May 2016'
+    start: 2016
+    end: 2016
+    topics: [cps, formal-methods, education]
+
+  # ------------------------------------------------------------------ outreach
+  - category: outreach
+    role: Panelist
+    what: New England Innovation Day, New England FIRST Robotics
+    note: 'Topic: STEM@Work'
+    start: 2021
+    end: 2021
+    topics: [education, autonomy]
+
+  - category: outreach
+    role: Laboratory Instructor
+    what: Summer Engineering Experience for Girls (SEE), Carnegie Mellon University
+    links:
+      - {label: Program, url: 'https://www.cmu.edu/ices/outreach/see/'}
+    start: 2009
+    end: 2009
+    topics: [education]
+
+  - category: outreach
+    role: Instructor
+    what: Social Educational Activity by IEEE Bombay Section
+    links:
+      - {label: IEEE Bombay Section, url: 'http://ieeebombay.org'}
+    note: 'Topic: Mobile Communications'
+    start: 2002
+    end: 2002
+    topics: [education]

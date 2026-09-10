@@ -1,0 +1,42 @@
+# Kinds of distinction a publication can carry — controlled vocabulary.
+#
+# Transcribed from the CV's `\key{...}` annotations in publications.tex. Note that
+# `\key` is a generic emphasis macro (`\textcolor{color1}{\textbf{\textit{#1}}}`)
+# used 33 times across the CV: 18 in experience.tex, 9 in service.tex, 2 in
+# education.tex and only 4 in publications.tex. So the CV does not record awards,
+# it records *bold coloured text that sometimes happens to be an award*. Anything
+# scraping `\key` would harvest 33 things and get 4 right. Hence a real field.
+#
+# Why kinds here and the exact name on the entry: the four distinctions are not
+# four instances of one thing.
+#
+#   * "William J. McCalla Best Paper Award" — a won, named best-paper award
+#   * "Best in Session Award"               — a won, session-level award
+#   * "Best Repeatability Evaluation Award Finalist" — a FINALIST, not a win
+#   * "Research Highlight"                  — CACM selection/reprint honour,
+#                                             not an award at all
+#
+# A flat `awards: [best-paper]` list would misreport the third as a win and the
+# fourth as an award. So each entry carries {kind, name, status} and `status` is
+# required: won | finalist | selected. Nothing may be presented as won unless it
+# says won.
+
+  - slug: best-paper
+    name: Best Paper Award
+    blurb: Best-paper awards and their named variants at a conference or journal.
+
+  - slug: session-award
+    name: Best in Session
+    blurb: Session- or track-level recognition, narrower than a venue-wide award.
+
+  - slug: repeatability
+    name: Repeatability and Artifact Evaluation
+    blurb: >
+      Recognition for artifacts that reproduce a paper's results, awarded by a
+      repeatability or artifact evaluation committee.
+
+  - slug: research-highlight
+    name: Research Highlight
+    blurb: >
+      Selection of already-published work for a wider audience, such as a
+      Communications of the ACM Research Highlight. A selection, not a contest.

@@ -1,0 +1,620 @@
+# PARTIAL SEED - 17 of roughly 45 publications. Read this header before using it.
+#
+# This file exists to exercise and prove the three new facets (orgs, distinctions,
+# mentored) against real data. It is deliberately NOT the full publication list:
+# transcribing all of publications.tex before the entry shape is agreed would mean
+# doing it twice. The 17 chosen are all of the Visioning Work section plus every
+# technical paper carrying an external affiliation, a distinction, or a mentored
+# coauthor - the ones that test something.
+#
+# Everything here is transcribed from AkshayRajhansCV_v11_AR/publications.tex. No
+# titles, venues, years or author lists are inferred.
+#
+# ---------------------------------------------------------------------------
+# THREE FACETS, NOT ONE TAG LIST
+#
+# `topics:`        what the work is about        (_data/topics.yml)
+# `orgs:`          external collaborator institutions   (_data/orgs.yml)
+# `distinctions:`  awards and honours           (_data/distinctions.yml)
+#
+# These are separate fields on purpose. Collapsing them into one namespace would
+# make `mcmaster`, `best-paper` and `cps` indistinguishable, so "show me McMaster
+# papers" and "show me award papers" would become the same query. Separate facets
+# also mean they compose: external AND best-paper AND formal-methods.
+#
+# ---------------------------------------------------------------------------
+# TWO THINGS ARE DERIVED, NEVER STORED
+#
+# "Externally coauthored" is `orgs` being non-empty. There is no `external: true`
+# flag, because external is relative to where I was at the time, and that changed:
+# Penn, then CMU, then MathWorks. A CMU coauthor is external in 2025 and was
+# internal in 2013. A stored boolean would be wrong for half the list the moment
+# it was written; a derivation is right forever. The CV already gets this right by
+# only annotating when the coauthor is external.
+#
+# Affiliation is also per-paper, not per-person, for the same reason. Claudio
+# Menghi is on P(2024) as McMaster University and on P(2025) as University of
+# Bergamo. He moved. A single people-registry field would have to be wrong about
+# one of the two papers, so `orgs` is recorded on the publication.
+#
+# And one author can carry more than one affiliation on a single paper, so `orgs`
+# is a UNION over authors, never one entry per author. Menghi is Bergamo *and*
+# McMaster on both the FSE 2025 and TSE 2024 papers; Fujita is Tokyo Tech and
+# U. Tokyo, and Bauer is three institutions, on the CSM 2024 paper. The CV loses
+# these: `\with{...}` holds one string per paper, so it records whichever
+# institution was written first and silently drops the rest. Checked per paper
+# against Crossref/OpenAlex - the TSE 2025 paper really is Bergamo-only, so this
+# is not a blanket "add both" rule.
+#
+# "Mentored coauthor" is `mentored` being non-empty. The CV marks these with $^*$
+# and its legend reads: "$^*$ indicates research interns mentored or students I
+# served on the PhD Thesis Committee of". Names in `mentored` must also appear in
+# `authors` - scripts/check_data.py enforces that, so the two cannot drift.
+#
+# ---------------------------------------------------------------------------
+# STILL UNMODELLED, and visible in the entries below as `note:`
+#
+# NOT INCLUDED, and needs a decision: "Control for Societal-scale Challenges: Road
+# Map 2030" (IEEE CSS, 2023). Its CV annotation reads "several dozen coauthor
+# affiliations"; the real number is about 120 named authors, and ieeecss.org
+# publishes the names without affiliations. PDF:
+# https://ieeecss.org/sites/ieeecss/files/2023-05/CSS_Roadmap_2023_Cover_8x10_FINAL_REV5.pdf
+#
+# Tagging one entry with ~100 institutions would be worse than leaving it blank.
+# `orgs` is read as "institutions I coauthored with", and on a 120-author community
+# roadmap that claim does not hold - it would make the entry match nearly every
+# org filter, drown out the papers where the collaboration was real, and add ~80
+# slugs used exactly once. Scale changes what the facet means. Options: leave orgs
+# empty and record the author count instead; or add a `scale: community` marker so
+# filters can exclude consensus documents. Not decided, so not entered.
+#
+# ---------------------------------------------------------------------------
+# ONE WORK OR TWO? THE DOI DECIDES.
+#
+# Papers can appear twice for two completely different reasons, and conflating them
+# either inflates the list or hides a real paper. The test is mechanical:
+#
+#   A SEPARATE DOI IN A SEPARATE VENUE IS A SEPARATE ARTIFACT.
+#
+#   Distinct DOIs  -> two entries, cross-linked with `related:`. Each counts.
+#   No second DOI  -> one entry, second appearance recorded in `also_appeared:`.
+#                     Does not count again.
+#
+# Worked both ways from the actual records rather than from memory:
+#
+#   L-CSS 2021 + ACC 2021 (the traffic-lights paper) has TWO DOIs -
+#   10.1109/LCSYS.2020.3047332 (journal-article) and
+#   10.23919/ACC50511.2021.9483298 (proceedings-article). Two entries.
+#
+#   TSE 2024 + FSE 2024 Journal First (the Simulink testing paper) has ONE DOI.
+#   Crossref has no FSE proceedings record: the Journal First track is a talk slot,
+#   not a second publication. One entry, `also_appeared`.
+#
+# The CV gets the first case wrong in the safe direction and the site gets it wrong
+# in the unsafe one. The CV folds L-CSS and ACC into a single item whose prose says
+# "Also presented at the American Control Conference (ACC) 2021" - and both DOIs are
+# sitting in publications.tex COMMENTED OUT, because there was nowhere to put a
+# second one. Both site pages list it twice, which is why index.md reaches P29 while
+# the CV stops at P28. Same three sources, three different publication counts.
+#
+# The mechanical test is preferred over "is it really the same paper" precisely
+# because that judgement can be answered differently by two copies of a CV, and was.
+#
+# ---------------------------------------------------------------------------
+# WHY `id` EXISTS: P-NUMBERS ARE NOT IDENTITY
+#
+# The CV's P-numbers are positional and reverse-ordered, so they cannot name a
+# paper: the CV tops out at P28, index.md at P29, and publications.md skips P7
+# outright. "P6" is not a fact about a paper. `id` is a stable slug, and it is what
+# `related:` points at and what permalinks will use.
+#
+# ---------------------------------------------------------------------------
+# THE SAME-TITLE HAZARD
+#
+# P6 (ICCAD 2011) and P11 (CACM 2013) have the same title AND the same six authors,
+# but different content - the CACM Research Highlight is a rewrite for a general
+# audience. They are two works and count as two. Keeping them separate creates a new
+# way to drift, though: one copy can gain a topic or an institution while its twin
+# does not, and because the titles match nobody notices. scripts/check_data.py now
+# warns when two entries share a title and disagree on authors/orgs/topics, or share
+# warns when two entries share a title and disagree on authors/orgs/topics, or share
+# a title without a `related:` link naming the twin. It found this pair unprompted.
+#
+# ---------------------------------------------------------------------------
+# WRITE EACH RELATION ONCE, IN ONE DIRECTION
+#
+# `related:` is authored on ONE of the two entries - by convention the later or
+# derivative one, pointing back. The renderer shows the inverse on the far side
+# (revises/revised-as, extends/extended-by, presented-as/presented-at, and the
+# symmetric companion), so the reverse must NOT be written out.
+#
+# This is not a style preference. The first draft of these three links wrote both
+# halves, and two copies of one fact are free to disagree - which is the failure this
+# whole data model exists to stop. check_data.py now rejects a relation declared from
+# both sides, so the rule holds without anyone remembering it.
+#
+# ---------------------------------------------------------------------------
+# STILL OPEN: `kind:` (FULL PAPER vs TOOL PAPER vs ABSTRACT)
+#
+# Nothing here records weight. The FAC/CAV 2011 entry is a two-page extended abstract
+# whose PDF still asks for "oral or poster presentation"; the TSE articles are full
+# journal papers. The CV once kept them apart under an `Abstracts` heading, now
+# commented out at publications.tex:141, and promoted its six members into the main
+# list unchanged - so an abstract and a journal article currently count the same.
+# Flagged, not decided: it changes what every publication count on the site means.
+
+required: [id, category, title, authors, venue, year, topics]
+
+categories:
+  - slug: visioning
+    name: Visioning Work
+  - slug: journal
+    name: Journal Articles
+  - slug: conference
+    name: Conference Papers
+
+entries:
+
+  # =========================================================== visioning work
+  # Every entry in this section except the two-author NSF one carries external
+  # orgs, because visioning work is collaborative by its nature. That makes
+  # "externally coauthored" a near-useless filter *within* this category and
+  # "which institutions" the only interesting question - which is exactly what
+  # the CV's "more than a dozen coauthor affiliations" prose could not answer.
+
+  - category: visioning
+    id: rajhans-vvc-ai-cps
+    title: 'Verification, Validation, and Certification of AI-Enabled Industrial Cyber-Physical Systems: Trends and Applications'
+    authors:
+      - Akshay Rajhans
+      - Lucas Garcia
+      - Antoni Woss
+      - Ramesh S
+      - Arun Adiththan
+      - Prakash Peranandam
+      - Meeko Oishi
+      - Thao Dang
+      - Pierluigi Nuzzo
+      - Sumit Jha
+    venue: Under review
+    year: unknown
+    orgs: [gm, unm, grenoble-alpes, uc-berkeley, ufl]
+    topics: [cps, ai, formal-methods, autonomy]
+
+  # 16 external institutions, instantiated from the paper. The CV said "more than
+  # a dozen coauthor affiliations"; this is which dozen. Two authors carry more
+  # than one affiliation (Fujita: Tokyo Tech and U. Tokyo; Bauer: Universitat
+  # Hamburg, HAW Hamburg and Lund), so orgs is a union, not one per author.
+  #
+  # The CV spells the 16th author "Juanid Zafar". Both the paper's own authorship
+  # record and the Road Map 2030 author list say "Junaid Zafar" - corrected here.
+  - category: visioning
+    id: khargonekar-climate-csm-2024
+    title: 'Climate Change Mitigation, Adaptation, and Resilience: Challenges and Opportunities for the Control Systems Community'
+    authors:
+      - Pramod Khargonekar
+      - Tariq Samad
+      - Saurabh Amin
+      - Aranya Chakrabortty
+      - Fabrizio Dabbene
+      - Amritam Das
+      - Masayuki Fujita
+      - Mario Garcia-Sanz
+      - Dennice Gayme
+      - Marija Ilic
+      - Iven Mareels
+      - Kevin L. Moore
+      - Lucy Y. Pao
+      - Akshay Rajhans
+      - Jakob Stoustrup
+      - Junaid Zafar
+      - Margret Bauer
+    venue: 'IEEE Control Systems Magazine, Volume 44, Issue 3, Pages 33-51'
+    year: 2024
+    links:
+      - {label: DOI, url: 'https://doi.org/10.1109/MCS.2024.3382377'}
+    orgs: [uc-irvine, minnesota, mit, ncsu, cnr-ieiit, tu-eindhoven, tokyo-tech,
+           u-tokyo, case-western, johns-hopkins, federation, colorado-mines,
+           cu-boulder, aalborg, enbridge, hamburg, haw-hamburg, lund]
+    topics: [climate, control, research-programs]
+
+  - category: visioning
+    id: sarjoughian-ms-workforce-wsc-2021
+    title: 'Challenges in Satisfying the Need and Promotion of Modeling & Simulation Workforce'
+    authors:
+      - Hessam S. Sarjoughian
+      - Edward J. Yellig
+      - James J. Nutaro
+      - Akshay Rajhans
+    venue: Proceedings of the 2021 Winter Simulation Conference
+    year: 2021
+    orgs: [asu, intel, ornl]
+    topics: [modeling-simulation, education]
+
+  - category: visioning
+    id: allgower-cps-position-nahs-2019
+    title: Position Paper on the Challenges Posed by Modern Applications to Cyber-Physical Systems Theory
+    authors:
+      - Frank Allgöwer
+      - João Borges de Sousa
+      - James Kapinski
+      - Pieter J. Mosterman
+      - Jens Oehlerking
+      - Patrick Panciatici
+      - Maria Prandini
+      - Akshay Rajhans
+      - Paulo Tabuada
+      - Philipp Wenzelburger
+    venue: 'Nonlinear Analysis: Hybrid Systems, Volume 34, Pages 147-165'
+    year: 2019
+    orgs: [stuttgart, porto, toyota, bosch, rte-france, polimi, ucla]
+    topics: [cps, control, formal-methods]
+
+  - category: visioning
+    id: donze-tools-perspective-dagstuhl-2019
+    title: Tools Perspective
+    authors:
+      - Alexandre Donzé
+      - Akshay Rajhans
+    venue: 'Dagstuhl Seminar 19071: Specification Formalisms for Modern Cyber-Physical Systems'
+    year: 2019
+    links:
+      - {label: DOI, url: 'https://doi.org/10.4230/DagRep.9.2.48'}
+    orgs: [decyphir]
+    topics: [cps, formal-methods]
+
+  # No `orgs` on purpose, and the only visioning entry without them: both authors
+  # were at MathWorks. This is what makes "externally coauthored" a derivation
+  # rather than a flag - nothing had to be set to false here.
+  - category: visioning
+    id: rajhans-cps-collaboration-nsf-2018
+    title: A Vision for Application-Focused International Collaboration Networks in Cyber-Physical Systems
+    authors:
+      - Akshay Rajhans
+      - Pieter J. Mosterman
+    venue: >
+      NSF Visioning Workshop for International Collaborations for Advancing CPS
+      Research, Development, and Education Worldwide, part of CPS Week 2018
+    year: 2018
+    topics: [cps, research-programs, education]
+
+  # Both the byline and the affiliations come from the report itself (local copy
+  # under files/papers/, final version dated September 30, 2018). Page 1 carries
+  # all 25 authors; section 1, "Event Logistics", names each participant with
+  # their affiliation, so nothing here is reconstructed.
+  #
+  # That first-party list overturned four guesses made from the NIST web page:
+  # USAMRMC, DARPA and AFOSR were *observers* (federal employees attending in an
+  # observer capacity), not coauthors; and Karen Liu is Georgia Tech on this
+  # report, not Stanford - she moved later, which is again why affiliation is
+  # recorded per paper. It also added one the web page hid: Dan Negrut is listed
+  # there as an organizer, but he is a coauthor, so Wisconsin-Madison belongs.
+  #
+  # Kept as spelled on page 1: "Evan Drumwright". The report's own section 1 and
+  # the NIST page both write "Drumright"; the byline is treated as authoritative.
+  - category: visioning
+    id: anderson-robotics-simulation-nist-2018
+    title: On the Use of Modeling and Simulation in Robotics
+    authors:
+      - Stuart Anderson
+      - Byron Boots
+      - Arunkumar Byravan
+      - Evan Drumwright
+      - Christian Duriez
+      - Dieter Fox
+      - Gregory Hager
+      - Jessica Hodgins
+      - Abhinandan Jain
+      - Ashish Kapoor
+      - Daniel Koditschek
+      - Nate Koenig
+      - Edward Lee
+      - Chen Li
+      - Karen Liu
+      - Franziska Meier
+      - Dan Negrut
+      - Akshay Rajhans
+      - Ludovic Righetti
+      - Alberto Rodriguez
+      - Stefan Schaal
+      - Jie Tan
+      - Yuval Tassa
+      - Emanuel Todorov
+      - Jeff Trinkle
+    venue: Workshop Report, NIST/NSF/DoD Workshop on Simulation and Machine Learning in Robotics
+    year: 2018
+    links:
+      - {label: PDF, url: '/files/papers/AndersonBB+_RoboWorkshop18.pdf'}
+      - {label: Workshop, url: 'https://www.nist.gov/news-events/events/2018/04/simulation-and-machine-learning-robotics'}
+    note: >
+      Workshop held April 17, 2018 at NIST Gaithersburg; report cosigned by all
+      25 invited participants and organizers. The CV byline is "Stuart Anderson,
+      et al." - the full author list is recorded here instead.
+    orgs: [nvidia, georgia-tech, uw, gwu, inria, johns-hopkins, cmu, jpl,
+           microsoft, penn, open-robotics, uc-berkeley, mpi-is, wisconsin, nyu,
+           mit, usc, google, deepmind, rpi]
+    topics: [modeling-simulation, autonomy, ai, cps]
+
+  # CMU and Penn appear as *external* here, which is the point of not storing an
+  # `external` flag: both were home institutions earlier in the CV.
+  - category: visioning
+    id: tolk-hybrid-simulation-panel-springsim-2018
+    title: 'Hybrid Simulation for Cyber-Physical Systems - A Panel on Where we are Going Regarding Complexity, Intelligence, and Adaptability of CPS Using Simulation'
+    authors:
+      - Andreas Tolk
+      - Fernando Barros
+      - Andrea D'Ambrogio
+      - Akshay Rajhans
+      - Pieter J. Mosterman
+      - Sachin S. Shetty
+      - Mamadou K. Traoré
+      - Hans Vangheluwe
+      - Levent Yilmaz
+    venue: Spring Simulation Multi-Conference (SpringSim)
+    year: 2018
+    orgs: [mitre, coimbra, rome-tor-vergata, old-dominion, clermont-auvergne,
+           antwerp, auburn]
+    topics: [cps, modeling-simulation]
+
+  # ==================================================== technical publications
+
+  # ----------------------------------------------------------- orgs + mentored
+  # `orgs` is [bergamo, mcmaster], not [bergamo] as the CV has it. Claudio Menghi
+  # is dual-affiliated on this paper - Crossref and OpenAlex both list "University
+  # of Bergamo, Bergamo, Italy" and "McMaster University, Hamilton, Canada" against
+  # his name. The CV's `\with{University of Bergamo}` keeps only one, because a
+  # single prose string has nowhere to put the second. A list does.
+  - category: conference
+    id: zanenga-theano-fse-2025
+    title: 'Theano: A Tool for Verifying the Consistency and Completeness in Tabular Requirements'
+    authors:
+      - Aurora Francesca Zanenga
+      - Nunzio Marco Bisceglia
+      - Benedetta Ippoliti
+      - Andrea Bombarda
+      - Angelo Gargantini
+      - Akshay Rajhans
+      - Claudio Menghi
+    venue: 'Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering (FSE Companion), Pages 1148-1152'
+    year: 2025
+    links:
+      - {label: DOI, url: 'https://doi.org/10.1145/3696630.3728599'}
+      - {label: Preprint, url: '/files/papers/ZanengaBI+_FSE_2025.pdf'}
+    orgs: [bergamo, mcmaster]
+    topics: [formal-methods, modeling-simulation]
+
+  # Checked against the per-paper record, and genuinely single-affiliation: Menghi
+  # is Bergamo only here, so [bergamo] is right. Worth stating, because the two
+  # papers either side of this one both needed a second institution added - the
+  # dual affiliation is per paper, not a blanket property of the coauthor.
+  - category: journal
+    id: menghi-tabular-smt-tse-2025
+    title: 'Completeness and Consistency of Tabular Requirements: an SMT-Based Verification Approach'
+    authors:
+      - Claudio Menghi
+      - Eugene Balai
+      - Darren Valovcin
+      - Christoph Sticksel
+      - Akshay Rajhans
+    venue: 'IEEE Transactions on Software Engineering, Volume 51, Issue 2'
+    year: 2025
+    links:
+      - {label: DOI, url: 'https://doi.org/10.1109/TSE.2025.3530820'}
+      - {label: Preprint, url: '/files/papers/MengiBV+_TSE2025.pdf'}
+    orgs: [bergamo]
+    topics: [formal-methods, modeling-simulation]
+
+  # Same dual-affiliation fix as the Theano entry, in the opposite direction: the
+  # CV's `\with{McMaster University}` is missing Bergamo, which Menghi also carries
+  # on this paper. `year` is the issue year (Feb 2024); the DOI is a 2023 one
+  # because IEEE assigned it at early access.
+  - category: journal
+    id: formica-simulink-testing-tse-2024
+    title: Simulation-based Testing of Simulink Models with Test Sequence and Test Assessment Blocks
+    authors:
+      - Federico Formica
+      - Tony Fan
+      - Akshay Rajhans
+      - Vera Pantelic
+      - Mark Lawford
+      - Claudio Menghi
+    venue: 'IEEE Transactions on Software Engineering, Volume 50, Issue 2'
+    year: 2024
+    links:
+      - {label: DOI, url: 'https://doi.org/10.1109/TSE.2023.3343753'}
+      - {label: Preprint, url: 'https://arxiv.org/abs/2212.11589'}
+    orgs: [mcmaster, bergamo]
+    # One entry, not two: Crossref has no FSE 2024 proceedings record for this
+    # title, so the Journal First appearance carries no DOI of its own. It is a
+    # talk slot the journal paper was invited into, and it counts once.
+    also_appeared:
+      - venue: 'ACM International Conference on the Foundations of Software Engineering (FSE), Journal First track'
+        year: 2024
+        track: journal-first
+    topics: [formal-methods, modeling-simulation, cps]
+
+  # --------------------------------------------- two DOIs, therefore two entries
+  # The L-CSS/ACC arrangement publishes the paper in the journal and presents it at
+  # the conference, and IEEE issues a separate DOI for the proceedings version:
+  #   10.1109/LCSYS.2020.3047332      journal-article
+  #   10.23919/ACC50511.2021.9483298  proceedings-article
+  # Two DOIs in two venues, so two artifacts. Contrast the Formica TSE 2024 entry
+  # above, where the FSE Journal First slot produced no second DOI and counts once.
+  # The CV lists only the journal version; the ACC one is what it missed.
+  #
+  # Every facet below is duplicated deliberately. Two entries for one piece of work
+  # means two places for a topic or an institution to be added, so check_data.py
+  # warns if same-title entries stop agreeing.
+  - category: journal
+    id: rodriguez-traffic-lights-lcss-2021
+    title: A Gradient-Based Approach for Coordinating Smart Vehicles and Traffic Lights at Intersections
+    authors:
+      - Manuel Rodriguez
+      - Xiangxue Zhao
+      - Hayley Song
+      - Anastasia Mavrommati
+      - Roberto G. Valenti
+      - Akshay Rajhans
+      - Pieter J. Mosterman
+      - Yancy Diaz-Mercado
+      - Hosam Fathy
+    venue: 'IEEE Control Systems Letters (L-CSS), Volume 5, Issue 6'
+    year: 2021
+    links:
+      - {label: DOI, url: 'https://doi.org/10.1109/LCSYS.2020.3047332'}
+    orgs: [umd]
+    mentored: [Manuel Rodriguez, Xiangxue Zhao, Hayley Song]
+    related:
+      - id: rodriguez-traffic-lights-acc-2021
+        how: presented-as
+    topics: [control, autonomy, cps]
+
+  - category: conference
+    id: rodriguez-traffic-lights-acc-2021
+    title: A Gradient-Based Approach for Coordinating Smart Vehicles and Traffic Lights at Intersections
+    authors:
+      - Manuel Rodriguez
+      - Xiangxue Zhao
+      - Hayley Song
+      - Anastasia Mavrommati
+      - Roberto G. Valenti
+      - Akshay Rajhans
+      - Pieter J. Mosterman
+      - Yancy Diaz-Mercado
+      - Hosam Fathy
+    venue: American Control Conference (ACC)
+    year: 2021
+    links:
+      - {label: DOI, url: 'https://doi.org/10.23919/ACC50511.2021.9483298'}
+    orgs: [umd]
+    mentored: [Manuel Rodriguez, Xiangxue Zhao, Hayley Song]
+    # The journal entry declares `presented-as` against this one; `presented-at`
+    # is derived here rather than restated.
+    topics: [control, autonomy, cps]
+
+  - category: conference
+    id: deng-strong-qest-2013
+    title: 'STRONG: A Trajectory-Based Verification Toolbox for Hybrid Systems'
+    authors:
+      - Yi Deng
+      - Akshay Rajhans
+      - A. Agung Julius
+    venue: 10th International Conference on Quantitative Evaluation of SysTems (QEST)
+    year: 2013
+    orgs: [rpi]
+    mentored: [Yi Deng]
+    topics: [formal-methods, control, cps]
+
+  # ------------------------------------------------------ orgs + distinctions
+  - category: conference
+    id: visnevski-execution-managers-dasc-2020
+    title: Automatic Synthesis of Information Flow Driven Execution Managers for Embedded Software Applications
+    authors:
+      - Nikita Visnevski
+      - Teresa Hubscher-Younger
+      - Akshay Rajhans
+      - Baoluo Meng
+    venue: AIAA/IEEE Digital Avionics Systems Conference (DASC)
+    year: 2020
+    orgs: [ge-research]
+    distinctions:
+      - {kind: session-award, name: Best in Session Award, status: won}
+    topics: [cps, real-time]
+
+  # ------------------------------------------------------------- distinctions
+  # A finalist, not a win. `status` is what keeps that true in every rendering.
+  - category: conference
+    id: rajhans-graphical-modeling-hscc-2018
+    title: Graphical Modeling of Hybrid Dynamics with Simulink and Stateflow
+    authors:
+      - Akshay Rajhans
+      - Srinath Avadhanula
+      - Alongkrit Chutinan
+      - Pieter J. Mosterman
+      - Fu Zhang
+    venue: '21st ACM International Conference on Hybrid Systems: Computation and Control (HSCC)'
+    year: 2018
+    # files/papers/ holds two PDFs whose titles differ by four words. The second is
+    # the repeatability-evaluation package - the artifact the finalist distinction
+    # was awarded for, not a second publication. It hangs off this entry as a link,
+    # which is the third thing a near-duplicate can turn out to be: neither a
+    # separate work nor the same work twice, but evidence attached to one work.
+    links:
+      - {label: Paper, url: '/files/papers/RajhansAC+_HSCC18.pdf'}
+      - {label: Repeatability package, url: '/files/papers/RajhansAC+_HSCC18_RE.pdf'}
+    distinctions:
+      - {kind: repeatability, name: Best Repeatability Evaluation Award Finalist, status: finalist}
+    topics: [cps, modeling-simulation, control]
+
+  # ---------------------------------------------- the three-artifact PLL family
+  # FAC/CAV 2011 abstract -> ICCAD 2011 paper -> CACM 2013 Research Highlight.
+  # Three artifacts, three entries, three counts. The abstract and the paper have
+  # different titles so nothing forces them together; the paper and the highlight
+  # share a title and are held apart only by `related:` and the ids.
+  - category: journal
+    id: althoff-pll-cacm-2013
+    title: Formal Verification of Phase-Locked Loops Using Reachability Analysis and Continuization
+    authors:
+      - Matthias Althoff
+      - Akshay Rajhans
+      - Bruce H. Krogh
+      - Soner Yaldiz
+      - Xin Li
+      - Larry Pileggi
+    venue: 'Communications of the ACM, Volume 56, Issue 10, Pages 97-104'
+    year: 2013
+    distinctions:
+      - {kind: research-highlight, name: Research Highlight, status: selected}
+    related:
+      - id: althoff-pll-iccad-2011
+        how: revises
+        note: >
+          Rewritten for a general computing audience. Same title and same six
+          authors as the ICCAD paper, different text - which is why the two are
+          counted separately and why Google Scholar merges their citations.
+    topics: [formal-methods, cps]
+
+  - category: conference
+    id: althoff-pll-iccad-2011
+    title: Formal Verification of Phase-Locked Loops Using Reachability Analysis and Continuization
+    authors:
+      - Matthias Althoff
+      - Akshay Rajhans
+      - Bruce H. Krogh
+      - Soner Yaldiz
+      - Xin Li
+      - Larry Pileggi
+    venue: IEEE/ACM International Conference on Computer-Aided Design (ICCAD)
+    year: 2011
+    distinctions:
+      - {kind: best-paper, name: William J. McCalla Best Paper Award, status: won}
+    # Only the backward link is authored. The CACM entry declares `revises` against
+    # this one, and the renderer shows `revised-as` here without it being restated.
+    related:
+      - id: althoff-pll-fac-2011
+        how: extends
+    topics: [formal-methods, cps]
+
+  # A two-page extended abstract at an informal workshop - no DOI, no proceedings
+  # in Crossref, and the PDF's own header still asks for "oral or poster
+  # presentation". The CV filed it under a now-commented-out `Abstracts` heading
+  # (publications.tex:141) and later promoted it into the main list unchanged, so a
+  # 2-page abstract and a 12-page journal article now count the same. That is the
+  # open `kind:` question, flagged rather than decided here.
+  - category: conference
+    id: althoff-pll-fac-2011
+    title: Using Continuization in Reachability Analysis for the Verification of a Phase-Locked Loop
+    authors:
+      - Matthias Althoff
+      - Akshay Rajhans
+      - Bruce H. Krogh
+      - Soner Yaldiz
+      - Xin Li
+      - Larry Pileggi
+    venue: 'Frontiers in Analog Circuit Synthesis and Verification (FAC), co-located with Computer-Aided Verification (CAV), Snowbird, UT'
+    year: 2011
+    links:
+      - {label: Abstract, url: '/files/papers/AlthoffRK+_FAC11.pdf'}
+    # No `related` here on purpose: the ICCAD entry declares `extends` against this
+    # abstract, and the renderer derives `extended-by` for this side.
+    topics: [formal-methods, cps]

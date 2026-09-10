@@ -1,0 +1,251 @@
+# External collaborator institutions — controlled vocabulary.
+#
+# Transcribed from the `\with{...}` annotations in the CV's publications.tex.
+# That macro is `\newcommand{\with}[1]{\textcolor{color2}{[with \textbf{#1}]}}` —
+# i.e. the institution list lives inside a *formatting* command, as one
+# comma-delimited string. Three consequences that this file fixes:
+#
+#   1. "Decyphir, Inc." contains the delimiter. Any naive comma split turns one
+#      company into "Decyphir" and "Inc.". A list cannot have that bug.
+#   2. Three entries gave up and wrote prose instead of names: "more than a dozen
+#      coauthor affiliations" (x2) and "several dozen coauthor affiliations". Those
+#      affiliations are simply not recorded anywhere and are not invented here.
+#   3. "University of Rome" is ambiguous — Sapienza, Tor Vergata and Roma Tre are
+#      all "University of Rome". Flagged below rather than guessed.
+#
+# `kind` is what makes "industry collaborations" and "academic collaborations"
+# answerable without a second tag: academic | industry | lab | nonprofit.
+#
+# Deliberately NOT stored here: country. Guessing 31 countries invites exactly the
+# kind of plausible-but-unverified fact this project already got burned by once.
+# The right fix is a ROR ID (ror.org) per institution — the ORCID equivalent for
+# organisations — which carries country, aliases and a stable identifier so
+# "University of Bergamo" cannot drift into "Univ. of Bergamo". Add `ror:` when
+# looked up; the gate will accept it.
+#
+# There is no `external: true` flag anywhere, on purpose. See publications.yml.
+
+  - slug: bergamo
+    name: University of Bergamo
+    kind: academic
+  - slug: mcmaster
+    name: McMaster University
+    kind: academic
+  - slug: rpi
+    name: Rensselaer Polytechnic Institute
+    kind: academic
+  - slug: umd
+    name: University of Maryland
+    kind: academic
+  - slug: gwu
+    name: George Washington University
+    kind: academic
+  - slug: asu
+    name: Arizona State University
+    kind: academic
+  - slug: auburn
+    name: Auburn University
+    kind: academic
+  - slug: old-dominion
+    name: Old Dominion University
+    kind: academic
+  - slug: unm
+    name: University of New Mexico
+    kind: academic
+  - slug: ufl
+    name: University of Florida
+    kind: academic
+  - slug: ucla
+    name: University of California, Los Angeles
+    kind: academic
+  - slug: uc-berkeley
+    name: University of California, Berkeley
+    kind: academic
+  - slug: stuttgart
+    name: University of Stuttgart
+    kind: academic
+  - slug: porto
+    name: University of Porto
+    kind: academic
+  - slug: polimi
+    name: Politecnico di Milano
+    kind: academic
+  - slug: genova
+    name: University of Genova
+    kind: academic
+  - slug: coimbra
+    name: University of Coimbra
+    kind: academic
+  # Was "University of Rome" in the CV, which is ambiguous - Sapienza, Tor Vergata
+  # and Roma Tre all answer to it. Resolved via OpenAlex on the SpringSim 2018 panel
+  # paper: the coauthor is Andrea D'Ambrogio, University of Rome Tor Vergata.
+  - slug: rome-tor-vergata
+    name: University of Rome Tor Vergata
+    kind: academic
+  - slug: clermont-auvergne
+    name: Université Clermont Auvergne
+    kind: academic
+  - slug: grenoble-alpes
+    name: Université Grenoble Alpes
+    kind: academic
+  - slug: antwerp
+    name: University of Antwerp
+    kind: academic
+
+  - slug: iit
+    name: Istituto Italiano di Tecnologia
+    kind: lab
+  - slug: ornl
+    name: Oak Ridge National Laboratory
+    kind: lab
+
+  - slug: mitre
+    name: MITRE
+    kind: nonprofit
+
+  - slug: toyota
+    name: Toyota
+    kind: industry
+  - slug: bosch
+    name: Bosch
+    kind: industry
+  - slug: rte-france
+    name: RTE France
+    kind: industry
+  - slug: gm
+    name: General Motors
+    kind: industry
+  - slug: ge-research
+    name: GE Research
+    kind: industry
+  - slug: intel
+    name: Intel
+    kind: industry
+  - slug: decyphir
+    name: Decyphir, Inc.
+    kind: industry
+
+  # ---------------------------------------------------------------------------
+  # Instantiated 2026-09-10 from the two entries whose CV annotation read "more
+  # than a dozen coauthor affiliations". Visioning work is externally coauthored
+  # almost by definition, so the useful question there is never "was this
+  # external" but "with whom" - which the prose escape could not answer.
+  #
+  # Provenance: IEEE Control Systems Magazine 2024 affiliations come from the
+  # OpenAlex per-paper authorship records for doi:10.1109/mcs.2024.3382377, i.e.
+  # the affiliation strings on that paper, not from author profiles. Author-name
+  # search was tried and rejected: it collides badly (querying "Thao Dang" and
+  # "Sumit Kumar Jha" returns different researchers of the same name), so only
+  # per-paper records are trusted here.
+  # ---------------------------------------------------------------------------
+
+  # IEEE Control Systems Magazine 2024, climate change and control - 17 authors.
+  - slug: uc-irvine
+    name: University of California, Irvine
+    kind: academic
+  - slug: minnesota
+    name: University of Minnesota
+    kind: academic
+  - slug: mit
+    name: Massachusetts Institute of Technology
+    kind: academic
+  - slug: ncsu
+    name: North Carolina State University
+    kind: academic
+  - slug: tu-eindhoven
+    name: Eindhoven University of Technology
+    kind: academic
+  - slug: tokyo-tech
+    name: Tokyo Institute of Technology
+    kind: academic
+  - slug: u-tokyo
+    name: The University of Tokyo
+    kind: academic
+  - slug: case-western
+    name: Case Western Reserve University
+    kind: academic
+  - slug: johns-hopkins
+    name: Johns Hopkins University
+    kind: academic
+  - slug: federation
+    name: Federation University Australia
+    kind: academic
+  - slug: colorado-mines
+    name: Colorado School of Mines
+    kind: academic
+  - slug: cu-boulder
+    name: University of Colorado Boulder
+    kind: academic
+  - slug: aalborg
+    name: Aalborg University
+    kind: academic
+  - slug: hamburg
+    name: Universität Hamburg
+    kind: academic
+  - slug: haw-hamburg
+    name: HAW Hamburg
+    kind: academic
+  - slug: lund
+    name: Lund University
+    kind: academic
+  - slug: cnr-ieiit
+    name: CNR-IEIIT, National Research Council of Italy
+    kind: lab
+  - slug: enbridge
+    name: Enbridge Inc.
+    kind: industry
+
+  # NIST/NSF/DoD Workshop on Simulation and Machine Learning in Robotics, 2018.
+  # These are first-party: the report's own "Event Logistics" section names each
+  # participant with their affiliation. An earlier pass guessed from the NIST web
+  # page and added four institutions that the report disproves - DARPA, AFOSR and
+  # USAMRMC were observers rather than coauthors, and Stanford was Karen Liu's
+  # later employer, not her affiliation on this report. All four are gone; a slug
+  # earns its place by appearing in a source, and none of these did.
+  - slug: cmu
+    name: Carnegie Mellon University
+    kind: academic
+  - slug: penn
+    name: University of Pennsylvania
+    kind: academic
+  - slug: georgia-tech
+    name: Georgia Institute of Technology
+    kind: academic
+  - slug: wisconsin
+    name: University of Wisconsin-Madison
+    kind: academic
+  - slug: nyu
+    name: New York University
+    kind: academic
+  - slug: usc
+    name: University of Southern California
+    kind: academic
+  - slug: uw
+    name: University of Washington
+    kind: academic
+  - slug: inria
+    name: Inria
+    kind: lab
+    # The 2018 robotics report says "INRIA Lille" specifically; the slug stays at
+    # institute level so a later paper from another centre does not need a second.
+  - slug: jpl
+    name: Jet Propulsion Laboratory
+    kind: lab
+  - slug: mpi-is
+    name: Max Planck Institute for Intelligent Systems
+    kind: lab
+  - slug: open-robotics
+    name: Open Robotics
+    kind: nonprofit
+  - slug: nvidia
+    name: NVIDIA
+    kind: industry
+  - slug: microsoft
+    name: Microsoft Research
+    kind: industry
+  - slug: google
+    name: Google
+    kind: industry
+  - slug: deepmind
+    name: DeepMind
+    kind: industry

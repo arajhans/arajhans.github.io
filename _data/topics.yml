@@ -1,0 +1,68 @@
+# Controlled tag vocabulary.
+#
+# This is the ONLY place a topic slug may be introduced. Every `topics:` value in
+# _data/*.yml is validated against this file by scripts/check_topics.py, which runs
+# in CI and fails the build on an unknown slug. Without that gate tags rot into
+# synonyms (cps / cyber-physical / CPS) and filtering silently stops working.
+#
+# Seeded from vocabulary already in use rather than invented: the three PC-member
+# headings on the old index.md, the green `\ar{}` thread in the CV, and the section
+# names across the legacy pages.
+#
+# Keep this list short. A tag earns its place by being something a reader would
+# plausibly filter on, not by describing an item precisely.
+
+- slug: cps
+  name: Cyber-Physical Systems
+  blurb: >
+    Design, modeling and operation of systems where computation and physical
+    dynamics are inseparable.
+
+- slug: formal-methods
+  name: Formal Methods and Verification
+  blurb: >
+    Proof, model checking, reachability and runtime verification applied to
+    engineered systems.
+
+- slug: modeling-simulation
+  name: Modeling and Simulation
+  blurb: >
+    Multi-paradigm modeling, co-simulation, and simulation-based engineering
+    workflows.
+
+- slug: control
+  name: Control Systems
+  blurb: >
+    Hybrid and switched control, control design, and control education.
+
+- slug: ai
+  name: AI and Machine Learning
+  blurb: >
+    Machine learning and generative AI in engineering tooling and design
+    activity.
+
+- slug: autonomy
+  name: Autonomy and Robotics
+  blurb: >
+    Assured autonomy, autonomous vehicles, and robotics curricula and platforms.
+
+- slug: real-time
+  name: Real-Time and Embedded Systems
+  blurb: >
+    Timing, scheduling and embedded software concerns in deployed systems.
+
+- slug: climate
+  name: Climate and Sustainability
+  blurb: >
+    Control and computing applied to decarbonization and sustainability.
+
+- slug: education
+  name: Education and Mentoring
+  blurb: >
+    Teaching, thesis supervision, student competitions, and STEM outreach.
+
+- slug: research-programs
+  name: Research Programs and Collaboration
+  blurb: >
+    Building and running industry-academia research programs, summits and
+    funding collaborations.
