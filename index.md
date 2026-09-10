@@ -23,7 +23,7 @@ Welcome to my website! Check out the sections below to learn more about my work.
   <div style="padding:20px;">
 <h2>Biographical Sketch</h2>
   
-Akshay Rajhans is Chief Research Scientist and Head of the MathWorks Advanced Research & Technology Office. His Office owns the responsibility for several research and technology innovation programs at MathWorks, including <a href="https://www.mathworks.com/company/events/research-summit.html">MathWorks Research Summits</a>, <a href="https://www.mathworks.com/academia/research/research-collaborations.html">MathWorks-funded research collaborations</a>, <a href="https://www.mathworks.com/academia/students/project-ideas.html">MATLAB and Simulink Challenge Projects Hub</a>, patent program, and more. He and his research scientist team members represent MathWorks in the research community in various capacities.<br><br>
+Akshay Rajhans is Chief Research Scientist and Head of the MathWorks Advanced Research & Technology Office. His Office owns the responsibility for several research and technology innovation programs at MathWorks, including <a href="https://www.mathworks.com/company/events/research-summit.html">MathWorks Research Summits</a>, <a href="https://www.mathworks.com/academia/research/research-collaborations.html">MathWorks-funded research collaborations</a>, <a href="https://www.mathworks.com/academia/students/project-ideas.html">MATLAB and Simulink Challenge Projects Hub</a> (<a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub">GitHub</a>), <a href="https://mathworks.github.io/Research-Office-Projects/">Research Office Projects</a> (<a href="https://github.com/mathworks/Research-Office-Projects">GitHub</a>), patent program, and more. He and his research scientist team members represent MathWorks in the research community in various capacities.<br><br>
 
 Dr. Rajhans has a Ph.D. in Electrical and Computer Engineering from Carnegie Mellon University and an M.S. in Electrical Engineering from the University of Pennsylvania. His background centers around Technical Computing and Model-Based Design, often in the application context of intelligent AI-enabled cyber-physical systems.<br><br>
 
@@ -85,7 +85,7 @@ Earlier in his career, Dr. Rajhans worked on development and application enginee
       <summary>Conference Program Committee Leadership</summary>
       <h3>Conference Program Committee Leadership</h3>  
         <ul>
-          <li><i>General Chair</i>: MathWorks Research Summit, 2023– </li>
+          <li><i>General Chair</i>: MathWorks Research Summit, 2023–. Bengaluru edition: 2026–</li>
           <li><i>Program (Co-)Chair</i>: 
             <ul>
               <li>International Conference on Assured Autonomy 2024</li>
