@@ -1,0 +1,14 @@
+# Jekyll build output. The live site is built by GitHub Pages, never committed.
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bytecode from scripts/. Running the data gate creates this.
+__pycache__/
+*.py[cod]
+
+# Working notes for the redesign: long, revised constantly, and only useful to me.
+# The commit log is the record of what changed; this is the record of why, and it
+# stays local rather than churning the history. Ignored rather than merely
+# untracked so a stray `git add -A` cannot pick it up.
+DESIGN.md
