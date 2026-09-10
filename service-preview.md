@@ -12,121 +12,179 @@ title: Professional Service (data-driven preview)
   YAML, and it appears here, under every topic it carries, with no chance of the
   index.md-vs-service.md divergence that this replaces.
 
+  Three facets here, because service entries carry `category`, `topics` and `series`.
+  publications-preview.md exercises all nine. The left nav, search, chips, counts and
+  URL state all come from the shared _includes/facet-ui.html, so the two pages cannot
+  drift in behaviour - the previous version of this page had its own copy of the
+  filter script, which is how it ended up single-select while nothing else was.
+
+  Groups are kept even though Type is a filter: 57 entries in one flat list is hard to
+  scan, and the category headings carry meaning ("Editorial", "Program Committees").
+  Publications go the other way - flat and newest-first - because there the year is
+  the thing you scan by.
+
   Once reviewed, this becomes service.md and the filename disappears.
 -->
 
+{%- assign entries = site.data.service.entries -%}
+
 <style>
-  .topic-filter { margin: 1.5em 0; padding: 0; list-style: none; }
-  .topic-filter li { display: inline-block; margin: 0 .4em .5em 0; }
-  .topic-chip {
-    display: inline-block; padding: .3em .85em; border-radius: 2em;
-    border: 1px solid #d0d7de; background: #f6f8fa; color: #24292f;
-    font-size: .85em; cursor: pointer; text-decoration: none; line-height: 1.6;
+  .service-list { list-style: none; margin: 0; padding: 0; }
+  .service-list > li {
+    padding: .35rem 0; border-top: 1px solid #f0f2f4; font-size: .88rem; line-height: 1.4;
   }
-  .topic-chip:hover { background: #eaeef2; text-decoration: none; }
-  .topic-chip[aria-pressed="true"] { background: #0969da; border-color: #0969da; color: #fff; }
-  .topic-chip .count { opacity: .65; margin-left: .35em; font-variant-numeric: tabular-nums; }
-  .service-group { margin-top: 2em; }
-  .service-group h2 { font-size: 1.25em; padding-bottom: .2em; border-bottom: 1px solid #eaeef2; }
-  .service-list { padding-left: 1.2em; }
-  .service-list li { margin: .45em 0; }
+  .service-list > li:first-child { border-top: none; }
+  .fgroup { margin-top: 1.25rem; }
+  .fgroup > h2 {
+    font-size: 1rem; margin: 0 0 .2rem; padding-bottom: .15rem;
+    border-bottom: 1px solid #eaeef2;
+  }
   .service-list .role { font-style: italic; }
-  .service-list .dates { color: #57606a; white-space: nowrap; }
+  .service-list .dates { color: #57606a; white-space: nowrap; font-variant-numeric: tabular-nums; }
   .service-list .note { color: #57606a; font-size: .92em; display: block; }
-  .service-list .links { font-size: .88em; white-space: nowrap; }
+  .service-list .links { font-size: .85em; white-space: nowrap; }
   .service-list .links a { text-decoration: none; }
   .service-list .links a:hover { text-decoration: underline; }
-  .service-list .tags { font-size: .8em; color: #57606a; }
-  [hidden] { display: none !important; }
-  .filter-status { color: #57606a; font-size: .9em; }
 </style>
 
 # Professional Service
 
-{% assign entries = site.data.service.entries %}
-
 <noscript>
-  <p class="filter-status">Topic filtering needs JavaScript; the full list is below.</p>
+  <p><em>Filtering needs JavaScript. The complete list is below, grouped by kind.</em></p>
 </noscript>
 
-<ul class="topic-filter" id="topic-filter">
-  <li><button class="topic-chip" data-topic="all" aria-pressed="true">All<span class="count">{{ entries | size }}</span></button></li>
-  {%- for topic in site.data.topics -%}
-    {%- assign matches = entries | where_exp: "e", "e.topics contains topic.slug" -%}
-    {%- if matches.size > 0 -%}
-  <li><button class="topic-chip" data-topic="{{ topic.slug }}" aria-pressed="false" title="{{ topic.blurb | strip_newlines | strip }}">{{ topic.name }}<span class="count">{{ matches.size }}</span></button></li>
-    {%- endif -%}
-  {%- endfor -%}
-</ul>
+<div class="fbrowse">
 
-{% for category in site.data.service.categories %}
-  {%- assign in_category = entries | where: "category", category.slug -%}
-  {%- if in_category.size > 0 %}
-<section class="service-group" data-category="{{ category.slug }}">
-  <h2>{{ category.name }}</h2>
-  <ul class="service-list">
-    {%- for entry in in_category %}
-    <li data-topics="{{ entry.topics | join: ' ' }}">
-      {%- if entry.role %}<span class="role">{{ entry.role }}</span>, {% endif -%}
-      {{ entry.what | strip_newlines | strip }}
-      {%- if entry.start != "unknown" %}
-        <span class="dates">
-        {%- if entry.end == "ongoing" -%}
-          {{ entry.start }}&ndash;
-        {%- elsif entry.end == entry.start -%}
-          {{ entry.start }}
-        {%- else -%}
-          {{ entry.start }}&ndash;{{ entry.end }}
+  <aside class="fbrowse-nav" aria-label="Filter service entries">
+
+    <div class="facet" data-facet="type">
+      <button type="button" class="facet-header" aria-expanded="true">Type</button>
+      <ul class="facet-options">
+        {%- for category in site.data.service.categories %}
+        {%- assign hits = entries | where: "category", category.slug %}
+        {%- if hits.size > 0 %}
+        <li><label>
+          <input type="checkbox" data-facet="type" value="{{ category.slug }}">
+          <span class="facet-label">{{ category.name }}</span>
+          <span class="facet-count" data-facet="type" data-value="{{ category.slug }}"></span>
+        </label></li>
+        {%- endif %}
+        {%- endfor %}
+      </ul>
+    </div>
+
+    <div class="facet" data-facet="topic">
+      <button type="button" class="facet-header" aria-expanded="true">Topics</button>
+      <ul class="facet-options">
+        {%- for topic in site.data.topics %}
+        {%- assign hits = entries | where_exp: "e", "e.topics contains topic.slug" %}
+        {%- if hits.size > 0 %}
+        <li><label title="{{ topic.blurb | strip_newlines | strip | escape }}">
+          <input type="checkbox" data-facet="topic" value="{{ topic.slug }}">
+          <span class="facet-label">{{ topic.name }}</span>
+          <span class="facet-count" data-facet="topic" data-value="{{ topic.slug }}"></span>
+        </label></li>
+        {%- endif %}
+        {%- endfor %}
+      </ul>
+    </div>
+
+    <!-- Venue series, shared with publications.yml through _data/venues.yml. This is
+         the facet that makes the two lists add up: 27 service entries carry a
+         `series`, and HSCC alone is a PC seat, an Awards Chair term and a Demo and
+         Poster Chair term here plus one paper there. Entries with no venue - the
+         mentoring, teaching and outreach - simply drop out when one is selected. -->
+    <div class="facet" data-facet="venue" data-collapsed="true">
+      <button type="button" class="facet-header" aria-expanded="false">Venue</button>
+      <ul class="facet-options">
+        {%- for venue in site.data.venues %}
+        {%- assign hits = entries | where: "series", venue.slug %}
+        {%- if hits.size > 0 %}
+        <li><label title="{{ venue.name | escape }}">
+          <input type="checkbox" data-facet="venue" value="{{ venue.slug }}">
+          <span class="facet-label">{{ venue.acronym | default: venue.name }}</span>
+          <span class="facet-count" data-facet="venue" data-value="{{ venue.slug }}"></span>
+        </label></li>
+        {%- endif %}
+        {%- endfor %}
+      </ul>
+    </div>
+
+  </aside>
+
+  <div class="fbrowse-main">
+
+    <div class="fbrowse-bar">
+      <div class="fbrowse-search">
+        <input type="search" id="fbrowse-search" aria-label="Search service entries"
+               placeholder="Search role, venue, note&hellip;">
+      </div>
+      <span class="fbrowse-count" id="fbrowse-count" aria-live="polite"></span>
+    </div>
+
+    <div class="fbrowse-active" id="fbrowse-active">
+      <span class="label">Filtered by:</span>
+      <span id="fbrowse-chips"></span>
+      <button type="button" class="fclear" id="fbrowse-clear">Clear all</button>
+    </div>
+
+    <div class="fbrowse-empty" id="fbrowse-empty">
+      <strong>Nothing matches every filter.</strong>
+      Filters combine as OR inside a section and AND across sections, so adding a
+      section narrows the result. Try removing one chip above.
+    </div>
+
+    {%- for category in site.data.service.categories %}
+    {%- assign in_category = entries | where: "category", category.slug %}
+    {%- if in_category.size > 0 %}
+    <section class="fgroup" data-category="{{ category.slug }}">
+      <h2>{{ category.name }}</h2>
+      <ul class="service-list">
+        {%- for entry in in_category %}
+        {%- comment -%} Topic display names are indexed too, so "formal" finds the
+          formal-methods service even where the words are not in the entry text. {%- endcomment -%}
+        {%- assign facet_text = "" -%}
+        {%- for slug in entry.topics -%}
+          {%- assign t = site.data.topics | where: "slug", slug | first -%}
+          {%- assign facet_text = facet_text | append: " " | append: t.name -%}
+        {%- endfor -%}
+        {%- if entry.series -%}
+          {%- assign v = site.data.venues | where: "slug", entry.series | first -%}
+          {%- assign facet_text = facet_text | append: " " | append: v.name | append: " " | append: v.acronym -%}
         {%- endif -%}
-        </span>
-      {%- endif -%}
-      {%- if entry.links %}
-        <span class="links">
-        {%- for link in entry.links %} <a href="{{ link.url }}">[{{ link.label }}]</a>{% endfor -%}
-        </span>
-      {%- endif -%}
-      {%- if entry.note %}<span class="note">{{ entry.note | strip_newlines | strip }}</span>{% endif %}
-    </li>
+        {%- assign searchable = entry.role | append: " " | append: entry.what | append: " " | append: entry.note | append: " " | append: facet_text -%}
+        <li class="fitem"
+            data-facet-type="{{ entry.category }}"
+            data-facet-topic="{{ entry.topics | join: ' ' }}"
+            data-facet-venue="{{ entry.series }}"
+            data-search="{{ searchable | strip_newlines | downcase | escape }}">
+          {%- if entry.role %}<span class="role">{{ entry.role }}</span>, {% endif -%}
+          {{ entry.what | strip_newlines | strip }}
+          {%- if entry.start != "unknown" %}
+          <span class="dates">
+          {%- if entry.end == "ongoing" -%}
+            {{ entry.start }}&ndash;
+          {%- elsif entry.end == entry.start -%}
+            {{ entry.start }}
+          {%- else -%}
+            {{ entry.start }}&ndash;{{ entry.end }}
+          {%- endif -%}
+          </span>
+          {%- endif -%}
+          {%- if entry.links %}
+          <span class="links">
+            {%- for link in entry.links %} <a href="{{ link.url }}">[{{ link.label }}]</a>{% endfor -%}
+          </span>
+          {%- endif -%}
+          {%- if entry.note %}<span class="note">{{ entry.note | strip_newlines | strip }}</span>{% endif %}
+        </li>
+        {%- endfor %}
+      </ul>
+    </section>
+    {%- endif %}
     {%- endfor %}
-  </ul>
-</section>
-  {%- endif -%}
-{% endfor %}
 
-<script>
-  (function () {
-    var filter = document.getElementById('topic-filter');
-    if (!filter) return;
-    var chips = filter.querySelectorAll('.topic-chip');
-    var items = document.querySelectorAll('.service-list li');
-    var groups = document.querySelectorAll('.service-group');
+  </div>
+</div>
 
-    function apply(topic) {
-      items.forEach(function (item) {
-        var topics = (item.getAttribute('data-topics') || '').split(' ');
-        item.hidden = !(topic === 'all' || topics.indexOf(topic) !== -1);
-      });
-      // A category with nothing left to show is noise, so hide its heading too.
-      groups.forEach(function (group) {
-        var visible = group.querySelectorAll('.service-list li:not([hidden])');
-        group.hidden = visible.length === 0;
-      });
-      chips.forEach(function (chip) {
-        chip.setAttribute('aria-pressed', chip.dataset.topic === topic ? 'true' : 'false');
-      });
-    }
-
-    chips.forEach(function (chip) {
-      chip.addEventListener('click', function () {
-        var topic = chip.dataset.topic;
-        // Reflected in the hash so a filtered view is shareable and survives reload.
-        history.replaceState(null, '', topic === 'all' ? location.pathname : '#' + topic);
-        apply(topic);
-      });
-    });
-
-    var initial = (location.hash || '').replace('#', '');
-    var known = Array.prototype.map.call(chips, function (c) { return c.dataset.topic; });
-    apply(known.indexOf(initial) !== -1 ? initial : 'all');
-  })();
-</script>
+{% include facet-ui.html %}
