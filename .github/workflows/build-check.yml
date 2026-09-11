@@ -65,8 +65,11 @@ jobs:
           # index.md has no front matter; if the optional-front-matter plugin
           # ever stops being applied, the page still builds but comes out as
           # unprocessed text. Assert real rendered markup instead.
+          # -a on every grep: see the note in the faceted-UI step below. The built
+          # pages are UTF-8 and the runner has no UTF-8 locale, so grep calls them
+          # binary and stops printing matches.
           for needle in '<details' 'Biographical Sketch' 'Research Office Projects'; do
-            if grep -qF "$needle" _site/index.html; then
+            if grep -aqF "$needle" _site/index.html; then
               echo "  ok    found: $needle"
             else
               echo "::error::homepage missing expected content: $needle"
@@ -87,22 +90,22 @@ jobs:
             [ -s "$page" ] || { echo "::error::$page missing or empty"; exit 1; }
 
             for needle in "$@"; do
-              grep -qF "$needle" "$page" || { echo "::error::$page missing: $needle"; exit 1; }
+              grep -aqF "$needle" "$page" || { echo "::error::$page missing: $needle"; exit 1; }
               echo "  ok    found: $needle"
             done
 
             # Unrendered Liquid still produces a valid-looking page, so the leftover
             # delimiters are checked explicitly rather than inferred from a 200.
-            if grep -qE '\{\{|\{%' "$page"; then
+            if grep -aqE '\{\{|\{%' "$page"; then
               echo "::error::$page contains unrendered Liquid:"
-              grep -nE '\{\{|\{%' "$page" | head -5
+              grep -anE '\{\{|\{%' "$page" | head -5
               exit 1
             fi
             echo "  ok    no unrendered Liquid"
 
             # `|| true`: grep exits 1 on zero matches, which under `set -e` would abort
             # here with no message instead of reaching the explicit check below.
-            items=$(grep -c 'class="fitem"' "$page" || true)
+            items=$(grep -ac 'class="fitem"' "$page" || true)
             echo "  ok    $items filterable entries rendered"
             [ "$items" -ge "$min_items" ] \
               || { echo "::error::expected ${min_items}+ entries, got $items"; exit 1; }
@@ -123,22 +126,57 @@ jobs:
       - name: Check the faceted filter UI is wired up on both pages
         run: |
           set -euo pipefail
+
+          # WHY EVERY grep HERE COUNTS LINES WITH -ac AND NEVER `-o | wc -l`
+          # This step failed at 73e56b8 with "expected 10+ checkboxes, got 0" on a page
+          # that had ~40 of them. The needle check immediately above it passed on the
+          # same file with the same pattern, and the previous step counted 50+ items with
+          # `grep -c`. So -q and -c matched while -o printed nothing: that is grep's
+          # binary-input behaviour, where it suppresses matched TEXT but still reports
+          # exit status and counts. The pages carry non-ASCII bytes - author names like
+          # Allgower and Donze, the chip glyph in the shared include - and a runner with
+          # no UTF-8 locale reads those as encoding errors.
+          #
+          # The fix is not just -a. It is to stop asking grep to print matches at all:
+          # -c is a count grep will always give, and every input and item attribute is on
+          # its own line, so lines and matches are the same number here. The banner below
+          # prints the locale and whether grep considers each page text, so if this ever
+          # goes strange again the log says why instead of implying the UI vanished.
+          # sed, not `head -1`: under pipefail a closed pipe would make grep exit 2 and
+          # abort the whole step on its banner line.
+          printf 'env: %s | LANG=%s LC_ALL=%s\n' \
+            "$(grep --version | sed -n 1p)" "${LANG:-unset}" "${LC_ALL:-unset}"
+
           for page in _site/service-preview.html _site/publications-preview.html; do
             echo "-- $page"
+            # -I makes grep treat a binary file as non-matching, so this is a direct
+            # probe of the classification that broke the count.
+            if grep -qI . "$page"; then
+              echo "  ok    reads as text to grep"
+            else
+              echo "  note  reads as BINARY to grep; counts below use -a"
+            fi
             for needle in 'fbrowse-search' 'fbrowse-clear' 'fbrowse-chips' \
                           'class="facet-count"' 'type="checkbox"' 'classList.add("js")' \
                           'hashchange'; do
-              grep -qF "$needle" "$page" || { echo "::error::$page missing control: $needle"; exit 1; }
+              grep -aqF "$needle" "$page" || { echo "::error::$page missing control: $needle"; exit 1; }
             done
             echo "  ok    search box, clear-all, chips, counts, checkboxes, js gate, hash reveal"
 
-            # One <input type=checkbox> per selectable value. A single-select design
-            # would have radios or links instead, which is the regression to catch.
-            n=$(grep -o 'type="checkbox"' "$page" | wc -l || true)
-            echo "  ok    $n multi-select checkboxes"
-            [ "$n" -ge 10 ] || { echo "::error::expected 10+ checkboxes, got $n"; exit 1; }
+            # One <input type=checkbox> per selectable value, each on its own line. A
+            # single-select design would have radios or links instead, which is the
+            # regression to catch.
+            n=$(grep -ac 'type="checkbox"' "$page" || true)
+            echo "  ok    $n multi-select checkbox lines"
+            [ "$n" -ge 10 ] || {
+              echo "::error::expected 10+ checkboxes, got $n"
+              echo "  the needle check above passed on this same file, so if this is 0"
+              echo "  the count is wrong, not the page - see the note at the top"
+              grep -an 'type="checkbox"' "$page" | head -3 || true
+              exit 1
+            }
 
-            if grep -q 'type="radio"' "$page"; then
+            if grep -aq 'type="radio"' "$page"; then
               echo "::error::radio input found - facets must be multi-select"
               exit 1
             fi
@@ -147,7 +185,7 @@ jobs:
           # Facet sections present on the publications page, which is the one that
           # exercises every dimension.
           for key in type topic collab mentored award outcome org venue coauthor; do
-            grep -qF "data-facet=\"$key\"" _site/publications-preview.html \
+            grep -aqF "data-facet=\"$key\"" _site/publications-preview.html \
               || { echo "::error::publications-preview.html missing facet section: $key"; exit 1; }
             echo "  ok    facet section: $key"
           done
@@ -158,9 +196,9 @@ jobs:
           # recurring coauthor is actually there - and that the nav slug matches the one
           # on the items, since a mismatch would filter to nothing.
           for value in pieter-j-mosterman claudio-menghi; do
-            grep -qF "data-facet=\"coauthor\" value=\"$value\"" _site/publications-preview.html \
+            grep -aqF "data-facet=\"coauthor\" value=\"$value\"" _site/publications-preview.html \
               || { echo "::error::coauthor option missing or unslugged: $value"; exit 1; }
-            grep -qF "data-facet-coauthor=" _site/publications-preview.html \
+            grep -aqF "data-facet-coauthor=" _site/publications-preview.html \
               || { echo "::error::items carry no coauthor values"; exit 1; }
             echo "  ok    coauthor option and item slug agree: $value"
           done
@@ -169,7 +207,7 @@ jobs:
           # appearing on both pages. Counted here so a broken `series:` tag shows up as
           # a number rather than as a silently short list.
           for page in _site/service-preview.html _site/publications-preview.html; do
-            n=$(grep -o 'data-facet-venue="[a-z0-9-]\+"' "$page" | wc -l || true)
+            n=$(grep -ac 'data-facet-venue="[a-z0-9-]\+"' "$page" || true)
             echo "  ok    $page: $n entries carry a venue series"
             [ "$n" -ge 1 ] || { echo "::error::$page has no venue-tagged entries"; exit 1; }
           done
