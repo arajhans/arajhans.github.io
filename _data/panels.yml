@@ -1,0 +1,111 @@
+# Panel appearances and panel-organized discussions.
+#
+# Kept separate from service.yml on purpose. A program-committee role or advisory
+# seat is a service fact; a panel appearance is a speaking/visibility artifact with
+# its own title, venue and links. Mixing the two would make "show me talks/panels on
+# formal methods" impossible without dragging service roles into the same list.
+#
+# This file is intentionally flat: unlike service entries, panels are not grouped by
+# role. The page scans newest-first, and the useful filters are topic plus free-text
+# search over the title and venue.
+
+required: [id, what, venue, start, end, topics]
+
+entries:
+  - id: ersa-rtss-2025-panel
+    what: Explainability of Real-Time Systems and Their Analysis (ERSA)
+    venue: 4th International Workshop on Explainability of Real-time Systems and their Analysis at the IEEE Real-Time Systems Symposium (RTSS 2025), Boston, MA, USA
+    start: 2025
+    end: 2025
+    topics: [real-time, ai]
+    note: Panel discussion at the ERSA workshop co-located with RTSS 2025.
+
+  - id: fmitf-2022-panel
+    what: Formal Methods in the Field
+    venue: National Science Foundation (NSF) Panel, part of the Formal Methods in the Field (FMiTF) PI Meeting Days
+    start: 2022
+    end: 2022
+    topics: [formal-methods, cps]
+
+  - id: models-industry-day-2022-panel
+    what: What disruptive technologies are expected to be most influential for the future industrial practice of model-based systems engineering?
+    venue: MODELS Conference Industry Day, Montreal, Canada
+    start: 2022
+    end: 2022
+    topics: [cps, modeling-simulation, research-programs]
+
+  - id: wsc-2021-workforce-panel
+    what: Challenges in Satisfying the Need and Promotion of Modeling & Simulation Workforce
+    venue: Winter Simulation Conference, Phoenix, AZ, USA
+    start: 2021
+    end: 2021
+    topics: [modeling-simulation, education]
+    links:
+      - label: Accompanying Abstract (PDF)
+        url: /files/papers/SarjoughianYNR_WSC2021.pdf
+
+  - id: css-societal-challenges-2021-climate-panel
+    what: Control for Climate Change Mitigation and Adaptation
+    venue: IEEE CSS Workshop on Control for Societal Challenges
+    start: 2021
+    end: 2021
+    topics: [climate, control]
+    links:
+      - label: Panel Web
+        url: https://sites.google.com/view/ieee-css-societal-challenges/panels/control-for-climate
+
+  - id: safenets-2019-panel
+    what: Future Challenges for Autonomous and Intelligent Transportation
+    venue: IEEE Situational Awareness For Emerging Network Enabled Transportation Systems (SAFENETS) Workshop
+    start: 2019
+    end: 2019
+    topics: [autonomy, cps]
+
+  - id: springsim-2018-hybrid-simulation-panel
+    what: Hybrid Simulation for Cyber Physical Systems - Where are we Going Regarding Complexity, Intelligence, and Adaptability of CPS Using Simulation
+    venue: Symposium on Modeling and Simulation of Complex, Intelligent, Adaptive and Autonomous Systems (MSCIAAS) panel at Spring Simulation Multi-Conference (SpringSim)
+    start: 2018
+    end: 2018
+    topics: [cps, modeling-simulation]
+    series: springsim
+    links:
+      - label: SpringSim Web
+        url: http://scs.org/springsim/
+
+  - id: cpsweek-2018-hscc-iccps-panel
+    what: What are the challenges posed to CPS theory by modern applications?
+    venue: Joint HSCC-ICCPS Panel, part of CPS Week 2018
+    start: 2018
+    end: 2018
+    topics: [cps, formal-methods]
+    links:
+      - label: Panel Web
+        url: https://www.hscc2018.deib.polimi.it/panel-session
+      - label: CPS Week Web
+        url: https://cister.isep.ipp.pt/cpsweek2018/
+
+  - id: nist-open-source-2017-panel
+    what: Why do we need holistic concern-driven engineering?
+    venue: NIST CPS Framework Open Source Workshop, Gaithersburg, MD, USA
+    start: 2017
+    end: 2017
+    topics: [cps, modeling-simulation]
+    links:
+      - label: Workshop Web
+        url: https://www.nist.gov/news-events/events/2017/09/cps-framework-open-source-workshop
+
+  - id: scav-2017-safe-control-panel
+    what: Safe Control of Connected and Autonomous Vehicles
+    venue: 1st Workshop on Safe Control of Connected and Autonomous Vehicles (SCAV), affiliated with CPS Week 2017
+    start: 2017
+    end: 2017
+    topics: [autonomy, control, cps]
+    links:
+      - label: Workshop Web
+        url: https://scav.in.tum.de/
+      - label: CPS Week Web
+        url: https://cpsweek2017.ece.cmu.edu/
+      - label: Picture
+        url: https://twitter.com/rajhans/status/856221543399137280
+      - label: Workshop Report
+        url: http://www.gleirscher.at/mg/dl/scav17-report-preprint.pdf

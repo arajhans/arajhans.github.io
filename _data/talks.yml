@@ -1,0 +1,267 @@
+# Speaking appearances other than panels.
+#
+# Panels stay in panels.yml because they are a distinct artifact type in the data
+# model, but the user-facing talks page can still render them alongside keynotes
+# and invited talks. The split is for source clarity, not to force separate pages.
+
+required: [id, category, what, venue, start, end, topics]
+
+categories:
+  - slug: keynote
+    name: Keynote Talks
+  - slug: invited
+    name: Invited Talks
+  - slug: tutorial
+    name: Tutorials
+
+entries:
+  - id: rtss-2025-ersa-keynote
+    category: keynote
+    what: "From GUIs to Generative AI: Explainability in the tooling for engineered system design"
+    venue: 4th International Workshop on Explainability of Real-time Systems and their Analysis at the IEEE Real-Time Systems Symposium (RTSS 2025), Boston, MA, USA
+    start: 2025
+    end: 2025
+    topics: [ai, real-time]
+    series: rtss
+
+  - id: models-2022-ai-assistance-keynote
+    category: keynote
+    what: A study of cyber-physical system design activity to consider opportunity for AI assistance
+    venue: 25th International Conference on Model Driven Engineering Languages and Systems (MODELS), Montreal, Canada
+    start: 2022
+    end: 2022
+    topics: [ai, cps]
+    links:
+      - label: Conference Web
+        url: https://conf.researchr.org/track/models-2022/models-2022-keynotes
+
+  - id: rv-2019-cps-keynote
+    category: keynote
+    what: Challenges and opportunities in design and operation of intelligent cyber-physical systems
+    venue: 19th International Runtime Verification Conference, part of the 3rd World Congress on Formal Methods, Porto, Portugal
+    start: 2019
+    end: 2019
+    topics: [cps, formal-methods, ai]
+    links:
+      - label: Conference Web
+        url: https://www.react.uni-saarland.de/rv2019/invitedspeakers.html
+      - label: Formal Methods Web
+        url: http://formalmethods2019.inesctec.pt/?page_id=1044
+      - label: Slides
+        url: /files/slides/Rajhans_RV2019.pdf
+      - label: Video
+        url: https://www.youtube.com/watch?v=bDhFVASF9PU
+
+  - id: mpm4cps-2019-keynote
+    category: keynote
+    what: Multi-Paradigm Modeling for Design and Operation of Intelligent Cyber-Physical Systems
+    venue: International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS), co-located with the MODELS Conference, Munich, Germany
+    start: 2019
+    end: 2019
+    topics: [cps, modeling-simulation]
+    series: mpm4cps
+    links:
+      - label: Workshop Web
+        url: https://msdl.uantwerpen.be/conferences/MPM4CPS/2019/index.php/program/
+      - label: Slides
+        url: /files/slides/Rajhans_MPM4CPS2019.pdf
+
+  - id: models-industry-day-2022-invited-talk
+    category: invited
+    what: "Academic research to industry practice: success stories and open challenges in model-based approaches"
+    venue: MODELS Conference Industry Day, Montreal, Canada
+    start: 2022
+    end: 2022
+    topics: [modeling-simulation, research-programs]
+
+  - id: brown-2022-formal-methods-talk
+    category: invited
+    what: "Formal Methods for Real-World Cyber-Physical Systems: A Model-Based Design Perspective"
+    venue: Invited Guest Lecture, Brown University, Providence, RI, USA
+    start: 2022
+    end: 2022
+    topics: [formal-methods, cps]
+
+  - id: leac-2021-learning-enabled-cps-talk
+    category: invited
+    what: "Engineering Learning-Enabled Cyber-Physical Systems: Challenges and Opportunities"
+    venue: Workshop on Machine Learning in Control (LEAC), part of CPS-IoT Week, remote from Nashville, TN, USA
+    start: 2021
+    end: 2021
+    topics: [ai, cps, control]
+
+  - id: brown-2021-formal-methods-talk
+    category: invited
+    what: "Formal Methods for Real-World Cyber-Physical Systems: A personal perspective"
+    venue: Invited Guest Lecture, Brown University, remote from Providence, RI, USA
+    start: 2021
+    end: 2021
+    topics: [formal-methods, cps]
+
+  - id: mit-2021-cps-talk
+    category: invited
+    what: Cyber-Physical Systems
+    venue: Independent Activities Period (IAP), Massachusetts Institute of Technology, remote from Cambridge, MA, USA
+    start: 2021
+    end: 2021
+    topics: [cps, education]
+
+  - id: scc-2019-software-certification-talk
+    category: invited
+    what: A Model-Based Design Perspective on Challenges and Opportunities in Automated Software Certification
+    venue: 20th Software Certification Consortium (SCC) Steering Committee Meeting, Annapolis, MD, USA
+    start: 2019
+    end: 2019
+    topics: [formal-methods, cps]
+    links:
+      - label: Slides
+        url: /files/slides/Rajhans_SCC2019.pdf
+
+  - id: dagstuhl-2019-tools-perspective-talk
+    category: invited
+    what: "Specification Formalisms for Cyber-Physical Systems: A Tools Perspective"
+    venue: Dagstuhl Seminar 19071, Specification Formalisms for Modern Cyber-Physical Systems, Dagstuhl, Germany
+    start: 2019
+    end: 2019
+    topics: [formal-methods, cps]
+    series: dagstuhl
+    links:
+      - label: Workshop Web
+        url: https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19071
+
+  - id: cmu-2018-hybrid-systems-talk
+    category: invited
+    what: Graphical Modeling of Hybrid Systems with Simulink and Stateflow
+    venue: Workshop honoring the retirement of Prof. Bruce Krogh, Carnegie Mellon University, Pittsburgh, PA, USA
+    start: 2018
+    end: 2018
+    topics: [cps, modeling-simulation, control]
+
+  - id: cpsweek-2018-vision-networks-talk
+    category: invited
+    what: A Vision for Application-Focused International Collaboration Networks in Cyber-Physical Systems
+    venue: NSF Visioning Workshop on International Networks for Advancing CPS Research, Development, and Education Worldwide, part of CPS Week 2018, Porto, Portugal
+    start: 2018
+    end: 2018
+    topics: [cps, research-programs]
+
+  - id: tufts-2017-heterogeneous-mbd-talk
+    category: invited
+    what: Heterogeneous Model-Based Design of Tomorrow's Cyber-Physical Systems
+    venue: ECE Department Colloquia Series, Tufts University, Medford, MA, USA
+    start: 2017
+    end: 2017
+    topics: [cps, modeling-simulation, formal-methods]
+
+  - id: mit-2017-energy-industry-talk
+    category: invited
+    what: Model-Based Design of Next Generation Cyber-Physical Systems
+    venue: LIDS, IDSS, MITei, Lincoln Labs, NSF and IWR Workshop on Rethinking Modeling, Simulations and Control for the Changing Electric Energy Industry, Massachusetts Institute of Technology, Cambridge, MA, USA
+    start: 2017
+    end: 2017
+    topics: [cps, control, modeling-simulation]
+    links:
+      - label: Slides
+        url: /files/slides/Rajhans_MIT2017.pdf
+
+  - id: nist-2017-holistic-engineering-talk
+    category: invited
+    what: Why do we need holistic concern-driven engineering?
+    venue: NIST CPS Framework Open Source Workshop, Gaithersburg, MD, USA
+    start: 2017
+    end: 2017
+    topics: [cps, modeling-simulation]
+
+  - id: robotica-2017-its-talk
+    category: invited
+    what: Challenges and Opportunities for Intelligent Transportation Systems
+    venue: Robotica 2017, Newton, MA, USA
+    start: 2017
+    end: 2017
+    topics: [autonomy, cps]
+    links:
+      - label: Slides
+        url: /files/slides/Rajhans_Robotica2017.pdf
+
+  - id: conav-2017-cav-talk
+    category: invited
+    what: Model-Based Design of Connected Autonomous Vehicles
+    venue: 2nd IEEE Summer School on Connected and Autonomous Vehicles, Worcester Polytechnic Institute, Worcester, MA, USA
+    start: 2017
+    end: 2017
+    topics: [autonomy, cps, control]
+    links:
+      - label: Slides
+        url: /files/slides/Rajhans_ConAV2017.pdf
+
+  - id: excape-2017-cps-challenges-talk
+    category: invited
+    what: Model-Based Design Challenges for Cyber-Physical Systems
+    venue: Expeditions in Computer Augmented Program Engineering (ExCAPE) Principal Investigators' Meeting, University of Pennsylvania, Philadelphia, PA, USA
+    start: 2017
+    end: 2017
+    topics: [cps, modeling-simulation]
+    links:
+      - label: Slides
+        url: /files/slides/Rajhans_ExCAPE2017.pdf
+
+  - id: nist-2016-safety-talk
+    category: invited
+    what: Safety in Freely-Composed Cyber-Physical Systems - Challenges and Opportunities
+    venue: "Exploring the Dimensions of Trustworthiness: Challenges and Opportunities Workshop, National Institute of Standards and Technology (NIST), Gaithersburg, MD, USA"
+    start: 2016
+    end: 2016
+    topics: [cps, formal-methods]
+    note: Co-presented with Pieter Mosterman.
+
+  - id: cmu-2016-vnv-tools-talk
+    category: invited
+    what: Recent Advancements in MathWorks Verification and Validation Tools and Techniques
+    venue: CPS V&V I&F Workshop, Carnegie Mellon University, Pittsburgh, PA, USA
+    start: 2016
+    end: 2016
+    topics: [formal-methods, cps]
+
+  - id: svc-2008-verification-talk
+    category: invited
+    what: Verification of Systems Using Robust Temporal Logic Testing
+    venue: Specification and Verification Center Seminar, Carnegie Mellon University, Pittsburgh, PA, USA
+    start: 2008
+    end: 2008
+    topics: [formal-methods, cps]
+    links:
+      - label: Talk Abstract
+        url: http://www.cs.cmu.edu/~svc/talks/20080829-rajhans.html
+      - label: Slides
+        url: /files/slides/Rajhans_SVC08_2.pdf
+
+  - id: svc-2008-robustness-talk
+    category: invited
+    what: Robustness of Temporal Logic Specifications for Testing of Signals
+    venue: Specification and Verification Center Seminar, Carnegie Mellon University, Pittsburgh, PA, USA
+    start: 2008
+    end: 2008
+    topics: [formal-methods, cps]
+    links:
+      - label: Talk Abstract
+        url: http://www.cs.cmu.edu/~svc/talks/20080821-rajhans.html
+      - label: Slides
+        url: /files/slides/Rajhans_SVC08_1.pdf
+
+  - id: esweek-2024-acoustic-predictive-ai-tutorial
+    category: tutorial
+    what: Deploying Acoustic-Based Predictive AI for Machine Health using Model-Based Design Tools
+    venue: Embedded Systems Week, Raleigh, NC, USA
+    start: 2024
+    end: 2024
+    topics: [ai, modeling-simulation, real-time]
+    note: Co-presented with Brenda Zhuang and Tianyi Zhu.
+
+  - id: esweek-2024-low-code-embedded-ai-tutorial
+    category: tutorial
+    what: Low Code, High Performance Embedded AI with MATLAB and Arm IP Explorer
+    venue: Embedded Systems Week, Raleigh, NC, USA
+    start: 2024
+    end: 2024
+    topics: [ai, modeling-simulation, real-time]
+    note: "Co-presented with Brenda Zhuang and Eric Sondhi. External co-presenter affiliation: Arm."

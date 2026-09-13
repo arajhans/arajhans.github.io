@@ -1,0 +1,27 @@
+# Patents are kept separate from publications on purpose.
+#
+# They are output artifacts, but not publication artifacts: mixing them into the
+# publication list would make publication counts and venue filters less coherent.
+# A separate data file keeps the source single and still allows a short dedicated
+# page.
+
+required: [id, what, start, end, topics]
+
+entries:
+  - id: nilm-hybrid-state-estimation-patent
+    what: Method for Non-Intrusive Load Monitoring using a Hybrid System State Estimation Approach
+    inventors:
+      - Burton Andrews
+      - Diego Benitez
+      - Badri Raghunathan
+      - Akshay Rajhans
+    start: 2012
+    end: 2012
+    topics: [modeling-simulation, control]
+    patent_number: 8209062
+    note: U.S., European, and International patent filings.
+    links:
+      - label: USPTO
+        url: http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/8209062
+      - label: Google Scholar
+        url: http://www.google.com/patents/US8209062?dq=info:kNjIEMTwpFgJ:scholar.google.com

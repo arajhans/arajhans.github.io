@@ -49,7 +49,7 @@ jobs:
         run: |
           set -euo pipefail
           fail=0
-          for page in index cv bio publications other-publications talks service panels patents research etc; do
+          for page in index cv bio publications other-publications talks service panels patents research etc experience education teaching societies; do
             if [ -s "_site/$page.html" ]; then
               printf '  ok    %-20s %6s bytes\n' "$page.html" "$(wc -c < "_site/$page.html")"
             else
@@ -62,13 +62,18 @@ jobs:
       - name: Check homepage kept its content
         run: |
           set -euo pipefail
-          # index.md has no front matter; if the optional-front-matter plugin
-          # ever stops being applied, the page still builds but comes out as
-          # unprocessed text. Assert real rendered markup instead.
+          # The redesigned homepage is rendered from _data/profile.yml rather than
+          # the old long hand-written details page. Assert specific data-backed
+          # content so a missing Liquid render or stale copy is caught directly.
           # -a on every grep: see the note in the faceted-UI step below. The built
           # pages are UTF-8 and the runner has no UTF-8 locale, so grep calls them
           # binary and stops printing matches.
-          for needle in '<details' 'Biographical Sketch' 'Research Office Projects'; do
+          for needle in \
+            'Advanced Research &amp; Technology Office' \
+            'Research Programs and Collaboration' \
+            'Explore the Site' \
+            'publications-preview.html' \
+            'service-preview.html'; do
             if grep -aqF "$needle" _site/index.html; then
               echo "  ok    found: $needle"
             else
@@ -119,6 +124,20 @@ jobs:
             'Continuization' 'McCalla' 'Zanenga' 'AlthoffRK+_FAC11.pdf' \
             'data-facet-collab=' 'data-facet-mentored=' 'data-facet-award=' \
             'data-facet-venue="hscc"' 'data-facet-coauthor="matthias-althoff'
+
+          check_page panels.html 10 \
+            'Formal Methods in the Field' 'Control for Climate Change Mitigation and Adaptation' \
+            'data-facet-topic=' 'fbrowse-search'
+
+          check_page talks.html 30 \
+            'Keynote Talks' 'Invited Talks' 'Panels' 'Tutorials' \
+            'data-facet-type="keynote"' 'data-facet-type="panel"' \
+            'data-facet-type="tutorial"' 'fbrowse-search'
+
+          check_page patents.html 1 \
+            'Patent No. 8209062' \
+            'Method for Non-Intrusive Load Monitoring using a Hybrid System State Estimation Approach' \
+            '[USPTO]'
 
       # The left nav is multi-select and shared; if either page loses the include or
       # a facet section, filtering silently degrades to "shows everything" rather

@@ -1,250 +1,229 @@
-<a><img src="files/pictures/AkshayPortrait.jpg" 
-alt="Akshay Rajhans" width="240" border="10" /></a>
+---
+layout: default
+title: Akshay Rajhans
+---
 
-Welcome to my website! Check out the sections below to learn more about my work. 
+{%- assign profile = site.data.profile -%}
 
-[LinkedIn](https://www.linkedin.com/in/rajhans) \| [Google Scholar](https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao) \| [IEEE Author Profile](https://ieeexplore.ieee.org/author/38232718800) \| [ACM Author Profile](https://dl.acm.org/profile/81421602783) \| [Curriculum Vitae](files/docs/AkshayRajhansCV.pdf)
+<style>
+  :root {
+    --ink: #18212b;
+    --muted: #556270;
+    --line: #d9e2ea;
+    --panel: #f7fafc;
+    --accent: #0b6b8a;
+    --accent-soft: #d9eef5;
+  }
+  .home {
+    margin-top: 1.5rem;
+    display: grid;
+    gap: 1.5rem;
+  }
+  .hero {
+    display: grid;
+    grid-template-columns: 220px 1fr;
+    gap: 1.5rem;
+    align-items: start;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--line);
+  }
+  .hero img {
+    width: 100%;
+    border-radius: 10px;
+    display: block;
+  }
+  .eyebrow {
+    margin: 0 0 .3rem;
+    font-size: .78rem;
+    font-weight: 700;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+  .hero h1 {
+    margin: 0;
+    font-size: 2.1rem;
+    line-height: 1.05;
+    color: var(--ink);
+  }
+  .hero .role {
+    margin: .45rem 0 0;
+    font-size: 1.02rem;
+    line-height: 1.35;
+    color: var(--muted);
+    max-width: 46rem;
+  }
+  .hero .tagline {
+    margin: .85rem 0 0;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: var(--ink);
+    max-width: 48rem;
+  }
+  .linkrow {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .45rem;
+    margin-top: 1rem;
+  }
+  .linkrow a {
+    text-decoration: none;
+    color: var(--accent);
+    border: 1px solid var(--line);
+    background: #fff;
+    border-radius: 999px;
+    padding: .28rem .72rem;
+    font-size: .86rem;
+  }
+  .linkrow a:hover {
+    background: var(--accent-soft);
+  }
+  .home-grid {
+    display: grid;
+    grid-template-columns: 1.2fr .8fr;
+    gap: 1.5rem;
+  }
+  .section h2 {
+    margin: 0 0 .65rem;
+    font-size: 1.08rem;
+    color: var(--ink);
+  }
+  .summary p {
+    margin: 0 0 .9rem;
+    line-height: 1.65;
+    color: var(--ink);
+  }
+  .summary p:last-child {
+    margin-bottom: 0;
+  }
+  .stack {
+    display: grid;
+    gap: 1rem;
+  }
+  .card {
+    padding: 1rem 1.05rem;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: var(--panel);
+  }
+  .card h3 {
+    margin: 0 0 .4rem;
+    font-size: .98rem;
+    color: var(--ink);
+  }
+  .card p {
+    margin: 0;
+    line-height: 1.5;
+    color: var(--muted);
+    font-size: .92rem;
+  }
+  .card a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+  .card a:hover {
+    text-decoration: underline;
+  }
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .45rem;
+  }
+  .tag {
+    padding: .24rem .58rem;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-size: .82rem;
+  }
+  .contact {
+    font-size: .93rem;
+    color: var(--muted);
+  }
+  .contact strong {
+    color: var(--ink);
+  }
+  @media (max-width: 860px) {
+    .hero,
+    .home-grid {
+      grid-template-columns: 1fr;
+    }
+    .hero {
+      gap: 1rem;
+    }
+    .hero img {
+      max-width: 240px;
+    }
+  }
+</style>
 
+<div class="home">
+  <section class="hero">
+    <div>
+      <img src="{{ profile.portrait }}" alt="{{ profile.name }}">
+    </div>
+    <div>
+      <p class="eyebrow">{{ profile.organization }}</p>
+      <h1>{{ profile.name }}</h1>
+      <p class="role">{{ profile.title }}</p>
+      <p class="tagline">{{ profile.tagline }}</p>
+      <div class="linkrow">
+        {%- for link in profile.external_links -%}
+        <a href="{{ link.url }}">{{ link.label }}</a>
+        {%- endfor -%}
+      </div>
+    </div>
+  </section>
 
-<details open> 
-<summary> Contact </summary>
-  <div style="padding:20px;">
-  <h2>Contact</h2>
-  Akshay Rajhans, Ph.D. <br>
-  Chief Research Scientist and Head of the Advanced Research & Technology Office<br>
-  MathWorks <br>
-  arajhans (at) alumni (dot) cmu (dot) edu <br>
+  <div class="home-grid">
+    <section class="section summary">
+      <h2>Overview</h2>
+      <p>{{ profile.home_intro }}</p>
+    </section>
+
+    <div class="stack">
+      <section class="section">
+        <h2>Contact</h2>
+        <div class="card contact">
+          <strong>{{ profile.name }}, {{ profile.degrees }}</strong><br>
+          {{ profile.title }}<br>
+          {{ profile.organization }}<br>
+          {{ profile.email_obfuscated }}
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>Focus Areas</h2>
+        <div class="tags">
+          {%- for area in profile.focus_areas -%}
+          <span class="tag">{{ area }}</span>
+          {%- endfor -%}
+        </div>
+      </section>
+    </div>
   </div>
-</details>
-<br>
 
-<details open>
-  <summary>Biographical Sketch</summary>
-  <div style="padding:20px;">
-<h2>Biographical Sketch</h2>
-  
-Akshay Rajhans is Chief Research Scientist and Head of the MathWorks Advanced Research & Technology Office. His Office owns the responsibility for several research and technology innovation programs at MathWorks, including <a href="https://www.mathworks.com/company/events/research-summit.html">MathWorks Research Summits</a>, <a href="https://www.mathworks.com/academia/research/research-collaborations.html">MathWorks-funded research collaborations</a>, <a href="https://www.mathworks.com/academia/students/project-ideas.html">MATLAB and Simulink Challenge Projects Hub</a> (<a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub">GitHub</a>), <a href="https://mathworks.github.io/Research-Office-Projects/">Research Office Projects</a> (<a href="https://github.com/mathworks/Research-Office-Projects">GitHub</a>), patent program, and more. He and his research scientist team members represent MathWorks in the research community in various capacities.<br><br>
+  <section class="section">
+    <h2>Programs and Initiatives</h2>
+    <div class="stack">
+      {%- for item in profile.programs -%}
+      <div class="card">
+        <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
+        <p>{{ item.note }}</p>
+      </div>
+      {%- endfor -%}
+    </div>
+  </section>
 
-Dr. Rajhans has a Ph.D. in Electrical and Computer Engineering from Carnegie Mellon University and an M.S. in Electrical Engineering from the University of Pennsylvania. His background centers around Technical Computing and Model-Based Design, often in the application context of intelligent AI-enabled cyber-physical systems.<br><br>
-
-Earlier in his career, Dr. Rajhans worked on development and application engineering of electronic control systems for diesel-engine applications at Cummins. As a research intern at Bosch, he co-invented a model-based approach to non-intrusive load monitoring.<br><br>
+  <section class="section">
+    <h2>Explore the Site</h2>
+    <div class="stack">
+      {%- for item in profile.site_links -%}
+      <div class="card">
+        <h3><a href="{{ item.url }}">{{ item.label }}</a></h3>
+        <p>{{ item.note }}</p>
+      </div>
+      {%- endfor -%}
+    </div>
+  </section>
 </div>
-</details>
-<br>
-
-
-<details open>
-  <summary>Thought Leadership</summary>
-  <div style="padding:20px;">   
-  <h2>Thought Leadership</h2>
-    <details>
-      <summary>Invited Expert for Government Agencies</summary>
-      <h3>Invited Expert for Government Agencies</h3>  
-        <ul>
-          <li><i>Funding Review Panelist</i>, National Science Foundation (NSF), Technology, Innovation, and Partnerships (TIP)
-          Directorate, 2023.</li>
-          <li><i>User Advisory Committee Member</i>, Dutch Research Council (NWO), Veni grant in Applied and Engineering
-          Sciences. Principal Investigator: Prof. Sofie Haessaert. 2021–.</li>
-          <li><i>Invited Panelist</i>, NSF Formal Methods in the Field (FMiTF) Principal Investigators’ Meeting, October 2022.</li>
-          <li><i>Invited Participant</i>, NIST/NSF/DoD Workshop on Simulation and Machine Learning in Robotics, 2018.</li>
-          <li><i>Invited Speaker</i>, NSF Visioning Workshop on International Networks for Advancing Cyber-Physical Systems (CPS)
-          Research, Development, and Education Worldwide, part of CPS Week 2018, Porto, Portugal. April 2018.</li>
-          <li><i>Invited Panelist</i>, NIST CPS Framework Open Source Workshop, National Institute of Standards and Technology
-          (NIST), Gaithersburg, MD, September 2017.</li>
-          <li><i>Invited Participant</i>, Exploring the Dimensions of Trustworthiness: Challenges and Opportunities Workshop, National
-          Institute of Standards and Technology (NIST), Gaithersburg, MD, August, 2016.</li>
-        </ul>
-    </details><br>
-
-    <details>
-      <summary>Industry Advisory Boards and Committees</summary>
-      <h3>Industry Advisory Boards and Committees</h3>    
-        <ul>
-          <li><i>Board of Directors</i>, ACM Special Interest Group on Embedded Systems (SIGBED), 2025–</li>
-          <li><i>Industry Advisory Board</i>, MIT’s Climate & Sustainability Consortium, 2021–2023</li>
-          <li><i>Industry Challenge Technical Program Committee</i>, Real-Time Systems Symposium (RTSS) 2022</li>
-          <li><i>Industry Advisory Committee on Autonomous Vehicles Curriculum</i>, Robotics Engineering Program (now a
-          Department) at Worcester Polytechnic Institute, 2017–18</li>
-          <li><i>Industry Vice Chair</i>, IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), 2018</li>
-          <li><i>Industry Advisory Board</i>, International Symposium on Circuits and Systems (ISCAS), 2018</li>
-          <li><i>Global Professional Advisory Community</i>, Association for Computing Machinery (ACM), 2017</li>
-        </ul>
-    </details><br>
-
-    <details>
-      <summary>Editorial Work</summary>
-        <h3>Editorial Work</h3>  
-        <ul>
-          <li><i>Associate Editor</i>, Technology Conferences Editorial Board, IEEE Control Systems Society, 2020–2023.</li>
-          <li><i>Editorial Advisory Board Member</i>, “Resilience in Cyber-Physical Systems: From Risk Modelling to Threat
-          Counteraction,” F. Flammini (Ed.), Springer.</li>
-        </ul>
-    </details><br>
-
-    <details>
-      <summary>Conference Program Committee Leadership</summary>
-      <h3>Conference Program Committee Leadership</h3>  
-        <ul>
-          <li><i>General Chair</i>: MathWorks Research Summit, Boston edition: 2023–, Bengaluru edition: 2026–</li>
-          <li><i>Program (Co-)Chair</i>: 
-            <ul>
-              <li>International Conference on Assured Autonomy 2024</li>
-              <li>MathWorks Research Summit, Boston edition: 2017–2019, Tokyo edition: 2016–2019</li>
-              <li>Fourth International Workshop on Monitoring and Testing of CPS 2019</li>
-              <li>Spring Simulation Conference 2020 and 2019: CPS Track</li>
-              <li>Winter Simulation Conference 2017: CPS Track</li>
-            </ul>
-          </li>
-          <li><i>Artifact Evaluation Chair</i>: Formal Modeling and Analysis of Timed Systems 2022</li>
-          <li><i>Awards Chair</i>: Hybrid Systems: Computation and Control 2018</li>
-          <li><i>Demo and Poster Chair</i>: Hybrid Systems: Computation and Control 2017</li>
-          <li><i>PC Member</i> (present or past):
-            <ul>
-              <li><i>Cyber-Physical Systems, etc.</i>: • International Conference on Cyber-Physical Systems • Multi-Paradigm Modeling for Cyber-Physical Systems • Hybrid Systems: Computation and Control • International Conference on Informatics in Control, Automation and Robotics • International Workshop on Formal Co-Simulation of Cyber-Physical Systems • Conference on Analysis and Design of Hybrid Systems</li>
-              <li><i>Modeling and Simulation</i>: • Annual Modeling and Simulation Conference • Winter Simulation Conference • Summer Simulation Conference • Spring Simulation Conference</li>
-              <li><i>Formal Verification</i>: • Formal Methods (FM) • Numerical Software Verification Workshop</li>
-            </ul>          
-          </li>
-        </ul>
-    </details>
-  </div>
-</details><br>
-
-<details open>
-  <summary>Talks and Panels</summary>
-  <div style="padding:20px;">
-  <h2>Talks and Panels</h2>
-    <details>
-      <summary>Keynote Talks</summary>
-      <h3>Keynote Talks</h3>  
-        <ul>
-          <li>[K4] "<i>From GUIs to Generative AI: Explainability in the tooling for engineered system design</i>", 4th International Workshop on Explainability of Real-time Systems and their Analysis at the IEEE Real-Time Systems Symposium (RTSS 2025), Boston, MA, USA, December 2025.</li>
-          <li>[K3] "<i>A study of cyber-physical system design activity to consider opportunity for AI assistance</i>", 25th International Conference on Model Driven Engineering Languages and Systems (MODELS), Montreal, Canada, October 26, 2022.</li>
-          <li>[K2] "<i>Challenges and opportunities in design and operation of intelligent cyber-physical systems</i>", 19th International Runtime Verification Conference, Part of 3rd World Congress on Formal Methods, Porto, Portugal, October 10, 2019.</li>
-          <li>[K1] "<i>Multi-Paradigm Modeling for Design and Operation of Intelligent Cyber-Physical Systems</i>", International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (MPM4CPS), co-located with the MODELS Conference, Munich, Germany, September 15, 2019.</li>
-        </ul>
-    </details><br>
-
-    <details>
-      <summary>Invited Talks</summary>
-      <h3>Invited Talks</h3> 
-        <ul>
-          <li>[T19] "<i>Academic research to industry practice: success stories and open challenges in model-based approaches</i>",  MODELS Conference Industry Day, Montréal, Canada. October 2022.</li>
-          <li>[T18] "<i>Formal Methods for Real-World Cyber-Physical Systems: A Model-Based Design Perspective</i>", Invited Guest Lecture, Brown University, Providence, RI. May 2022.</li>
-          <li>[T17] "<i>Engineering Learning-Enabled Cyber-Physical Systems: Challenges and Opportunities</i>", Workshop on Machine Learning in Control (LEAC), part of Cyber-Physical Systems and Internet of Things (CPS-IoT) Week, remotely in Nashville, TN. May 2021.</li>
-          <li>[T16] "<i>Formal Methods for Real-World Cyber-Physical Systems: A personal perspective</i>", Invited Guest Lecture, Brown University, remotely in Providence, RI. March 2021.</li>
-          <li>[T15] "<i>“Cyber-Physical Systems</i>", Independent Activities Period (IAP), Massachusetts Institute of Technology, remotely in Cambridge, MA. January 2021.</li>
-          <li>[T14] "<i>A Model-Based Design Perspective on Challenges and Opportunities in Automated Software Certification</i>", 20th Software Certification Consortium (SCC) Steering Committe Meeting, Annapolis, MD, USA. May 2019.</li>
-          <li>[T13] "<i>Specification Formalisms for Cyber-Physical Systems: A Tools Perspective</i>", Dagstuhl Workshop on Specification Formalisms for Modern Cyber-Physical Systems (Seminar 19071), Dagstuhl, Germany. February 2019.</li>
-          <li>[T12] "<i>Graphical Modeling of Hybrid Systems with Simulink and Stateflow</i>", Workshop honoring the retirement of Prof. Bruce Krogh, Carnegie Mellon University, Pittsburgh, PA, May 2018.</li>
-          <li>[T11] "<i>A Vision for Application-Focused International Collaboration Networks in Cyber-Physical Systems</i>", an NSF Visioning Workshop on International Networks for Advancing CPS Research, Development, and Education Worldwide, part of CPS Week 2018, Porto, Portugal, April 2018.</li>
-          <li>[T10] "<i>Heterogeneous Model-Based Design of Tomorrow's Cyber-Physical Systems</i>", ECE Department Colloquia Series, Tufts University, Medford, MA, November 2017.</li>
-          <li>[T9] "<i>Model-Based Design of Next Generation Cyber-Physical Systems</i>", LIDS, IDSS, MITei, Lincoln Labs, NSF and IWR Workshop on Rethinking Modeling, Simulations and Control for the Changing Electric Energy Industry, Massachusetts Institute of Technology, Camridge, MA, September 2017.</li> 
-          <li>[T8] "<i>Why do we need holistic concern-driven engineering?</i>", NIST CPS Framework Open Source Workshop, National
-          Institute of Standards and Technology (NIST), Gaithersburg, MD, September 2017.</li>
-          <li>[T7] "<i>Challenges and Opportunities for Intelligent Transportation Systems</i>", Robotica 2017, Newton, MA, June 2017.</li>
-          <li>[T6] "<i>Model-Based Design of Connected Autonomous Vehicles</i>", 2nd IEEE Summer School on Connected and Autonomous Vehicles, Worcester Polytechnic Institute, Worcester, MA, USA. May 2017.</li>
-          <li>[T5] "<i>Model-Based Design Challenges for Cyber-Physical Systems</i>", Expeditions in Computer Augmented Program Engineering (ExCAPE) Principal Investigators' (PI) Meeting, University of Pennsylvania, Philadelphia, PA, USA. May 2017.</li>
-          <li>[T4] "<i>Safety in Freely-Composed Cyber-Physical Systems—Challenges and Opportunities</i>", with Pieter Mosterman, Exploring the Dimensions of Trustworthiness: Challenges and Opportunities Workshop, National Institute of Standards and Technology (NIST), Gaithersburg, MD, USA. August, 2016.</li>
-          <li>[T3] "<i>Recent Advancements in MathWorks Verification and Validation Tools and Techniques</i>", CPS V&V I&F Workshop, Carnegie Mellon University, Pittsburgh, PA, USA. May 2016.</li>
-          <li>[T2] "<i>Verification of Systems Using Robust Temporal Logic Testing</i>", Specification and Verification Center Seminar, Carnegie Mellon University, Pittsburgh, PA, USA. August 2008.</li>
-          <li>[T1] "<i>Robustness of Temporal Logic Specifications for Testing of Signals</i>", Specification and Verification Center Seminar, Carnegie Mellon University, Pittsburgh, PA, USA. August 2008.</li>
-        </ul>
-    </details><br>
-
-    <details>
-      <summary>Panels</summary>
-        <h3>Panels</h3>  
-        <ul>
-          <li>[PNL10] "<i>Explainability of Real-Time Systems and Their Analysis (ERSA)"</i>", 4th International Workshop on Explainability of Real-time Systems and their Analysis at the IEEE Real-Time Systems Symposium (RTSS 2025), Decemer 2025.</li>
-          <li>[PNL9] "<i>Formal Methods in the Field"</i>", National Science Foundation (NSF) Panel part of the Formal Methods in the Field (FMitF) PI Meeting Days, November 2022.</li>
-          <li>[PNL8] "<i>What disruptive technologies are expected to be most influential for the future industrial practice of model-based systems engineering?"</i>", MODELS Conference Industry Day, October 2022.</li>
-          <li>[PNL7] "<i>Challenges in Satisfying the Need and Promotion of Modeling & Simulation Workforce</i>", Winter Simulation Conference, December 2021.</li>
-          <li>[PNL6] "<i>Control for Climate Change Mitigation and Adaptation</i>", IEEE CSS Workshop on Control for Societal Challenges, June 2021.</li>
-          <li>[PNL5] "<i>Future Challenges for Autonomous & Intelligent Transportation</i>", IEEE Situational Awareness For Emerging Network Enabled Transportation Systems (SAFENETS) Workshop, October 2019.</li>
-          <li>[PNL4] "<i>Hybrid Simulation for Cyber Physical Systems – Where are we Going Regarding Complexity, Intelligence, and Adaptability of CPS Using Simulation</i>", Symposium on M&S of Complex, Intelligent, Adaptive and Autonomous Systems (MSCIAAS) panel at Spring Simulation Multi-Conference (SpringSim), May 2018.</li>
-          <li>[PNL3] "<i>What are the challenges posed to CPS theory by modern applications?</i>", Joint HSCC-ICCPS Panel, part of CPS Week 2018.</li>
-          <li>[PNL2] "<i>Why do we need holistic concern-driven engineering?</i>", at the NIST CPS Framework Open Source Workshop, September 2017.</li> 
-          <li>[PNL1] "<i>Safe Control of Connected and Autonomous Vehicles</i>", First Workshop on Safe Control of Connected and Autonomous Vehicles (SCAV), affiliated with Cyber-Physical Systems Week (CPS Week) 2017, April 2017.</li>
-        </ul>
-    </details><br>
-
-  </div>
-</details>
-<br>
-
-<details open>
-  <summary>Publications</summary>
-  <div style="padding:20px;">
-  <h2>Publications</h2>
-  <details>
-    <summary>Visioning Work</summary>
-    <h3>Visioning Work</h3>    
-    <ul>
-      <li>[V9] A. Rajhans, L. Garcia, A. Woss, Ramesh S., A. Adiththan, P. Peranandam, M. Oishi, T. Dang, P. Nuzzo, and S. Jha, “Verification, Validation, and Certification of AI-Enabled Industrial Cyber-Physical Systems: Trends and Applications”, under review.</li>
-      <li>[V8] P. Khargonekar, T. Samad, S. Amin, A. Chakrabortty, F. Dabbene, A. Das, M. Fujita, M. Garcia-Sanz, D. Gayme, M. Ilic, I. Mareels, K. L. Moore, L. Y. Pao, A. Rajhans, J. Stoustrup, J. Zafar, M. Bauer, "<em>Climate Change Mitigation, Adaptation, and Resilience: Challenges and opportunities for the Control Systems Community</em>", IEEE Control Systems Magazine, Volume: 44, Issue: 3, Pages: 33–51, June 2024. <a href="files/papers/KhargonekarSA+_CSM2024.pdf">[Preprint (PDF)]</a></li>
-      <li>[V7] A. Alleyne, et al., "<em>Control for Societal-scale Challenges: Road Map 2030</em>", A. M. Annaswamy, K. H. Johansson, and G. J. Pappas, eds, IEEE Control Systems Society Publication, 2023. <a href="https://ieeecss.org/control-societal-scale-challenges-roadmap-2030">[Web]</a>.</li>
-      <li>[V6] H. Sarjoughian, E. Yellig, J. Nutaro, A. Rajhans, "<em>Challenges in Satisfying the Need and Promotion of Modeling & Simulation Workforce</em>", Winter Simulation Conference (WSC) 2021. <a href="files/papers/SarjoughianYNR_WSC2021.pdf">[Preprint (PDF)]</a></li> 
-      <li>[V5] F. Allgöwer, J. Borges de Sousa, J. Kapinski, P. Mosterman, J. Oehlerking, P. Panciatici, M. Prandini, A. Rajhans, P. Tabuada, and P. Wenzelburger, "<em>Position paper on the challenges posed by modern applications to cyber-physical systems theory</em>", Nonlinear Analysis: Hybrid Systems, Volume 34, Pages 147-165, November 2019. <a href="files/papers/AllgöwerBK+_NAHS19.pdf">[Preprint (PDF)]</a></li> 
-      <li>[V4] A. Donze and A. Rajhans, "<em>Tools Perspective</em>", J. V. Deshmukh, O. Maler, and D. Nickovic, eds., "<em>Specification Formalisms for Modern Cyber-Physical Systems (Dagstuhl Seminar 19071)</em>", Dagstuhl 2019. <a href="http://drops.dagstuhl.de/opus/volltexte/2019/10858/">[Web]</a></li>
-      <li>[V3] A. Rajhans and P. J. Mosterman, "<em>A Vision for Application-Focused International Collaboration Networks in CPS</em>", NSF Visioning Workshop for International Collaborations for Advancing CPS Research, Development, and Education Worldwide, part of CPS Week 2018. <a href="files/abstracts/RajhansM_VisioningWorkshop_CPSWeek2018.pdf">[Abstract (PDF)]</a></li>
-      <li>[V2] S. Anderson, B. Boots, A. Byravan, E. Drumwright, C. Duriez, D. Fox, G. Hager, J. Hodgins, A. Jain, A. Kapoor, D. Koditschek, N. Koenig, E. Lee, C. Li, K. Liu, F. Meier, D. Negrut, A. Rajhans, L. Righetti, A. Rodriguez, S. Schaal, J. Tan, Y. Tassa, E. Todorov, and J. Trinkle, "<em>On the Use of Modeling and Simulation in Robotics</em>", Workshop Report, NIST/NSF/DoD Workshop on Simulation and Machine Learning in Robotics, 2018. <a href="files/papers/AndersonBB+_RoboWorkshop18.pdf">[Report (PDF)]</a> | <a href="https://sbel.wisc.edu/simulation-in-robotics-2018/">[Supporting Documents (Web)]</a> | <a href="https://www.nist.gov/news-events/events/2018/04/simulation-and-machine-learning-robotics">[Workshop website (Web)]</a></li>
-      <li>[V1] A. Tolk, F. Barros, A. D’Ambrogio, A. Rajhans, P. J. Mosterman, S. S. Shetty, M. K. Traoré, H. Vangheluwe, and L. Yilmaz, "<em>Hybrid Simulation for Cyber Physical Systems – A Panel on Where are we Going Regarding Complexity, Intelligence, and Adaptability of CPS Using Simulation</em>", Spring Simulation Multi-Conference, 2018. <a href="files/papers/TolkBD+_SpringSim18.pdf">[Preprint (PDF)]</a></li>
-    </ul>
-  </details><br>
-
-  <details>
-    <summary>Technical Publications</summary>
-    <h3>Technical Publications</h3>  
-      <ul>
-        <li>[P29] A. F. Zanenga, N. M. Bisceglia, B. Ippoliti, A. Bombarda, A. Gargantini, A. Rajhans, C. Menghi, "<i>Theano: A Tool for Verifying the Consistency and Completeness in Tabular Requirements</i>", in Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering, June 2025. <a href="files/papers/ZanengaBI+_FSE_2025.pdf">[Preprint (PDF)]</a></li>
-        <li>[P28] C. Menghi, E. Balai, D. Valovcin, C. Sticksel, A. Rajhans, "<i>Completeness and Consistency of Tabular Requirements: an SMT-Based Verification Approach</i>", in IEEE Transactions on Software Engineering, Volume: 51, Issue: 2, February 2025. <a href="https://ieeexplore.ieee.org/document/10844918">[Web (Open Access)]</a></li>
-        <li>[P27] A. Taye, R. Valenti, A. Rajhans, A. Mavrommati, P. Mosterman, and P. Wei, "<i>Safe and Scalable Real-Time Trajectory Planning Framework for Urban Air Mobility</i>", AIAA Journal of Aerospace Information Systems, April 2024. <a href="https://arxiv.org/abs/2306.11647">[Preprint (arXiv)]</a></li>
-        <li>[P26] F. Formica, T. Fan, A. Rajhans, V. Pantelic, M. Lawford, C. Menghi, "<i>Simulation-based Testing of Simulink Models with Test Sequence and Test Assessment Blocks</i>", IEEE Transactions on Software Engineering, Volume: 50, Issue: 2, February 2024. <a href="https://arxiv.org/abs/2212.11589">[Preprint (arXiv)]</a></li>
-        <li>[P25] M. Di Florio, V. Iyer, A. Rajhans, S. Buccelli, and M. Chiappalone, "<i>Model-based Online Implementation of Spike Detection Algorithms for Neuroengineering Applications</i>", 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS'22). <a href="files/papers/DiFlorioIR+_EMBC2022.pdf">[Preprint (PDF)]</a></li>
-        <li>[P24] A. Rajhans, A. Mavrommati, P.J. Mosterman, and R.G. Valenti, "<i>Specification and Runtime Verification of Temporal Assessments in Simulink</i>", 21st International Conference on Runtime Verification (RV) 2021. <a href="files/papers/RajhansMM+_RV21.pdf">[Preprint (PDF)]</a></li> 
-        <li>[P23] A. Mavrommati, C. Osario, R.G. Valenti, A. Rajhans, and P.J. Mosterman, "<i>An Application of Model Predictive Control to Reactive Motion Planning of Robot Manipulators</i>", 17th IEEE International Conference on Automation Science and Engineering (CASE) 2021. <a href="files/papers/MavrommatiOV+_CASE2021.pdf">[Preprint (PDF)]</a></li> 
-        <li>[P22] M. A. Rodriguez, X. Zhao, H. Song, R. Valenti, A. Rajhans, P. Mosterman, Y. Diaz-Mercado, and H. K. Fathy, "<i>A Gradient-Based Approach for Coordinating Smart Vehicles and Traffic Lights at Intersections</i>", IEEE Control Systems Letters,  Volume: 5, Issue: 6, Dec. 2021. <a href="https://doi.org/10.1109/LCSYS.2020.3047332">[Web]</a></li>
-        <li>[P21] M. A. Rodriguez, X. Zhao, H. Song, R. Valenti, A. Rajhans, P. Mosterman, Y. Diaz-Mercado, and H. K. Fathy, "<i>A Gradient-Based Approach for Coordinating Smart Vehicles and Traffic Lights at Intersections</i>", American Control Conference (ACC) 2021. <a href="https://doi.org/10.23919/ACC50511.2021.9483298">[Web]</a></li>
-        <li>[P20] N. Visnevski, T. Hubscher-Younger, A. Rajhans, and B. Meng, "<i>Automatic Synthesis of Information Flow Driven Execution Managers for Embedded Software Applications</i>", AIAA/IEEE Digital Avionics Systems Conference (DASC) 2020. <em><b>Best in Session Award</b></em>. <a href="files/papers/VisnevskiHR+_DASC20.pdf">[Preprint (PDF)]</a></li> 
-        <li>[P19] P. J. Mosterman, A. Rajhans, A. Mavrommati, R. G. Valenti, "<i>Simulation of Hybrid Dynamic Systems</i>", John Baillieul, Tariq Samad, eds., Encyclopedia of Systems and Control, Springer, Living Edition. First online: August 2020. <a href="files/papers/MostermanRM+_Encyclopedia2020.pdf">[Preprint (PDF)]</a></li>
-        <li>[P18] Z. Tu, A. Dimas, M. N. Kurt, A. Mavrommati, P. J. Mosterman, A. Rajhans, and R. G. Valenti, "<i>A Simulator for trading traffic privileges by selfish driving cars</i>", Spring Simulation Conference, 2020. <a href="files/papers/TuDK+_SpringSim20.pdf">[Preprint (PDF)]</a></li>
-        <li>[P17] S. Castro, P. J. Mosterman, A. H. Rajhans, and R. G. Valenti, "<i>Challenges in the Operation and Design of Intelligent Cyber-Physical Systems</i>", Book Chapter. *Complexity Challenges in Cyber Physical Systems: Using Modeling and Simulation (M&S) to Support Intelligence, Adaptation and Autonomy*, Saurabh Mittal and Andreas Tolk, Eds., Wiley, January 2020. <a href="files/papers/CastroMR+_Book20.pdf">[Preprint (PDF)]</a></li>
-        <li>[P16] J.-F. Kempf, Khoo Y. P., and A. Rajhans, "<i>Specification and Assessment of Temporal Requirements using Simulink Test</i>", Fourth International Workshop on Monitoring and Testing of Cyber-Physical Systems (MT-CPS 2019, part of CPS-IoT Week 2019. <a href="files/abstracts/KempfKR_MT-CPS_CPS-IoTWeek2019.pdf">[Preprint (PDF)]</a></li> 
-        <li>[P15] A. Rajhans and D. Lluch, "<i>A Digital Twin Approach to Online Monitoring in Industrial Internet of Things Applications</i>", Fourth International Workshop on Monitoring and Testing of Cyber-Physical Systems (MT-CPS 2019), part of CPS-IoT Week 2019. <a href="files/abstracts/RajhansL_MT-CPS_CPS-IoTWeek2019.pdf">[Preprint (PDF)]</a></li> 
-        <li>[P14] A. Rajhans, S. Avadhanula, A. Chutinan, P. J. Mosterman, and F. Zhang, "<i>Graphical Hybrid Automata with Simulink and Stateflow</i>", 21st International Conference on Hybrid Systems: Computation and Control, 2018. <a href="files/abstracts/RajhansAC+_HSCC2018_demo.pdf">[Preprint (PDF)]</a></li>
-        <li>[P13] A. Rajhans, S. Avadhanula, A. Chutinan, P. J. Mosterman, and F. Zhang, "<i>Graphical Modeling of Hybrid Dynamics with Simulink and Stateflow</i>", 21st ACM International Conference on Hybrid Systems: Computation and Control, 2018. <em><b>Best Repeatability Evaluation Award Finalist</b></em>.<a href="files/papers/RajhansAC+_HSCC18.pdf">[Preprint (PDF)]</a></li> 
-        <li>[P12] A. Rajhans, A. Bhave, I. Ruchkin, B. Krogh, D. Garlan, A. Platzer, and B. Schmerl, "<i>Supporting Heterogeneity in Cyber-Physical System Architectures</i>", IEEE Transactions on Automatic Control's Special Issue on Control of Cyber-Physical Systems, Vol. 59, Issue 12, pages 3178-3193. <a href="files/papers/RajhansBR+_TAC14.pdf">[Preprint (PDF)]</a></li>
-        <li>[P11] M. Althoff, A. Rajhans, B. Krogh, S. Yaldiz, X. Li, and L. Pileggi, "<i>Formal Verification of Phase-Locked Loops Using Reachability Analysis and Continuization</i>", Communications of the ACM, Vol. 56, Issue 10, pages: 97-104. <em><b>Research Highlight</b></em>. <a href="files/papers/AlthoffRK+_CACM13.pdf">[Preprint (PDF)]</a> Accompanying Technical Perspective by Prof. Rajeev Alur: <a href="http://cacm.acm.org/magazines/2013/10/168175-technical-perspective-can-we-verify-cyber-physical-systems">[Web]</a></li>
-        <li>[P10] Y. Deng, A. Rajhans, and A. A. Julius, "<i>STRONG: A Trajectory-Based Verification Toolbox for Hybrid Systems</i>", 10th International Conference on Quantitative Evaluation of SysTems (QEST), 2013. <a href="files/papers/DengRJ_QEST13.pdf">[Preprint (PDF)]</a></li>
-        <li>[P9] A. Rajhans and B. H. Krogh, "<i>Compositional Heterogeneous Abstraction</i>", 16th ACM International Conference on Hybrid Systems: Computation and Control, 2013. <a href="files/papers/RajhansK_HSCC13.pdf">[Preprint (PDF)]</a></li> 
-        <li>[P8] A. Rajhans and B. H. Krogh, "<i>Heterogeneous Verification of Cyber-Physical Systems Using Behavior Relations</i>", 15th ACM International Conference on Hybrid Systems: Computation and Control, 2012. <a href="files/papers/RajhansK_HSCC12.pdf">[Preprint (PDF)]</a></li> 
-        <li>[P7] A. Rajhans, A. Bhave, S. Loos, B. H. Krogh, A. Platzer, and D. Garlan, "<i>Using Parameters in Architectural Views to Support Heterogeneous Design and Verification</i>", 50th IEEE Conference on Decision and Control, 2011. <a href="files/papers/RajhansBL+_CDC11.pdf">[Preprint (PDF)]</a></li>
-        <li>[P6] M. Althoff, A. Rajhans, B. H. Krogh, S. Yaldiz, X. Li, and L. Pileggi, "<i>Formal Verification of Phase-Locked Loops Using Reachability Analysis and Continuization</i>", IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2011. <em><b>William J. McCalla Best Paper Award</b></em>. <a href="files/papers/AlthoffRK+_ICCAD11.pdf">[Preprint (PDF)]</a></li> 
-        <li>[P5] M. Althoff, A. Rajhans, B. H. Krogh, S. Yaldiz, X. Li, and L. Pileggi, "<i>Using Continuization in Rechability Analysis for the Verification of a Phase-Locked Loop</i>", Frontiers in Analog Circuit (FAC) Synthesis and Verification, co-located with Computer-Aided Verification (CAV) 2011. <a href="files/abstracts/AlthoffRK+_FAC11.pdf">[Preprint (PDF)]</a></li>
-        <li>[P4] A. Bhave, D. Garlan, B. H. Krogh, S. Loos, A. Platzer, A. Rajhans, and B. Schmerl, "<i>Multi-View Consistency in Architectures for Cyber-Physical Systems</i>", Safe and Secure Systems & Software Symposium (S5) 2011. <a href="files/abstracts/BhaveGK+_S511.pdf">[Preprint (PDF)]</a></li>
-        <li>[P3] A. Bhave, D. Garlan, B. Krogh, A. Rajhans, and B. Schmerl, "<i>Augmenting Software Architectures with Physical Components</i>", Embedded Real Time Software and Systems (ERTS^2), 2010. <a href="files/papers/BhaveGK+_ERTS210.pdf">[Preprint (PDF)]</a></li>
-        <li>[P2] A. Rajhans, S.-W. Cheng, B. Schmerl, D. Garlan, B. H. Krogh, C. Agbi, and A. Bhave, "<i>An Architectural Approach to the Design and Analysis of Cyber-Physical Systems</i>", Third International Workshop on Multi-Paradigm Modeling (MPM), 2009. <a href="files/papers/RajhansCS+_MPM09.pdf">[Preprint (PDF)]</a></li>
-        <li>[P1] A. Donzé, B. H. Krogh, and A. Rajhans, "<i>Parameter Synthesis for Hybrid Systems with an Application to Simulink Models</i>", 12th IEEE/ACM International Conference on Hybrid Systems: Computation and Control, 2009. <a href="files/papers/DonzeKR_HSCC09.pdf">[Preprint (PDF)]</a></li>
-      </ul>
-  </details><br>
-
-  <details>
-    <summary>Theses</summary>
-    <h3>Theses</h3>    
-      <ul>
-        <li>[Th2] A. Rajhans, "<i>Multi-Model Heterogeneous Verification of Cyber-Physical Systems</i>", PhD Thesis, Carnegie Mellon University, 2013. Advisor: Bruce Krogh</li>
-        <li>[Th1] A. Rajhans, "<i>Development of Robust Testing Toolbox for Hybrid Systems</i>", MSE Thesis, University of Pennsylvania, 2007. Advisor: Prof. George Pappas</li>
-      </ul>
-  </details><br>
-  </div>
-</details>
-<br>
-
-<details open>
-    <summary>Patents</summary>
-      <ul>
-        <li>[PP1] Andrews, B., Benitez, D., Raghunathan, B., Rajhans, A., "<i>Method for Non-Intrusive Load Monitoring using a Hybrid System State Estimation Approach</i>".</li>
-      </ul>
-</details><br>
-

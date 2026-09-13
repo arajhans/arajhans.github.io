@@ -1,0 +1,98 @@
+name: Akshay Rajhans
+degrees: Ph.D.
+title: Chief Research Scientist and Head of the Advanced Research & Technology Office
+organization: MathWorks
+portrait: /files/pictures/AkshayPortrait.jpg
+email_obfuscated: arajhans (at) alumni (dot) cmu (dot) edu
+
+tagline: >
+  Technical computing, model-based design, and AI-enabled cyber-physical systems,
+  with a focus on research programs that connect academic work to industrial practice.
+
+home_intro: >
+  Akshay Rajhans leads the MathWorks Advanced Research & Technology Office and works
+  at the intersection of technical computing, model-based design, AI-enabled
+  cyber-physical systems, and research programs that connect academic work to
+  industrial practice.
+
+summary:
+  - >
+    Akshay Rajhans leads the MathWorks Advanced Research & Technology Office, which
+    owns several research and technology innovation programs including MathWorks
+    Research Summits, research collaborations, challenge projects, Research Office
+    Projects, and the patent program.
+  - >
+    His background centers on technical computing and model-based design, often in
+    the application context of intelligent cyber-physical systems, formal methods,
+    autonomy, and engineering tooling.
+  - >
+    He holds a Ph.D. in Electrical and Computer Engineering from Carnegie Mellon
+    University and an M.S. in Electrical Engineering from the University of
+    Pennsylvania. Earlier in his career, he worked on electronic control systems at
+    Cummins and co-invented a model-based approach to non-intrusive load monitoring
+    during a research internship at Bosch.
+
+focus_areas:
+  - Cyber-Physical Systems
+  - Formal Methods and Verification
+  - Modeling and Simulation
+  - AI in Engineering Tooling
+  - Research Programs and Collaboration
+
+external_links:
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/rajhans
+  - label: Google Scholar
+    url: https://scholar.google.com/citations?user=522zploAAAAJ&hl=en&oi=ao
+  - label: IEEE Author Profile
+    url: https://ieeexplore.ieee.org/author/38232718800
+  - label: ACM Author Profile
+    url: https://dl.acm.org/profile/81421602783
+  - label: Curriculum Vitae (PDF)
+    url: /files/docs/AkshayRajhansCV.pdf
+
+programs:
+  - title: MathWorks Research Summits
+    url: https://www.mathworks.com/company/events/research-summit.html
+    note: Research convening across academia and industry.
+  - title: Research Collaborations
+    url: https://www.mathworks.com/academia/research/research-collaborations.html
+    note: Funded and strategic university collaborations.
+  - title: Challenge Projects Hub
+    url: https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub
+    note: Open project ideas for students and researchers.
+  - title: Research Office Projects
+    url: https://mathworks.github.io/Research-Office-Projects/
+    note: Public-facing snapshots of research office activity.
+
+site_links:
+  - label: Publications
+    url: /publications-preview.html
+    note: Faceted publication preview from structured data.
+  - label: Talks and Panels
+    url: /talks.html
+    note: Speaking page covering keynotes, invited talks, panels, and tutorials.
+  - label: Professional Service
+    url: /service-preview.html
+    note: Faceted professional service preview from structured data.
+  - label: Experience
+    url: /experience.html
+    note: Professional experience across industry and academia.
+  - label: Education
+    url: /education.html
+    note: Degrees, thesis topics, and selected coursework.
+  - label: Mentoring and Teaching
+    url: /teaching.html
+    note: Mentoring, teaching, competitions, and STEM outreach.
+  - label: Biography
+    url: /bio.html
+    note: Narrative biographical sketch.
+  - label: Professional Societies
+    url: /societies.html
+    note: Membership affiliations recorded separately from service roles.
+  - label: CV
+    url: /cv.html
+    note: Long-form CV page and linked PDF.
+  - label: Patents
+    url: /patents.html
+    note: Patent and related IP material.

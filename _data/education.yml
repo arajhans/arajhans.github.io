@@ -1,0 +1,68 @@
+# Education drawn from CV education.tex.
+
+required: [id, category, degree, field, institution, start, end, topics]
+
+categories:
+  - slug: doctoral
+    name: Doctoral Degree
+  - slug: masters
+    name: Master's Degree
+  - slug: bachelors
+    name: Bachelor's Degree
+
+entries:
+  - id: cmu-phd-ece
+    category: doctoral
+    degree: Ph.D.
+    field: Electrical and Computer Engineering
+    institution: Carnegie Mellon University
+    location: Pittsburgh, PA, USA
+    start: 2008
+    end: 2013
+    topics: [education, cps, formal-methods, control]
+    thesis_title: Multi-Model Heterogeneous Verification of Cyber-Physical Systems
+    advisor: Bruce H. Krogh
+    committee:
+      - Ken Butts
+      - David Garlan
+      - Andre Platzer
+    coursework:
+      - Numerical Methods for Engineering Design and Optimization
+      - Formal Languages, Automata, Computability and Complexity
+      - Real Analysis
+      - Linear Systems
+      - Architectures for Software Systems
+      - Hybrid Systems Analysis and Theorem Proving
+      - Introduction to Model Checking
+
+  - id: penn-ms-ee
+    category: masters
+    degree: M.S.
+    field: Electrical Engineering
+    institution: University of Pennsylvania
+    location: Philadelphia, PA, USA
+    start: 2006
+    end: 2007
+    topics: [education, formal-methods, control, ai]
+    thesis_title: Development of a Robust Testing Toolbox for Hybrid Systems
+    advisor: George J. Pappas
+    coursework:
+      - Advanced Robotics: Motion Planning and Control
+      - Advanced Artificial Intelligence and Machine Learning
+      - Advanced Topics in ESE: Systems Biology
+      - Digital Signal Processing
+      - Introduction to Optimization
+      - Artificial Intelligence and Machine Learning
+      - Engineering Entrepreneurship
+      - Hybrid Systems
+      - Control of Systems
+
+  - id: pune-be-electronics-telecommunication
+    category: bachelors
+    degree: B.E.
+    field: Electronics and Telecommunication
+    institution: University of Pune
+    location: Pune, India
+    start: 1999
+    end: 2003
+    topics: [education, real-time]

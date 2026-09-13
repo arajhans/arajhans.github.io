@@ -1,13 +1,63 @@
-# Biographical Sketch
-[home](index.html) \| [bio](bio.html) \| [publications](publications.html) \| [talks](talks.html) \| [service](service.html) \| [etc](etc.html)
+---
+layout: default
+title: Biography
+---
 
-## Biography
+{%- assign profile = site.data.profile -%}
 
-Akshay Rajhans is the Chief Research Scientist at [MathWorks](https://www.mathworks.com) where he heads the MathWorks Advanced Research & Technology Office. His team's responsibility includes research and technology innovation programs at MathWorks, including [Research Summits](https://www.mathworks.com/videos/series/mathworks-research-summit.html), [research collaborations](https://www.mathworks.com/academia/research/research-collaborations.html), [challenge projects](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub), and more. He and his team members represent MathWorks in the research community in various capacities.
+<style>
+  .bio {
+    max-width: 48rem;
+    margin-top: 1.5rem;
+  }
+  .bio h1 {
+    margin-bottom: .35rem;
+  }
+  .bio .role {
+    margin: 0 0 1rem;
+    color: #556270;
+    line-height: 1.4;
+  }
+  .bio p {
+    line-height: 1.7;
+    margin: 0 0 1rem;
+  }
+  .bio .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+    margin-top: 1rem;
+  }
+  .bio .links a {
+    text-decoration: none;
+    color: #0b6b8a;
+    border: 1px solid #d9e2ea;
+    border-radius: 999px;
+    padding: .26rem .7rem;
+    font-size: .86rem;
+  }
+  .bio .links a:hover {
+    background: #d9eef5;
+  }
+</style>
 
-Dr. Rajhans has a Ph.D. in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) from [Carnegie Mellon University](https://www.cmu.edu/) and an M.S. in [Electrical Engineering](https://www.ese.upenn.edu/) from the [University of Pennsylvania](https://www.ese.upenn.edu/). His background centers around [Technical Computing](https://www.mathworks.com/solutions/technical-computing.html) and [Model-Based Design](https://www.mathworks.com/solutions/model-based-design.html), often in the application context of intelligent [cyber-physical systems](http://www.mathworks.com/discovery/cyber-physical-systems.html) (CPS). 
+<div class="bio">
+  <h1>{{ profile.name }}</h1>
+  <p class="role">{{ profile.title }}, {{ profile.organization }}</p>
 
-Earlier in his career, Dr. Rajhans worked on development and application engineering of electronic control systems for diesel-engine applications at [Cummins](http://www.cummins.com/). As a research intern at [Bosch](http://www.bosch.us), he co-invented a model-based approach to non-intrusive load monitoring. 
+  {%- for para in profile.summary -%}
+  <p>{{ para }}</p>
+  {%- endfor -%}
 
-## More
-Curriculum Vitae \[[PDF](files/docs/AkshayRajhansCV.pdf)\] 
+  <div class="links">
+    <a href="/index.html">Home</a>
+    <a href="/experience.html">Experience</a>
+    <a href="/education.html">Education</a>
+    <a href="/teaching.html">Mentoring and Teaching</a>
+    <a href="/talks.html">Talks, Panels, and Tutorials</a>
+    <a href="/service-preview.html">Professional Service</a>
+    <a href="/societies.html">Professional Societies</a>
+    <a href="/publications-preview.html">Publications</a>
+    <a href="/files/docs/AkshayRajhansCV.pdf">Curriculum Vitae (PDF)</a>
+  </div>
+</div>

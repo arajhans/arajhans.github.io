@@ -1,0 +1,21 @@
+# Professional societies are small enough that a flat list is clearer than a
+# faceted taxonomy. These are memberships, not service roles.
+
+required: [id, organization, level, class_year, start, end, topics]
+
+entries:
+  - id: acm-senior-member
+    organization: Association for Computing Machinery (ACM)
+    level: Senior Member
+    class_year: 2019
+    start: 2019
+    end: ongoing
+    topics: [research-programs]
+
+  - id: ieee-senior-member
+    organization: Institute of Electrical and Electronics Engineers (IEEE)
+    level: Senior Member
+    class_year: 2019
+    start: 2019
+    end: ongoing
+    topics: [research-programs, control, real-time]

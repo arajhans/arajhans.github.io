@@ -1,0 +1,111 @@
+# Professional experience drawn from CV experience.tex.
+
+required: [id, category, organization, start, end, topics]
+
+categories:
+  - slug: industry
+    name: Industry Employment
+  - slug: academic
+    name: Academic Employment
+
+entries:
+  - id: mathworks
+    category: industry
+    organization: MathWorks
+    location: Natick, MA, USA
+    start: 2013
+    end: ongoing
+    topics: [research-programs, ai, formal-methods, cps, modeling-simulation]
+    roles:
+      - title: Head, Advanced Research and Technology Office
+        start: 2022
+        end: ongoing
+      - title: Founding Member, Advanced Research and Technology Office
+        start: 2016
+        end: ongoing
+      - title: Chief Research Scientist
+        start: 2022
+        end: ongoing
+      - title: Principal Research Scientist
+        start: 2018
+        end: ongoing
+      - title: Senior Research Scientist
+        start: 2016
+        end: 2018
+      - title: Senior Software Engineer
+        start: 2013
+        end: 2016
+    summary:
+      - Leads executive ownership of worldwide research and innovation programs including Research Summits, collaborative research, challenge projects, research intelligence, the patent program, invited talks, and generative AI adoption efforts in engineering.
+      - Serves as Chief Research Scientist with technical leadership across AI, formal methods, cyber-physical systems, modeling and simulation, and research community engagement.
+      - Earlier software engineering work focused on core Simulink semantics in C++ and MATLAB across Simulink, Stateflow, SimEvents, Simscape, code generation, and verification products.
+
+  - id: bosch
+    category: industry
+    organization: Bosch
+    location: Pittsburgh, PA, USA
+    start: 2009
+    end: 2009
+    topics: [cps, modeling-simulation]
+    roles:
+      - title: Research Intern
+        start: 2009
+        end: 2009
+    summary:
+      - Developed a model-based approach to non-intrusive load monitoring and became co-inventor on U.S. and international patents.
+
+  - id: cummins
+    category: industry
+    organization: Cummins
+    location: Pune, India
+    start: 2003
+    end: 2005
+    topics: [control, cps, real-time]
+    roles:
+      - title: Electronic Controls Application Engineering Manager for Industrial Business
+        start: 2005
+        end: 2005
+      - title: Operations Management Program participant in R&D and Engineering
+        start: 2003
+        end: 2005
+    summary:
+      - Held broad responsibility as one of only two electronic controls application engineering managers for industrial business across India.
+      - Received the VP of Engineering's Recognition Award for a test cell instrumentation modernization project.
+
+  - id: carnegie-mellon-university
+    category: academic
+    organization: Carnegie Mellon University
+    location: Pittsburgh, PA, USA
+    start: 2008
+    end: 2013
+    topics: [education, cps, formal-methods, control]
+    roles:
+      - title: Ph.D. Candidate in Electrical and Computer Engineering
+        start: 2008
+        end: 2013
+      - title: Teaching Assistant in Electrical and Computer Engineering
+        start: 2010
+        end: 2011
+    summary:
+      - Led a collaboration with Toyota on an NSF-funded research project.
+      - Authored 12 research publications, won a Best Paper Award, received a Communications of the ACM research highlight, and presented work to NSF, Toyota, and conference audiences.
+
+  - id: university-of-pennsylvania
+    category: academic
+    organization: University of Pennsylvania
+    location: Philadelphia, PA, USA
+    start: 2006
+    end: 2008
+    topics: [education, formal-methods, control]
+    roles:
+      - title: Research Staff
+        start: 2008
+        end: 2008
+      - title: M.S. Candidate in Electrical Engineering
+        start: 2006
+        end: 2007
+      - title: Teaching Assistant
+        start: 2006
+        end: 2008
+    summary:
+      - Developed a research software toolbox that later became the foundation for a subsequent Ph.D. thesis at Rensselaer Polytechnic Institute.
